@@ -1,0 +1,8 @@
+{"type":"fail","from":"2026-03-13T07:45:16.194Z","to":"2026-03-13T14:04:58.731Z","count":36,"url":"https://models.sjtu.edu.cn/api/v1","status":404,"error":"HTTP 404","avg_latency":875}
+{"type":"fail","from":"2026-03-13T14:15:11.959Z","to":"2026-03-13T14:15:11.959Z","count":1,"url":"https://models.sjtu.edu.cn/api/v1","status":null,"error":"fetch failed","avg_latency":321}
+{"type":"fail","from":"2026-03-13T14:25:19.431Z","to":"2026-03-13T21:03:55.379Z","count":41,"url":"https://models.sjtu.edu.cn/api/v1","status":404,"error":"HTTP 404","avg_latency":863}
+{"type":"ok","from":"2026-03-13T21:13:54.085Z","to":"2026-03-13T21:13:54.085Z","count":1,"url":"https://www.edu.cn","avg":1233,"min":1233,"max":1233,"p95":1233}
+{"type":"fail","from":"2026-03-13T21:23:56.645Z","to":"2026-03-13T22:04:13.280Z","count":5,"url":"https://www.edu.cn","status":403,"error":"HTTP 403","avg_latency":1061}
+{"type":"ok","from":"2026-03-13T22:13:59.926Z","to":"2026-03-13T22:13:59.926Z","count":1,"url":"https://www.edu.cn","avg":1237,"min":1237,"max":1237,"p95":1237}
+{"type":"fail","from":"2026-03-13T22:23:59.947Z","to":"2026-03-13T23:44:09.097Z","count":9,"url":"https://www.edu.cn","status":403,"error":"HTTP 403","avg_latency":1056}
+{"type":"ok","from":"2026-03-13T23:54:14.205Z","to":"2026-03-13T23:54:14.205Z","count":1,"url":"https://www.edu.cn","avg":1248,"min":1248,"max":1248,"p95":1248}

@@ -26,3 +26,11 @@
 {"type":"fail","from":"2026-03-10T14:13:43.364Z","to":"2026-03-10T14:13:43.364Z","count":1,"url":"https://newapi.medu.chat","status":429,"error":"HTTP 429","avg_latency":84}
 {"type":"ok","from":"2026-03-10T14:23:34.062Z","to":"2026-03-11T07:57:02.115Z","count":105,"url":"https://newapi.medu.chat","avg":164,"min":83,"max":408,"p95":239}
 {"type":"ok","from":"2026-03-11T08:04:27.012Z","to":"2026-03-12T07:54:28.130Z","count":140,"url":"https://newapi.medu.chat","avg":155,"min":80,"max":633,"p95":275}
+{"type":"ok","from":"2026-03-12T16:04:17.164Z","to":"2026-03-12T23:53:57.364Z","count":48,"url":"https://newapi.medu.chat","avg":168,"min":81,"max":763,"p95":422}
+{"type":"ok","from":"2026-03-13T00:03:47.993Z","to":"2026-03-13T06:04:17.701Z","count":36,"url":"https://newapi.medu.chat","avg":178,"min":81,"max":963,"p95":646}
+{"type":"fail","from":"2026-03-13T06:14:24.438Z","to":"2026-03-13T06:14:24.438Z","count":1,"url":"https://newapi.medu.chat","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-13T06:24:25.462Z","to":"2026-03-13T06:24:25.462Z","count":1,"url":"https://newapi.medu.chat","avg":1387,"min":1387,"max":1387,"p95":1387}
+{"type":"fail","from":"2026-03-13T06:34:26.745Z","to":"2026-03-13T06:34:26.745Z","count":1,"url":"https://newapi.medu.chat","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-13T06:44:13.368Z","to":"2026-03-13T07:44:40.131Z","count":7,"url":"https://newapi.medu.chat","avg":465,"min":89,"max":2209,"p95":2209}
+{"type":"fail","from":"2026-03-13T07:54:28.544Z","to":"2026-03-13T08:04:42.804Z","count":2,"url":"https://newapi.medu.chat","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-13T08:14:09.582Z","to":"2026-03-13T23:53:52.271Z","count":92,"url":"https://newapi.medu.chat","avg":152,"min":79,"max":497,"p95":314}

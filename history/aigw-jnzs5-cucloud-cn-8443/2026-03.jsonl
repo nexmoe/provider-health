@@ -1,0 +1,6 @@
+{"type":"fail","from":"2026-03-13T05:14:40.958Z","to":"2026-03-13T13:35:10.636Z","count":48,"url":"https://aigw-jnzs5.cucloud.cn:8443/v1","status":404,"error":"HTTP 404","avg_latency":1447}
+{"type":"fail","from":"2026-03-13T13:45:19.231Z","to":"2026-03-13T13:45:19.231Z","count":1,"url":"https://aigw-jnzs5.cucloud.cn:8443/v1","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-03-13T13:55:16.254Z","to":"2026-03-13T19:04:25.443Z","count":32,"url":"https://aigw-jnzs5.cucloud.cn:8443/v1","status":404,"error":"HTTP 404","avg_latency":1689}
+{"type":"ok","from":"2026-03-13T19:14:08.667Z","to":"2026-03-13T19:44:23.476Z","count":4,"url":"https://www.cucloud.cn","avg":777,"min":553,"max":949,"p95":949}
+{"type":"fail","from":"2026-03-13T19:54:02.772Z","to":"2026-03-13T19:54:02.772Z","count":1,"url":"https://www.cucloud.cn","status":null,"error":"fetch failed","avg_latency":844}
+{"type":"ok","from":"2026-03-13T20:04:02.950Z","to":"2026-03-13T23:54:13.496Z","count":24,"url":"https://www.cucloud.cn","avg":881,"min":539,"max":1440,"p95":1162}

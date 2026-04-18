@@ -49,3 +49,15 @@
 {"type":"fail","from":"2026-03-11T05:31:00.104Z","to":"2026-03-11T05:31:00.104Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"ok","from":"2026-03-11T05:40:56.927Z","to":"2026-03-11T07:51:02.208Z","count":14,"avg":1764,"min":975,"max":4227,"p95":4227}
 {"type":"ok","from":"2026-03-11T08:01:00.412Z","to":"2026-03-12T07:50:58.506Z","count":141,"avg":1383,"min":891,"max":3069,"p95":2097}
+{"type":"ok","from":"2026-03-12T16:00:58.025Z","to":"2026-03-12T16:00:58.025Z","count":1,"avg":1020,"min":1020,"max":1020,"p95":1020}
+{"type":"fail","from":"2026-03-12T16:11:03.393Z","to":"2026-03-12T16:11:03.393Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-12T16:20:59.303Z","to":"2026-03-12T22:10:58.259Z","count":36,"avg":1251,"min":915,"max":2563,"p95":2077}
+{"type":"fail","from":"2026-03-12T22:21:00.182Z","to":"2026-03-12T22:21:00.182Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-12T22:30:57.685Z","to":"2026-03-12T23:50:59.472Z","count":9,"avg":1012,"min":929,"max":1345,"p95":1345}
+{"type":"ok","from":"2026-03-13T00:00:59.313Z","to":"2026-03-13T07:40:58.036Z","count":47,"avg":1379,"min":626,"max":2209,"p95":2015}
+{"type":"fail","from":"2026-03-13T07:51:03.397Z","to":"2026-03-13T07:51:03.397Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-13T08:00:59.564Z","to":"2026-03-13T08:40:59.640Z","count":5,"avg":1197,"min":1028,"max":1707,"p95":1707}
+{"type":"fail","from":"2026-03-13T08:51:03.524Z","to":"2026-03-13T08:51:03.524Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-13T09:00:56.412Z","to":"2026-03-13T10:10:59.020Z","count":8,"avg":1537,"min":976,"max":2078,"p95":2078}
+{"type":"fail","from":"2026-03-13T10:21:03.149Z","to":"2026-03-13T10:21:03.149Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-13T10:30:59.050Z","to":"2026-03-13T23:50:54.773Z","count":80,"avg":1555,"min":896,"max":4563,"p95":3100}

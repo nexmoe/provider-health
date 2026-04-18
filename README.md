@@ -6,9 +6,9 @@ Healthchecks older than 35 days are moved out of the live database and archived 
 
 ## Status
 
-**523 providers** — 253 🟢 operational · 112 🟡 degraded · 158 🔴 down · 0 ⚫ unknown
+**512 providers** — 82 🟢 operational · 23 🟡 degraded · 75 🔴 down · 332 ⚫ unknown
 
-_Updated 2026-04-18 13:46 UTC. 7d/30d come from `provider_healthchecks`; 1y and all-time combine archived `history/` entries with unarchived rows in the live DB._
+_Updated 2026-04-18 13:55 UTC. 7d/30d come from `provider_healthchecks`; 1y and all-time combine archived `history/` entries with unarchived rows in the live DB._
 
 ## Metrics
 
@@ -20,552 +20,548 @@ _Updated 2026-04-18 13:46 UTC. 7d/30d come from `provider_healthchecks`; 1y and 
 - **Last incident** — timestamp of the most recent fail-run start. Quickly distinguishes "just broke" from "stable for a month".
 
 <details open>
-<summary><strong>🟢 Operational (253)</strong></summary>
+<summary><strong>🟢 Operational (82)</strong></summary>
 
 | Provider | 7d | 30d | 1y | All-time | p95 (7d) | Trend | Incidents (30d) | MTTR | Last incident | Last check |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| [GPT Load (PP.UA)](https://lmspeed.net/provider/20230621-pp-ua) | 100.00% | 99.95% | 90.03% | 90.03% | 1242 ms | ↓ 0.93x | 2 | 0s | 17d ago | 2d ago |
-| [API 额度共享平台](https://lmspeed.net/provider/2c2ch1u11-share-api-0-hf-space) | 100.00% | 99.88% | 60.18% | 60.18% | 1101 ms | ↓ 0.91x | 5 | 0s | 25d ago | 2d ago |
-| [共绩算力 (Qwen3-3207)](https://lmspeed.net/provider/550c-qwen3-3207) | 100.00% | 99.95% | 95.39% | 95.39% | 1407 ms | ↑ 1.09x | 2 | 0s | 10d ago | 2d ago |
-| [共绩算力 (Qwen3-5477-2)](https://lmspeed.net/provider/550c-qwen3-5477-2) | 100.00% | 99.98% | 95.01% | 95.01% | 856 ms | ↑ 1.16x | 1 | 0s | 10d ago | 2d ago |
-| [91VIP](https://lmspeed.net/provider/91vip-futureppo-top) | 100.00% | 99.60% | 97.88% | 97.88% | 1281 ms | ↓ 0.94x | 10 | 6m | 9d ago | 2d ago |
-| [97公益站 AI API Gateway](https://lmspeed.net/provider/97gongyizhan-ai-api-gateway) | 100.00% | 98.95% | 98.95% | 98.95% | 565 ms | → 0.98x | 23 | 7m | 10d ago | 2d ago |
-| [A3](https://lmspeed.net/provider/a3-awsl-app) | 100.00% | 99.98% | 98.55% | 98.55% | 474 ms | ↑ 1.31x | 1 | 0s | 18d ago | 2d ago |
-| [Zer0by](https://lmspeed.net/provider/ai-1seey-com) | 100.00% | 91.53% | 91.53% | 91.53% | 1052 ms | ↑ 1.07x | 1 | 18h 20m | 12d ago | 2d ago |
-| [ai.api.xn--fiqs8s](https://lmspeed.net/provider/ai-api-xn-fiqs8s) | 100.00% | 99.95% | 90.41% | 90.41% | 1000 ms | ↑ 2.36x | 2 | 0s | 15d ago | 2d ago |
-| [E-larex's AI Proxy](https://lmspeed.net/provider/ai-e-larex-com) | 100.00% | 95.91% | 95.91% | 95.91% | 1033 ms | → 0.96x | 3 | 4h 13m | 9d ago | 2d ago |
-| [AI Platform](https://lmspeed.net/provider/ai-platform-danke666-top) | 100.00% | 97.66% | 99.40% | 99.40% | 647 ms | ↓ 0.67x | 79 | 2m | 9d ago | 2d ago |
-| [PrismAI](https://lmspeed.net/provider/ai-prism-uno) | 100.00% | 99.88% | 98.61% | 98.61% | 744 ms | ↓ 0.78x | 4 | 3m | 10d ago | 2d ago |
-| [AICNN](https://lmspeed.net/provider/aicnn) | 100.00% | 99.63% | 99.79% | 99.79% | 1880 ms | ↓ 0.72x | 15 | 0s | 9d ago | 2d ago |
-| [Immersive Translate](https://lmspeed.net/provider/aigw1-immersivetranslate-com) | 100.00% | 97.51% | 37.04% | 37.04% | 474 ms | ↓ 0.92x | 4 | 3h 47m | 13d ago | 2d ago |
-| [AIHubMix](https://lmspeed.net/provider/aihubmix-com) | 100.00% | 99.98% | 99.98% | 99.98% | 737 ms | ↓ 0.89x | 1 | 0s | 29d ago | 2d ago |
-| [Akemidia MUA (HF Space)](https://lmspeed.net/provider/akemidia-mua-hf) | 100.00% | 99.88% | 99.97% | 99.97% | 102 ms | ↓ 0.22x | 5 | 0s | 12d ago | 2d ago |
-| [Any Router](https://lmspeed.net/provider/anyrouter-top) | 100.00% | 99.83% | 99.83% | 99.83% | 502 ms | ↓ 0.70x | 5 | 0s | 10d ago | 2d ago |
-| [Puzhehei](https://lmspeed.net/provider/api) | 100.00% | 99.23% | 92.18% | 92.18% | 507 ms | ↓ 0.42x | 31 | 0s | 10d ago | 2d ago |
-| [Spaceship](https://lmspeed.net/provider/api-102298-xyz) | 100.00% | 96.81% | 96.81% | 96.81% | 969 ms | → 0.99x | 3 | 1h 20m | 7d ago | 2d ago |
-| [Sub2API](https://lmspeed.net/provider/api-243706-xyz) | 100.00% | 100.00% | 100.00% | 100.00% | 609 ms | → 1.00x | 0 | — | — | 2d ago |
-| [AI5](https://lmspeed.net/provider/api-ai5-my) | 100.00% | 99.96% | 99.96% | 99.96% | 803 ms | ↑ 1.55x | 1 | 0s | 14d ago | 2d ago |
-| [Anannas](https://lmspeed.net/provider/api-anannas-ai) | 100.00% | 46.26% | 11.76% | 11.76% | 975 ms | ↓ 0.49x | 2 | 7d 12h | 15d ago | 2d ago |
-| [Cerebras](https://lmspeed.net/provider/api-cerebras-ai) | 100.00% | 100.00% | 99.98% | 99.98% | 988 ms | → 0.98x | 0 | — | — | 2d ago |
-| [F2API](https://lmspeed.net/provider/api-f2api-com) | 100.00% | 99.95% | 94.00% | 94.00% | 543 ms | ↑ 1.15x | 2 | 0s | 17d ago | 2d ago |
-| [S.A.](https://lmspeed.net/provider/api-komeiji-shiki-top) | 100.00% | 99.33% | 97.94% | 97.94% | 884 ms | ↓ 0.92x | 25 | 49s | 9d ago | 2d ago |
-| [Kriora](https://lmspeed.net/provider/api-kriora-com) | 100.00% | 99.93% | 98.57% | 98.57% | 573 ms | ↑ 1.10x | 3 | 0s | 10d ago | 2d ago |
-| [乐天图书馆](https://lmspeed.net/provider/api-lotte-library-top) | 100.00% | 99.30% | 74.41% | 74.41% | 573 ms | ↓ 0.87x | 18 | 6m | 10d ago | 2d ago |
-| [wuer的api站](https://lmspeed.net/provider/api-minewuer-top) | 100.00% | 99.60% | 70.59% | 70.59% | 1689 ms | → 0.99x | 15 | 40s | 9d ago | 2d ago |
-| [MMKG](https://lmspeed.net/provider/api-mmkg-cloud) | 100.00% | 96.62% | 96.62% | 96.62% | 1423 ms | ↑ 1.05x | 4 | 3h 20m | 13d ago | 2d ago |
-| [NUWA](https://lmspeed.net/provider/api-nuwaapi-com) | 100.00% | 95.31% | 95.31% | 95.31% | 1064 ms | ↑ 1.17x | 1 | 12h 29m | 14d ago | 2d ago |
-| [OfoxAI](https://lmspeed.net/provider/api-ofox-ai) | 100.00% | 99.95% | 99.95% | 99.95% | 270 ms | ↑ 1.19x | 2 | 0s | 16d ago | 2d ago |
-| [SwifllyLLM](https://lmspeed.net/provider/api-swiflly-com) | 100.00% | 99.93% | 64.90% | 64.90% | 922 ms | ↑ 1.08x | 3 | 0s | 10d ago | 2d ago |
-| [uglycat](https://lmspeed.net/provider/api-uglycat-cc) | 100.00% | 98.05% | 96.55% | 96.55% | 701 ms | ↓ 0.62x | 12 | 55m | 9d ago | 2d ago |
-| [Venlacy](https://lmspeed.net/provider/api-venlacy-top) | 100.00% | 98.60% | 35.01% | 35.01% | 456 ms | ↓ 0.75x | 50 | 1m | 9d ago | 2d ago |
-| [Yun API](https://lmspeed.net/provider/api-zyai-online) | 100.00% | 99.80% | 46.31% | 46.31% | 1719 ms | → 1.02x | 8 | 0s | 11d ago | 2d ago |
-| [APIPool](https://lmspeed.net/provider/apipool) | 100.00% | 99.82% | 99.82% | 99.82% | 513 ms | → 1.02x | 5 | 0s | 10d ago | 2d ago |
-| [AZ Rix](https://lmspeed.net/provider/az-rix) | 100.00% | 99.98% | 99.69% | 99.69% | 955 ms | ↓ 0.91x | 1 | 0s | 24d ago | 2d ago |
-| [binaryYuki](https://lmspeed.net/provider/binaryyuki) | 100.00% | 99.83% | 99.94% | 99.94% | 873 ms | ↑ 1.26x | 7 | 0s | 10d ago | 2d ago |
-| [头顶冒火](https://lmspeed.net/provider/burn-hair) | 100.00% | 100.00% | 99.94% | 99.94% | 1011 ms | ↑ 1.06x | 0 | — | — | 2d ago |
-| [BytesBoost](https://lmspeed.net/provider/bytesboost) | 100.00% | 99.73% | 99.92% | 99.92% | 1309 ms | ↑ 1.47x | 11 | 0s | 9d ago | 2d ago |
-| [ChatAnywhere](https://lmspeed.net/provider/chatanywhere) | 100.00% | 99.88% | 99.96% | 99.96% | 726 ms | → 0.96x | 5 | 0s | 9d ago | 2d ago |
-| [Chutes](https://lmspeed.net/provider/chutes) | 100.00% | 98.93% | 99.57% | 99.57% | 759 ms | ↓ 0.83x | 40 | 45s | 9d ago | 2d ago |
-| [MIXAPI-3.3](https://lmspeed.net/provider/ck67-top) | 100.00% | 99.40% | 83.37% | 83.37% | 705 ms | → 1.00x | 24 | 0s | 10d ago | 2d ago |
-| [CloseAI Asia Proxy](https://lmspeed.net/provider/closeai-asia-proxy) | 100.00% | 100.00% | 100.00% | 100.00% | 327 ms | → 1.00x | 0 | — | — | 2d ago |
-| [Codex API](https://lmspeed.net/provider/codex-ai02-cn) | 100.00% | 100.00% | 100.00% | 100.00% | 336 ms | → 0.96x | 0 | — | — | 2d ago |
-| [PackyAPI](https://lmspeed.net/provider/codex-api-packycode-com) | 100.00% | 99.73% | 98.77% | 98.77% | 614 ms | → 0.98x | 4 | 18m | 16d ago | 2d ago |
-| [CPAPI EU (2)](https://lmspeed.net/provider/cpapi-eu-2) | 100.00% | 96.78% | 98.78% | 98.78% | 962 ms | ↑ 1.16x | 67 | 9m | 12d ago | 2d ago |
-| [共绩算力](https://lmspeed.net/provider/d06050025-qwen330b-a3b-1789-zqcxzjgo-11434-550c-cloud) | 100.00% | 100.00% | 100.00% | 100.00% | 1488 ms | → 1.00x | 0 | — | — | 2d ago |
-| [共绩算力](https://lmspeed.net/provider/d07171426-qwen330b-a3b-2824-mpd4ztzm-11434-550c-cloud) | 100.00% | 100.00% | 100.00% | 100.00% | 1895 ms | → 1.00x | 0 | — | — | 2d ago |
-| [DeepSeek](https://lmspeed.net/provider/deepseek) | 100.00% | 99.98% | 99.99% | 99.99% | 523 ms | ↓ 0.90x | 1 | 0s | 16d ago | 2d ago |
-| [VoAPI公益站](https://lmspeed.net/provider/demo-voapi-top) | 100.00% | 98.86% | 98.86% | 98.86% | 1158 ms | ↑ 1.06x | 25 | 2m | 7d ago | 2d ago |
-| [Deno Deploy Proxy](https://lmspeed.net/provider/deno-deploy-proxy) | 100.00% | 99.98% | 99.92% | 99.92% | 678 ms | ↑ 1.14x | 1 | 0s | 12d ago | 2d ago |
-| [帆软](https://lmspeed.net/provider/fanruan) | 100.00% | 99.88% | 99.92% | 99.92% | 1243 ms | ↓ 0.65x | 5 | 0s | 9d ago | 2d ago |
-| [52公益站](https://lmspeed.net/provider/free-9e-nz) | 100.00% | 99.30% | 99.30% | 99.30% | 514 ms | ↓ 0.81x | 14 | 10m | 11d ago | 2d ago |
-| [free_chatgpt_api](https://lmspeed.net/provider/free-chatgpt-api) | 100.00% | 99.93% | 99.90% | 99.90% | 1345 ms | ↑ 1.25x | 3 | 0s | 7d ago | 2d ago |
-| [Futureppo](https://lmspeed.net/provider/futureppo-fuck-me) | 100.00% | 99.48% | 97.99% | 97.99% | 880 ms | → 1.04x | 13 | 6m | 10d ago | 2d ago |
-| [GPT Load (0fee)](https://lmspeed.net/provider/gpt-load) | 100.00% | 99.93% | 89.89% | 89.89% | 701 ms | ↑ 1.87x | 3 | 0s | 10d ago | 2d ago |
-| [GPT Load (Shiho)](https://lmspeed.net/provider/gpt-load-shiho-top) | 100.00% | 98.21% | 99.51% | 99.51% | 505 ms | ↓ 0.59x | 60 | 2m | 9d ago | 2d ago |
-| [GPTs API](https://lmspeed.net/provider/gptsapi) | 100.00% | 99.98% | 99.97% | 99.97% | 628 ms | → 0.98x | 1 | 0s | 29d ago | 2d ago |
-| [Groq](https://lmspeed.net/provider/groq) | 100.00% | 99.98% | 99.99% | 99.99% | 222 ms | ↓ 0.52x | 1 | 0s | 13d ago | 2d ago |
-| [GRSAI API](https://lmspeed.net/provider/grsai-api) | 100.00% | 99.88% | 39.62% | 39.62% | 571 ms | ↑ 1.09x | 2 | 15m | 14d ago | 2d ago |
-| [Hajimi API](https://lmspeed.net/provider/hajimi) | 100.00% | 99.90% | 84.63% | 84.63% | 1335 ms | ↑ 1.47x | 4 | 0s | 14d ago | 2d ago |
-| [Huawei Cloud](https://lmspeed.net/provider/huawei-modelarts) | 100.00% | 100.00% | 100.00% | 100.00% | 361 ms | → 1.01x | 0 | — | — | 2d ago |
-| [DNSHE](https://lmspeed.net/provider/imsnake-dart-us-ci) | 100.00% | 100.00% | 89.73% | 89.73% | 347 ms | ↓ 0.73x | 0 | — | — | 2d ago |
-| [Infini AI](https://lmspeed.net/provider/infini-ai) | 100.00% | 99.93% | 99.73% | 99.73% | 2060 ms | ↑ 1.12x | 3 | 0s | 7d ago | 2d ago |
-| [IXIOCCAPI](https://lmspeed.net/provider/ixioccapi) | 100.00% | 99.75% | 86.45% | 86.45% | 482 ms | ↓ 0.79x | 9 | 1m | 8d ago | 2d ago |
-| [KFCV50](https://lmspeed.net/provider/kfcv50) | 100.00% | 100.00% | 99.92% | 99.92% | 1046 ms | ↑ 1.23x | 0 | — | — | 2d ago |
-| [Kilo](https://lmspeed.net/provider/kilo-ai) | 100.00% | 97.60% | 97.60% | 97.60% | 638 ms | → 1.02x | 1 | 13h 39m | 27d ago | 2d ago |
-| [llm-2-api](https://lmspeed.net/provider/llm-2-api-com) | 100.00% | 100.00% | 100.00% | 100.00% | 613 ms | → 1.00x | 0 | — | — | 2d ago |
-| [GankInterview LLM](https://lmspeed.net/provider/llm-gankinterview-com) | 100.00% | 94.47% | 94.47% | 94.47% | 969 ms | ↓ 0.89x | 2 | 6h 40m | 10d ago | 2d ago |
-| [LMProxy](https://lmspeed.net/provider/lmproxy) | 100.00% | 99.95% | 56.90% | 56.90% | 506 ms | ↓ 0.75x | 2 | 0s | 11d ago | 2d ago |
-| [美团团 API](https://lmspeed.net/provider/max-openai365-top) | 100.00% | 99.73% | 70.83% | 70.83% | 1035 ms | ↑ 1.13x | 10 | 57s | 10d ago | 2d ago |
-| [Meta API](https://lmspeed.net/provider/meta-api) | 100.00% | 99.75% | 99.78% | 99.78% | 1244 ms | → 0.97x | 8 | 2m | 23d ago | 2d ago |
-| [钠 API](https://lmspeed.net/provider/naapi-cc) | 100.00% | 99.80% | 98.98% | 98.98% | 1171 ms | → 1.01x | 8 | 0s | 16d ago | 2d ago |
-| [NanoGPT](https://lmspeed.net/provider/nano-gpt-com) | 100.00% | 99.98% | 55.14% | 55.14% | 1232 ms | ↑ 1.48x | 1 | 0s | 20d ago | 2d ago |
-| [华际 API](https://lmspeed.net/provider/new-api-4) | 100.00% | 99.75% | 99.61% | 99.61% | 989 ms | → 0.99x | 10 | 0s | 10d ago | 2d ago |
-| [Lido LLM](https://lmspeed.net/provider/new-api-shiho-top) | 100.00% | 97.39% | 99.30% | 99.30% | 753 ms | ↓ 0.77x | 79 | 3m | 9d ago | 2d ago |
-| [TommyLam API](https://lmspeed.net/provider/new-api-tommylam-me) | 100.00% | 99.98% | 44.14% | 44.14% | 321 ms | ↑ 1.15x | 1 | 0s | 16d ago | 2d ago |
-| [小天公益站](https://lmspeed.net/provider/new-api-xt-url-com) | 100.00% | 98.60% | 97.52% | 97.52% | 919 ms | ↓ 0.74x | 5 | 1h 42m | 13d ago | 2d ago |
-| [Newagiai](https://lmspeed.net/provider/newagiai) | 100.00% | 99.90% | 99.69% | 99.69% | 1200 ms | → 1.03x | 3 | 3m | 10d ago | 2d ago |
-| [Novita AI](https://lmspeed.net/provider/novita-ai) | 100.00% | 99.90% | 99.91% | 99.91% | 1050 ms | ↓ 0.94x | 4 | 0s | 12d ago | 2d ago |
-| [NVIDIA NIM](https://lmspeed.net/provider/nvidia-nim) | 100.00% | 99.90% | 99.97% | 99.97% | 1194 ms | → 0.99x | 4 | 0s | 9d ago | 2d ago |
-| [OAPI UK](https://lmspeed.net/provider/oapi-uk) | 100.00% | 99.95% | 99.96% | 99.96% | 511 ms | ↑ 1.23x | 2 | 0s | 16d ago | 2d ago |
-| [Ollama](https://lmspeed.net/provider/ollama-com) | 100.00% | 82.65% | 82.65% | 82.65% | 918 ms | ↓ 0.87x | 1 | 4d 4h | 27d ago | 2d ago |
-| [共绩算力](https://lmspeed.net/provider/ollama-webuiv20250524193100-25-285-arwlq2xd-11434-550c-cloud) | 100.00% | 100.00% | 100.00% | 100.00% | 1778 ms | → 1.00x | 0 | — | — | 2d ago |
-| [OminiGen](https://lmspeed.net/provider/ominigen) | 100.00% | 99.57% | 99.57% | 99.57% | 570 ms | ↓ 0.66x | 5 | 4m | 10d ago | 2d ago |
-| [CookingAI](https://lmspeed.net/provider/oneapi-gemiaude-com) | 100.00% | 100.00% | 79.03% | 79.03% | 507 ms | → 0.97x | 0 | — | — | 2d ago |
-| [AI Tools](https://lmspeed.net/provider/platform-aitools-cfd) | 100.00% | 100.00% | 99.99% | 99.99% | 418 ms | → 1.02x | 0 | — | — | 2d ago |
-| [Yuen Sze Hong](https://lmspeed.net/provider/poe-yuen-network-top) | 100.00% | 98.46% | 98.67% | 98.67% | 506 ms | ↓ 0.65x | 49 | 3m | 9d ago | 2d ago |
-| [Isley](https://lmspeed.net/provider/proxy-isley-org) | 100.00% | 100.00% | 47.52% | 47.52% | 699 ms | ↑ 1.21x | 0 | — | — | 2d ago |
-| [Qwen](https://lmspeed.net/provider/qwen-chat-aigpu-cn) | 100.00% | 99.13% | 56.97% | 56.97% | 910 ms | ↓ 0.71x | 31 | 1m | 9d ago | 2d ago |
-| [共绩算力](https://lmspeed.net/provider/qwen3-30b-a3b-285-rzex8cnu-11434-550c-cloud) | 100.00% | 100.00% | 100.00% | 100.00% | 325 ms | → 1.00x | 0 | — | — | 2d ago |
-| [共绩算力](https://lmspeed.net/provider/qwen3-vllm-4b-285-vbscdjm7-8000-550c-cloud) | 100.00% | 100.00% | 100.00% | 100.00% | 1429 ms | → 1.00x | 0 | — | — | 2d ago |
-| [共绩算力](https://lmspeed.net/provider/qwen330b-a3b-2505251145-182-mupthhed-11434-550c-cloud) | 100.00% | 100.00% | 100.00% | 100.00% | 324 ms | → 1.00x | 0 | — | — | 2d ago |
-| [共绩算力](https://lmspeed.net/provider/qwen330b-a3b-2505261820-617-uo2qwpwi-11434-550c-cloud) | 100.00% | 100.00% | 100.00% | 100.00% | 1774 ms | → 1.00x | 0 | — | — | 2d ago |
-| [RinkoAI](https://lmspeed.net/provider/rinkoai-com) | 100.00% | 99.93% | 98.87% | 98.87% | 631 ms | → 0.97x | 3 | 0s | 10d ago | 2d ago |
-| [SanShui API](https://lmspeed.net/provider/sanshui-api) | 100.00% | 98.29% | 99.53% | 99.53% | 1335 ms | → 1.04x | 57 | 2m | 9d ago | 2d ago |
-| [Sisuo New API](https://lmspeed.net/provider/sisuo-new-api) | 100.00% | 100.00% | 100.00% | 100.00% | 823 ms | → 1.00x | 0 | — | — | 2d ago |
-| [Catiecli](https://lmspeed.net/provider/skyag-xiamu-asia) | 100.00% | 99.98% | 99.99% | 99.99% | 1462 ms | ↑ 1.26x | 1 | 0s | 15d ago | 2d ago |
-| [Supabase AI Proxy](https://lmspeed.net/provider/supabase-ai-proxy) | 100.00% | 95.32% | 95.32% | 95.32% | 485 ms | ↓ 0.62x | 1 | 15h 29m | 15d ago | 2d ago |
-| [MKE AI](https://lmspeed.net/provider/tb-api-mkeai-com) | 100.00% | 100.00% | 99.32% | 99.32% | 392 ms | → 0.99x | 0 | — | — | 2d ago |
-| [无限AI](https://lmspeed.net/provider/tokenwuxian-top) | 100.00% | 95.96% | 79.65% | 79.65% | 462 ms | ↓ 0.80x | 30 | 42m | 9d ago | 2d ago |
-| [UniAPI](https://lmspeed.net/provider/uniai) | 100.00% | 99.13% | 99.75% | 99.75% | 1214 ms | ↓ 0.66x | 35 | 0s | 9d ago | 2d ago |
-| [Vercel AI Gateway](https://lmspeed.net/provider/vercel-ai-gateway) | 100.00% | 51.04% | 49.32% | 49.32% | 717 ms | ↑ 1.22x | 1 | 13d 14h | 30d ago | 2d ago |
-| [火山引擎 Ark](https://lmspeed.net/provider/volcengine-ark) | 100.00% | 18.86% | 4.80% | 4.80% | 1309 ms | ↓ 0.92x | 1 | 22d 17h | 30d ago | 2d ago |
-| [VSLLM](https://lmspeed.net/provider/vsllm-com) | 100.00% | 99.65% | 98.14% | 98.14% | 1451 ms | ↓ 0.88x | 14 | 0s | 9d ago | 2d ago |
-| [Codex Easy](https://lmspeed.net/provider/www-codexeasy-com) | 100.00% | 99.78% | 99.78% | 99.78% | 956 ms | ↑ 1.60x | 5 | 2m | 16d ago | 2d ago |
-| [Fucheers](https://lmspeed.net/provider/www-fucheers-top) | 100.00% | 99.83% | 97.80% | 97.80% | 564 ms | ↑ 1.27x | 6 | 2m | 10d ago | 2d ago |
-| [OhMyGPT](https://lmspeed.net/provider/www-ohmygpt-com) | 100.00% | 99.90% | 99.93% | 99.93% | 1167 ms | ↓ 0.67x | 4 | 0s | 10d ago | 2d ago |
-| [X666 API](https://lmspeed.net/provider/x666-me) | 100.00% | 99.70% | 99.84% | 99.84% | 490 ms | → 1.01x | 6 | 10m | 11d ago | 2d ago |
-| [XiaMiAPI](https://lmspeed.net/provider/xiamiapi-xyz) | 100.00% | 88.51% | 88.51% | 88.51% | 1087 ms | ↓ 0.93x | 1 | 1d 1h | 12d ago | 2d ago |
-| [小爱AI](https://lmspeed.net/provider/xiaoai-plus) | 100.00% | 99.68% | 99.83% | 99.83% | 1093 ms | → 0.99x | 9 | 4m | 8d ago | 2d ago |
-| [Yuegle](https://lmspeed.net/provider/yuegle) | 100.00% | 99.98% | 99.97% | 99.97% | 921 ms | ↓ 0.91x | 1 | 0s | 24d ago | 2d ago |
-| [小辣椒](https://lmspeed.net/provider/yyds-215-im) | 100.00% | 94.67% | 94.67% | 94.67% | 662 ms | ↓ 0.63x | 1 | 12h 20m | 12d ago | 2d ago |
-| [ZetaTechs API](https://lmspeed.net/provider/zetatechs-api) | 100.00% | 99.88% | 98.94% | 98.94% | 772 ms | → 1.02x | 2 | 15m | 15d ago | 2d ago |
-| [智谱 AI](https://lmspeed.net/provider/zhipu-ai) | 100.00% | 99.98% | 99.99% | 99.99% | 532 ms | → 1.04x | 1 | 0s | 9d ago | 2d ago |
-| [Hornsun](https://lmspeed.net/provider/hornsun) | 99.86% | 99.83% | 99.78% | 99.78% | 2045 ms | → 0.99x | 7 | 0s | 6d ago | 2d ago |
-| [讯飞星火](https://lmspeed.net/provider/iflytek-spark) | 99.86% | 99.87% | 99.87% | 99.87% | 648 ms | → 0.99x | 1 | 0s | 7d ago | 2d ago |
-| [Tencent](https://lmspeed.net/provider/tencent) | 99.86% | 99.95% | 99.99% | 99.99% | 571 ms | ↓ 0.86x | 2 | 0s | 4d ago | 2d ago |
-| [DeerAPI](https://lmspeed.net/provider/deerapi) | 99.86% | 99.93% | 99.80% | 99.80% | 668 ms | → 1.02x | 3 | 0s | 6d ago | 2d ago |
-| [ePhone AI](https://lmspeed.net/provider/ephone-ai-2) | 99.86% | 99.80% | 99.74% | 99.74% | 866 ms | ↓ 0.85x | 8 | 0s | 4d ago | 2d ago |
-| [毫秒API](https://lmspeed.net/provider/haomiao-api) | 99.86% | 99.30% | 99.53% | 99.53% | 1065 ms | → 0.96x | 24 | 2m | 4d ago | 2d ago |
-| [KKSJ-AI](https://lmspeed.net/provider/kksj-ai) | 99.86% | 99.98% | 99.91% | 99.91% | 766 ms | → 1.04x | 1 | 0s | 5d ago | 2d ago |
-| [SUFY](https://lmspeed.net/provider/sufy) | 99.86% | 98.96% | 99.48% | 99.48% | 679 ms | ↓ 0.78x | 32 | 3m | 3d ago | 2d ago |
-| [UnifyLLM](https://lmspeed.net/provider/unifyllm) | 99.86% | 98.11% | 99.37% | 99.37% | 809 ms | ↓ 0.85x | 60 | 3m | 5d ago | 2d ago |
-| [Midjourney API](https://lmspeed.net/provider/midjourney-api) | 99.86% | 99.93% | 99.65% | 99.65% | 819 ms | ↑ 1.14x | 3 | 0s | 6d ago | 2d ago |
-| [1984](https://lmspeed.net/provider/1984-hosting) | 99.86% | 99.55% | 99.18% | 99.18% | 1566 ms | → 0.96x | 15 | 2m | 3d ago | 2d ago |
-| [DuckDuck API](https://lmspeed.net/provider/duckduck-api) | 99.86% | 99.78% | 99.80% | 99.80% | 860 ms | → 1.04x | 8 | 1m | 4d ago | 2d ago |
-| [Gpt API](https://lmspeed.net/provider/gpt-api) | 99.86% | 99.95% | 99.93% | 99.93% | 1470 ms | ↑ 1.21x | 2 | 0s | 5d ago | 2d ago |
-| [天絮 API](https://lmspeed.net/provider/tianxu-api) | 99.86% | 96.40% | 96.08% | 96.08% | 1610 ms | → 1.05x | 52 | 18m | 5d ago | 2d ago |
-| [小波 API](https://lmspeed.net/provider/xiaobo-api) | 99.86% | 99.88% | 99.93% | 99.93% | 499 ms | ↑ 1.66x | 5 | 0s | 4d ago | 2d ago |
-| [352287 API](https://lmspeed.net/provider/352287-api) | 99.86% | 99.98% | 96.79% | 96.79% | 1572 ms | ↓ 0.95x | 1 | 0s | 6d ago | 2d ago |
-| [OpenRouter](https://lmspeed.net/provider/openrouter) | 99.86% | 99.95% | 99.97% | 99.97% | 1094 ms | → 0.99x | 2 | 0s | 4d ago | 2d ago |
-| [LLM.PM](https://lmspeed.net/provider/llm-pm) | 99.86% | 99.28% | 32.64% | 32.64% | 1258 ms | ↓ 0.87x | 17 | 7m | 3d ago | 2d ago |
-| [Marswjf API](https://lmspeed.net/provider/marswjf-api) | 99.86% | 98.46% | 98.27% | 98.27% | 1778 ms | ↓ 0.86x | 60 | 20s | 5d ago | 2d ago |
-| [SophNet](https://lmspeed.net/provider/www-sophnet-com) | 99.86% | 99.85% | 99.91% | 99.91% | 1239 ms | → 1.00x | 6 | 0s | 2d ago | 2d ago |
-| [Your API](https://lmspeed.net/provider/yunrapi.cn) | 99.86% | 99.95% | 99.91% | 99.91% | 671 ms | ↓ 0.94x | 2 | 0s | 3d ago | 2d ago |
-| [Gue API](https://lmspeed.net/provider/api-gueai-com) | 99.86% | 95.64% | 96.82% | 96.82% | 977 ms | ↓ 0.84x | 7 | 3h 60m | 3d ago | 2d ago |
-| [123NHH API](https://lmspeed.net/provider/new-123nhh-xyz) | 99.86% | 99.90% | 49.32% | 49.32% | 1214 ms | ↓ 0.92x | 4 | 0s | 3d ago | 2d ago |
-| [Wahoo AI](https://lmspeed.net/provider/api-wahooai-com) | 99.86% | 99.95% | 30.45% | 30.45% | 2153 ms | ↑ 1.05x | 2 | 0s | 3d ago | 2d ago |
-| [Kouri Ai](https://lmspeed.net/provider/api-kourichat-com) | 99.86% | 96.94% | 96.42% | 96.42% | 1936 ms | ↓ 0.93x | 91 | 4m | 7d ago | 2d ago |
-| [Undy API](https://lmspeed.net/provider/vip-undyingapi-com) | 99.86% | 99.88% | 99.86% | 99.86% | 1252 ms | ↑ 1.32x | 5 | 0s | 5d ago | 2d ago |
-| [共绩算力 (DeepTranslate)](https://lmspeed.net/provider/550c-deeptranslate-2) | 99.86% | 99.90% | 90.37% | 90.37% | 1359 ms | ↓ 0.58x | 4 | 0s | 3d ago | 2d ago |
-| [共绩算力 (Ollama)](https://lmspeed.net/provider/550c-ollama) | 99.86% | 99.93% | 95.23% | 95.23% | 2835 ms | ↑ 1.39x | 3 | 0s | 3d ago | 2d ago |
-| [共绩算力 (Qwen3-2)](https://lmspeed.net/provider/550c-qwen3-2) | 99.86% | 99.98% | 94.66% | 94.66% | 1611 ms | ↑ 1.53x | 1 | 0s | 7d ago | 2d ago |
-| [一叶知秋API](https://lmspeed.net/provider/88996-cloud) | 99.86% | 92.87% | 97.40% | 97.40% | 2440 ms | → 0.96x | 15 | 3h 1m | 6d ago | 2d ago |
-| [AI Wave](https://lmspeed.net/provider/api-ai-wave-org) | 99.86% | 99.90% | 99.84% | 99.84% | 2144 ms | ↑ 1.14x | 4 | 0s | 2d ago | 2d ago |
-| [Zhongzhuan Chat](https://lmspeed.net/provider/api-zhongzhuan-chat) | 99.86% | 99.98% | 99.71% | 99.71% | 763 ms | → 1.02x | 1 | 0s | 3d ago | 2d ago |
-| [Mistral AI](https://lmspeed.net/provider/mistral-ai-api) | 99.86% | 99.78% | 99.85% | 99.85% | 1178 ms | ↑ 1.06x | 8 | 1m | 7d ago | 2d ago |
-| [云AI](https://lmspeed.net/provider/new-yunai-link) | 99.86% | 99.05% | 99.07% | 99.07% | 665 ms | ↓ 0.65x | 36 | 33s | 7d ago | 2d ago |
-| [MAMMOUTH API](https://lmspeed.net/provider/api-mammouth-ai) | 99.86% | 99.65% | 52.98% | 52.98% | 1092 ms | → 0.96x | 12 | 2m | 2d ago | 2d ago |
-| [N1N](https://lmspeed.net/provider/api-n1n-ai) | 99.86% | 99.80% | 90.58% | 90.58% | 796 ms | → 0.96x | 8 | 0s | 7d ago | 2d ago |
-| [钱多多 API](https://lmspeed.net/provider/api2-aigcbest-top) | 99.86% | 99.35% | 50.67% | 50.67% | 793 ms | ↓ 0.92x | 18 | 4m | 3d ago | 2d ago |
-| [Seamee API](https://lmspeed.net/provider/napi-seaya-link) | 99.86% | 98.40% | 95.49% | 95.49% | 783 ms | ↓ 0.57x | 45 | 4m | 5d ago | 2d ago |
-| [ngrok Proxy (e9ea)](https://lmspeed.net/provider/ngrok-e9ea) | 99.86% | 99.90% | 99.77% | 99.77% | 714 ms | ↑ 1.16x | 3 | 3m | 3d ago | 2d ago |
-| [Ngrok Proxy](https://lmspeed.net/provider/ngrok-proxy) | 99.86% | 99.88% | 99.77% | 99.77% | 704 ms | → 1.05x | 4 | 3m | 2d ago | 2d ago |
-| [OpenCode](https://lmspeed.net/provider/opencode-ai) | 99.86% | 19.22% | 4.89% | 4.89% | 1689 ms | ↑ 1.14x | 2 | 11d 6h | 4d ago | 2d ago |
-| [Right Code](https://lmspeed.net/provider/right-codes) | 99.86% | 99.73% | 40.43% | 40.43% | 455 ms | → 0.97x | 11 | 0s | 5d ago | 2d ago |
-| [ZenMux](https://lmspeed.net/provider/zenmux-ai) | 99.86% | 99.93% | 99.80% | 99.80% | 374 ms | → 0.96x | 3 | 0s | 3d ago | 2d ago |
-| [Medu Chat](https://lmspeed.net/provider/newapi-medu-chat) | 99.86% | 99.55% | 69.98% | 69.98% | 447 ms | → 1.00x | 11 | 6m | 5d ago | 2d ago |
-| [10dian-API](https://lmspeed.net/provider/api-10dian-ai-top) | 99.86% | 94.21% | 67.22% | 67.22% | 1287 ms | ↓ 0.81x | 28 | 1h 13m | 3d ago | 2d ago |
-| [艾可API](https://lmspeed.net/provider/aicanapi-com) | 99.86% | 99.85% | 72.52% | 72.52% | 1192 ms | ↓ 0.82x | 6 | 0s | 3d ago | 2d ago |
-| [爱次元API](https://lmspeed.net/provider/aicy-pro) | 99.86% | 96.98% | 95.86% | 95.86% | 741 ms | ↓ 0.95x | 29 | 32m | 4d ago | 2d ago |
-| [数标标API-FS](https://lmspeed.net/provider/apifs-shubiaobiao-cn) | 99.86% | 99.53% | 84.32% | 84.32% | 1886 ms | → 0.98x | 8 | 14m | 4d ago | 2d ago |
-| [紫脑喵](https://lmspeed.net/provider/newapi-aisonnet-org) | 99.86% | 99.93% | 99.85% | 99.85% | 897 ms | → 1.02x | 3 | 0s | 3d ago | 2d ago |
-| [KZW API](https://lmspeed.net/provider/newapi-kzwbelieve-top) | 99.86% | 98.10% | 98.85% | 98.85% | 1028 ms | → 1.04x | 30 | 15m | 4d ago | 2d ago |
-| [OptAI](https://lmspeed.net/provider/optai-cap-1ktower-com) | 99.86% | 99.30% | 87.89% | 87.89% | 2117 ms | ↓ 0.75x | 28 | 0s | 6d ago | 2d ago |
-| [米醋API](https://lmspeed.net/provider/www-openclaudecode-cn) | 99.86% | 99.78% | 97.04% | 97.04% | 436 ms | → 0.98x | 9 | 0s | 3d ago | 2d ago |
-| [UniAiX](https://lmspeed.net/provider/www-uniaix-com) | 99.86% | 99.83% | 82.05% | 82.05% | 1029 ms | → 1.00x | 4 | 8m | 6d ago | 2d ago |
-| [丰思理 AI](https://lmspeed.net/provider/ai-fengsili-online) | 99.86% | 96.39% | 96.39% | 96.39% | 992 ms | ↑ 1.22x | 3 | 5h | 4d ago | 2d ago |
-| [无限智能](https://lmspeed.net/provider/ai-oneinfinityai-com) | 99.86% | 99.90% | 99.90% | 99.90% | 904 ms | → 1.01x | 1 | 0s | 4d ago | 2d ago |
-| [哈基米公益站](https://lmspeed.net/provider/ai-td-ee) | 99.86% | 93.41% | 93.41% | 93.41% | 516 ms | → 1.03x | 19 | 2h 6m | 3d ago | 2d ago |
-| [AI派](https://lmspeed.net/provider/api-aipaibox-com) | 99.86% | 99.81% | 99.81% | 99.81% | 752 ms | ↓ 0.95x | 3 | 0s | 6d ago | 2d ago |
-| [fffaa AI](https://lmspeed.net/provider/api-heabl-top) | 99.86% | 95.00% | 95.00% | 95.00% | 489 ms | ↓ 0.35x | 30 | 29m | 3d ago | 2d ago |
-| [Sliam](https://lmspeed.net/provider/api-sliam-site) | 99.86% | 92.98% | 92.98% | 92.98% | 445 ms | → 0.97x | 3 | 5h 3m | 3d ago | 2d ago |
-| [晴辰云](https://lmspeed.net/provider/gpt-qt-cool) | 99.86% | 99.73% | 99.75% | 99.75% | 1343 ms | → 0.99x | 10 | 1m | 6d ago | 2d ago |
-| [微雨API](https://lmspeed.net/provider/hu-weiyusc-top) | 99.86% | 99.60% | 99.60% | 99.60% | 913 ms | → 0.97x | 4 | 0s | 3d ago | 2d ago |
-| [冰のCodex](https://lmspeed.net/provider/icoe-pp-ua) | 99.86% | 99.90% | 99.90% | 99.90% | 534 ms | → 1.03x | 1 | 0s | 5d ago | 2d ago |
-| [国产大模型 API](https://lmspeed.net/provider/llm-undefined-qzz-io) | 99.86% | 93.76% | 93.76% | 93.76% | 1573 ms | → 0.97x | 6 | 2h 40m | 3d ago | 2d ago |
-| [Hizui API](https://lmspeed.net/provider/newapi-hizui-cn) | 99.86% | 21.24% | 19.54% | 19.54% | 2189 ms | ↓ 0.77x | 2 | 10d 23h | 3d ago | 2d ago |
-| [OpenRouter Fans](https://lmspeed.net/provider/openrouter-fans) | 99.86% | 97.27% | 97.27% | 97.27% | 384 ms | ↓ 0.90x | 11 | 1h 27m | 3d ago | 2d ago |
-| [QuicklyAPI](https://lmspeed.net/provider/sub-jlypx-de) | 99.86% | 98.58% | 98.59% | 98.59% | 688 ms | → 1.02x | 32 | 8m | 5d ago | 2d ago |
-| [wzjself中转站](https://lmspeed.net/provider/wzjself-org) | 99.86% | 99.87% | 99.87% | 99.87% | 777 ms | → 1.02x | 1 | 0s | 3d ago | 2d ago |
-| [性价比API](https://lmspeed.net/provider/xingjiabiapi-org) | 99.86% | 99.91% | 99.91% | 99.91% | 1065 ms | → 1.04x | 2 | 0s | 2d ago | 2d ago |
-| [Nahcrof AI](https://lmspeed.net/provider/nahcrof-ai) | 99.72% | 98.73% | 99.31% | 99.31% | 1526 ms | → 1.03x | 19 | 17m | 3d ago | 2d ago |
-| [ChatST API](https://lmspeed.net/provider/chatst-api) | 99.72% | 99.73% | 99.81% | 99.81% | 658 ms | → 1.04x | 11 | 0s | 5d ago | 2d ago |
-| [ocool AI](https://lmspeed.net/provider/ocool-ai) | 99.72% | 99.35% | 99.42% | 99.42% | 1255 ms | ↓ 0.78x | 26 | 0s | 6d ago | 2d ago |
-| [七牛云](https://lmspeed.net/provider/qiniu-2) | 99.72% | 99.59% | 99.59% | 99.59% | 1460 ms | → 1.02x | 10 | 0s | 2d ago | 2d ago |
-| [GPT Proto](https://lmspeed.net/provider/gpt-proto) | 99.72% | 99.83% | 99.88% | 99.88% | 394 ms | ↓ 0.76x | 7 | 0s | 2d ago | 2d ago |
-| [LLM API](https://lmspeed.net/provider/llm-api) | 99.72% | 99.08% | 98.81% | 98.81% | 2154 ms | ↑ 1.06x | 36 | 17s | 6d ago | 2d ago |
-| [飞桨AI Studio](https://lmspeed.net/provider/aistudio-baidu) | 99.72% | 99.73% | 99.75% | 99.75% | 1693 ms | ↓ 0.73x | 10 | 59s | 2d ago | 2d ago |
-| [包子铺](https://lmspeed.net/provider/api-5202030-xyz) | 99.72% | 99.73% | 99.40% | 99.40% | 1893 ms | ↑ 1.58x | 11 | 0s | 3d ago | 2d ago |
-| [Fangyuan API](https://lmspeed.net/provider/gptpay-store) | 99.72% | 99.90% | 99.84% | 99.84% | 1487 ms | → 1.03x | 4 | 0s | 3d ago | 2d ago |
-| [共绩算力](https://lmspeed.net/provider/550c-cloud) | 99.72% | 99.83% | 88.21% | 88.21% | 2717 ms | ↑ 1.10x | 7 | 0s | 3d ago | 2d ago |
-| [共绩算力 (QwQ)](https://lmspeed.net/provider/550c-qwq) | 99.72% | 99.90% | 95.22% | 95.22% | 2416 ms | → 0.99x | 4 | 0s | 5d ago | 2d ago |
-| [WXKYW API](https://lmspeed.net/provider/wxkyw-dpdns-org) | 99.72% | 98.88% | 98.80% | 98.80% | 1271 ms | ↓ 0.88x | 42 | 43s | 3d ago | 2d ago |
-| [素墨API](https://lmspeed.net/provider/apifree-rensumo-top) | 99.72% | 99.68% | 98.93% | 98.93% | 1447 ms | → 0.95x | 12 | 51s | 3d ago | 2d ago |
-| [GPTPlus5 API](https://lmspeed.net/provider/gptplus5-api) | 99.72% | 99.93% | 99.84% | 99.84% | 1566 ms | → 1.04x | 2 | 5m | 3d ago | 2d ago |
-| [Hi API](https://lmspeed.net/provider/hiapi-online) | 99.72% | 99.80% | 48.22% | 48.22% | 1666 ms | ↓ 0.88x | 8 | 0s | 3d ago | 2d ago |
-| [ngrok Proxy (Jesse)](https://lmspeed.net/provider/ngrok-jesse) | 99.72% | 99.88% | 99.83% | 99.83% | 564 ms | ↑ 1.08x | 3 | 7m | 2d ago | 2d ago |
-| [鲨鱼魔法](https://lmspeed.net/provider/openai-sharkmagic-top) | 99.72% | 98.45% | 94.99% | 94.99% | 523 ms | ↓ 0.64x | 56 | 1m | 5d ago | 2d ago |
-| [R的API小站](https://lmspeed.net/provider/api-xiaor-online) | 99.72% | 99.50% | 72.79% | 72.79% | 867 ms | ↑ 1.59x | 17 | 2m | 2d ago | 2d ago |
-| [祥云互联](https://lmspeed.net/provider/ai-cloudcatc-cn-91) | 99.72% | 99.75% | 99.75% | 99.75% | 1012 ms | → 1.04x | 4 | 0s | 2d ago | 2d ago |
-| [Gemma](https://lmspeed.net/provider/gemma-san-baby) | 99.72% | 95.59% | 95.59% | 95.59% | 1005 ms | → 0.99x | 4 | 1h 48m | 3d ago | 2d ago |
-| [Synapse](https://lmspeed.net/provider/newapi-exynos-top-8443) | 99.72% | 95.33% | 95.33% | 95.33% | 381 ms | ↓ 0.60x | 47 | 25m | 5d ago | 2d ago |
-| [XuYa公益站](https://lmspeed.net/provider/openai-xuya-dev) | 99.72% | 99.20% | 99.20% | 99.20% | 1244 ms | ↑ 1.07x | 7 | 19m | 3d ago | 2d ago |
-| [PoloAPI](https://lmspeed.net/provider/poloai-top) | 99.72% | 99.91% | 99.91% | 99.91% | 724 ms | → 1.01x | 3 | 0s | 3d ago | 2d ago |
-| [Smz Ai](https://lmspeed.net/provider/smz6-com) | 99.72% | 97.69% | 97.69% | 97.69% | 316 ms | ↓ 0.29x | 39 | 5m | 3d ago | 2d ago |
-| [VVCode](https://lmspeed.net/provider/vvcode-top) | 99.72% | 91.75% | 91.75% | 91.75% | 829 ms | ↓ 0.89x | 13 | 1h 4m | 2d ago | 2d ago |
-| [V-API](https://lmspeed.net/provider/v-api) | 99.58% | 99.33% | 99.67% | 99.67% | 736 ms | ↓ 0.74x | 17 | 6m | 6d ago | 2d ago |
-| [AkashChat API](https://lmspeed.net/provider/akashchat-api) | 99.58% | 96.10% | 97.48% | 97.48% | 1624 ms | ↓ 0.92x | 148 | 36s | 3d ago | 2d ago |
-| [百万API](https://lmspeed.net/provider/baiwan-api) | 99.58% | 99.70% | 98.86% | 98.86% | 2416 ms | → 1.04x | 11 | 55s | 4d ago | 2d ago |
-| [GitHub Models](https://lmspeed.net/provider/github-models) | 99.58% | 99.48% | 99.13% | 99.13% | 444 ms | ↓ 0.70x | 21 | 0s | 3d ago | 2d ago |
-| [ZEN-AI VIP](https://lmspeed.net/provider/vip-zen-ai-top) | 99.58% | 99.50% | 99.78% | 99.78% | 1066 ms | → 1.02x | 20 | 0s | 3d ago | 2d ago |
-| [ChatGTP](https://lmspeed.net/provider/www-chatgtp-cn) | 99.58% | 95.50% | 98.49% | 98.49% | 1880 ms | ↓ 0.67x | 162 | 1m | 2d ago | 2d ago |
-| [TokenPony](https://lmspeed.net/provider/api-tokenpony-cn) | 99.58% | 28.49% | 43.49% | 43.49% | 1029 ms | ↑ 1.14x | 6 | 3d 8h | 2d ago | 2d ago |
-| [向量引擎](https://lmspeed.net/provider/api-vectorengine-ai) | 99.58% | 99.85% | 39.69% | 39.69% | 1003 ms | → 1.00x | 6 | 0s | 3d ago | 2d ago |
-| [新生智码工坊](https://lmspeed.net/provider/apiport-cc-cd) | 99.58% | 99.05% | 99.42% | 99.42% | 763 ms | ↑ 1.28x | 17 | 12m | 4d ago | 2d ago |
-| [Codex For Me](https://lmspeed.net/provider/codex-for-me) | 99.58% | 98.73% | 97.89% | 97.89% | 1055 ms | → 1.04x | 16 | 22m | 4d ago | 2d ago |
-| [简易-API中转站](https://lmspeed.net/provider/jeniya-top) | 99.58% | 99.60% | 98.21% | 98.21% | 1199 ms | → 1.04x | 16 | 0s | 2d ago | 2d ago |
-| [MonkingAI](https://lmspeed.net/provider/www-monking-ai) | 99.58% | 99.78% | 99.72% | 99.72% | 1462 ms | ↑ 1.30x | 7 | 3m | 3d ago | 2d ago |
-| [巨量API](https://lmspeed.net/provider/api-yidvps-cn) | 99.58% | 97.86% | 97.86% | 97.86% | 2354 ms | ↑ 1.66x | 37 | 6m | 3d ago | 2d ago |
-| [天宫造物](https://lmspeed.net/provider/cpa-tgzw-shop) | 99.58% | 97.60% | 97.60% | 97.60% | 254 ms | ↑ 1.15x | 6 | 2h 2m | 2d ago | 2d ago |
-| [Feng Love API](https://lmspeed.net/provider/new-feng-love) | 99.58% | 96.46% | 96.46% | 96.46% | 1147 ms | ↑ 2.03x | 9 | 1h 49m | 4d ago | 2d ago |
-| [GOU API](https://lmspeed.net/provider/www-rc-yun-cn) | 99.58% | 97.16% | 97.16% | 97.16% | 839 ms | → 1.04x | 7 | 2h 2m | 2d ago | 2d ago |
-| [丸美小沐写作](https://lmspeed.net/provider/wanmei-xiaomu-xiezuo) | 99.45% | 99.78% | 90.24% | 90.24% | 839 ms | ↑ 1.66x | 9 | 0s | 2d ago | 2d ago |
-| [柏拉图AI](https://lmspeed.net/provider/bltcy-cn) | 99.45% | 97.76% | 97.86% | 97.86% | 3265 ms | ↑ 1.07x | 81 | 1m | 2d ago | 2d ago |
-| [碳硅生命体](https://lmspeed.net/provider/api-csmindai-com) | 99.44% | 71.01% | 63.02% | 63.02% | 1606 ms | ↓ 0.95x | 45 | 4h 8m | 7d ago | 2d ago |
-| [ModelScope](https://lmspeed.net/provider/api-inference-modelscope-cn) | 99.44% | 99.63% | 99.56% | 99.56% | 2796 ms | → 0.97x | 15 | 0s | 5d ago | 2d ago |
-| [ETOS API](https://lmspeed.net/provider/api-ericterminal-com) | 99.44% | 97.66% | 97.41% | 97.41% | 219 ms | ↓ 0.46x | 15 | 53m | 3d ago | 2d ago |
-| [CatClaw API](https://lmspeed.net/provider/www-catclawai-top) | 99.44% | 99.50% | 98.33% | 98.33% | 621 ms | → 1.02x | 16 | 2m | 2d ago | 2d ago |
-| [Only AV](https://lmspeed.net/provider/ai-onlyav-cn) | 99.43% | 93.26% | 94.68% | 94.68% | 1041 ms | → 1.03x | 9 | 4h 50m | 2d ago | 2d ago |
-| [91VIP API](https://lmspeed.net/provider/hcg-pippi-top) | 99.43% | 94.74% | 94.40% | 94.40% | 1981 ms | ↓ 0.92x | 127 | 7m | 4d ago | 2d ago |
-| [云飞 AI](https://lmspeed.net/provider/ai-yunfei-best) | 99.43% | 95.73% | 95.73% | 95.73% | 928 ms | ↓ 0.84x | 23 | 33m | 3d ago | 2d ago |
-| [BUZZ](https://lmspeed.net/provider/buzzai-cc) | 99.43% | 58.45% | 52.48% | 52.48% | 1304 ms | ↓ 0.64x | 8 | 1d 10h | 3d ago | 2d ago |
-| [Yuan API](https://lmspeed.net/provider/yuan-api) | 99.43% | 99.65% | 99.65% | 99.65% | 835 ms | → 0.98x | 7 | 4m | 4d ago | 2d ago |
-| [梦德 API](https://lmspeed.net/provider/new-api-5) | 99.31% | 99.78% | 99.70% | 99.70% | 2476 ms | ↑ 1.13x | 9 | 0s | 5d ago | 2d ago |
-| [Koyeb Ollama Proxy](https://lmspeed.net/provider/koyeb-ollama-proxy) | 99.30% | 99.85% | 99.62% | 99.62% | 747 ms | → 1.02x | 6 | 0s | 5d ago | 2d ago |
-| [SMLC666 API](https://lmspeed.net/provider/api-smlc666-top) | 99.30% | 98.58% | 32.27% | 32.27% | 705 ms | ↓ 0.91x | 47 | 2m | 2d ago | 2d ago |
-| [Chlink API](https://lmspeed.net/provider/api-chlink-de5-net) | 99.29% | 95.53% | 95.53% | 95.53% | 1960 ms | → 1.00x | 16 | 47m | 2d ago | 2d ago |
-| [Yunchu API](https://lmspeed.net/provider/api-qiulingyan-top) | 99.29% | 95.16% | 95.16% | 95.16% | 1061 ms | ↓ 0.70x | 47 | 19m | 2d ago | 2d ago |
-| [GPTGod](https://lmspeed.net/provider/gptgod) | 99.17% | 99.28% | 99.27% | 99.27% | 1669 ms | → 1.03x | 28 | 22s | 2d ago | 2d ago |
-| [Dream API](https://lmspeed.net/provider/opus-gptuu-com) | 99.16% | 99.60% | 97.74% | 97.74% | 1326 ms | ↓ 0.93x | 15 | 40s | 4d ago | 2d ago |
-| [Aizex API](https://lmspeed.net/provider/aizex-top) | 99.16% | 97.93% | 99.09% | 99.09% | 892 ms | ↓ 0.91x | 64 | 3m | 2d ago | 2d ago |
-| [Z.ai](https://lmspeed.net/provider/z-ai) | 99.16% | 99.70% | 99.81% | 99.81% | 1284 ms | → 0.97x | 12 | 0s | 2d ago | 2d ago |
-| [全球AI](https://lmspeed.net/provider/globalai-vip) | 99.15% | 97.13% | 99.22% | 99.22% | 1051 ms | ↓ 0.84x | 78 | 5m | 3d ago | 2d ago |
-| [MiniMax](https://lmspeed.net/provider/minimax) | 99.15% | 99.48% | 98.23% | 98.23% | 3298 ms | → 1.04x | 19 | 1m | 3d ago | 2d ago |
-| [9Router](https://lmspeed.net/provider/rb6k9jv-9router-com) | 99.14% | 99.14% | 99.14% | 99.14% | 2046 ms | → 1.00x | 4 | 3m | 3d ago | 2d ago |
-| [FineOneAPI](https://lmspeed.net/provider/fineoneapi) | 99.03% | 99.31% | 98.45% | 98.45% | 2553 ms | ↓ 0.91x | 28 | 0s | 2d ago | 2d ago |
-| [sur](https://lmspeed.net/provider/text-pollinations-ai) | 99.02% | 95.15% | 90.23% | 90.23% | 1742 ms | → 1.04x | 128 | 5m | 3d ago | 2d ago |
-| [智增增API](https://lmspeed.net/provider/api-zhizengzeng-com) | 99.02% | 98.85% | 99.18% | 99.18% | 2877 ms | ↑ 1.07x | 18 | 16m | 3d ago | 2d ago |
-| [Feiyametta HF Space](https://lmspeed.net/provider/feiyametta-hf-space) | 99.01% | 99.01% | 99.01% | 99.01% | 938 ms | → 1.00x | 1 | 0s | 2d ago | 2d ago |
-| [QYES AI](https://lmspeed.net/provider/ai-qyes-top) | 99.01% | 88.54% | 88.54% | 88.54% | 1846 ms | ↓ 0.79x | 75 | 15m | 2d ago | 2d ago |
+| [ai.api.xn--fiqs8s](https://lmspeed.net/provider/ai-api-xn-fiqs8s) | 100.00% | 99.95% | 90.53% | 90.53% | 1253 ms | ↑ 2.34x | 2 | 0s | 15d ago | 7h ago |
+| [AIHubMix](https://lmspeed.net/provider/aihubmix-com) | 100.00% | 99.98% | 99.98% | 99.98% | 2163 ms | ↑ 1.26x | 1 | 0s | 29d ago | 7h ago |
+| [Akemidia MUA (HF Space)](https://lmspeed.net/provider/akemidia-mua-hf) | 100.00% | 99.88% | 99.97% | 99.97% | 634 ms | ↓ 0.59x | 5 | 0s | 12d ago | 7h ago |
+| [Puzhehei](https://lmspeed.net/provider/api) | 100.00% | 99.26% | 92.28% | 92.28% | 502 ms | ↓ 0.44x | 31 | 0s | 9d ago | 7h ago |
+| [AZ Rix](https://lmspeed.net/provider/az-rix) | 100.00% | 99.98% | 99.69% | 99.69% | 1620 ms | → 1.04x | 1 | 0s | 24d ago | 7h ago |
+| [binaryYuki](https://lmspeed.net/provider/binaryyuki) | 100.00% | 99.83% | 99.94% | 99.94% | 911 ms | ↑ 1.33x | 7 | 0s | 9d ago | 7h ago |
+| [头顶冒火](https://lmspeed.net/provider/burn-hair) | 100.00% | 100.00% | 99.94% | 99.94% | 2524 ms | ↑ 1.29x | 0 | — | — | 7h ago |
+| [ChatAnywhere](https://lmspeed.net/provider/chatanywhere) | 100.00% | 99.88% | 99.96% | 99.96% | 865 ms | → 1.01x | 5 | 0s | 9d ago | 7h ago |
+| [CloseAI Asia Proxy](https://lmspeed.net/provider/closeai-asia-proxy) | 100.00% | 100.00% | 100.00% | 100.00% | 837 ms | → 1.00x | 0 | — | — | 7h ago |
+| [DeepSeek](https://lmspeed.net/provider/deepseek) | 100.00% | 99.98% | 99.99% | 99.99% | 647 ms | ↓ 0.87x | 1 | 0s | 15d ago | 7h ago |
+| [Deno Deploy Proxy](https://lmspeed.net/provider/deno-deploy-proxy) | 100.00% | 99.98% | 99.93% | 99.93% | 704 ms | ↑ 1.17x | 1 | 0s | 12d ago | 7h ago |
+| [帆软](https://lmspeed.net/provider/fanruan) | 100.00% | 99.88% | 99.93% | 99.93% | 2125 ms | ↓ 0.76x | 5 | 0s | 9d ago | 7h ago |
+| [GPT Load (0fee)](https://lmspeed.net/provider/gpt-load) | 100.00% | 99.93% | 90.02% | 90.02% | 811 ms | ↑ 1.92x | 3 | 0s | 9d ago | 7h ago |
+| [GPTs API](https://lmspeed.net/provider/gptsapi) | 100.00% | 99.98% | 99.98% | 99.98% | 639 ms | → 0.99x | 1 | 0s | 29d ago | 7h ago |
+| [Huawei Cloud](https://lmspeed.net/provider/huawei-modelarts) | 100.00% | 100.00% | 100.00% | 100.00% | 752 ms | → 1.01x | 0 | — | — | 7h ago |
+| [华际 API](https://lmspeed.net/provider/new-api-4) | 100.00% | 99.76% | 99.62% | 99.62% | 1548 ms | → 1.05x | 10 | 0s | 10d ago | 7h ago |
+| [Lido LLM](https://lmspeed.net/provider/new-api-shiho-top) | 100.00% | 97.50% | 99.31% | 99.31% | 1802 ms | → 1.01x | 79 | 3m | 8d ago | 7h ago |
+| [Newagiai](https://lmspeed.net/provider/newagiai) | 100.00% | 99.91% | 99.69% | 99.69% | 1562 ms | ↑ 1.12x | 3 | 3m | 9d ago | 7h ago |
+| [Novita AI](https://lmspeed.net/provider/novita-ai) | 100.00% | 99.91% | 99.91% | 99.91% | 1512 ms | ↑ 1.06x | 4 | 0s | 12d ago | 7h ago |
+| [Qwen](https://lmspeed.net/provider/qwen-chat-aigpu-cn) | 100.00% | 99.17% | 57.50% | 57.50% | 922 ms | ↓ 0.74x | 31 | 1m | 8d ago | 7h ago |
+| [MKE AI](https://lmspeed.net/provider/tb-api-mkeai-com) | 100.00% | 100.00% | 99.33% | 99.33% | 388 ms | → 0.99x | 0 | — | — | 7h ago |
+| [UniAPI](https://lmspeed.net/provider/uniai) | 100.00% | 99.17% | 99.76% | 99.76% | 1417 ms | ↓ 0.73x | 35 | 0s | 8d ago | 7h ago |
+| [OhMyGPT](https://lmspeed.net/provider/www-ohmygpt-com) | 100.00% | 99.90% | 99.92% | 99.92% | 1152 ms | ↓ 0.61x | 5 | 0s | 6h ago | 7h ago |
+| [X666 API](https://lmspeed.net/provider/x666-me) | 100.00% | 99.71% | 99.84% | 99.84% | 577 ms | ↑ 1.07x | 6 | 10m | 10d ago | 7h ago |
+| [小爱AI](https://lmspeed.net/provider/xiaoai-plus) | 100.00% | 99.69% | 99.83% | 99.83% | 1187 ms | → 1.03x | 9 | 4m | 8d ago | 7h ago |
+| [Yuegle](https://lmspeed.net/provider/yuegle) | 100.00% | 99.98% | 99.97% | 99.97% | 1355 ms | → 1.04x | 1 | 0s | 24d ago | 7h ago |
+| [ZetaTechs API](https://lmspeed.net/provider/zetatechs-api) | 100.00% | 99.88% | 98.95% | 98.95% | 1114 ms | ↑ 1.18x | 2 | 15m | 15d ago | 7h ago |
+| [智谱 AI](https://lmspeed.net/provider/zhipu-ai) | 100.00% | 99.98% | 99.99% | 99.99% | 1095 ms | ↑ 1.36x | 1 | 0s | 8d ago | 7h ago |
+| [讯飞星火](https://lmspeed.net/provider/iflytek-spark) | 99.89% | 99.89% | 99.90% | 99.90% | 893 ms | → 1.00x | 1 | 0s | 7d ago | 7h ago |
+| [Tencent](https://lmspeed.net/provider/tencent) | 99.89% | 99.95% | 99.99% | 99.99% | 547 ms | ↓ 0.80x | 2 | 0s | 4d ago | 7h ago |
+| [DeerAPI](https://lmspeed.net/provider/deerapi) | 99.89% | 99.93% | 99.81% | 99.81% | 776 ms | ↑ 1.07x | 3 | 0s | 6d ago | 7h ago |
+| [ePhone AI](https://lmspeed.net/provider/ephone-ai-2) | 99.89% | 99.81% | 99.74% | 99.74% | 901 ms | ↓ 0.92x | 8 | 0s | 4d ago | 7h ago |
+| [毫秒API](https://lmspeed.net/provider/haomiao-api) | 99.89% | 99.34% | 99.53% | 99.53% | 1116 ms | → 0.99x | 24 | 2m | 3d ago | 7h ago |
+| [KKSJ-AI](https://lmspeed.net/provider/kksj-ai) | 99.89% | 99.98% | 99.91% | 99.91% | 1122 ms | ↑ 1.10x | 1 | 0s | 4d ago | 7h ago |
+| [SUFY](https://lmspeed.net/provider/sufy) | 99.89% | 99.00% | 99.48% | 99.48% | 816 ms | ↓ 0.86x | 32 | 3m | 3d ago | 7h ago |
+| [UnifyLLM](https://lmspeed.net/provider/unifyllm) | 99.89% | 98.20% | 99.38% | 99.38% | 886 ms | ↓ 0.86x | 60 | 3m | 4d ago | 7h ago |
+| [DuckDuck API](https://lmspeed.net/provider/duckduck-api) | 99.89% | 99.79% | 99.80% | 99.80% | 836 ms | → 1.02x | 8 | 1m | 4d ago | 7h ago |
+| [free_chatgpt_api](https://lmspeed.net/provider/free-chatgpt-api) | 99.89% | 99.93% | 99.90% | 99.90% | 1314 ms | ↑ 1.23x | 3 | 0s | 7d ago | 7h ago |
+| [Gpt API](https://lmspeed.net/provider/gpt-api) | 99.89% | 99.93% | 99.94% | 99.94% | 1587 ms | ↑ 1.24x | 2 | 0s | 4d ago | 7h ago |
+| [小波 API](https://lmspeed.net/provider/xiaobo-api) | 99.89% | 99.88% | 99.93% | 99.93% | 493 ms | ↑ 1.58x | 5 | 0s | 4d ago | 7h ago |
+| [AI Tools](https://lmspeed.net/provider/platform-aitools-cfd) | 99.89% | 99.98% | 99.99% | 99.99% | 1380 ms | ↑ 1.71x | 1 | 0s | 14h ago | 7h ago |
+| [RinkoAI](https://lmspeed.net/provider/rinkoai-com) | 99.89% | 99.90% | 98.88% | 98.88% | 2069 ms | ↑ 1.32x | 4 | 0s | 14h ago | 7h ago |
+| [LLM.PM](https://lmspeed.net/provider/llm-pm) | 99.89% | 99.31% | 33.46% | 33.46% | 2144 ms | → 0.99x | 18 | 7m | 34m ago | 7h ago |
+| [SophNet](https://lmspeed.net/provider/www-sophnet-com) | 99.89% | 99.86% | 99.91% | 99.91% | 1186 ms | ↓ 0.91x | 6 | 0s | 2d ago | 7h ago |
+| [Your API](https://lmspeed.net/provider/yunrapi.cn) | 99.89% | 99.95% | 99.91% | 99.91% | 1329 ms | → 1.03x | 2 | 0s | 2d ago | 7h ago |
+| [PrismAI](https://lmspeed.net/provider/ai-prism-uno) | 99.89% | 99.86% | 98.62% | 98.62% | 1959 ms | ↑ 1.25x | 5 | 2m | 1d ago | 7h ago |
+| [Gue API](https://lmspeed.net/provider/api-gueai-com) | 99.89% | 95.84% | 96.86% | 96.86% | 1527 ms | → 1.00x | 7 | 3h 60m | 3d ago | 7h ago |
+| [123NHH API](https://lmspeed.net/provider/new-123nhh-xyz) | 99.89% | 99.90% | 49.94% | 49.94% | 1737 ms | ↑ 1.06x | 4 | 0s | 3d ago | 7h ago |
+| [Hornsun](https://lmspeed.net/provider/hornsun) | 99.78% | 99.81% | 99.78% | 99.78% | 2340 ms | ↑ 1.06x | 8 | 0s | 9h ago | 7h ago |
+| [火山引擎 Ark](https://lmspeed.net/provider/volcengine-ark) | 99.78% | 21.59% | 5.96% | 5.96% | 1393 ms | ↓ 0.95x | 2 | 11d 8h | 9h ago | 7h ago |
+| [BytesBoost](https://lmspeed.net/provider/bytesboost) | 99.78% | 99.69% | 99.91% | 99.91% | 2228 ms | ↑ 1.45x | 14 | 0s | 6h ago | 7h ago |
+| [ChatST API](https://lmspeed.net/provider/chatst-api) | 99.78% | 99.74% | 99.81% | 99.81% | 679 ms | ↑ 1.06x | 11 | 0s | 4d ago | 7h ago |
+| [ocool AI](https://lmspeed.net/provider/ocool-ai) | 99.78% | 99.38% | 99.43% | 99.43% | 1745 ms | ↓ 0.87x | 26 | 0s | 5d ago | 7h ago |
+| [GPT Proto](https://lmspeed.net/provider/gpt-proto) | 99.78% | 99.83% | 99.88% | 99.88% | 673 ms | ↓ 0.82x | 7 | 0s | 1d ago | 7h ago |
+| [KFCV50](https://lmspeed.net/provider/kfcv50) | 99.78% | 99.95% | 99.91% | 99.91% | 1611 ms | ↑ 1.44x | 2 | 0s | 11h ago | 7h ago |
+| [352287 API](https://lmspeed.net/provider/352287-api) | 99.78% | 99.95% | 96.82% | 96.82% | 1821 ms | → 0.98x | 2 | 0s | 11h ago | 7h ago |
+| [OpenRouter](https://lmspeed.net/provider/openrouter) | 99.78% | 99.93% | 99.96% | 99.96% | 1604 ms | ↑ 1.10x | 3 | 0s | 14h ago | 7h ago |
+| [Yuen Sze Hong](https://lmspeed.net/provider/poe-yuen-network-top) | 99.78% | 98.48% | 98.67% | 98.67% | 1493 ms | ↑ 1.20x | 51 | 3m | 14h ago | 7h ago |
+| [V-API](https://lmspeed.net/provider/v-api) | 99.67% | 99.36% | 99.68% | 99.68% | 737 ms | ↓ 0.75x | 17 | 6m | 5d ago | 7h ago |
+| [Midjourney API](https://lmspeed.net/provider/midjourney-api) | 99.67% | 99.88% | 99.64% | 99.64% | 1305 ms | ↑ 1.25x | 4 | 2m | 1d ago | 7h ago |
+| [七牛云](https://lmspeed.net/provider/qiniu-2) | 99.67% | 99.62% | 99.62% | 99.62% | 1454 ms | → 1.01x | 10 | 0s | 2d ago | 7h ago |
+| [1984](https://lmspeed.net/provider/1984-hosting) | 99.67% | 99.53% | 99.18% | 99.18% | 2668 ms | ↑ 1.09x | 17 | 2m | 23h ago | 7h ago |
+| [Infini AI](https://lmspeed.net/provider/infini-ai) | 99.67% | 99.88% | 99.72% | 99.72% | 2738 ms | ↑ 1.26x | 6 | 0s | 2h ago | 7h ago |
+| [Chutes](https://lmspeed.net/provider/chutes) | 99.67% | 98.91% | 99.56% | 99.56% | 1906 ms | ↑ 1.06x | 43 | 42s | 11h ago | 7h ago |
+| [ZEN-AI VIP](https://lmspeed.net/provider/vip-zen-ai-top) | 99.67% | 99.52% | 99.79% | 99.79% | 1204 ms | ↑ 1.06x | 20 | 0s | 2d ago | 7h ago |
+| [Marswjf API](https://lmspeed.net/provider/marswjf-api) | 99.67% | 98.48% | 98.27% | 98.27% | 2541 ms | → 1.03x | 62 | 19s | 20h ago | 7h ago |
+| [ChatGTP](https://lmspeed.net/provider/www-chatgtp-cn) | 99.67% | 95.63% | 98.51% | 98.51% | 1950 ms | ↓ 0.70x | 162 | 1m | 2d ago | 7h ago |
+| [AkashChat API](https://lmspeed.net/provider/akashchat-api) | 99.45% | 96.23% | 97.51% | 97.51% | 2522 ms | → 1.03x | 149 | 36s | 1d ago | 7h ago |
+| [LLM API](https://lmspeed.net/provider/llm-api) | 99.45% | 99.05% | 98.81% | 98.81% | 2877 ms | ↑ 1.17x | 39 | 16s | 11h ago | 7h ago |
+| [梦德 API](https://lmspeed.net/provider/new-api-5) | 99.34% | 99.79% | 99.71% | 99.71% | 2720 ms | ↑ 1.17x | 9 | 0s | 4d ago | 7h ago |
+| [Aizex API](https://lmspeed.net/provider/aizex-top) | 99.34% | 98.03% | 99.11% | 99.11% | 1770 ms | ↑ 1.13x | 64 | 3m | 2d ago | 7h ago |
+| [SanShui API](https://lmspeed.net/provider/sanshui-api) | 99.23% | 98.20% | 99.49% | 99.49% | 2563 ms | ↑ 1.37x | 64 | 2m | 11h ago | 7h ago |
+| [百万API](https://lmspeed.net/provider/baiwan-api) | 99.23% | 99.64% | 98.86% | 98.86% | 2627 ms | ↑ 1.11x | 14 | 43s | 10h ago | 7h ago |
+| [天絮 API](https://lmspeed.net/provider/tianxu-api) | 99.23% | 96.35% | 96.08% | 96.08% | 2254 ms | ↑ 1.17x | 59 | 16m | 5m ago | 7h ago |
+| [Meta API](https://lmspeed.net/provider/meta-api) | 99.23% | 99.60% | 99.74% | 99.74% | 2726 ms | ↑ 1.19x | 14 | 2m | 11h ago | 7h ago |
+| [Koyeb Ollama Proxy](https://lmspeed.net/provider/koyeb-ollama-proxy) | 99.23% | 99.81% | 99.61% | 99.61% | 2390 ms | ↑ 1.46x | 8 | 0s | 14h ago | 7h ago |
+| [Dream API](https://lmspeed.net/provider/opus-gptuu-com) | 99.23% | 99.60% | 97.76% | 97.76% | 1874 ms | ↑ 1.06x | 16 | 38s | 14h ago | 7h ago |
+| [AICNN](https://lmspeed.net/provider/aicnn) | 99.12% | 99.45% | 99.73% | 99.73% | 2767 ms | ↓ 0.86x | 25 | 0s | 1h ago | 7h ago |
+| [IXIOCCAPI](https://lmspeed.net/provider/ixioccapi) | 99.12% | 99.55% | 86.57% | 86.57% | 2230 ms | ↑ 1.44x | 16 | 1m | 11h ago | 7h ago |
+| [丸美小沐写作](https://lmspeed.net/provider/wanmei-xiaomu-xiezuo) | 99.01% | 99.67% | 90.33% | 90.33% | 2715 ms | ↑ 2.53x | 13 | 46s | 9h ago | 7h ago |
+| [GitHub Models](https://lmspeed.net/provider/github-models) | 99.01% | 99.36% | 99.10% | 99.10% | 2191 ms | ↑ 1.45x | 26 | 23s | 11h ago | 7h ago |
+| [sur](https://lmspeed.net/provider/text-pollinations-ai) | 99.00% | 95.32% | 90.34% | 90.34% | 1847 ms | ↑ 1.06x | 131 | 5m | 45m ago | 7h ago |
 
 </details>
 
 <details open>
-<summary><strong>🟡 Degraded (112)</strong></summary>
+<summary><strong>🟡 Degraded (23)</strong></summary>
 
 | Provider | 7d | 30d | 1y | All-time | p95 (7d) | Trend | Incidents (30d) | MTTR | Last incident | Last check |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| [TokenX24](https://lmspeed.net/provider/tokenx24-com) | 98.96% | 98.96% | 98.96% | 98.96% | 573 ms | → 1.00x | 6 | 0s | 3d ago | 2d ago |
-| [箴理科技](https://lmspeed.net/provider/provider) | 98.89% | 98.21% | 98.50% | 98.50% | 3513 ms | → 0.98x | 67 | 45s | 4d ago | 2d ago |
-| [星见雅 API](https://lmspeed.net/provider/api-xinjianya-top) | 98.87% | 98.55% | 97.53% | 97.53% | 655 ms | → 1.03x | 26 | 12m | 4d ago | 2d ago |
-| [AI中转站](https://lmspeed.net/provider/ai-192700-xyz) | 98.87% | 96.03% | 96.03% | 96.03% | 244 ms | ↓ 0.16x | 53 | 3m | 2d ago | 2d ago |
-| [Lanyun](https://lmspeed.net/provider/lanyun) | 98.75% | 99.23% | 98.82% | 98.82% | 3382 ms | ↑ 1.09x | 19 | 6m | 3d ago | 2d ago |
-| [哈基米API站](https://lmspeed.net/provider/api-gemai-cc) | 98.73% | 99.33% | 42.03% | 42.03% | 518 ms | ↓ 0.76x | 23 | 2m | 2d ago | 2d ago |
-| [人人 API](https://lmspeed.net/provider/llm-whitedream-top) | 98.73% | 88.20% | 88.20% | 88.20% | 534 ms | ↓ 0.36x | 47 | 29m | 2d ago | 2d ago |
-| [哈基米API](https://lmspeed.net/provider/api-123chat-top) | 98.60% | 97.06% | 98.78% | 98.78% | 726 ms | ↓ 0.62x | 78 | 5m | 2d ago | 2d ago |
-| [词元流动](https://lmspeed.net/provider/tokenflux-dev) | 98.59% | 98.59% | 98.59% | 98.59% | 583 ms | → 1.00x | 1 | 50m | 3d ago | 2d ago |
-| [Sealos](https://lmspeed.net/provider/new-api-imnlocrv-sealoshzh-site) | 98.58% | 99.23% | 98.10% | 98.10% | 3621 ms | ↑ 1.05x | 29 | 41s | 2d ago | 2d ago |
-| [CxyKevin API](https://lmspeed.net/provider/newapi-cxykevin-top) | 98.45% | 98.50% | 55.34% | 55.34% | 579 ms | ↑ 1.06x | 41 | 5m | 3d ago | 2d ago |
-| [AIStack](https://lmspeed.net/provider/aistack) | 98.34% | 95.68% | 96.49% | 96.49% | 3558 ms | → 0.99x | 156 | 1m | 3d ago | 2d ago |
-| [YUNWU API](https://lmspeed.net/provider/yunwu-ai) | 98.32% | 99.65% | 99.69% | 99.69% | 815 ms | ↑ 1.05x | 7 | 10m | 3d ago | 2d ago |
-| [ModelScope](https://lmspeed.net/provider/ms-ens-257c1f27-2cc6-api-inference-modelscope-cn) | 98.30% | 99.52% | 99.52% | 99.52% | 2904 ms | ↑ 1.06x | 13 | 54m | 2d ago | 2d ago |
-| [QQ Code](https://lmspeed.net/provider/www-qqcode-cc) | 98.16% | 90.12% | 90.12% | 90.12% | 1381 ms | ↓ 0.90x | 62 | 34m | 3d ago | 2d ago |
-| [云智API](https://lmspeed.net/provider/yunzhiapi-cn) | 98.02% | 98.38% | 86.61% | 86.61% | 2303 ms | → 1.02x | 51 | 3m | 2d ago | 2d ago |
-| [Good HIDNS](https://lmspeed.net/provider/good-hidns) | 98.02% | 99.63% | 97.29% | 97.29% | 1167 ms | ↑ 2.23x | 15 | 0s | 2d ago | 2d ago |
-| [发现AI](https://lmspeed.net/provider/www-findcg-com) | 98.02% | 95.16% | 95.16% | 95.16% | 2034 ms | ↑ 1.08x | 73 | 8m | 2d ago | 2d ago |
-| [零一万物](https://lmspeed.net/provider/lingyiwanwu) | 97.78% | 77.07% | 93.11% | 93.11% | 3235 ms | ↓ 0.77x | 397 | 13m | 2d ago | 2d ago |
-| [AIGCBAR](https://lmspeed.net/provider/api-aigc-bar) | 97.59% | 98.03% | 95.88% | 95.88% | 1622 ms | ↓ 0.91x | 64 | 2m | 2d ago | 2d ago |
-| [Mars HK](https://lmspeed.net/provider/mars-hk-duckdns-org-38317) | 97.59% | 92.65% | 92.65% | 92.65% | 1313 ms | ↓ 0.89x | 64 | 23m | 3d ago | 2d ago |
-| [AASS API](https://lmspeed.net/provider/aass-api) | 97.37% | 97.37% | 97.37% | 97.37% | 2418 ms | → 1.00x | 3 | 0s | 2d ago | 2d ago |
-| [火山引擎](https://lmspeed.net/provider/volcengine) | 97.33% | 97.53% | 80.61% | 80.61% | 3432 ms | → 0.98x | 96 | 18s | 2d ago | 2d ago |
-| [Yanami](https://lmspeed.net/provider/aiapi-yanami-vip) | 97.31% | 63.08% | 63.08% | 63.08% | 812 ms | ↓ 0.28x | 42 | 2h 33m | 2d ago | 2d ago |
-| [AI新境](https://lmspeed.net/provider/aixj-vip) | 97.31% | 98.17% | 98.17% | 98.17% | 513 ms | ↑ 1.31x | 44 | 6m | 2d ago | 2d ago |
-| [GPT Load](https://lmspeed.net/provider/gpt-load-2) | 97.19% | 45.47% | 11.57% | 11.57% | 340 ms | ↓ 0.12x | 27 | 13h 20m | 2d ago | 2d ago |
-| [Rnglg2 API](https://lmspeed.net/provider/rnglg2-api) | 97.04% | 95.56% | 95.96% | 95.96% | 2184 ms | ↓ 0.86x | 90 | 10m | 3d ago | 2d ago |
-| [0CHAT](https://lmspeed.net/provider/api-0chat-vip) | 96.88% | 92.08% | 92.08% | 92.08% | 1689 ms | ↓ 0.73x | 126 | 11m | 2d ago | 2d ago |
-| [老张API](https://lmspeed.net/provider/laozhang-api) | 96.54% | 98.88% | 99.49% | 99.49% | 864 ms | ↓ 0.92x | 19 | 14m | 6d ago | 2d ago |
-| [Koru API](https://lmspeed.net/provider/new-api-koru-ink) | 96.32% | 84.85% | 84.85% | 84.85% | 1029 ms | ↓ 0.82x | 101 | 27m | 3d ago | 2d ago |
-| [WONG公益站](https://lmspeed.net/provider/wzw-pp-ua) | 96.20% | 96.26% | 97.03% | 97.03% | 660 ms | ↓ 0.76x | 6 | 4h 3m | 3d ago | 2d ago |
-| [GLM BigModel Relay](https://lmspeed.net/provider/glm-bigmodel-relay) | 96.06% | 99.28% | 99.60% | 99.60% | 983 ms | ↑ 1.20x | 2 | 2h 15m | 3d ago | 2d ago |
-| [GG公益站-云GCLI](https://lmspeed.net/provider/gcli-ggchan-dev) | 95.65% | 98.95% | 98.90% | 98.90% | 462 ms | ↓ 0.45x | 13 | 22m | 4d ago | 2d ago |
-| [小水管](https://lmspeed.net/provider/edge-pieixan-icu) | 94.77% | 97.36% | 96.89% | 96.89% | 950 ms | ↑ 1.23x | 26 | 30m | 3d ago | 2d ago |
-| [AIO通用智能服务平台](https://lmspeed.net/provider/aio-intelligence) | 94.73% | 94.88% | 90.75% | 90.75% | 2189 ms | ↑ 1.06x | 120 | 7m | 2d ago | 2d ago |
-| [AAAI](https://lmspeed.net/provider/aaai) | 94.20% | 95.75% | 98.79% | 98.79% | 881 ms | ↓ 0.72x | 129 | 3m | 2d ago | 2d ago |
-| [MapleLeaf API](https://lmspeed.net/provider/ai-071129-xyz) | 93.91% | 81.16% | 81.16% | 81.16% | 986 ms | ↓ 0.88x | 14 | 2h 42m | 2d ago | 2d ago |
-| [Codex Proxy](https://lmspeed.net/provider/codex-miaomiaocode-com) | 93.34% | 87.45% | 87.45% | 87.45% | 4201 ms | ↓ 0.87x | 24 | 45m | 3d ago | 2d ago |
-| [hzfox](https://lmspeed.net/provider/hzfox) | 92.54% | 94.61% | 97.07% | 97.07% | 3972 ms | ↑ 1.29x | 183 | 2m | 2d ago | 2d ago |
-| [玄黄](https://lmspeed.net/provider/apis-soys-site) | 91.67% | 98.48% | 97.25% | 97.25% | 968 ms | → 1.01x | 2 | 5h 40m | 3d ago | 2d ago |
-| [Thorbase](https://lmspeed.net/provider/thorbase) | 90.28% | 90.28% | 90.28% | 90.28% | 1395 ms | → 1.00x | 1 | 9h 60m | 7d ago | 2d ago |
-| [GuaiHub](https://lmspeed.net/provider/guaihub) | 88.98% | 88.98% | 88.98% | 88.98% | 1074 ms | → 1.00x | 2 | 55m | 2d ago | 2d ago |
-| [ClawCloud Proxy (akmf)](https://lmspeed.net/provider/clawcloud-akmf-3) | 88.75% | 83.10% | 95.64% | 95.64% | 4326 ms | ↑ 2.64x | 112 | 51m | 2d ago | 2d ago |
-| [国信新网](https://lmspeed.net/provider/zygf-guoxincloud-cn-1025) | 88.47% | 96.64% | 97.59% | 97.59% | 2992 ms | ↓ 0.93x | 134 | 5s | 2d ago | 2d ago |
-| [SeoSycy API](https://lmspeed.net/provider/seosycy-api) | 87.85% | 87.32% | 79.33% | 79.33% | 4238 ms | ↑ 1.10x | 400 | 3m | 2d ago | 2d ago |
-| [Cloudflare](https://lmspeed.net/provider/marcus-fig-joy-postings-trycloudflare-com) | 86.83% | 86.46% | 86.46% | 86.46% | 191 ms | ↓ 0.95x | 1 | 15h 49m | 7d ago | 2d ago |
-| [gptanon-2api](https://lmspeed.net/provider/gptanon-2api-to2ai-workers-dev) | 85.34% | 85.34% | 85.34% | 85.34% | 143 ms | → 1.00x | 1 | 13h 50m | 6d ago | 2d ago |
-| [联通云](https://lmspeed.net/provider/aigw-jnzs5-cucloud-cn-8443) | 85.01% | 86.15% | 84.59% | 84.59% | 1856 ms | → 1.04x | 456 | 2m | 2d ago | 2d ago |
-| [AI98](https://lmspeed.net/provider/ai98-vip) | 84.83% | 92.21% | 75.03% | 75.03% | 1605 ms | ↑ 1.23x | 150 | 11m | 2d ago | 2d ago |
-| [APDSM](https://lmspeed.net/provider/cto-ntbsd-eu-org) | 83.99% | 88.44% | 88.44% | 88.44% | 1016 ms | ↓ 0.78x | 5 | 10h 22m | 8d ago | 2d ago |
-| [Nova AI](https://lmspeed.net/provider/once-novai-su) | 83.88% | 93.29% | 69.62% | 69.62% | 2034 ms | ↑ 1.38x | 76 | 26m | 3d ago | 2d ago |
-| [XShuLab Sub2API](https://lmspeed.net/provider/xshulab-sub2api) | 83.14% | 85.44% | 85.44% | 85.44% | 1308 ms | → 0.95x | 4 | 5h 15m | 3d ago | 2d ago |
-| [柠檬API](https://lmspeed.net/provider/new-lemonapi-site) | 82.89% | 14.62% | 9.29% | 9.29% | 1028 ms | ↑ 1.39x | 7 | 3d 9h | 3d ago | 2d ago |
-| [SiliconFlow](https://lmspeed.net/provider/siliconflow) | 82.36% | 91.13% | 92.63% | 92.63% | 4712 ms | → 1.05x | 172 | 11m | 2d ago | 2d ago |
-| [Xiao Wan](https://lmspeed.net/provider/web-xiaowan-ggff-net) | 81.64% | 90.82% | 61.42% | 61.42% | 1393 ms | → 0.99x | 46 | 1h 10m | 2d ago | 2d ago |
-| [AIGC Arthals](https://lmspeed.net/provider/aigc-arthals-ink) | 81.63% | 81.86% | 89.34% | 89.34% | 4059 ms | → 0.97x | 484 | 5m | 2d ago | 2d ago |
-| [SWT-API](https://lmspeed.net/provider/api-lhyb-dpdns-org) | 81.60% | 95.99% | 95.99% | 95.99% | 1136 ms | ↑ 1.08x | 32 | 42m | 2d ago | 2d ago |
-| [Chibanban](https://lmspeed.net/provider/api-chibanban-de) | 80.76% | 78.93% | 44.91% | 44.91% | 1375 ms | ↑ 1.67x | 121 | 60m | 2d ago | 2d ago |
-| [温云](https://lmspeed.net/provider/sxtuyxrxcgim-ap-northeast-1-clawcloudrun-com) | 80.10% | 80.10% | 80.10% | 80.10% | 245 ms | → 1.00x | 2 | 10h 19m | 3d ago | 2d ago |
-| [ModelPool](https://lmspeed.net/provider/www-modelpool-cn) | 79.75% | 78.21% | 77.34% | 77.34% | 4597 ms | → 1.01x | 604 | 4m | 2d ago | 2d ago |
-| [AiroeAI](https://lmspeed.net/provider/ai-airoe-cn) | 79.63% | 78.34% | 69.08% | 69.08% | 4397 ms | → 1.01x | 619 | 4m | 2d ago | 2d ago |
-| [SCNET](https://lmspeed.net/provider/api-scnet-cn) | 78.87% | 80.90% | 32.85% | 32.85% | 3758 ms | → 0.98x | 557 | 4m | 2d ago | 2d ago |
-| [WSocket AI](https://lmspeed.net/provider/ai-wsocket-xyz) | 78.47% | 73.53% | 73.53% | 73.53% | 4334 ms | → 0.98x | 426 | 7m | 2d ago | 2d ago |
-| [贵州大模型云算力 Token](https://lmspeed.net/provider/gpt-agent-cc) | 78.33% | 60.17% | 60.17% | 60.17% | 723 ms | → 1.00x | 2 | 1d 7h | 3d ago | 2d ago |
-| [MyDamoxing](https://lmspeed.net/provider/mydamoxing-cn) | 77.34% | 85.17% | 85.15% | 85.15% | 4446 ms | ↑ 1.36x | 313 | 9m | 2d ago | 2d ago |
-| [NSCC 广州超算 DeepSeek](https://lmspeed.net/provider/nscc-gz-deepseek) | 76.97% | 61.33% | 61.67% | 61.67% | 4572 ms | ↓ 0.89x | 885 | 8m | 2d ago | 2d ago |
-| [算了么 API](https://lmspeed.net/provider/api-suanli-cn) | 76.66% | 76.50% | 82.86% | 82.86% | 4596 ms | → 1.01x | 636 | 5m | 2d ago | 2d ago |
-| [我不是AI神](https://lmspeed.net/provider/api-udcode-cn) | 75.67% | 75.45% | 51.71% | 51.71% | 4576 ms | → 1.00x | 670 | 5m | 2d ago | 2d ago |
-| [EasyMore](https://lmspeed.net/provider/ai-easymoreapi-com) | 75.57% | 75.57% | 75.57% | 75.57% | 832 ms | → 1.00x | 6 | 5h 22m | 2d ago | 2d ago |
-| [遂人API](https://lmspeed.net/provider/qkznpnwlumic-sealosgzg-site) | 75.11% | 75.62% | 73.78% | 73.78% | 4922 ms | ↑ 1.08x | 666 | 5m | 2d ago | 2d ago |
-| [天翼云](https://lmspeed.net/provider/ctyun) | 74.86% | 64.14% | 72.01% | 72.01% | 4662 ms | ↓ 0.86x | 751 | 9m | 2d ago | 2d ago |
-| [简小智API中转站](https://lmspeed.net/provider/newapi-jianxiaozhi-chat) | 74.65% | 78.14% | 83.52% | 83.52% | 4340 ms | → 1.01x | 615 | 4m | 2d ago | 2d ago |
-| [Jey-API](https://lmspeed.net/provider/openai-zidianidc-com) | 74.65% | 71.10% | 71.10% | 71.10% | 4534 ms | → 0.96x | 561 | 7m | 2d ago | 2d ago |
-| [Moonshot](https://lmspeed.net/provider/moonshot) | 74.06% | 76.40% | 82.25% | 82.25% | 4326 ms | ↑ 1.06x | 622 | 5m | 2d ago | 2d ago |
-| [Astrdark](https://lmspeed.net/provider/api-astrdark-cyou) | 72.35% | 72.35% | 72.35% | 72.35% | 903 ms | → 1.00x | 2 | 16h 60m | 3d ago | 2d ago |
-| [GitCode AI](https://lmspeed.net/provider/gitcode-ai) | 65.07% | 65.49% | 40.63% | 40.63% | 4492 ms | → 1.00x | 777 | 8m | 2d ago | 2d ago |
-| [Zeabur](https://lmspeed.net/provider/cli-proxy-api-667-zeabur-app) | 63.88% | 11.26% | 9.89% | 9.89% | 1458 ms | → 0.98x | 1 | 24d 18h | 30d ago | 2d ago |
-| [PPIO](https://lmspeed.net/provider/ppio) | 61.33% | 66.79% | 77.46% | 77.46% | 4675 ms | ↑ 1.06x | 765 | 8m | 2d ago | 2d ago |
-| [LongCat API](https://lmspeed.net/provider/longcat-api) | 58.57% | 62.48% | 71.43% | 71.43% | 4690 ms | → 1.03x | 831 | 9m | 2d ago | 2d ago |
-| [PICO API](https://lmspeed.net/provider/pico-api) | 54.88% | 54.88% | 54.88% | 54.88% | 1941 ms | → 1.00x | 2 | 8h 19m | 2d ago | 2d ago |
-| [百度千帆](https://lmspeed.net/provider/baidu-qianfan) | 53.04% | 52.90% | 52.90% | 52.90% | 4882 ms | → 0.99x | 189 | 10m | 2d ago | 2d ago |
-| [蜜音AI](https://lmspeed.net/provider/code-coolyeah-net) | 37.82% | 25.12% | 25.12% | 25.12% | 1012 ms | ↓ 0.94x | 2 | 3d 2h | 3d ago | 2d ago |
-| [ModelGate](https://lmspeed.net/provider/modelgate) | 36.78% | 36.78% | 36.78% | 36.78% | 3453 ms | → 1.00x | 8 | 3h 29m | 2d ago | 2d ago |
-| [Bycody CLI Proxy](https://lmspeed.net/provider/bycody-cli-proxy) | 30.09% | 30.09% | 30.09% | 30.09% | 1550 ms | → 1.00x | 2 | 20h 25m | 2d ago | 2d ago |
-| [Moyanjdc API](https://lmspeed.net/provider/moyanjdc-api) | 29.68% | 29.68% | 29.68% | 29.68% | 1332 ms | → 1.00x | 2 | 21h | 2d ago | 2d ago |
-| [32Zi 中转API](https://lmspeed.net/provider/32zi-api) | 25.06% | 25.06% | 25.06% | 25.06% | 2404 ms | → 1.00x | 2 | 1d 3h | 2d ago | 2d ago |
-| [C85 API](https://lmspeed.net/provider/c85-api) | 24.83% | 24.83% | 24.83% | 24.83% | 804 ms | → 1.00x | 2 | 1d 11h | 2d ago | 2d ago |
-| [Google Gemini API](https://lmspeed.net/provider/google-gemini-api) | 16.20% | 2.87% | 0.91% | 0.91% | 1685 ms | ↑ 1.95x | 1 | 27d 18h | 30d ago | 2d ago |
-| [Nebius AI Studio](https://lmspeed.net/provider/nebius-ai-studio) | 16.01% | 2.84% | 0.72% | 0.72% | 2018 ms | ↑ 1.05x | 1 | 27d 18h | 30d ago | 2d ago |
-| [AWA1 API](https://lmspeed.net/provider/awa1-api) | 14.85% | 2.62% | 1.75% | 1.75% | 1348 ms | → 1.03x | 1 | 27d 19h | 30d ago | 2d ago |
-| [QZZ CLI Proxy](https://lmspeed.net/provider/qzz-cli-proxy) | 14.59% | 4.21% | 4.21% | 4.21% | 2295 ms | → 1.04x | 1 | 17d 1h | 20d ago | 2d ago |
-| [Wataruu CLI Proxy](https://lmspeed.net/provider/wataruu-cli-proxy) | 14.59% | 5.43% | 5.43% | 5.43% | 421 ms | → 1.02x | 1 | 13d 5h | 16d ago | 2d ago |
-| [My Claude Code](https://lmspeed.net/provider/my-claude-code) | 14.45% | 2.75% | 2.75% | 2.75% | 77 ms | ↓ 0.44x | 1 | 25d 20h | 28d ago | 2d ago |
-| [Octopus API](https://lmspeed.net/provider/octopus-api) | 14.45% | 2.97% | 2.97% | 2.97% | 221 ms | ↓ 0.86x | 1 | 23d 22h | 26d ago | 2d ago |
-| [对空六课 API](https://lmspeed.net/provider/duikongliuke-api) | 14.43% | 2.54% | 2.08% | 2.08% | 568 ms | ↓ 0.86x | 1 | 27d 20h | 30d ago | 2d ago |
-| [YSQD CLI Proxy](https://lmspeed.net/provider/ysqd-cli-proxy) | 14.41% | 2.54% | 1.29% | 1.29% | 656 ms | ↑ 1.14x | 1 | 27d 20h | 30d ago | 2d ago |
-| [DeepRouter](https://lmspeed.net/provider/deeprouter) | 14.37% | 2.54% | 0.73% | 0.73% | 333 ms | ↓ 0.61x | 1 | 27d 20h | 30d ago | 2d ago |
-| [Huan666 API](https://lmspeed.net/provider/huan666-api) | 14.37% | 2.54% | 0.66% | 0.66% | 614 ms | ↓ 0.89x | 1 | 27d 20h | 30d ago | 2d ago |
-| [Shiyucheng API](https://lmspeed.net/provider/shiyucheng-api) | 14.37% | 2.54% | 1.61% | 1.61% | 1261 ms | → 1.00x | 1 | 27d 20h | 30d ago | 2d ago |
-| [小豆包API](https://lmspeed.net/provider/xiaodoubao-api) | 14.37% | 2.54% | 0.65% | 0.65% | 1052 ms | ↓ 0.87x | 1 | 27d 20h | 30d ago | 2d ago |
-| [3173721 New API](https://lmspeed.net/provider/3173721-new-api) | 14.23% | 2.52% | 0.64% | 0.64% | 712 ms | ↓ 0.62x | 2 | 13d 22h | 2d ago | 2d ago |
-| [Jeniya AI API](https://lmspeed.net/provider/jeniya-ai-api) | 14.23% | 2.52% | 0.64% | 0.64% | 1726 ms | ↑ 1.05x | 1 | 27d 20h | 30d ago | 2d ago |
-| [MIX API](https://lmspeed.net/provider/mix-api) | 14.23% | 2.62% | 18.27% | 18.27% | 1814 ms | ↑ 1.50x | 3 | 9d 6h | 2d ago | 2d ago |
-| [Fireworks AI](https://lmspeed.net/provider/api-fireworks-ai) | 14.19% | 2.51% | 0.64% | 0.64% | 927 ms | ↓ 0.93x | 1 | 27d 20h | 30d ago | 2d ago |
-| [阿里云百炼 DashScope](https://lmspeed.net/provider/dashscope) | 14.09% | 69.05% | 92.11% | 92.11% | 2115 ms | ↓ 0.73x | 436 | 21m | 2d ago | 2d ago |
-| [IQGeAI API](https://lmspeed.net/provider/iqgeai-api) | 13.46% | 7.16% | 7.16% | 7.16% | 3880 ms | ↑ 1.21x | 9 | 1d | 2d ago | 2d ago |
-| [初叶🍂Furry API](https://lmspeed.net/provider/ai-chuyel-top) | 12.90% | 12.90% | 12.90% | 12.90% | 2106 ms | → 1.00x | 1 | 13h 20m | 2d ago | 2d ago |
-| [mol](https://lmspeed.net/provider/api-mol-us-ci) | 11.61% | 52.35% | 52.35% | 52.35% | 798 ms | ↓ 0.29x | 6 | 1d 17h | 12d ago | 2d ago |
-| [Grok2API](https://lmspeed.net/provider/api-xiaowan-us-ci) | 11.41% | 67.31% | 45.71% | 45.71% | 1864 ms | ↓ 0.33x | 4 | 2d 11h | 2d ago | 2d ago |
-| [Piaochong](https://lmspeed.net/provider/api-piaochong-us-ci) | 11.33% | 19.77% | 19.77% | 19.77% | 1823 ms | ↓ 0.53x | 20 | 12h 29m | 2d ago | 2d ago |
-| [Done Hub](https://lmspeed.net/provider/done-hub) | 8.84% | 34.01% | 76.89% | 76.89% | 170 ms | ↑ 1.29x | 8 | 2d 9h | 21d ago | 2d ago |
-| [Academic Sanctum](https://lmspeed.net/provider/academic-sanctum) | 6.49% | 1.17% | 13.45% | 13.45% | 1572 ms | → 0.97x | 1 | 28d 6h | 30d ago | 2d ago |
+| [GPTGod](https://lmspeed.net/provider/gptgod) | 98.90% | 99.24% | 99.26% | 99.26% | 2140 ms | ↑ 1.06x | 31 | 19s | 16h ago | 7h ago |
+| [箴理科技](https://lmspeed.net/provider/provider) | 98.90% | 98.27% | 98.51% | 98.51% | 3482 ms | → 0.99x | 68 | 44s | 11h ago | 7h ago |
+| [FineOneAPI](https://lmspeed.net/provider/fineoneapi) | 98.80% | 99.24% | 98.44% | 98.44% | 3666 ms | → 1.02x | 32 | 0s | 9h ago | 7h ago |
+| [NVIDIA NIM](https://lmspeed.net/provider/nvidia-nim) | 98.79% | 99.64% | 99.90% | 99.90% | 3004 ms | ↑ 1.47x | 12 | 2m | 11h ago | 7h ago |
+| [YUNWU API](https://lmspeed.net/provider/yunwu-ai) | 98.67% | 99.67% | 99.69% | 99.69% | 1256 ms | ↑ 1.14x | 7 | 10m | 2d ago | 7h ago |
+| [AIStack](https://lmspeed.net/provider/aistack) | 98.58% | 95.80% | 96.52% | 96.52% | 3560 ms | → 0.99x | 157 | 1m | 1d ago | 7h ago |
+| [Nahcrof AI](https://lmspeed.net/provider/nahcrof-ai) | 98.03% | 98.41% | 99.18% | 99.18% | 3064 ms | ↑ 1.22x | 35 | 11m | 1h ago | 7h ago |
+| [零一万物](https://lmspeed.net/provider/lingyiwanwu) | 97.58% | 78.01% | 93.17% | 93.17% | 3283 ms | ↓ 0.79x | 400 | 13m | 6h ago | 7h ago |
+| [Lanyun](https://lmspeed.net/provider/lanyun) | 97.35% | 98.96% | 98.76% | 98.76% | 3886 ms | ↑ 1.15x | 29 | 7m | 9h ago | 7h ago |
+| [柏拉图AI](https://lmspeed.net/provider/bltcy-cn) | 97.26% | 97.32% | 97.73% | 97.73% | 4132 ms | ↑ 1.20x | 103 | 1m | 1h ago | 7h ago |
+| [老张API](https://lmspeed.net/provider/laozhang-api) | 97.26% | 98.93% | 99.50% | 99.50% | 1207 ms | → 1.01x | 19 | 14m | 6d ago | 7h ago |
+| [Sisuo New API](https://lmspeed.net/provider/sisuo-new-api) | 96.09% | 96.09% | 96.67% | 96.67% | 3571 ms | → 1.00x | 9 | 1m | 11h ago | 7h ago |
+| [AIO通用智能服务平台](https://lmspeed.net/provider/aio-intelligence) | 95.49% | 95.04% | 90.84% | 90.84% | 2072 ms | → 1.03x | 123 | 7m | 20h ago | 7h ago |
+| [AASS API](https://lmspeed.net/provider/aass-api) | 95.49% | 95.49% | 95.81% | 95.81% | 3369 ms | → 1.00x | 13 | 0s | 6h ago | 7h ago |
+| [AAAI](https://lmspeed.net/provider/aaai) | 94.52% | 95.76% | 98.75% | 98.75% | 1733 ms | ↓ 0.81x | 137 | 3m | 11h ago | 7h ago |
+| [hzfox](https://lmspeed.net/provider/hzfox) | 92.11% | 94.50% | 96.99% | 96.99% | 4155 ms | ↑ 1.33x | 199 | 2m | 25m ago | 7h ago |
+| [SeoSycy API](https://lmspeed.net/provider/seosycy-api) | 85.54% | 87.01% | 79.27% | 79.27% | 4339 ms | ↑ 1.15x | 435 | 3m | 15m ago | 7h ago |
+| [AIGC Arthals](https://lmspeed.net/provider/aigc-arthals-ink) | 82.69% | 82.18% | 89.29% | 89.29% | 4071 ms | → 0.97x | 503 | 5m | 45m ago | 7h ago |
+| [ClawCloud Run](https://lmspeed.net/provider/clawcloud-run) | 82.04% | 81.82% | 94.96% | 94.96% | 4424 ms | ↑ 2.11x | 196 | 30m | 15m ago | 7h ago |
+| [DMXAPI](https://lmspeed.net/provider/www-dmxapi-cn) | 77.43% | 78.43% | 82.97% | 82.97% | 4437 ms | → 1.03x | 657 | 4m | 45m ago | 7h ago |
+| [我的旅行日志](https://lmspeed.net/provider/my-travel-log) | 62.54% | 71.92% | 82.10% | 82.10% | 4439 ms | ↑ 1.11x | 648 | 9m | 55m ago | 7h ago |
+| [阿里云百炼 DashScope](https://lmspeed.net/provider/dashscope) | 26.83% | 70.23% | 92.03% | 92.03% | 4338 ms | ↓ 0.80x | 454 | 20m | 5m ago | 7h ago |
+| [Done Hub](https://lmspeed.net/provider/done-hub) | 23.55% | 36.96% | 77.17% | 77.17% | 180 ms | ↑ 1.11x | 9 | 2d 3h | 1d ago | 7h ago |
 
 </details>
 
 <details open>
-<summary><strong>🔴 Down (158)</strong></summary>
+<summary><strong>🔴 Down (75)</strong></summary>
 
 | Provider | 7d | 30d | 1y | All-time | p95 (7d) | Trend | Incidents (30d) | MTTR | Last incident | Last check |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| [HotaruAPI](https://lmspeed.net/provider/api-hotaruapi-top) | 88.59% | 95.74% | 39.97% | 39.97% | 222 ms | ↓ 0.57x | 19 | 1h 20m | 2d ago | 2d ago |
-| [Nuizi API](https://lmspeed.net/provider/nuizi-api) | 85.35% | 96.98% | 41.41% | 41.41% | 1328 ms | ↓ 0.87x | 15 | 1h 15m | 3d ago | 2d ago |
-| [ClawCloud Run](https://lmspeed.net/provider/clawcloud-run) | 82.18% | 81.78% | 95.19% | 95.19% | 4440 ms | ↑ 2.17x | 158 | 37m | 2d ago | 2d ago |
-| [DMXAPI](https://lmspeed.net/provider/www-dmxapi-cn) | 77.62% | 78.43% | 83.09% | 83.09% | 4446 ms | → 1.02x | 618 | 4m | 2d ago | 2d ago |
-| [我的旅行日志](https://lmspeed.net/provider/my-travel-log) | 66.34% | 72.96% | 82.59% | 82.59% | 4437 ms | ↑ 1.09x | 607 | 8m | 2d ago | 2d ago |
-| [极速AI](https://lmspeed.net/provider/v2-aicodee-com) | 63.31% | 69.72% | 69.72% | 69.72% | 4446 ms | → 1.04x | 305 | 9m | 3d ago | 2d ago |
-| [Gitee AI](https://lmspeed.net/provider/gitee-ai) | 50.00% | 50.95% | 61.82% | 61.82% | 4787 ms | → 1.01x | 844 | 13m | 2d ago | 2d ago |
-| [Saipubw API](https://lmspeed.net/provider/saipubw-api) | 45.18% | 34.04% | 40.37% | 40.37% | 1817 ms | ↓ 0.80x | 171 | 2h 26m | 4d ago | 2d ago |
-| [K2Think](https://lmspeed.net/provider/k2t-shiho-top) | 41.21% | 87.89% | 96.84% | 96.84% | 577 ms | ↓ 0.72x | 59 | 1h 16m | 5d ago | 2d ago |
-| [CLI Proxy API Server](https://lmspeed.net/provider/cpa-mn1-top) | 41.16% | 71.71% | 57.94% | 57.94% | 619 ms | ↑ 3.44x | 16 | 11h 55m | 5d ago | 2d ago |
-| [腾讯混元](https://lmspeed.net/provider/tencent-hunyuan) | 35.46% | 34.92% | 53.53% | 53.53% | 4703 ms | → 0.99x | 732 | 27m | 2d ago | 2d ago |
-| [HanYue_AI](https://lmspeed.net/provider/hyapi-hanyue-xyz) | 24.01% | 86.31% | 63.55% | 63.55% | 1155 ms | ↓ 0.68x | 12 | 8h 52m | 6d ago | 2d ago |
-| [Rix](https://lmspeed.net/provider/rix-chataiapi) | 22.11% | 37.36% | 83.84% | 83.84% | 1011 ms | ↑ 1.18x | 3 | 6d 1h | 6d ago | 2d ago |
-| [中国教育和科研计算机网CERNET](https://lmspeed.net/provider/models-sjtu-edu-cn) | 19.24% | 20.91% | 20.36% | 20.36% | 1573 ms | → 1.04x | 615 | 43m | 2d ago | 2d ago |
-| [阿里巴巴 IdeaLab](https://lmspeed.net/provider/alibaba-idealab) | 16.13% | 67.36% | 76.71% | 76.71% | 2924 ms | ↑ 2.76x | 492 | 19m | 6d ago | 2d ago |
-| [Zhang19hao CLI Proxy](https://lmspeed.net/provider/zhang19hao-cli-proxy) | 6.52% | 1.65% | 1.65% | 1.65% | 1348 ms | ↓ 0.70x | 2 | 9d 21h | 2d ago | 2d ago |
-| [天智大模型网关](https://lmspeed.net/provider/tianzhi-llm-gateway) | 3.52% | 0.62% | 0.19% | 0.19% | 4832 ms | ↑ 1.05x | 16 | 1d 18h | 2d ago | 2d ago |
-| [无限畅享版](https://lmspeed.net/provider/wuxian-changxiangban) | 2.55% | 0.45% | 0.23% | 0.23% | 4737 ms | ↑ 1.17x | 15 | 1d 21h | 2d ago | 2d ago |
-| [Imerji LLM](https://lmspeed.net/provider/imerji-llm) | 1.41% | 0.50% | 0.13% | 0.13% | 822 ms | ↓ 0.31x | 17 | 1d 16h | 2d ago | 2d ago |
-| [Amethyst AI](https://lmspeed.net/provider/api-amethyst-ltd) | 0.28% | 0.05% | 4.51% | 4.51% | 515 ms | ↑ 1.94x | 2 | 14d 6h | 2d ago | 2d ago |
-| [081007 API](https://lmspeed.net/provider/081007-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.62x | 1 | 28d 14h | 30d ago | 2d ago |
-| [20230621 API](https://lmspeed.net/provider/20230621-xyz) | 0.00% | 46.58% | 83.61% | 83.61% | — | ↓ 0.24x | 8 | 1d 23h | 17d ago | 2d ago |
-| [429496 AI](https://lmspeed.net/provider/429496-ai) | 0.00% | 13.10% | 22.63% | 22.63% | — | ↓ 0.94x | 9 | 2d 18h | 26d ago | 2d ago |
-| [550C Cloud Temporary Endpoint](https://lmspeed.net/provider/550c-cloud-temporary-endpoint) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 17h 30m | 2d ago | 2d ago |
-| [665 API](https://lmspeed.net/provider/665-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.99x | 1 | 28d 14h | 30d ago | 2d ago |
-| [theoldllm-api-pro](https://lmspeed.net/provider/a1-6661966-xyz) | 0.00% | 0.00% | 7.03% | 7.03% | — | → 0.95x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Freddy Greve](https://lmspeed.net/provider/ai-api-freddygreve-com) | 0.00% | 16.28% | 4.14% | 4.14% | — | ↓ 0.34x | 2 | 12d | 17d ago | 2d ago |
-| [黑与白公益站](https://lmspeed.net/provider/ai-hybgzs-com) | 0.00% | 0.00% | 26.08% | 26.08% | — | ↑ 1.32x | 1 | 28d 14h | 30d ago | 2d ago |
-| [AI Proxy Service](https://lmspeed.net/provider/ai-proxy-4ba-cn-co) | 0.00% | 0.00% | 44.46% | 44.46% | — | ↓ 0.66x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Aidaxianyi Endpoint](https://lmspeed.net/provider/aidaxianyi-endpoint) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.19x | 1 | 28d 14h | 30d ago | 2d ago |
-| [AidRouter](https://lmspeed.net/provider/aidrouter-qzz-io) | 0.00% | 30.98% | 33.98% | 33.98% | — | ↓ 0.92x | 3 | 6d 16h | 21d ago | 2d ago |
-| [Akass API](https://lmspeed.net/provider/akass-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.90x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Alibaba PAI-EAS Endpoint](https://lmspeed.net/provider/alibaba-pai-eas-endpoint) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 10m | 3d ago | 2d ago |
-| [GPT Load (AllAI)](https://lmspeed.net/provider/allaiload-dpdns-org) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 28d 14h | 30d ago | 2d ago |
-| [ALMZBH API](https://lmspeed.net/provider/almzbh-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 40m | 3d ago | 2d ago |
-| [SkyAI](https://lmspeed.net/provider/api-071572-xyz) | 0.00% | 0.00% | 4.76% | 4.76% | — | ↑ 1.49x | 1 | 28d 14h | 30d ago | 2d ago |
-| [API 1 HEMF](https://lmspeed.net/provider/api-1-hemf) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 17h 60m | 2d ago | 2d ago |
-| [102417 API](https://lmspeed.net/provider/api-102417-xyz) | 0.00% | 0.00% | 24.11% | 24.11% | — | ↓ 0.86x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Sub2API](https://lmspeed.net/provider/api-123nhh-me) | 0.00% | 29.59% | 51.67% | 51.67% | — | ↓ 0.49x | 3 | 6d 19h | 22d ago | 2d ago |
-| [CHB API](https://lmspeed.net/provider/api-464888-xyz) | 0.00% | 56.23% | 88.46% | 88.46% | — | ↓ 0.08x | 5 | 2d 14h | 15d ago | 2d ago |
-| [Atlas Cloud](https://lmspeed.net/provider/api-atlascloud-ai) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.09x | 1 | 28d 14h | 30d ago | 2d ago |
-| [CharTyr](https://lmspeed.net/provider/api-char-icu) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.46x | 1 | 28d 14h | 30d ago | 2d ago |
-| [EnenCloud API](https://lmspeed.net/provider/api-enencloud-top) | 0.00% | 50.01% | 37.76% | 37.76% | — | ↓ 0.81x | 3 | 4d 21h | 16d ago | 2d ago |
-| [Only for Linux.DO](https://lmspeed.net/provider/api-ibs-gss-top) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Nuiziyyds API](https://lmspeed.net/provider/api-nuiziyyds-com) | 0.00% | 0.00% | 10.89% | 10.89% | — | ↑ 1.14x | 1 | 28d 14h | 30d ago | 2d ago |
-| [ORBIAI](https://lmspeed.net/provider/api-orbiai-cloud) | 0.00% | 0.00% | 66.66% | 66.66% | — | ↑ 1.23x | 1 | 28d 14h | 30d ago | 2d ago |
-| [TGContains API](https://lmspeed.net/provider/api-tgcontainsinc-com) | 0.00% | 0.00% | 16.45% | 16.45% | — | ↓ 0.64x | 1 | 28d 14h | 30d ago | 2d ago |
-| [心流](https://lmspeed.net/provider/apis-iflow-cn) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.07x | 1 | 28d 14h | 30d ago | 2d ago |
-| [ASI1 API](https://lmspeed.net/provider/asi1-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.94x | 1 | 28d 14h | 30d ago | 2d ago |
-| [ASXS API](https://lmspeed.net/provider/asxs-api) | 0.00% | 0.00% | 69.91% | 69.91% | — | ↓ 0.53x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Baize 聚合 (HF Space)](https://lmspeed.net/provider/baize-juhe-hf) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.93x | 1 | 28d 14h | 30d ago | 2d ago |
-| [BLJJ API](https://lmspeed.net/provider/bljj-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 10m | 3d ago | 2d ago |
-| [RRJ99 API](https://lmspeed.net/provider/bt-rrj99-com) | 0.00% | 0.00% | 9.51% | 9.51% | — | → 0.97x | 1 | 28d 14h | 30d ago | 2d ago |
-| [BT6 API](https://lmspeed.net/provider/bt6-api) | 0.00% | 23.29% | 80.41% | 80.41% | — | ↓ 0.31x | 1 | 22d 3h | 24d ago | 2d ago |
-| [Cheersgo API](https://lmspeed.net/provider/cheersgo-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.02x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Chiban API](https://lmspeed.net/provider/chiban-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 20m | 3d ago | 2d ago |
-| [CIA](https://lmspeed.net/provider/cia-288878-xyz) | 0.00% | 17.59% | 17.59% | 17.59% | — | ↑ 1.17x | 5 | 2d 18h | 16d ago | 2d ago |
-| [Claw API](https://lmspeed.net/provider/claw-88888868-xyz) | 0.00% | 67.79% | 67.79% | 67.79% | — | ↓ 0.88x | 7 | 1d 2h | 9d ago | 2d ago |
-| [ClawCloud Proxy (jhgpt)](https://lmspeed.net/provider/clawcloud-jhgpt) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.95x | 1 | 28d 14h | 30d ago | 2d ago |
-| [ClawCloud Proxy (rdao)](https://lmspeed.net/provider/clawcloud-rdao) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.97x | 1 | 28d 14h | 30d ago | 2d ago |
-| [CNB Run Workspace Endpoint](https://lmspeed.net/provider/cnb-run-workspace-endpoint) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.58x | 1 | 13d 15h | 15d ago | 2d ago |
-| [SakuraCode](https://lmspeed.net/provider/codex-sakurapy-de) | 0.00% | 55.20% | 55.20% | 55.20% | — | ↓ 0.07x | 5 | 2d 9h | 14d ago | 2d ago |
-| [Codex666](https://lmspeed.net/provider/codex666) | 0.00% | 21.37% | 21.37% | 21.37% | — | ↓ 0.24x | 5 | 2d 2h | 12d ago | 2d ago |
-| [Altare](https://lmspeed.net/provider/console-altr-cc) | 0.00% | 0.00% | 64.63% | 64.63% | — | ↑ 1.21x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Cotton API](https://lmspeed.net/provider/cotton-api) | 0.00% | 61.27% | 90.01% | 90.01% | — | ↑ 2.10x | 2 | 5d 17h | 13d ago | 2d ago |
-| [Crond](https://lmspeed.net/provider/crond) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.23x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Cymru API](https://lmspeed.net/provider/cymru-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 10m | 3d ago | 2d ago |
-| [DeepSeek R1 Shop](https://lmspeed.net/provider/deepseek-r1-shop) | 0.00% | 0.00% | 57.06% | 57.06% | — | ↑ 1.36x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Dev Tunnels Proxy](https://lmspeed.net/provider/dev-tunnels-proxy) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 10m | 3d ago | 2d ago |
-| [DOI9 Translate](https://lmspeed.net/provider/doi9-translate) | 0.00% | 0.00% | 51.88% | 51.88% | — | → 1.00x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Dual Proxy Gateway](https://lmspeed.net/provider/dual-proxy-gateway) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.69x | 1 | 10d 19h | 13d ago | 2d ago |
-| [AI Proxy](https://lmspeed.net/provider/dual-proxy-gateway-565355327-replit-app) | 0.00% | 13.37% | 13.37% | 13.37% | — | ↓ 0.57x | 3 | 3d 4h | 10d ago | 2d ago |
-| [EdgeFN API](https://lmspeed.net/provider/edgefn-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.72x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Elysiver API](https://lmspeed.net/provider/elysiver-api) | 0.00% | 0.05% | 0.04% | 0.04% | — | ↓ 0.77x | 3 | 9d 12h | 14d ago | 2d ago |
-| [Fanyi 963312](https://lmspeed.net/provider/fanyi-963312-xyz) | 0.00% | 0.05% | 71.83% | 71.83% | — | ↑ 2.69x | 3 | 9d 12h | 11d ago | 2d ago |
-| [FFA API](https://lmspeed.net/provider/ffa-api) | 0.00% | 0.00% | 47.62% | 47.62% | — | → 1.00x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Fitue API](https://lmspeed.net/provider/fitue-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 19h 40m | 3d ago | 2d ago |
-| [Fo-API](https://lmspeed.net/provider/fo-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.45x | 1 | 28d 14h | 30d ago | 2d ago |
-| [FRP Proxy Endpoint](https://lmspeed.net/provider/frp-proxy-endpoint) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 17h 30m | 2d ago | 2d ago |
-| [FuturePPO API](https://lmspeed.net/provider/futureppo-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.74x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Gemini Balance](https://lmspeed.net/provider/gemini-balance-clawcloud) | 0.00% | 0.00% | 15.03% | 15.03% | — | ↑ 1.72x | 1 | 28d 14h | 30d ago | 2d ago |
-| [gmi-serving](https://lmspeed.net/provider/gmi-serving) | 0.00% | 0.00% | 28.39% | 28.39% | — | ↓ 0.74x | 1 | 28d 14h | 30d ago | 2d ago |
-| [GPTAPI.US](https://lmspeed.net/provider/gptapi-us) | 0.00% | 0.00% | 50.94% | 50.94% | — | → 1.00x | 1 | 28d 14h | 30d ago | 2d ago |
-| [GPTBest](https://lmspeed.net/provider/gptbest) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.80x | 1 | 28d 14h | 30d ago | 2d ago |
-| [冰のCodex](https://lmspeed.net/provider/ice-v-ua) | 0.00% | 41.72% | 41.72% | 41.72% | — | ↓ 0.18x | 6 | 1d 10h | 10d ago | 2d ago |
-| [InstCopilot API](https://lmspeed.net/provider/instcopilot-api-com) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.57x | 1 | 28d 14h | 30d ago | 2d ago |
-| [IPv4 Beta LM Studio](https://lmspeed.net/provider/ipv4-beta-lm-studio) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 40m | 3d ago | 2d ago |
-| [JD Cloud Model Service](https://lmspeed.net/provider/jd-cloud-model-service) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.98x | 1 | 13d 15h | 15d ago | 2d ago |
-| [Jianxiaoru US Endpoint](https://lmspeed.net/provider/jianxiaoru-us-endpoint) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 17h 30m | 2d ago | 2d ago |
-| [酒馆无限制免费API](https://lmspeed.net/provider/jiuguan-wuxianzhi-mianfei-api) | 0.00% | 12.41% | 76.94% | 76.94% | — | ↑ 1.11x | 2 | 12d 14h | 27d ago | 2d ago |
-| [Joyue](https://lmspeed.net/provider/joyue) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.93x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Kiro](https://lmspeed.net/provider/kiro-nuiziyyds-com) | 0.00% | 0.00% | 4.60% | 4.60% | — | ↓ 0.83x | 1 | 28d 14h | 30d ago | 2d ago |
-| [KuaeCloud Coding Plan Endpoint](https://lmspeed.net/provider/kuaecloud-coding-plan-endpoint) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.91x | 1 | 28d 14h | 30d ago | 2d ago |
-| [联无所AI](https://lmspeed.net/provider/lianwusuoai) | 0.00% | 0.00% | 53.03% | 53.03% | — | ↓ 0.31x | 1 | 28d 14h | 30d ago | 2d ago |
-| [并行科技](https://lmspeed.net/provider/llmapi-paratera-com) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.78x | 1 | 28d 14h | 30d ago | 2d ago |
-| [LLMService](https://lmspeed.net/provider/llmservice) | 0.00% | 0.00% | 0.02% | 0.02% | — | → 0.98x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Magic API](https://lmspeed.net/provider/magic-api-oaiopen) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 20m | 3d ago | 2d ago |
-| [Mine](https://lmspeed.net/provider/mine) | 0.00% | 0.00% | 34.76% | 34.76% | — | ↑ 2.43x | 1 | 28d 14h | 30d ago | 2d ago |
-| [ModelVerse API](https://lmspeed.net/provider/modelverse-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.94x | 1 | 28d 14h | 30d ago | 2d ago |
-| [MrHua API](https://lmspeed.net/provider/mrhua-api) | 0.00% | 0.00% | 29.60% | 29.60% | — | ↓ 0.28x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Zeabur](https://lmspeed.net/provider/neapi-zeabur-app) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.33x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Neo API](https://lmspeed.net/provider/neo-api-2) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 20m | 3d ago | 2d ago |
-| [Netease Mom API](https://lmspeed.net/provider/netease-mom-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 4.61x | 1 | 28d 14h | 30d ago | 2d ago |
-| [微B API](https://lmspeed.net/provider/new-wei-bi) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.39x | 1 | 28d 14h | 30d ago | 2d ago |
-| [拼好站](https://lmspeed.net/provider/new-xigua-wiki) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.14x | 1 | 28d 14h | 30d ago | 2d ago |
-| [小智API](https://lmspeed.net/provider/newai-aichat-ink) | 0.00% | 0.00% | 21.43% | 21.43% | — | ↓ 0.76x | 1 | 28d 14h | 30d ago | 2d ago |
-| [DF-H API](https://lmspeed.net/provider/newapi-df-h-com) | 0.00% | 0.00% | 60.76% | 60.76% | — | ↑ 1.28x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Netlib API](https://lmspeed.net/provider/newapi-netlib-re) | 0.00% | 0.00% | 67.70% | 67.70% | — | → 0.97x | 1 | 28d 14h | 30d ago | 2d ago |
-| [NewAPI502](https://lmspeed.net/provider/newapi502) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.00x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Ollama](https://lmspeed.net/provider/ollama-joyuerpa) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.96x | 1 | 28d 14h | 30d ago | 2d ago |
-| [OpenAI Deno Proxy](https://lmspeed.net/provider/openai-deno-proxy) | 0.00% | 80.69% | 95.01% | 95.01% | — | ↓ 0.89x | 1 | 6d 2h | 8d ago | 2d ago |
-| [OpenOpen8 API](https://lmspeed.net/provider/openopen8-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 21h | 5d ago | 2d ago |
-| [Orange233 OneAPI](https://lmspeed.net/provider/orange233-oneapi) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 10m | 3d ago | 2d ago |
-| [Perplexity AI](https://lmspeed.net/provider/perplexity-ai) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.39x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Peterlyf HGB (HF Space)](https://lmspeed.net/provider/peterlyf-hgb-hf) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.02x | 1 | 28d 14h | 30d ago | 2d ago |
-| [柏拉图AI API中转站](https://lmspeed.net/provider/platon-ai-api-proxy) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 17h 60m | 2d ago | 2d ago |
-| [Plumage API](https://lmspeed.net/provider/plumage-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 20m | 3d ago | 2d ago |
-| [Pptoymit API](https://lmspeed.net/provider/pptoymit-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.86x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Privnode](https://lmspeed.net/provider/privnode) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.75x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Probe API](https://lmspeed.net/provider/probe-api) | 0.00% | 74.19% | 92.11% | 92.11% | — | ↓ 0.64x | 23 | 8h | 9d ago | 2d ago |
-| [专盾Procdn](https://lmspeed.net/provider/procdn) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.36x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Punklorde17 API](https://lmspeed.net/provider/punklorde17-api) | 0.00% | 0.00% | 24.39% | 24.39% | — | ↑ 1.21x | 1 | 28d 14h | 30d ago | 2d ago |
-| [QWQ Chat API](https://lmspeed.net/provider/qwq-chat-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 19h 40m | 3d ago | 2d ago |
-| [R9S API](https://lmspeed.net/provider/r9s-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 1d 16h | 3d ago | 2d ago |
-| [Realpics](https://lmspeed.net/provider/realpics) | 0.00% | 0.00% | 0.91% | 0.91% | — | → 0.98x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Hugging Face](https://lmspeed.net/provider/router-huggingface-co) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.99x | 1 | 28d 14h | 30d ago | 2d ago |
-| [DDNSTO](https://lmspeed.net/provider/rpi-sl-api-kooldns-cn) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.97x | 1 | 28d 14h | 30d ago | 2d ago |
-| [San Baby AI](https://lmspeed.net/provider/san-baby-ai) | 0.00% | 20.18% | 11.45% | 11.45% | — | ↓ 0.03x | 2 | 11d 11h | 19d ago | 2d ago |
-| [nginx](https://lmspeed.net/provider/sdwfger-edu-kg) | 0.00% | 0.00% | 0.06% | 0.06% | — | ↓ 0.86x | 1 | 28d 14h | 30d ago | 2d ago |
-| [SMNet Koyeb Proxy](https://lmspeed.net/provider/smnet-koyeb-proxy) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.52x | 1 | 28d 14h | 30d ago | 2d ago |
-| [SMNet Studio](https://lmspeed.net/provider/smnet-studio) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.00x | 1 | 28d 14h | 30d ago | 2d ago |
-| [星辰MaaS](https://lmspeed.net/provider/spark-api-open-xf-yun-com) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.08x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Square LLM Hub](https://lmspeed.net/provider/square-llm-hub) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.98x | 1 | 28d 14h | 30d ago | 2d ago |
-| [酸枝云](https://lmspeed.net/provider/suanzhi-cloud) | 0.00% | 35.56% | 83.05% | 83.05% | — | ↓ 0.68x | 14 | 1d 8h | 20d ago | 2d ago |
-| [速创API](https://lmspeed.net/provider/succhuang-api) | 0.00% | 0.00% | 20.03% | 20.03% | — | ↑ 3.87x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Sweet Bee Proxy](https://lmspeed.net/provider/sweet-bee-proxy) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.40x | 1 | 28d 14h | 30d ago | 2d ago |
-| [TBAI API](https://lmspeed.net/provider/tbai-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.96x | 1 | 28d 14h | 30d ago | 2d ago |
-| [TeamPlus](https://lmspeed.net/provider/teamplus) | 0.00% | 26.92% | 26.92% | 26.92% | — | ↓ 0.94x | 3 | 5d 9h | 17d ago | 2d ago |
-| [TheoremHub API](https://lmspeed.net/provider/theoremhub-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 18h 10m | 3d ago | 2d ago |
-| [Thick Mole API](https://lmspeed.net/provider/thick-mole-96-deno-dev) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 0.98x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Unlimit](https://lmspeed.net/provider/unlimit) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.92x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Cerebras Sandbox](https://lmspeed.net/provider/v-ag-api-eu-cc) | 0.00% | 0.00% | 22.04% | 22.04% | — | → 1.02x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Veloera](https://lmspeed.net/provider/veloera) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.77x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Veloera (HF Space)](https://lmspeed.net/provider/veloera-hf) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.07x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Harui](https://lmspeed.net/provider/www-harui-edu-kg) | 0.00% | 20.68% | 61.31% | 61.31% | — | ↓ 0.93x | 4 | 5d 17h | 25d ago | 2d ago |
-| [MN API](https://lmspeed.net/provider/www-mnapi-com) | 0.00% | 0.00% | 13.15% | 13.15% | — | ↓ 0.85x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Wxstudio](https://lmspeed.net/provider/wxstudio) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 28d 14h | 30d ago | 2d ago |
-| [xAI](https://lmspeed.net/provider/xai) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.52x | 1 | 28d 14h | 30d ago | 2d ago |
-| [线衣api](https://lmspeed.net/provider/xianyi-zeabur-app) | 0.00% | 0.00% | 0.01% | 0.01% | — | ↓ 0.75x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Xiaomimimo API](https://lmspeed.net/provider/xiaomimimo-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.29x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Xiaomimimo Token Plan CN](https://lmspeed.net/provider/xiaomimimo-token-plan-cn) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.93x | 1 | 13d 19h | 16d ago | 2d ago |
-| [Xinapi](https://lmspeed.net/provider/xinapi) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.63x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Xinference](https://lmspeed.net/provider/xinference) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.12x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Xmdbd](https://lmspeed.net/provider/xmdbd) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.25x | 1 | 28d 14h | 30d ago | 2d ago |
-| [羊羊羊的API](https://lmspeed.net/provider/yangyangyang-api) | 0.00% | 0.00% | 50.85% | 50.85% | — | ↓ 0.48x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Z201508 Worker Proxy](https://lmspeed.net/provider/z201508-worker-proxy) | 0.00% | 81.36% | 95.26% | 95.26% | — | ↓ 0.48x | 2 | 2d 22h | 8d ago | 2d ago |
-| [中软 VO (HF Space)](https://lmspeed.net/provider/zhongruan-vo-hf) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.02x | 1 | 28d 14h | 30d ago | 2d ago |
-| [Zone Veloera](https://lmspeed.net/provider/zone-veloera) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.95x | 1 | 28d 14h | 30d ago | 2d ago |
+| [碳硅生命体](https://lmspeed.net/provider/api-csmindai-com) | 86.16% | 68.54% | 62.44% | 62.44% | 1531 ms | → 0.97x | 46 | 4h 39m | 1d ago | 7h ago |
+| [SiliconFlow](https://lmspeed.net/provider/siliconflow) | 79.54% | 90.86% | 92.32% | 92.32% | 4748 ms | ↑ 1.05x | 188 | 13m | 1h ago | 7h ago |
+| [算了么 API](https://lmspeed.net/provider/api-suanli-cn) | 75.90% | 76.56% | 82.77% | 82.77% | 4539 ms | → 1.02x | 664 | 5m | 25m ago | 7h ago |
+| [Moonshot](https://lmspeed.net/provider/moonshot) | 73.08% | 76.16% | 82.10% | 82.10% | 4462 ms | ↑ 1.07x | 660 | 5m | 55m ago | 7h ago |
+| [天翼云](https://lmspeed.net/provider/ctyun) | 71.08% | 64.09% | 71.83% | 71.83% | 4725 ms | ↓ 0.90x | 785 | 9m | 15m ago | 7h ago |
+| [PPIO](https://lmspeed.net/provider/ppio) | 60.68% | 66.51% | 77.17% | 77.17% | 4788 ms | ↑ 1.09x | 805 | 8m | 5m ago | 7h ago |
+| [百度千帆](https://lmspeed.net/provider/baidu-qianfan) | 51.81% | 51.78% | 49.85% | 49.85% | 4887 ms | → 1.00x | 220 | 12m | 2h ago | 7h ago |
+| [腾讯混元](https://lmspeed.net/provider/tencent-hunyuan) | 34.69% | 34.49% | 53.25% | 53.25% | 4736 ms | → 1.00x | 761 | 27m | 45m ago | 7h ago |
+| [Rix](https://lmspeed.net/provider/rix-chataiapi) | 21.59% | 36.58% | 82.81% | 82.81% | 1011 ms | ↑ 1.18x | 3 | 6d 13h | 6d ago | 7h ago |
+| [Academic Sanctum](https://lmspeed.net/provider/academic-sanctum) | 21.47% | 4.65% | 14.49% | 14.49% | 3280 ms | ↓ 0.90x | 4 | 7d 2h | 7h ago | 7h ago |
+| [阿里巴巴 IdeaLab](https://lmspeed.net/provider/alibaba-idealab) | 14.87% | 64.92% | 75.77% | 75.77% | 2924 ms | ↑ 2.60x | 492 | 23m | 5d ago | 7h ago |
+| [Z201508 Worker Proxy](https://lmspeed.net/provider/z201508-worker-proxy) | 0.77% | 78.59% | 94.09% | 94.09% | — | ↓ 0.49x | 2 | 3d 15h | 7d ago | 7h ago |
+| [665 API](https://lmspeed.net/provider/665-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.03x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Akass API](https://lmspeed.net/provider/akass-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.04x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Alibaba PAI-EAS Endpoint](https://lmspeed.net/provider/alibaba-pai-eas-endpoint) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [GPT Load (AllAI)](https://lmspeed.net/provider/allaiload-dpdns-org) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 29d 24h | 30d ago | 7h ago |
+| [ALMZBH API](https://lmspeed.net/provider/almzbh-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 5h | 2d ago | 7h ago |
+| [API 1 HEMF](https://lmspeed.net/provider/api-1-hemf) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [ORBIAI](https://lmspeed.net/provider/api-orbiai-cloud) | 0.00% | 0.00% | 65.84% | 65.84% | — | ↑ 1.78x | 1 | 29d 24h | 30d ago | 7h ago |
+| [ASXS API](https://lmspeed.net/provider/asxs-api) | 0.00% | 0.00% | 69.06% | 69.06% | — | ↓ 0.56x | 1 | 29d 24h | 30d ago | 7h ago |
+| [BLJJ API](https://lmspeed.net/provider/bljj-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [BT6 API](https://lmspeed.net/provider/bt6-api) | 0.00% | 23.14% | 79.43% | 79.43% | — | ↓ 0.57x | 1 | 23d 13h | 24d ago | 7h ago |
+| [Chiban API](https://lmspeed.net/provider/chiban-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [ClawCloud Proxy (rdao)](https://lmspeed.net/provider/clawcloud-rdao) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.03x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Altare](https://lmspeed.net/provider/console-altr-cc) | 0.00% | 0.00% | 63.83% | 63.83% | — | ↑ 1.62x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Cotton API](https://lmspeed.net/provider/cotton-api) | 0.00% | 59.41% | 88.91% | 88.91% | — | ↑ 2.03x | 2 | 6d 10h | 13d ago | 7h ago |
+| [Cymru API](https://lmspeed.net/provider/cymru-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [Dev Tunnels Proxy](https://lmspeed.net/provider/dev-tunnels-proxy) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [DOI9 Translate](https://lmspeed.net/provider/doi9-translate) | 0.00% | 0.00% | 51.24% | 51.24% | — | → 1.00x | 1 | 29d 24h | 30d ago | 7h ago |
+| [FFA API](https://lmspeed.net/provider/ffa-api) | 0.00% | 0.00% | 47.04% | 47.04% | — | → 1.00x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Fitue API](https://lmspeed.net/provider/fitue-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 6h | 2d ago | 7h ago |
+| [Fo-API](https://lmspeed.net/provider/fo-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.61x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Gemini Balance](https://lmspeed.net/provider/gemini-balance-clawcloud) | 0.00% | 0.00% | 14.84% | 14.84% | — | ↑ 2.22x | 1 | 29d 24h | 30d ago | 7h ago |
+| [gmi-serving](https://lmspeed.net/provider/gmi-serving) | 0.00% | 0.00% | 28.04% | 28.04% | — | ↓ 0.80x | 1 | 29d 24h | 30d ago | 7h ago |
+| [GPTBest](https://lmspeed.net/provider/gptbest) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.83x | 1 | 29d 24h | 30d ago | 7h ago |
+| [酒馆无限制免费API](https://lmspeed.net/provider/jiuguan-wuxianzhi-mianfei-api) | 0.00% | 12.75% | 76.00% | 76.00% | — | ↑ 1.11x | 2 | 13d 7h | 27d ago | 7h ago |
+| [Joyue](https://lmspeed.net/provider/joyue) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.11x | 1 | 29d 24h | 30d ago | 7h ago |
+| [联无所AI](https://lmspeed.net/provider/lianwusuoai) | 0.00% | 0.00% | 52.39% | 52.39% | — | ↓ 0.60x | 1 | 29d 24h | 30d ago | 7h ago |
+| [LLMService](https://lmspeed.net/provider/llmservice) | 0.00% | 0.00% | 0.02% | 0.02% | — | ↑ 1.06x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Magic API](https://lmspeed.net/provider/magic-api-oaiopen) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [Mine](https://lmspeed.net/provider/mine) | 0.00% | 0.00% | 34.33% | 34.33% | — | ↑ 2.35x | 1 | 29d 24h | 30d ago | 7h ago |
+| [MrHua API](https://lmspeed.net/provider/mrhua-api) | 0.00% | 0.00% | 29.24% | 29.24% | — | ↓ 0.35x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Zeabur](https://lmspeed.net/provider/neapi-zeabur-app) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.42x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Neo API](https://lmspeed.net/provider/neo-api-2) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [微B API](https://lmspeed.net/provider/new-wei-bi) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.44x | 1 | 29d 24h | 30d ago | 7h ago |
+| [DF-H API](https://lmspeed.net/provider/newapi-df-h-com) | 0.00% | 0.00% | 60.02% | 60.02% | — | ↑ 1.28x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Orange233 OneAPI](https://lmspeed.net/provider/orange233-oneapi) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [Peterlyf HGB (HF Space)](https://lmspeed.net/provider/peterlyf-hgb-hf) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.16x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Plumage API](https://lmspeed.net/provider/plumage-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [Pptoymit API](https://lmspeed.net/provider/pptoymit-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.75x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Probe API](https://lmspeed.net/provider/probe-api) | 0.00% | 71.75% | 90.98% | 90.98% | — | ↓ 0.62x | 23 | 9h 29m | 9d ago | 7h ago |
+| [专盾Procdn](https://lmspeed.net/provider/procdn) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.48x | 1 | 29d 24h | 30d ago | 7h ago |
+| [QWQ Chat API](https://lmspeed.net/provider/qwq-chat-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 6h | 2d ago | 7h ago |
+| [Realpics](https://lmspeed.net/provider/realpics) | 0.00% | 0.00% | 0.89% | 0.89% | — | ↑ 1.13x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Hugging Face](https://lmspeed.net/provider/router-huggingface-co) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.55x | 1 | 29d 24h | 30d ago | 7h ago |
+| [DDNSTO](https://lmspeed.net/provider/rpi-sl-api-kooldns-cn) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.19x | 1 | 29d 24h | 30d ago | 7h ago |
+| [nginx](https://lmspeed.net/provider/sdwfger-edu-kg) | 0.00% | 0.00% | 0.06% | 0.06% | — | ↑ 1.11x | 1 | 29d 24h | 30d ago | 7h ago |
+| [SMNet Studio](https://lmspeed.net/provider/smnet-studio) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.47x | 1 | 29d 24h | 30d ago | 7h ago |
+| [星辰MaaS](https://lmspeed.net/provider/spark-api-open-xf-yun-com) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.14x | 1 | 29d 24h | 30d ago | 7h ago |
+| [酸枝云](https://lmspeed.net/provider/suanzhi-cloud) | 0.00% | 34.86% | 82.03% | 82.03% | — | ↓ 0.85x | 14 | 1d 10h | 20d ago | 7h ago |
+| [速创API](https://lmspeed.net/provider/succhuang-api) | 0.00% | 0.00% | 19.78% | 19.78% | — | ↑ 3.74x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Sweet Bee Proxy](https://lmspeed.net/provider/sweet-bee-proxy) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↓ 0.69x | 1 | 29d 24h | 30d ago | 7h ago |
+| [TBAI API](https://lmspeed.net/provider/tbai-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.21x | 1 | 29d 24h | 30d ago | 7h ago |
+| [TheoremHub API](https://lmspeed.net/provider/theoremhub-api) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 2d 4h | 2d ago | 7h ago |
+| [Thick Mole API](https://lmspeed.net/provider/thick-mole-96-deno-dev) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.54x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Veloera](https://lmspeed.net/provider/veloera) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.06x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Veloera (HF Space)](https://lmspeed.net/provider/veloera-hf) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.17x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Harui](https://lmspeed.net/provider/www-harui-edu-kg) | 0.00% | 20.65% | 60.56% | 60.56% | — | → 0.98x | 4 | 6d 1h | 24d ago | 7h ago |
+| [MN API](https://lmspeed.net/provider/www-mnapi-com) | 0.00% | 0.00% | 12.99% | 12.99% | — | ↑ 1.27x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Wxstudio](https://lmspeed.net/provider/wxstudio) | 0.00% | 0.00% | 0.00% | 0.00% | — | → 1.00x | 1 | 29d 24h | 30d ago | 7h ago |
+| [xAI](https://lmspeed.net/provider/xai) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 2.90x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Xinference](https://lmspeed.net/provider/xinference) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.11x | 1 | 29d 24h | 30d ago | 7h ago |
+| [羊羊羊的API](https://lmspeed.net/provider/yangyangyang-api) | 0.00% | 0.00% | 50.23% | 50.23% | — | → 1.00x | 1 | 29d 24h | 30d ago | 7h ago |
+| [中软 VO (HF Space)](https://lmspeed.net/provider/zhongruan-vo-hf) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.15x | 1 | 29d 24h | 30d ago | 7h ago |
+| [Zone Veloera](https://lmspeed.net/provider/zone-veloera) | 0.00% | 0.00% | 0.00% | 0.00% | — | ↑ 1.50x | 1 | 29d 24h | 30d ago | 7h ago |
 
 </details>
 
+<details>
+<summary><strong>⚫ Unknown (332)</strong></summary>
+
+| Provider | 7d | 30d | 1y | All-time | p95 (7d) | Trend | Incidents (30d) | MTTR | Last incident | Last check |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| [081007 API](https://lmspeed.net/provider/081007-api) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Zero API](https://lmspeed.net/provider/0api-qzz-io) | — | — | 58.62% | 58.62% | 1583 ms | — | 1 | 12h 20m | 1d ago | — |
+| [GPT Load (PP.UA)](https://lmspeed.net/provider/20230621-pp-ua) | — | — | 90.25% | 90.25% | 3042 ms | — | 6 | 0s | 4h ago | — |
+| [20230621 API](https://lmspeed.net/provider/20230621-xyz) | — | — | 82.59% | 82.59% | — | — | 8 | 2d 3h | 17d ago | — |
+| [API 额度共享平台](https://lmspeed.net/provider/2c2ch1u11-share-api-0-hf-space) | — | — | 61.01% | 61.01% | 1376 ms | — | 6 | 0s | 4h ago | — |
+| [3173721 New API](https://lmspeed.net/provider/3173721-new-api) | — | — | 1.85% | 1.85% | 1520 ms | — | 3 | 9d 7h | 14h ago | — |
+| [32Zi 中转API](https://lmspeed.net/provider/32zi-api) | — | — | 49.08% | 49.08% | 2571 ms | — | 2 | 1d 3h | 2d ago | — |
+| [429496 AI](https://lmspeed.net/provider/429496-ai) | — | — | 21.72% | 21.72% | — | — | 9 | 2d 22h | 25d ago | — |
+| [共绩算力](https://lmspeed.net/provider/550c-cloud) | — | — | 88.08% | 88.08% | 2848 ms | — | 31 | 7m | 4h ago | — |
+| [一叶知秋API](https://lmspeed.net/provider/88996-cloud) | — | — | 97.42% | 97.42% | 2617 ms | — | 18 | 2h 31m | 4h ago | — |
+| [91VIP](https://lmspeed.net/provider/91vip-futureppo-top) | — | — | 97.94% | 97.94% | 1792 ms | — | 11 | 5m | 4h ago | — |
+| [97公益站 AI API Gateway](https://lmspeed.net/provider/97gongyizhan-ai-api-gateway) | — | — | 98.97% | 98.97% | 1733 ms | — | 24 | 7m | 4h ago | — |
+| [theoldllm-api-pro](https://lmspeed.net/provider/a1-6661966-xyz) | — | — | 6.94% | 6.94% | — | — | 1 | 29d 24h | 30d ago | — |
+| [A3](https://lmspeed.net/provider/a3-awsl-app) | — | — | 98.57% | 98.57% | 601 ms | — | 2 | 0s | 4h ago | — |
+| [MapleLeaf API](https://lmspeed.net/provider/ai-071129-xyz) | — | — | 83.55% | 83.55% | 1092 ms | — | 15 | 2h 31m | 1d ago | — |
+| [AI中转站](https://lmspeed.net/provider/ai-192700-xyz) | — | — | 95.91% | 95.91% | 1120 ms | — | 60 | 3m | 4h ago | — |
+| [Zer0by](https://lmspeed.net/provider/ai-1seey-com) | — | — | 92.61% | 92.61% | 1105 ms | — | 1 | 18h 20m | 11d ago | — |
+| [AiroeAI](https://lmspeed.net/provider/ai-airoe-cn) | — | — | 69.13% | 69.13% | 4413 ms | — | 653 | 4m | 24m ago | — |
+| [Freddy Greve](https://lmspeed.net/provider/ai-api-freddygreve-com) | — | — | 4.09% | 4.09% | — | — | 2 | 12d 17h | 17d ago | — |
+| [初叶🍂Furry API](https://lmspeed.net/provider/ai-chuyel-top) | — | — | 67.02% | 67.02% | 2147 ms | — | 3 | 5h 3m | 4h ago | — |
+| [祥云互联](https://lmspeed.net/provider/ai-cloudcatc-cn-91) | — | — | 99.60% | 99.60% | 1139 ms | — | 7 | 0s | 23h ago | — |
+| [E-larex's AI Proxy](https://lmspeed.net/provider/ai-e-larex-com) | — | — | 96.19% | 96.19% | 2108 ms | — | 5 | 2h 32m | 4h ago | — |
+| [EasyMore](https://lmspeed.net/provider/ai-easymoreapi-com) | — | — | 82.41% | 82.41% | 915 ms | — | 7 | 4h 36m | 7h ago | — |
+| [丰思理 AI](https://lmspeed.net/provider/ai-fengsili-online) | — | — | 96.61% | 96.61% | 1244 ms | — | 4 | 3h 45m | 4h ago | — |
+| [黑与白公益站](https://lmspeed.net/provider/ai-hybgzs-com) | — | — | 25.76% | 25.76% | — | — | 1 | 29d 24h | 30d ago | — |
+| [无限智能](https://lmspeed.net/provider/ai-oneinfinityai-com) | — | — | 99.92% | 99.92% | 1358 ms | — | 1 | 0s | 4d ago | — |
+| [Only AV](https://lmspeed.net/provider/ai-onlyav-cn) | — | — | 94.83% | 94.83% | 1067 ms | — | 11 | 3h 57m | 4h ago | — |
+| [AI Platform](https://lmspeed.net/provider/ai-platform-danke666-top) | — | — | 99.41% | 99.41% | 2271 ms | — | 79 | 2m | 8d ago | — |
+| [AI Proxy Service](https://lmspeed.net/provider/ai-proxy-4ba-cn-co) | — | — | 43.92% | 43.92% | — | — | 1 | 29d 24h | 30d ago | — |
+| [QYES AI](https://lmspeed.net/provider/ai-qyes-top) | — | — | 89.71% | 89.71% | 1893 ms | — | 76 | 15m | 1d ago | — |
+| [哈基米公益站](https://lmspeed.net/provider/ai-td-ee) | — | — | 93.60% | 93.60% | 2287 ms | — | 23 | 1h 44m | 4h ago | — |
+| [WSocket AI](https://lmspeed.net/provider/ai-wsocket-xyz) | — | — | 72.44% | 72.44% | 4525 ms | — | 472 | 7m | 3m ago | — |
+| [云飞 AI](https://lmspeed.net/provider/ai-yunfei-best) | — | — | 96.02% | 96.02% | 1485 ms | — | 24 | 31m | 4h ago | — |
+| [Neb 公益站](https://lmspeed.net/provider/ai-zzhdsgsss-xyz) | — | — | 57.63% | 57.63% | 578 ms | — | 1 | 12h 47m | 1d ago | — |
+| [AI98](https://lmspeed.net/provider/ai98-vip) | — | — | 74.87% | 74.87% | 2198 ms | — | 187 | 12m | 4h ago | — |
+| [Yanami](https://lmspeed.net/provider/aiapi-yanami-vip) | — | — | 65.96% | 65.96% | 2147 ms | — | 50 | 2h 10m | 4h ago | — |
+| [艾可API](https://lmspeed.net/provider/aicanapi-com) | — | — | 73.14% | 73.14% | 2699 ms | — | 9 | 1m | 4h ago | — |
+| [爱次元API](https://lmspeed.net/provider/aicy-pro) | — | — | 96.00% | 96.00% | 1554 ms | — | 30 | 31m | 4h ago | — |
+| [Aidaxianyi Endpoint](https://lmspeed.net/provider/aidaxianyi-endpoint) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [AidRouter](https://lmspeed.net/provider/aidrouter-qzz-io) | — | — | 33.19% | 33.19% | — | — | 3 | 7d 3h | 20d ago | — |
+| [联通云](https://lmspeed.net/provider/aigw-jnzs5-cucloud-cn-8443) | — | — | 84.65% | 84.65% | 2179 ms | — | 478 | 2m | 13m ago | — |
+| [Immersive Translate](https://lmspeed.net/provider/aigw1-immersivetranslate-com) | — | — | 38.19% | 38.19% | 474 ms | — | 4 | 3h 45m | 13d ago | — |
+| [飞桨AI Studio](https://lmspeed.net/provider/aistudio-baidu) | — | — | 99.70% | 99.70% | 2812 ms | — | 16 | 2m | 9h ago | — |
+| [AI新境](https://lmspeed.net/provider/aixj-vip) | — | — | 98.11% | 98.11% | 2245 ms | — | 49 | 5m | 4h ago | — |
+| [Any Router](https://lmspeed.net/provider/anyrouter-top) | — | — | 99.80% | 99.80% | 885 ms | — | 6 | 0s | 4h ago | — |
+| [SkyAI](https://lmspeed.net/provider/api-071572-xyz) | — | — | 4.70% | 4.70% | — | — | 1 | 29d 24h | 30d ago | — |
+| [0CHAT](https://lmspeed.net/provider/api-0chat-vip) | — | — | 92.29% | 92.29% | 1647 ms | — | 133 | 11m | 4h ago | — |
+| [Spaceship](https://lmspeed.net/provider/api-102298-xyz) | — | — | 97.42% | 97.42% | 1716 ms | — | 3 | 1h 20m | 7d ago | — |
+| [102417 API](https://lmspeed.net/provider/api-102417-xyz) | — | — | 23.35% | 23.35% | — | — | 1 | 29d 24h | 30d ago | — |
+| [10dian-API](https://lmspeed.net/provider/api-10dian-ai-top) | — | — | 67.93% | 67.93% | 1774 ms | — | 30 | 1h 8m | 4h ago | — |
+| [哈基米API](https://lmspeed.net/provider/api-123chat-top) | — | — | 97.74% | 97.74% | 751 ms | — | 80 | 26m | 1d ago | — |
+| [Sub2API](https://lmspeed.net/provider/api-123nhh-me) | — | — | 50.29% | 50.29% | — | — | 3 | 7d 6h | 22d ago | — |
+| [Sub2API](https://lmspeed.net/provider/api-243706-xyz) | — | — | 100.00% | 100.00% | 607 ms | — | 0 | — | — | — |
+| [CHB API](https://lmspeed.net/provider/api-464888-xyz) | — | — | 87.66% | 87.66% | 1955 ms | — | 6 | 2d 8h | 4h ago | — |
+| [包子铺](https://lmspeed.net/provider/api-5202030-xyz) | — | — | 99.41% | 99.41% | 1867 ms | — | 11 | 0s | 3d ago | — |
+| [AI Wave](https://lmspeed.net/provider/api-ai-wave-org) | — | — | 99.82% | 99.82% | 2500 ms | — | 6 | 0s | 4h ago | — |
+| [AI5](https://lmspeed.net/provider/api-ai5-my) | — | — | 99.93% | 99.93% | 1935 ms | — | 2 | 0s | 4h ago | — |
+| [AIGCBAR](https://lmspeed.net/provider/api-aigc-bar) | — | — | 95.94% | 95.94% | 1587 ms | — | 68 | 2m | 4h ago | — |
+| [AI派](https://lmspeed.net/provider/api-aipaibox-com) | — | — | 99.72% | 99.72% | 877 ms | — | 5 | 0s | 1d ago | — |
+| [Amethyst AI](https://lmspeed.net/provider/api-amethyst-ltd) | — | — | 4.42% | 4.42% | 515 ms | — | 2 | 14d 23h | 2d ago | — |
+| [Anannas](https://lmspeed.net/provider/api-anannas-ai) | — | — | 12.84% | 12.84% | 1241 ms | — | 3 | 4d 24h | 4h ago | — |
+| [Astrdark](https://lmspeed.net/provider/api-astrdark-cyou) | — | — | 80.43% | 80.43% | 998 ms | — | 3 | 11h 20m | 22h ago | — |
+| [Atlas Cloud](https://lmspeed.net/provider/api-atlascloud-ai) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Cerebras](https://lmspeed.net/provider/api-cerebras-ai) | — | — | 99.98% | 99.98% | 1053 ms | — | 0 | — | — | — |
+| [CharTyr](https://lmspeed.net/provider/api-char-icu) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Chibanban](https://lmspeed.net/provider/api-chibanban-de) | — | — | 44.97% | 44.97% | 2392 ms | — | 154 | 52m | 4h ago | — |
+| [Chlink API](https://lmspeed.net/provider/api-chlink-de5-net) | — | — | 95.87% | 95.87% | 2343 ms | — | 17 | 44m | 4h ago | — |
+| [EnenCloud API](https://lmspeed.net/provider/api-enencloud-top) | — | — | 37.05% | 37.05% | — | — | 3 | 5d 9h | 16d ago | — |
+| [ETOS API](https://lmspeed.net/provider/api-ericterminal-com) | — | — | 97.43% | 97.43% | 229 ms | — | 17 | 46m | 14h ago | — |
+| [F2API](https://lmspeed.net/provider/api-f2api-com) | — | — | 94.20% | 94.20% | 712 ms | — | 3 | 0s | 4h ago | — |
+| [Fireworks AI](https://lmspeed.net/provider/api-fireworks-ai) | — | — | 1.85% | 1.85% | 1008 ms | — | 3 | 9d 7h | 4h ago | — |
+| [哈基米API站](https://lmspeed.net/provider/api-gemai-cc) | — | — | 42.63% | 42.63% | 958 ms | — | 43 | 3m | 7h ago | — |
+| [fffaa AI](https://lmspeed.net/provider/api-heabl-top) | — | — | 95.34% | 95.34% | 1093 ms | — | 31 | 28m | 4h ago | — |
+| [HotaruAPI](https://lmspeed.net/provider/api-hotaruapi-top) | — | — | 39.36% | 39.36% | 222 ms | — | 19 | 3h 7m | 2d ago | — |
+| [Only for Linux.DO](https://lmspeed.net/provider/api-ibs-gss-top) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [ModelScope](https://lmspeed.net/provider/api-inference-modelscope-cn) | — | — | 99.54% | 99.54% | 2986 ms | — | 18 | 0s | 4h ago | — |
+| [S.A.](https://lmspeed.net/provider/api-komeiji-shiki-top) | — | — | 98.00% | 98.00% | 1445 ms | — | 26 | 47s | 4h ago | — |
+| [Kouri Ai](https://lmspeed.net/provider/api-kourichat-com) | — | — | 96.45% | 96.45% | 2023 ms | — | 92 | 3m | 4h ago | — |
+| [Kriora](https://lmspeed.net/provider/api-kriora-com) | — | — | 98.60% | 98.60% | 884 ms | — | 4 | 0s | 4h ago | — |
+| [SWT-API](https://lmspeed.net/provider/api-lhyb-dpdns-org) | — | — | 95.90% | 95.90% | 2810 ms | — | 49 | 28m | 6h ago | — |
+| [乐天图书馆](https://lmspeed.net/provider/api-lotte-library-top) | — | — | 75.03% | 75.03% | 1048 ms | — | 19 | 5m | 4h ago | — |
+| [MAMMOUTH API](https://lmspeed.net/provider/api-mammouth-ai) | — | — | 53.86% | 53.86% | 1111 ms | — | 12 | 2m | 2d ago | — |
+| [wuer的api站](https://lmspeed.net/provider/api-minewuer-top) | — | — | 71.28% | 71.28% | 2872 ms | — | 16 | 37s | 4h ago | — |
+| [MMKG](https://lmspeed.net/provider/api-mmkg-cloud) | — | — | 96.79% | 96.79% | 1550 ms | — | 6 | 2h 13m | 4h ago | — |
+| [mol](https://lmspeed.net/provider/api-mol-us-ci) | — | — | 55.29% | 55.29% | 1661 ms | — | 7 | 1d 11h | 4h ago | — |
+| [N1N](https://lmspeed.net/provider/api-n1n-ai) | — | — | 90.72% | 90.72% | 932 ms | — | 9 | 0s | 4h ago | — |
+| [Nuiziyyds API](https://lmspeed.net/provider/api-nuiziyyds-com) | — | — | 10.76% | 10.76% | — | — | 1 | 29d 24h | 30d ago | — |
+| [NUWA](https://lmspeed.net/provider/api-nuwaapi-com) | — | — | 95.70% | 95.70% | 1197 ms | — | 3 | 4h 10m | 1d ago | — |
+| [OfoxAI](https://lmspeed.net/provider/api-ofox-ai) | — | — | 99.83% | 99.83% | 2023 ms | — | 6 | 2m | 4h ago | — |
+| [Piaochong](https://lmspeed.net/provider/api-piaochong-us-ci) | — | — | 27.24% | 27.24% | 2830 ms | — | 29 | 8h 37m | 23m ago | — |
+| [Yunchu API](https://lmspeed.net/provider/api-qiulingyan-top) | — | — | 95.44% | 95.44% | 1991 ms | — | 48 | 18m | 4h ago | — |
+| [SCNET](https://lmspeed.net/provider/api-scnet-cn) | — | — | 32.42% | 32.42% | 3768 ms | — | 562 | 7m | 1d ago | — |
+| [Sliam](https://lmspeed.net/provider/api-sliam-site) | — | — | 93.86% | 93.86% | 631 ms | — | 3 | 5h 3m | 3d ago | — |
+| [SMLC666 API](https://lmspeed.net/provider/api-smlc666-top) | — | — | 33.21% | 33.21% | 702 ms | — | 47 | 2m | 2d ago | — |
+| [SwifllyLLM](https://lmspeed.net/provider/api-swiflly-com) | — | — | 65.68% | 65.68% | 1705 ms | — | 4 | 0s | 4h ago | — |
+| [TGContains API](https://lmspeed.net/provider/api-tgcontainsinc-com) | — | — | 16.25% | 16.25% | — | — | 1 | 29d 24h | 30d ago | — |
+| [TokenPony](https://lmspeed.net/provider/api-tokenpony-cn) | — | — | 44.17% | 44.17% | 1104 ms | — | 8 | 2d 12h | 4h ago | — |
+| [我不是AI神](https://lmspeed.net/provider/api-udcode-cn) | — | — | 51.96% | 51.96% | 4652 ms | — | 706 | 5m | 23m ago | — |
+| [uglycat](https://lmspeed.net/provider/api-uglycat-cc) | — | — | 96.67% | 96.67% | 1171 ms | — | 13 | 51m | 4h ago | — |
+| [向量引擎](https://lmspeed.net/provider/api-vectorengine-ai) | — | — | 40.45% | 40.45% | 1422 ms | — | 7 | 0s | 1d ago | — |
+| [Venlacy](https://lmspeed.net/provider/api-venlacy-top) | — | — | 35.91% | 35.91% | 457 ms | — | 50 | 1m | 8d ago | — |
+| [Wahoo AI](https://lmspeed.net/provider/api-wahooai-com) | — | — | 31.31% | 31.31% | 2308 ms | — | 2 | 0s | 2d ago | — |
+| [R的API小站](https://lmspeed.net/provider/api-xiaor-online) | — | — | 73.45% | 73.45% | 1018 ms | — | 18 | 2m | 4h ago | — |
+| [Grok2API](https://lmspeed.net/provider/api-xiaowan-us-ci) | — | — | 46.84% | 46.84% | 3461 ms | — | 5 | 1d 23h | 4h ago | — |
+| [星见雅 API](https://lmspeed.net/provider/api-xinjianya-top) | — | — | 97.55% | 97.55% | 852 ms | — | 27 | 12m | 7h ago | — |
+| [巨量API](https://lmspeed.net/provider/api-yidvps-cn) | — | — | 97.00% | 97.00% | 4140 ms | — | 59 | 5m | 1h ago | — |
+| [智增增API](https://lmspeed.net/provider/api-zhizengzeng-com) | — | — | 99.17% | 99.17% | 2836 ms | — | 21 | 13m | 4h ago | — |
+| [Zhongzhuan Chat](https://lmspeed.net/provider/api-zhongzhuan-chat) | — | — | 99.71% | 99.71% | 782 ms | — | 2 | 0s | 4h ago | — |
+| [Yun API](https://lmspeed.net/provider/api-zyai-online) | — | — | 47.21% | 47.21% | 2218 ms | — | 9 | 0s | 4h ago | — |
+| [钱多多 API](https://lmspeed.net/provider/api2-aigcbest-top) | — | — | 51.48% | 51.48% | 1554 ms | — | 19 | 4m | 4h ago | — |
+| [素墨API](https://lmspeed.net/provider/apifree-rensumo-top) | — | — | 98.94% | 98.94% | 1538 ms | — | 13 | 47s | 4h ago | — |
+| [数标标API-FS](https://lmspeed.net/provider/apifs-shubiaobiao-cn) | — | — | 84.74% | 84.74% | 2875 ms | — | 9 | 12m | 4h ago | — |
+| [APIPool](https://lmspeed.net/provider/apipool) | — | — | 99.80% | 99.80% | 1021 ms | — | 6 | 0s | 4h ago | — |
+| [新生智码工坊](https://lmspeed.net/provider/apiport-cc-cd) | — | — | 99.42% | 99.42% | 926 ms | — | 18 | 12m | 4h ago | — |
+| [心流](https://lmspeed.net/provider/apis-iflow-cn) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [玄黄](https://lmspeed.net/provider/apis-soys-site) | — | — | 97.30% | 97.30% | 1916 ms | — | 3 | 3h 47m | 4h ago | — |
+| [ASI1 API](https://lmspeed.net/provider/asi1-api) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [AWA1 API](https://lmspeed.net/provider/awa1-api) | — | — | 4.81% | 4.81% | 1269 ms | — | 2 | 13d 22h | 4h ago | — |
+| [Baize 聚合 (HF Space)](https://lmspeed.net/provider/baize-juhe-hf) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [RRJ99 API](https://lmspeed.net/provider/bt-rrj99-com) | — | — | 9.14% | 9.14% | — | — | 1 | 29d 24h | 30d ago | — |
+| [BUZZ](https://lmspeed.net/provider/buzzai-cc) | — | — | 54.42% | 54.42% | 1418 ms | — | 9 | 1d 7h | 4h ago | — |
+| [Bycody CLI Proxy](https://lmspeed.net/provider/bycody-cli-proxy) | — | — | 54.99% | 54.99% | 2452 ms | — | 4 | 10h 13m | 23m ago | — |
+| [C85 API](https://lmspeed.net/provider/c85-api) | — | — | 46.32% | 46.32% | 960 ms | — | 9 | 7h 49m | 10h ago | — |
+| [Cheersgo API](https://lmspeed.net/provider/cheersgo-api) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [CIA](https://lmspeed.net/provider/cia-288878-xyz) | — | — | 16.22% | 16.22% | — | — | 5 | 3d 1h | 15d ago | — |
+| [MIXAPI-3.3](https://lmspeed.net/provider/ck67-top) | — | — | 83.81% | 83.81% | 1434 ms | — | 25 | 0s | 4h ago | — |
+| [Claw API](https://lmspeed.net/provider/claw-88888868-xyz) | — | — | 63.84% | 63.84% | — | — | 7 | 1d 7h | 9d ago | — |
+| [ClawCloud Proxy (akmf)](https://lmspeed.net/provider/clawcloud-akmf-3) | — | — | 95.42% | 95.42% | 4338 ms | — | 143 | 41m | 2h ago | — |
+| [ClawCloud Proxy (jhgpt)](https://lmspeed.net/provider/clawcloud-jhgpt) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Zeabur](https://lmspeed.net/provider/cli-proxy-api-667-zeabur-app) | — | — | 13.51% | 13.51% | 1377 ms | — | 3 | 8d 6h | 13m ago | — |
+| [CNB Run Workspace Endpoint](https://lmspeed.net/provider/cnb-run-workspace-endpoint) | — | — | 0.00% | 0.00% | — | — | 1 | 15d 1h | 15d ago | — |
+| [蜜音AI](https://lmspeed.net/provider/code-coolyeah-net) | — | — | 36.57% | 36.57% | 1353 ms | — | 2 | 3d 2h | 3d ago | — |
+| [Codex API](https://lmspeed.net/provider/codex-ai02-cn) | — | — | 100.00% | 100.00% | 537 ms | — | 0 | — | — | — |
+| [PackyAPI](https://lmspeed.net/provider/codex-api-packycode-com) | — | — | 98.79% | 98.79% | 976 ms | — | 4 | 18m | 16d ago | — |
+| [Codex For Me](https://lmspeed.net/provider/codex-for-me) | — | — | 97.94% | 97.94% | 1467 ms | — | 17 | 21m | 4h ago | — |
+| [Codex Proxy](https://lmspeed.net/provider/codex-miaomiaocode-com) | — | — | 89.24% | 89.24% | 4153 ms | — | 26 | 42m | 1d ago | — |
+| [SakuraCode](https://lmspeed.net/provider/codex-sakurapy-de) | — | — | 52.37% | 52.37% | — | — | 5 | 2d 16h | 13d ago | — |
+| [Codex666](https://lmspeed.net/provider/codex666) | — | — | 21.37% | 21.37% | — | — | 5 | 2d 2h | 12d ago | — |
+| [CLI Proxy API Server](https://lmspeed.net/provider/cpa-luckyx-cn) | — | — | 54.22% | 54.22% | 1967 ms | — | 1 | 12h 50m | 1d ago | — |
+| [CLI Proxy API Server](https://lmspeed.net/provider/cpa-mn1-top) | — | — | 58.47% | 58.47% | 2201 ms | — | 17 | 11h 43m | 4h ago | — |
+| [天宫造物](https://lmspeed.net/provider/cpa-tgzw-shop) | — | — | 97.70% | 97.70% | 409 ms | — | 7 | 1h 44m | 4h ago | — |
+| [CPAPI EU (2)](https://lmspeed.net/provider/cpapi-eu-2) | — | — | 98.74% | 98.74% | 2139 ms | — | 76 | 8m | 4h ago | — |
+| [Crond](https://lmspeed.net/provider/crond) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [APDSM](https://lmspeed.net/provider/cto-ntbsd-eu-org) | — | — | 89.17% | 89.17% | 3043 ms | — | 6 | 8h 38m | 4h ago | — |
+| [DeepRouter](https://lmspeed.net/provider/deeprouter) | — | — | 2.09% | 2.09% | 434 ms | — | 1 | 27d 20h | 30d ago | — |
+| [DeepSeek R1 Shop](https://lmspeed.net/provider/deepseek-r1-shop) | — | — | 56.36% | 56.36% | — | — | 1 | 29d 24h | 30d ago | — |
+| [VoAPI公益站](https://lmspeed.net/provider/demo-voapi-top) | — | — | 98.90% | 98.90% | 2684 ms | — | 26 | 2m | 4h ago | — |
+| [New API](https://lmspeed.net/provider/dreamchatbot-top) | — | — | 30.91% | 30.91% | 1096 ms | — | 1 | 13h 10m | 19h ago | — |
+| [Dual Proxy Gateway](https://lmspeed.net/provider/dual-proxy-gateway) | — | — | 0.00% | 0.00% | — | — | 1 | 12d 5h | 12d ago | — |
+| [AI Proxy](https://lmspeed.net/provider/dual-proxy-gateway-565355327-replit-app) | — | — | 11.81% | 11.81% | — | — | 3 | 3d 15h | 10d ago | — |
+| [对空六课 API](https://lmspeed.net/provider/duikongliuke-api) | — | — | 5.76% | 5.76% | 1523 ms | — | 3 | 9d 7h | 4h ago | — |
+| [小水管](https://lmspeed.net/provider/edge-pieixan-icu) | — | — | 96.90% | 96.90% | 950 ms | — | 28 | 29m | 4h ago | — |
+| [EdgeFN API](https://lmspeed.net/provider/edgefn-api) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Elysiver API](https://lmspeed.net/provider/elysiver-api) | — | — | 0.04% | 0.04% | — | — | 3 | 9d 24h | 13d ago | — |
+| [Fanyi 963312](https://lmspeed.net/provider/fanyi-963312-xyz) | — | — | 70.95% | 70.95% | — | — | 3 | 9d 24h | 11d ago | — |
+| [Feiyametta HF Space](https://lmspeed.net/provider/feiyametta-hf-space) | — | — | 98.99% | 98.99% | 3069 ms | — | 3 | 0s | 14h ago | — |
+| [52公益站](https://lmspeed.net/provider/free-9e-nz) | — | — | 98.20% | 98.20% | 2160 ms | — | 18 | 32m | 7h ago | — |
+| [FRP Proxy Endpoint](https://lmspeed.net/provider/frp-proxy-endpoint) | — | — | 0.00% | 0.00% | — | — | 1 | 2d 3h | 2d ago | — |
+| [FuturePPO API](https://lmspeed.net/provider/futureppo-api) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Futureppo](https://lmspeed.net/provider/futureppo-fuck-me) | — | — | 98.05% | 98.05% | 1646 ms | — | 14 | 6m | 4h ago | — |
+| [GG公益站-云GCLI](https://lmspeed.net/provider/gcli-ggchan-dev) | — | — | 98.91% | 98.91% | 1107 ms | — | 13 | 22m | 4d ago | — |
+| [Gemma](https://lmspeed.net/provider/gemma-san-baby) | — | — | 96.27% | 96.27% | 1309 ms | — | 4 | 1h 48m | 2d ago | — |
+| [GitCode AI](https://lmspeed.net/provider/gitcode-ai) | — | — | 41.11% | 41.11% | 4534 ms | — | 817 | 8m | 34m ago | — |
+| [Gitee AI](https://lmspeed.net/provider/gitee-ai) | — | — | 61.30% | 61.30% | 4856 ms | — | 866 | 15m | 14m ago | — |
+| [GLM BigModel Relay](https://lmspeed.net/provider/glm-bigmodel-relay) | — | — | 99.59% | 99.59% | 2680 ms | — | 4 | 1h 8m | 4h ago | — |
+| [全球AI](https://lmspeed.net/provider/globalai-vip) | — | — | 99.20% | 99.20% | 1110 ms | — | 82 | 5m | 21h ago | — |
+| [Good HIDNS](https://lmspeed.net/provider/good-hidns) | — | — | 97.25% | 97.25% | 2441 ms | — | 21 | 29s | 4h ago | — |
+| [Google Gemini API](https://lmspeed.net/provider/google-gemini-api) | — | — | 2.40% | 2.40% | 2145 ms | — | 3 | 9d 6h | 4h ago | — |
+| [贵州大模型云算力 Token](https://lmspeed.net/provider/gpt-agent-cc) | — | — | 66.79% | 66.79% | 1451 ms | — | 4 | 15h 20m | 19h ago | — |
+| [GPT Load](https://lmspeed.net/provider/gpt-load-2) | — | — | 12.62% | 12.62% | 345 ms | — | 32 | 11h 15m | 3h ago | — |
+| [GPT Load (Shiho)](https://lmspeed.net/provider/gpt-load-shiho-top) | — | — | 99.51% | 99.51% | 518 ms | — | 61 | 2m | 4h ago | — |
+| [晴辰云](https://lmspeed.net/provider/gpt-qt-cool) | — | — | 99.73% | 99.73% | 1850 ms | — | 11 | 56s | 4h ago | — |
+| [gptanon-2api](https://lmspeed.net/provider/gptanon-2api-to2ai-workers-dev) | — | — | 89.05% | 89.05% | 228 ms | — | 1 | 13h 50m | 6d ago | — |
+| [GPTAPI.US](https://lmspeed.net/provider/gptapi-us) | — | — | 50.32% | 50.32% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Fangyuan API](https://lmspeed.net/provider/gptpay-store) | — | — | 99.83% | 99.83% | 1799 ms | — | 5 | 0s | 4h ago | — |
+| [GPTPlus5 API](https://lmspeed.net/provider/gptplus5-api) | — | — | 99.83% | 99.83% | 1595 ms | — | 3 | 3m | 4h ago | — |
+| [Groq](https://lmspeed.net/provider/groq) | — | — | 99.76% | 99.76% | 1036 ms | — | 21 | 9m | 4h ago | — |
+| [GRSAI API](https://lmspeed.net/provider/grsai-api) | — | — | 40.53% | 40.53% | 752 ms | — | 2 | 15m | 14d ago | — |
+| [GuaiHub](https://lmspeed.net/provider/guaihub) | — | — | 95.48% | 95.48% | 2049 ms | — | 3 | 37m | 19h ago | — |
+| [Hajimi API](https://lmspeed.net/provider/hajimi) | — | — | 85.04% | 85.04% | 2496 ms | — | 5 | 0s | 4h ago | — |
+| [91VIP API](https://lmspeed.net/provider/hcg-pippi-top) | — | — | 94.57% | 94.57% | 1980 ms | — | 128 | 7m | 4h ago | — |
+| [Hi API](https://lmspeed.net/provider/hiapi-online) | — | — | 49.02% | 49.02% | 1703 ms | — | 9 | 0s | 4h ago | — |
+| [微雨API](https://lmspeed.net/provider/hu-weiyusc-top) | — | — | 99.66% | 99.66% | 1460 ms | — | 4 | 0s | 2d ago | — |
+| [Huan666 API](https://lmspeed.net/provider/huan666-api) | — | — | 1.90% | 1.90% | 1003 ms | — | 1 | 27d 20h | 30d ago | — |
+| [HanYue_AI](https://lmspeed.net/provider/hyapi-hanyue-xyz) | — | — | 62.13% | 62.13% | 1155 ms | — | 12 | 11h 42m | 6d ago | — |
+| [冰のCodex](https://lmspeed.net/provider/icoe-pp-ua) | — | — | 99.92% | 99.92% | 939 ms | — | 1 | 0s | 4d ago | — |
+| [Imerji LLM](https://lmspeed.net/provider/imerji-llm) | — | — | 0.13% | 0.13% | 830 ms | — | 18 | 1d 16h | 8h ago | — |
+| [DNSHE](https://lmspeed.net/provider/imsnake-dart-us-ci) | — | — | 90.01% | 90.01% | 2499 ms | — | 1 | 0s | 4h ago | — |
+| [InstCopilot API](https://lmspeed.net/provider/instcopilot-api-com) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [IPv4 Beta LM Studio](https://lmspeed.net/provider/ipv4-beta-lm-studio) | — | — | 0.00% | 0.00% | — | — | 1 | 2d 5h | 2d ago | — |
+| [IQGeAI API](https://lmspeed.net/provider/iqgeai-api) | — | — | 16.52% | 16.52% | 4090 ms | — | 37 | 6h 1m | 2h ago | — |
+| [JD Cloud Model Service](https://lmspeed.net/provider/jd-cloud-model-service) | — | — | 0.00% | 0.00% | — | — | 1 | 15d 1h | 15d ago | — |
+| [Jeniya AI API](https://lmspeed.net/provider/jeniya-ai-api) | — | — | 1.78% | 1.78% | 4146 ms | — | 12 | 2d 8h | 4h ago | — |
+| [简易-API中转站](https://lmspeed.net/provider/jeniya-top) | — | — | 98.24% | 98.24% | 1415 ms | — | 18 | 0s | 4h ago | — |
+| [Jianxiaoru US Endpoint](https://lmspeed.net/provider/jianxiaoru-us-endpoint) | — | — | 0.00% | 0.00% | — | — | 1 | 2d 3h | 2d ago | — |
+| [K2Think](https://lmspeed.net/provider/k2t-shiho-top) | — | — | 95.65% | 95.65% | 577 ms | — | 59 | 1h 51m | 4d ago | — |
+| [Kilo](https://lmspeed.net/provider/kilo-ai) | — | — | 97.70% | 97.70% | 637 ms | — | 2 | 6h 50m | 4h ago | — |
+| [Kiro](https://lmspeed.net/provider/kiro-nuiziyyds-com) | — | — | 4.50% | 4.50% | — | — | 1 | 29d 24h | 30d ago | — |
+| [KuaeCloud Coding Plan Endpoint](https://lmspeed.net/provider/kuaecloud-coding-plan-endpoint) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [llm-2-api](https://lmspeed.net/provider/llm-2-api-com) | — | — | 100.00% | 100.00% | 926 ms | — | 0 | — | — | — |
+| [GankInterview LLM](https://lmspeed.net/provider/llm-gankinterview-com) | — | — | 94.93% | 94.93% | 1419 ms | — | 5 | 2h 40m | 1d ago | — |
+| [国产大模型 API](https://lmspeed.net/provider/llm-undefined-qzz-io) | — | — | 94.26% | 94.26% | 1609 ms | — | 9 | 1h 47m | 6h ago | — |
+| [人人 API](https://lmspeed.net/provider/llm-whitedream-top) | — | — | 89.22% | 89.22% | 840 ms | — | 52 | 26m | 7h ago | — |
+| [并行科技](https://lmspeed.net/provider/llmapi-paratera-com) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [LMProxy](https://lmspeed.net/provider/lmproxy) | — | — | 57.74% | 57.74% | 526 ms | — | 4 | 0s | 2h ago | — |
+| [LongCat API](https://lmspeed.net/provider/longcat-api) | — | — | 71.17% | 71.17% | 4691 ms | — | 885 | 9m | 34m ago | — |
+| [Cloudflare](https://lmspeed.net/provider/marcus-fig-joy-postings-trycloudflare-com) | — | — | 89.35% | 89.35% | 602 ms | — | 1 | 15h 49m | 7d ago | — |
+| [Mars HK](https://lmspeed.net/provider/mars-hk-duckdns-org-38317) | — | — | 92.69% | 92.69% | 1974 ms | — | 72 | 21m | 4h ago | — |
+| [美团团 API](https://lmspeed.net/provider/max-openai365-top) | — | — | 71.52% | 71.52% | 1156 ms | — | 12 | 47s | 4h ago | — |
+| [MiniMax](https://lmspeed.net/provider/minimax) | — | — | 98.24% | 98.24% | 3279 ms | — | 22 | 55s | 4h ago | — |
+| [Mistral AI](https://lmspeed.net/provider/mistral-ai-api) | — | — | 99.84% | 99.84% | 1654 ms | — | 9 | 1m | 14h ago | — |
+| [MIX API](https://lmspeed.net/provider/mix-api) | — | — | 19.51% | 19.51% | 2431 ms | — | 10 | 2d 19h | 44m ago | — |
+| [ModelGate](https://lmspeed.net/provider/modelgate) | — | — | 60.49% | 60.49% | 4043 ms | — | 22 | 1h 16m | 1h ago | — |
+| [中国教育和科研计算机网CERNET](https://lmspeed.net/provider/models-sjtu-edu-cn) | — | — | 20.41% | 20.41% | 3010 ms | — | 642 | 43m | 43m ago | — |
+| [ModelVerse API](https://lmspeed.net/provider/modelverse-api) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Moyanjdc API](https://lmspeed.net/provider/moyanjdc-api) | — | — | 54.17% | 54.17% | 1904 ms | — | 4 | 10h 33m | 9h ago | — |
+| [ModelScope](https://lmspeed.net/provider/ms-ens-257c1f27-2cc6-api-inference-modelscope-cn) | — | — | 99.20% | 99.20% | 2830 ms | — | 22 | 33m | 1h ago | — |
+| [My Claude Code](https://lmspeed.net/provider/my-claude-code) | — | — | 7.40% | 7.40% | 2376 ms | — | 6 | 4d 7h | 4h ago | — |
+| [MyDamoxing](https://lmspeed.net/provider/mydamoxing-cn) | — | — | 83.98% | 83.98% | 4568 ms | — | 354 | 9m | 23m ago | — |
+| [钠 API](https://lmspeed.net/provider/naapi-cc) | — | — | 98.99% | 98.99% | 1494 ms | — | 9 | 0s | 4h ago | — |
+| [NanoGPT](https://lmspeed.net/provider/nano-gpt-com) | — | — | 55.93% | 55.93% | 1472 ms | — | 2 | 0s | 4h ago | — |
+| [Seamee API](https://lmspeed.net/provider/napi-seaya-link) | — | — | 95.56% | 95.56% | 1091 ms | — | 46 | 4m | 4h ago | — |
+| [Nebius AI Studio](https://lmspeed.net/provider/nebius-ai-studio) | — | — | 1.60% | 1.60% | 4175 ms | — | 33 | 20h 17m | 4h ago | — |
+| [Netease Mom API](https://lmspeed.net/provider/netease-mom-api) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Sealos](https://lmspeed.net/provider/new-api-imnlocrv-sealoshzh-site) | — | — | 97.93% | 97.93% | 3927 ms | — | 39 | 46s | 2h ago | — |
+| [Koru API](https://lmspeed.net/provider/new-api-koru-ink) | — | — | 85.52% | 85.52% | 1509 ms | — | 108 | 25m | 4h ago | — |
+| [TommyLam API](https://lmspeed.net/provider/new-api-tommylam-me) | — | — | 45.03% | 45.03% | 983 ms | — | 2 | 0s | 4h ago | — |
+| [小天公益站](https://lmspeed.net/provider/new-api-xt-url-com) | — | — | 97.58% | 97.58% | 1422 ms | — | 6 | 1h 25m | 4h ago | — |
+| [Feng Love API](https://lmspeed.net/provider/new-feng-love) | — | — | 96.64% | 96.64% | 1427 ms | — | 10 | 1h 38m | 4h ago | — |
+| [柠檬API](https://lmspeed.net/provider/new-lemonapi-site) | — | — | 11.48% | 11.48% | 1943 ms | — | 10 | 2d 9h | 4h ago | — |
+| [拼好站](https://lmspeed.net/provider/new-xigua-wiki) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [云AI](https://lmspeed.net/provider/new-yunai-link) | — | — | 99.08% | 99.08% | 973 ms | — | 37 | 32s | 4h ago | — |
+| [小智API](https://lmspeed.net/provider/newai-aichat-ink) | — | — | 21.17% | 21.17% | — | — | 1 | 29d 24h | 30d ago | — |
+| [紫脑喵](https://lmspeed.net/provider/newapi-aisonnet-org) | — | — | 99.84% | 99.84% | 903 ms | — | 4 | 0s | 4h ago | — |
+| [CxyKevin API](https://lmspeed.net/provider/newapi-cxykevin-top) | — | — | 56.20% | 56.20% | 631 ms | — | 43 | 4m | 4h ago | — |
+| [Synapse](https://lmspeed.net/provider/newapi-exynos-top-8443) | — | — | 95.52% | 95.52% | 584 ms | — | 49 | 24m | 4h ago | — |
+| [Hizui API](https://lmspeed.net/provider/newapi-hizui-cn) | — | — | 22.91% | 22.91% | 2457 ms | — | 4 | 5d 12h | 4h ago | — |
+| [简小智API中转站](https://lmspeed.net/provider/newapi-jianxiaozhi-chat) | — | — | 83.39% | 83.39% | 4398 ms | — | 649 | 4m | 24m ago | — |
+| [KZW API](https://lmspeed.net/provider/newapi-kzwbelieve-top) | — | — | 98.86% | 98.86% | 2829 ms | — | 31 | 15m | 4h ago | — |
+| [Medu Chat](https://lmspeed.net/provider/newapi-medu-chat) | — | — | 70.64% | 70.64% | 832 ms | — | 12 | 6m | 4h ago | — |
+| [Netlib API](https://lmspeed.net/provider/newapi-netlib-re) | — | — | 66.86% | 66.86% | — | — | 1 | 29d 24h | 30d ago | — |
+| [NewAPI502](https://lmspeed.net/provider/newapi502) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [ngrok Proxy (e9ea)](https://lmspeed.net/provider/ngrok-e9ea) | — | — | 99.76% | 99.76% | 1366 ms | — | 4 | 3m | 14h ago | — |
+| [ngrok Proxy (Jesse)](https://lmspeed.net/provider/ngrok-jesse) | — | — | 99.81% | 99.81% | 1670 ms | — | 6 | 3m | 11h ago | — |
+| [Ngrok Proxy](https://lmspeed.net/provider/ngrok-proxy) | — | — | 99.77% | 99.77% | 1396 ms | — | 5 | 2m | 14h ago | — |
+| [NSCC 广州超算 DeepSeek](https://lmspeed.net/provider/nscc-gz-deepseek) | — | — | 61.80% | 61.80% | 4692 ms | — | 922 | 7m | 34m ago | — |
+| [Nuizi API](https://lmspeed.net/provider/nuizi-api) | — | — | 40.77% | 40.77% | 1328 ms | — | 15 | 3h 31m | 2d ago | — |
+| [OAPI UK](https://lmspeed.net/provider/oapi-uk) | — | — | 99.94% | 99.94% | 1858 ms | — | 4 | 42s | 4h ago | — |
+| [Octopus API](https://lmspeed.net/provider/octopus-api) | — | — | 8.10% | 8.10% | 255 ms | — | 2 | 11d 23h | 4h ago | — |
+| [Ollama](https://lmspeed.net/provider/ollama-com) | — | — | 83.54% | 83.54% | 943 ms | — | 2 | 2d 2h | 4h ago | — |
+| [Ollama](https://lmspeed.net/provider/ollama-joyuerpa) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [OminiGen](https://lmspeed.net/provider/ominigen) | — | — | 99.56% | 99.56% | 718 ms | — | 6 | 3m | 1d ago | — |
+| [Nova AI](https://lmspeed.net/provider/once-novai-su) | — | — | 70.32% | 70.32% | 2046 ms | — | 79 | 25m | 1h ago | — |
+| [CookingAI](https://lmspeed.net/provider/oneapi-gemiaude-com) | — | — | 79.56% | 79.56% | 1119 ms | — | 1 | 0s | 4h ago | — |
+| [OpenAI Deno Proxy](https://lmspeed.net/provider/openai-deno-proxy) | — | — | 93.85% | 93.85% | — | — | 1 | 7d 12h | 7d ago | — |
+| [鲨鱼魔法](https://lmspeed.net/provider/openai-sharkmagic-top) | — | — | 95.05% | 95.05% | 623 ms | — | 58 | 1m | 4h ago | — |
+| [XuYa公益站](https://lmspeed.net/provider/openai-xuya-dev) | — | — | 99.22% | 99.22% | 1303 ms | — | 8 | 16m | 4h ago | — |
+| [Jey-API](https://lmspeed.net/provider/openai-zidianidc-com) | — | — | 70.82% | 70.82% | 4511 ms | — | 608 | 7m | 3m ago | — |
+| [OpenCode](https://lmspeed.net/provider/opencode-ai) | — | — | 6.06% | 6.06% | 1417 ms | — | 2 | 11d 6h | 4d ago | — |
+| [OpenOpen8 API](https://lmspeed.net/provider/openopen8-api) | — | — | 0.00% | 0.00% | — | — | 1 | 4d 7h | 4d ago | — |
+| [OpenRouter Fans](https://lmspeed.net/provider/openrouter-fans) | — | — | 97.28% | 97.28% | 2247 ms | — | 15 | 1h 5m | 4h ago | — |
+| [OptAI](https://lmspeed.net/provider/optai-cap-1ktower-com) | — | — | 88.13% | 88.13% | 3173 ms | — | 35 | 0s | 4h ago | — |
+| [Perplexity AI](https://lmspeed.net/provider/perplexity-ai) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [PICO API](https://lmspeed.net/provider/pico-api) | — | — | 75.68% | 75.68% | 2691 ms | — | 4 | 4h 9m | 23h ago | — |
+| [PoloAPI](https://lmspeed.net/provider/poloai-top) | — | — | 99.89% | 99.89% | 814 ms | — | 4 | 0s | 4h ago | — |
+| [Privnode](https://lmspeed.net/provider/privnode) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Isley](https://lmspeed.net/provider/proxy-isley-org) | — | — | 48.40% | 48.40% | 1474 ms | — | 2 | 0s | 4h ago | — |
+| [Punklorde17 API](https://lmspeed.net/provider/punklorde17-api) | — | — | 24.06% | 24.06% | — | — | 1 | 29d 24h | 30d ago | — |
+| [遂人API](https://lmspeed.net/provider/qkznpnwlumic-sealosgzg-site) | — | — | 73.56% | 73.56% | 4921 ms | — | 704 | 5m | 33m ago | — |
+| [QZZ CLI Proxy](https://lmspeed.net/provider/qzz-cli-proxy) | — | — | 11.13% | 11.13% | 2495 ms | — | 3 | 5d 16h | 4h ago | — |
+| [R9S API](https://lmspeed.net/provider/r9s-api) | — | — | 0.00% | 0.00% | — | — | 1 | 3d 2h | 3d ago | — |
+| [9Router](https://lmspeed.net/provider/rb6k9jv-9router-com) | — | — | 99.35% | 99.35% | 1884 ms | — | 4 | 3m | 3d ago | — |
+| [Right Code](https://lmspeed.net/provider/right-codes) | — | — | 41.21% | 41.21% | 942 ms | — | 12 | 0s | 1d ago | — |
+| [Rnglg2 API](https://lmspeed.net/provider/rnglg2-api) | — | — | 96.00% | 96.00% | 2116 ms | — | 93 | 10m | 4h ago | — |
+| [Saipubw API](https://lmspeed.net/provider/saipubw-api) | — | — | 38.78% | 38.78% | 1813 ms | — | 171 | 2h 38m | 4d ago | — |
+| [San Baby AI](https://lmspeed.net/provider/san-baby-ai) | — | — | 11.14% | 11.14% | — | — | 2 | 12d 4h | 18d ago | — |
+| [Shiyucheng API](https://lmspeed.net/provider/shiyucheng-api) | — | — | 2.82% | 2.82% | 1175 ms | — | 1 | 27d 20h | 30d ago | — |
+| [Catiecli](https://lmspeed.net/provider/skyag-xiamu-asia) | — | — | 99.97% | 99.97% | 2715 ms | — | 2 | 0s | 4h ago | — |
+| [SMNet Koyeb Proxy](https://lmspeed.net/provider/smnet-koyeb-proxy) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Smz Ai](https://lmspeed.net/provider/smz6-com) | — | — | 97.81% | 97.81% | 1432 ms | — | 40 | 5m | 4h ago | — |
+| [Square LLM Hub](https://lmspeed.net/provider/square-llm-hub) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [QuicklyAPI](https://lmspeed.net/provider/sub-jlypx-de) | — | — | 98.54% | 98.54% | 2126 ms | — | 36 | 7m | 4h ago | — |
+| [Supabase AI Proxy](https://lmspeed.net/provider/supabase-ai-proxy) | — | — | 95.71% | 95.71% | 1881 ms | — | 2 | 7h 45m | 4h ago | — |
+| [温云](https://lmspeed.net/provider/sxtuyxrxcgim-ap-northeast-1-clawcloudrun-com) | — | — | 84.84% | 84.84% | 252 ms | — | 2 | 10h 19m | 3d ago | — |
+| [TeamPlus](https://lmspeed.net/provider/teamplus) | — | — | 25.30% | 25.30% | — | — | 3 | 5d 20h | 17d ago | — |
+| [Thorbase](https://lmspeed.net/provider/thorbase) | — | — | 92.62% | 92.62% | 1384 ms | — | 1 | 9h 60m | 6d ago | — |
+| [天智大模型网关](https://lmspeed.net/provider/tianzhi-llm-gateway) | — | — | 0.58% | 0.58% | 4879 ms | — | 52 | 13h 25m | 4m ago | — |
+| [词元流动](https://lmspeed.net/provider/tokenflux-dev) | — | — | 98.87% | 98.87% | 692 ms | — | 2 | 25m | 16h ago | — |
+| [无限AI](https://lmspeed.net/provider/tokenwuxian-top) | — | — | 80.36% | 80.36% | 482 ms | — | 31 | 41m | 4h ago | — |
+| [TokenX24](https://lmspeed.net/provider/tokenx24-com) | — | — | 99.09% | 99.09% | 572 ms | — | 7 | 0s | 1d ago | — |
+| [Unlimit](https://lmspeed.net/provider/unlimit) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Cerebras Sandbox](https://lmspeed.net/provider/v-ag-api-eu-cc) | — | — | 21.77% | 21.77% | — | — | 1 | 29d 24h | 30d ago | — |
+| [极速AI](https://lmspeed.net/provider/v2-aicodee-com) | — | — | 68.14% | 68.14% | 4472 ms | — | 331 | 10m | 33m ago | — |
+| [Vercel AI Gateway](https://lmspeed.net/provider/vercel-ai-gateway) | — | — | 51.46% | 51.46% | 1997 ms | — | 5 | 2d 17h | 4h ago | — |
+| [Undy API](https://lmspeed.net/provider/vip-undyingapi-com) | — | — | 99.86% | 99.86% | 1223 ms | — | 6 | 0s | 1d ago | — |
+| [火山引擎](https://lmspeed.net/provider/volcengine) | — | — | 80.83% | 80.83% | 3480 ms | — | 99 | 17s | 22h ago | — |
+| [VSLLM](https://lmspeed.net/provider/vsllm-com) | — | — | 98.19% | 98.19% | 1835 ms | — | 15 | 0s | 4h ago | — |
+| [VVCode](https://lmspeed.net/provider/vvcode-top) | — | — | 92.92% | 92.92% | 1008 ms | — | 13 | 1h 4m | 2d ago | — |
+| [Wataruu CLI Proxy](https://lmspeed.net/provider/wataruu-cli-proxy) | — | — | 14.11% | 14.11% | 1869 ms | — | 2 | 6d 14h | 4h ago | — |
+| [Xiao Wan](https://lmspeed.net/provider/web-xiaowan-ggff-net) | — | — | 62.28% | 62.28% | 2358 ms | — | 48 | 1h 7m | 4h ago | — |
+| [无限畅享版](https://lmspeed.net/provider/wuxian-changxiangban) | — | — | 0.73% | 0.73% | 4661 ms | — | 43 | 16h 20m | 53m ago | — |
+| [CatClaw API](https://lmspeed.net/provider/www-catclawai-top) | — | — | 98.37% | 98.37% | 616 ms | — | 16 | 2m | 2d ago | — |
+| [Codex Easy](https://lmspeed.net/provider/www-codexeasy-com) | — | — | 99.69% | 99.69% | 2295 ms | — | 8 | 1m | 4h ago | — |
+| [Dialagram](https://lmspeed.net/provider/www-dialagram-me) | — | — | 53.57% | 53.57% | 1602 ms | — | 1 | 13h 20m | 1d ago | — |
+| [发现AI](https://lmspeed.net/provider/www-findcg-com) | — | — | 95.28% | 95.28% | 3433 ms | — | 79 | 7m | 4h ago | — |
+| [Fucheers](https://lmspeed.net/provider/www-fucheers-top) | — | — | 97.86% | 97.86% | 1689 ms | — | 7 | 1m | 4h ago | — |
+| [ModelPool](https://lmspeed.net/provider/www-modelpool-cn) | — | — | 76.88% | 76.88% | 4587 ms | — | 645 | 5m | 3m ago | — |
+| [MonkingAI](https://lmspeed.net/provider/www-monking-ai) | — | — | 99.71% | 99.71% | 1413 ms | — | 8 | 3m | 4h ago | — |
+| [米醋API](https://lmspeed.net/provider/www-openclaudecode-cn) | — | — | 97.12% | 97.12% | 467 ms | — | 10 | 0s | 4h ago | — |
+| [QQ Code](https://lmspeed.net/provider/www-qqcode-cc) | — | — | 90.43% | 90.43% | 3277 ms | — | 71 | 29m | 4h ago | — |
+| [GOU API](https://lmspeed.net/provider/www-rc-yun-cn) | — | — | 96.39% | 96.39% | 879 ms | — | 9 | 2h 9m | 5h ago | — |
+| [UniAiX](https://lmspeed.net/provider/www-uniaix-com) | — | — | 82.51% | 82.51% | 1589 ms | — | 5 | 6m | 4h ago | — |
+| [WXKYW API](https://lmspeed.net/provider/wxkyw-dpdns-org) | — | — | 98.81% | 98.81% | 1331 ms | — | 43 | 42s | 4h ago | — |
+| [wzjself中转站](https://lmspeed.net/provider/wzjself-org) | — | — | 99.89% | 99.89% | 1594 ms | — | 1 | 0s | 2d ago | — |
+| [WONG公益站](https://lmspeed.net/provider/wzw-pp-ua) | — | — | 97.07% | 97.07% | 1053 ms | — | 6 | 4h 3m | 2d ago | — |
+| [XiaMiAPI](https://lmspeed.net/provider/xiamiapi-xyz) | — | — | 89.97% | 89.97% | 1133 ms | — | 1 | 1d 1h | 11d ago | — |
+| [线衣api](https://lmspeed.net/provider/xianyi-zeabur-app) | — | — | 0.01% | 0.01% | — | — | 1 | 29d 24h | 30d ago | — |
+| [小豆包API](https://lmspeed.net/provider/xiaodoubao-api) | — | — | 1.87% | 1.87% | 1380 ms | — | 1 | 27d 20h | 30d ago | — |
+| [Xiaomimimo API](https://lmspeed.net/provider/xiaomimimo-api) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [Xiaomimimo Token Plan CN](https://lmspeed.net/provider/xiaomimimo-token-plan-cn) | — | — | 0.00% | 0.00% | — | — | 1 | 15d 5h | 15d ago | — |
+| [Xinapi](https://lmspeed.net/provider/xinapi) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [性价比API](https://lmspeed.net/provider/xingjiabiapi-org) | — | — | 99.83% | 99.83% | 1663 ms | — | 4 | 0s | 4h ago | — |
+| [Xmdbd](https://lmspeed.net/provider/xmdbd) | — | — | 0.00% | 0.00% | — | — | 1 | 29d 24h | 30d ago | — |
+| [XShuLab Sub2API](https://lmspeed.net/provider/xshulab-sub2api) | — | — | 88.05% | 88.05% | 1890 ms | — | 4 | 5h 15m | 2d ago | — |
+| [YSQD CLI Proxy](https://lmspeed.net/provider/ysqd-cli-proxy) | — | — | 3.65% | 3.65% | 2452 ms | — | 2 | 13d 22h | 4h ago | — |
+| [Yuan API](https://lmspeed.net/provider/yuan-api) | — | — | 99.64% | 99.64% | 1503 ms | — | 8 | 4m | 4h ago | — |
+| [云智API](https://lmspeed.net/provider/yunzhiapi-cn) | — | — | 86.97% | 86.97% | 2371 ms | — | 52 | 3m | 4h ago | — |
+| [小辣椒](https://lmspeed.net/provider/yyds-215-im) | — | — | 95.18% | 95.18% | 660 ms | — | 2 | 6h 15m | 20h ago | — |
+| [Z.ai](https://lmspeed.net/provider/z-ai) | — | — | 99.79% | 99.79% | 2603 ms | — | 15 | 11s | 4h ago | — |
+| [ZenMux](https://lmspeed.net/provider/zenmux-ai) | — | — | 99.80% | 99.80% | 730 ms | — | 3 | 0s | 3d ago | — |
+| [Zhang19hao CLI Proxy](https://lmspeed.net/provider/zhang19hao-cli-proxy) | — | — | 1.55% | 1.55% | 1348 ms | — | 2 | 10d 14h | 2d ago | — |
+| [国信新网](https://lmspeed.net/provider/zygf-guoxincloud-cn-1025) | — | — | 97.44% | 97.44% | 3305 ms | — | 163 | 4s | 44m ago | — |
+
+</details>
 
 
 ## Archive layout
