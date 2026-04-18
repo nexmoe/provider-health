@@ -12,6 +12,9 @@ if (!DATABASE_URL) {
 
 const RETENTION_DAYS = 35;
 const STATE_PATH = 'state.json';
+const MAX_DAYS_PER_RUN = 5;
+const DAY_ROW_PROVIDER_BATCH_SIZE = 25;
+const DAY_ROW_QUERY_CONCURRENCY = 3;
 
 type Row = {
   id: number;
@@ -162,10 +165,45 @@ const fetchDaysToArchive = async (
   return rows.map((r) => r.day.toISOString().slice(0, 10));
 };
 
-const fetchDayRows = async (
+const runWithConcurrency = async <T>(
+  items: T[],
+  concurrency: number,
+  worker: (item: T) => Promise<void>
+): Promise<void> => {
+  if (items.length === 0) return;
+  let cursor = 0;
+  const workerCount = Math.max(1, Math.min(concurrency, items.length));
+  const workers = Array.from({ length: workerCount }, async () => {
+    while (true) {
+      const index = cursor++;
+      if (index >= items.length) return;
+      const item = items[index];
+      if (item !== undefined) await worker(item);
+    }
+  });
+  await Promise.all(workers);
+};
+
+const fetchDayProviderIds = async (
   day: string,
   lastArchivedId: number
+): Promise<number[]> => {
+  const rows = await sql<{ provider_id: number }[]>`
+    SELECT DISTINCT ph.provider_id
+    FROM provider_healthchecks ph
+    WHERE ph.id > ${lastArchivedId}
+      AND ph.checked_at >= ${`${day} 00:00:00`}::timestamp
+      AND ph.checked_at <  ${`${day} 00:00:00`}::timestamp + INTERVAL '1 day'
+  `;
+  return rows.map((r) => r.provider_id);
+};
+
+const fetchDayRowsForProviders = async (
+  day: string,
+  lastArchivedId: number,
+  providerIds: readonly number[]
 ): Promise<Row[]> => {
+  if (providerIds.length === 0) return [];
   const rows = await sql<Row[]>`
     SELECT
       ph.id, ph.provider_id, p.slug,
@@ -174,6 +212,7 @@ const fetchDayRows = async (
     FROM provider_healthchecks ph
     JOIN providers p ON p.id = ph.provider_id
     WHERE ph.id > ${lastArchivedId}
+      AND ph.provider_id = ANY(${providerIds as number[]})
       AND ph.checked_at >= ${`${day} 00:00:00`}::timestamp
       AND ph.checked_at <  ${`${day} 00:00:00`}::timestamp + INTERVAL '1 day'
     ORDER BY p.slug, ph.checked_at, ph.id
@@ -258,12 +297,49 @@ const main = async () => {
     return;
   }
 
+  const daysThisRun = days.slice(0, MAX_DAYS_PER_RUN);
+  if (daysThisRun.length < days.length) {
+    console.log(
+      `processing first ${daysThisRun.length} of ${days.length} day(s); remainder will be handled by the next run`
+    );
+  }
+
   let maxId = state.last_archived_id;
   let lastDay = state.last_archived_day;
   let totalEntries = 0;
 
-  for (const day of days) {
-    const rows = await fetchDayRows(day, state.last_archived_id);
+  for (const day of daysThisRun) {
+    const providerIds = await fetchDayProviderIds(
+      day,
+      state.last_archived_id
+    );
+    if (providerIds.length === 0) continue;
+
+    const batches: number[][] = [];
+    for (
+      let i = 0;
+      i < providerIds.length;
+      i += DAY_ROW_PROVIDER_BATCH_SIZE
+    ) {
+      batches.push(providerIds.slice(i, i + DAY_ROW_PROVIDER_BATCH_SIZE));
+    }
+
+    const rowsByBatch: Row[][] = Array.from(
+      { length: batches.length },
+      () => []
+    );
+    await runWithConcurrency(
+      batches.map((batch, index) => ({ batch, index })),
+      DAY_ROW_QUERY_CONCURRENCY,
+      async ({ batch, index }) => {
+        rowsByBatch[index] = await fetchDayRowsForProviders(
+          day,
+          state.last_archived_id,
+          batch
+        );
+      }
+    );
+    const rows = rowsByBatch.flat();
     if (rows.length === 0) continue;
 
     const byProvider = new Map<string, Row[]>();

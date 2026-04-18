@@ -10,6 +10,41 @@ if (!DATABASE_URL) {
   process.exit(1);
 }
 
+const PROVIDER_QUERY_BATCH_SIZE = 25;
+const PROVIDER_QUERY_CONCURRENCY = 3;
+
+type BaseRow = {
+  id: number;
+  slug: string | null;
+  name: string | null;
+  website_url: string | null;
+  latest_status_ok: boolean | null;
+  latest_checked_at: Date | null;
+  latest_latency_ms: number | null;
+  window_7d_total_checks: number;
+  window_7d_ok_checks: number;
+  window_7d_avg_latency_ms: number | null;
+  window_30d_total_checks: number;
+  window_30d_ok_checks: number;
+  window_30d_avg_latency_ms: number | null;
+};
+
+type LiveAgg = {
+  provider_id: number;
+  y_total: number;
+  y_ok: number;
+  all_total: number;
+  all_ok: number;
+  p95_7d: number | null;
+};
+
+type IncidentAgg = {
+  provider_id: number;
+  incidents_30d: number;
+  mttr_seconds: number | null;
+  last_incident_at: Date | null;
+};
+
 type SummaryRow = {
   slug: string | null;
   name: string | null;
@@ -79,87 +114,141 @@ const sql = postgres(DATABASE_URL, {
     : { rejectUnauthorized: false },
 });
 
-const summaryRows = await sql<SummaryRow[]>`
-  WITH live AS (
-    SELECT
-      ph.provider_id,
-      COUNT(*) FILTER (
-        WHERE ph.checked_at >= NOW() - INTERVAL '1 year'
-      )::int AS y_total,
-      COUNT(*) FILTER (
-        WHERE ph.checked_at >= NOW() - INTERVAL '1 year' AND ph.ok
-      )::int AS y_ok,
-      COUNT(*)::int AS all_total,
-      COUNT(*) FILTER (WHERE ph.ok)::int AS all_ok,
-      PERCENTILE_CONT(0.95) WITHIN GROUP (
-        ORDER BY CASE
-          WHEN ph.ok AND ph.latency_ms IS NOT NULL
-            AND ph.checked_at >= NOW() - INTERVAL '7 days'
-          THEN ph.latency_ms
-        END
-      )::int AS p95_7d
-    FROM provider_healthchecks ph
-    WHERE ph.id > ${state.last_archived_id}
-    GROUP BY ph.provider_id
-  ),
-  window_30d AS (
-    SELECT
-      ph.provider_id, ph.ok, ph.checked_at,
-      CASE
-        WHEN NOT ph.ok AND (
-          LAG(ph.ok) OVER w IS NULL OR LAG(ph.ok) OVER w
-        ) THEN 1 ELSE 0
-      END AS is_start
-    FROM provider_healthchecks ph
-    WHERE ph.checked_at >= NOW() - INTERVAL '30 days'
-    WINDOW w AS (PARTITION BY ph.provider_id ORDER BY ph.checked_at, ph.id)
-  ),
-  fail_labeled AS (
-    SELECT provider_id, checked_at,
-      SUM(is_start) OVER (
-        PARTITION BY provider_id ORDER BY checked_at
-      ) AS incident_id
-    FROM window_30d WHERE NOT ok
-  ),
-  incidents_by_run AS (
-    SELECT provider_id, incident_id,
-      MIN(checked_at) AS start_at,
-      MAX(checked_at) AS end_at
-    FROM fail_labeled
-    GROUP BY provider_id, incident_id
-  ),
-  incidents AS (
-    SELECT provider_id,
-      COUNT(*)::int AS incidents_30d,
-      AVG(EXTRACT(EPOCH FROM (end_at - start_at)))::int AS mttr_seconds,
-      MAX(start_at) AS last_incident_at
-    FROM incidents_by_run
-    GROUP BY provider_id
-  )
+const runWithConcurrency = async <T>(
+  items: T[],
+  concurrency: number,
+  worker: (item: T) => Promise<void>
+): Promise<void> => {
+  if (items.length === 0) return;
+  let cursor = 0;
+  const workerCount = Math.max(1, Math.min(concurrency, items.length));
+  const workers = Array.from({ length: workerCount }, async () => {
+    while (true) {
+      const index = cursor++;
+      if (index >= items.length) return;
+      const item = items[index];
+      if (item !== undefined) await worker(item);
+    }
+  });
+  await Promise.all(workers);
+};
+
+const baseRows = await sql<BaseRow[]>`
   SELECT
-    p.slug, p.name, p.website_url,
+    p.id, p.slug, p.name, p.website_url,
     phs.latest_status_ok, phs.latest_checked_at, phs.latest_latency_ms,
     COALESCE(phs.window_7d_total_checks, 0) AS window_7d_total_checks,
     COALESCE(phs.window_7d_ok_checks, 0) AS window_7d_ok_checks,
     phs.window_7d_avg_latency_ms,
     COALESCE(phs.window_30d_total_checks, 0) AS window_30d_total_checks,
     COALESCE(phs.window_30d_ok_checks, 0) AS window_30d_ok_checks,
-    phs.window_30d_avg_latency_ms,
-    COALESCE(live.y_total, 0)::int AS live_1y_total,
-    COALESCE(live.y_ok, 0)::int AS live_1y_ok,
-    COALESCE(live.all_total, 0)::int AS live_all_total,
-    COALESCE(live.all_ok, 0)::int AS live_all_ok,
-    live.p95_7d,
-    COALESCE(incidents.incidents_30d, 0)::int AS incidents_30d,
-    incidents.mttr_seconds,
-    incidents.last_incident_at
+    phs.window_30d_avg_latency_ms
   FROM providers p
   LEFT JOIN provider_health_summary phs ON phs.provider_id = p.id
-  LEFT JOIN live ON live.provider_id = p.id
-  LEFT JOIN incidents ON incidents.provider_id = p.id
   WHERE p.status = 'publish' AND p.slug IS NOT NULL
   ORDER BY p.slug
 `;
+
+const providerIds = baseRows.map((r) => r.id);
+const idBatches: number[][] = [];
+for (let i = 0; i < providerIds.length; i += PROVIDER_QUERY_BATCH_SIZE) {
+  idBatches.push(providerIds.slice(i, i + PROVIDER_QUERY_BATCH_SIZE));
+}
+
+const liveMap = new Map<number, LiveAgg>();
+const incidentMap = new Map<number, IncidentAgg>();
+
+await runWithConcurrency(idBatches, PROVIDER_QUERY_CONCURRENCY, async (ids) => {
+  const [liveRows, incidentRows] = await Promise.all([
+    sql<LiveAgg[]>`
+      SELECT
+        ph.provider_id,
+        COUNT(*) FILTER (
+          WHERE ph.checked_at >= NOW() - INTERVAL '1 year'
+        )::int AS y_total,
+        COUNT(*) FILTER (
+          WHERE ph.checked_at >= NOW() - INTERVAL '1 year' AND ph.ok
+        )::int AS y_ok,
+        COUNT(*)::int AS all_total,
+        COUNT(*) FILTER (WHERE ph.ok)::int AS all_ok,
+        PERCENTILE_CONT(0.95) WITHIN GROUP (
+          ORDER BY CASE
+            WHEN ph.ok AND ph.latency_ms IS NOT NULL
+              AND ph.checked_at >= NOW() - INTERVAL '7 days'
+            THEN ph.latency_ms
+          END
+        )::int AS p95_7d
+      FROM provider_healthchecks ph
+      WHERE ph.id > ${state.last_archived_id}
+        AND ph.provider_id = ANY(${ids})
+      GROUP BY ph.provider_id
+    `,
+    sql<IncidentAgg[]>`
+      WITH window_30d AS (
+        SELECT
+          ph.provider_id, ph.ok, ph.checked_at,
+          CASE
+            WHEN NOT ph.ok AND (
+              LAG(ph.ok) OVER w IS NULL OR LAG(ph.ok) OVER w
+            ) THEN 1 ELSE 0
+          END AS is_start
+        FROM provider_healthchecks ph
+        WHERE ph.checked_at >= NOW() - INTERVAL '30 days'
+          AND ph.provider_id = ANY(${ids})
+        WINDOW w AS (PARTITION BY ph.provider_id ORDER BY ph.checked_at, ph.id)
+      ),
+      fail_labeled AS (
+        SELECT provider_id, checked_at,
+          SUM(is_start) OVER (
+            PARTITION BY provider_id ORDER BY checked_at
+          ) AS incident_id
+        FROM window_30d WHERE NOT ok
+      ),
+      incidents_by_run AS (
+        SELECT provider_id, incident_id,
+          MIN(checked_at) AS start_at,
+          MAX(checked_at) AS end_at
+        FROM fail_labeled
+        GROUP BY provider_id, incident_id
+      )
+      SELECT provider_id,
+        COUNT(*)::int AS incidents_30d,
+        AVG(EXTRACT(EPOCH FROM (end_at - start_at)))::int AS mttr_seconds,
+        MAX(start_at) AS last_incident_at
+      FROM incidents_by_run
+      GROUP BY provider_id
+    `,
+  ]);
+  for (const r of liveRows) liveMap.set(r.provider_id, r);
+  for (const r of incidentRows) incidentMap.set(r.provider_id, r);
+});
+
+const summaryRows: SummaryRow[] = baseRows.map((r) => {
+  const live = liveMap.get(r.id);
+  const inc = incidentMap.get(r.id);
+  return {
+    slug: r.slug,
+    name: r.name,
+    website_url: r.website_url,
+    latest_status_ok: r.latest_status_ok,
+    latest_checked_at: r.latest_checked_at,
+    latest_latency_ms: r.latest_latency_ms,
+    window_7d_total_checks: r.window_7d_total_checks,
+    window_7d_ok_checks: r.window_7d_ok_checks,
+    window_7d_avg_latency_ms: r.window_7d_avg_latency_ms,
+    window_30d_total_checks: r.window_30d_total_checks,
+    window_30d_ok_checks: r.window_30d_ok_checks,
+    window_30d_avg_latency_ms: r.window_30d_avg_latency_ms,
+    live_1y_total: live?.y_total ?? 0,
+    live_1y_ok: live?.y_ok ?? 0,
+    live_all_total: live?.all_total ?? 0,
+    live_all_ok: live?.all_ok ?? 0,
+    p95_7d: live?.p95_7d ?? null,
+    incidents_30d: inc?.incidents_30d ?? 0,
+    mttr_seconds: inc?.mttr_seconds ?? null,
+    last_incident_at: inc?.last_incident_at ?? null,
+  };
+});
 
 const yearCutoff = new Date(Date.now() - 365 * 24 * 60 * 60 * 1000);
 
