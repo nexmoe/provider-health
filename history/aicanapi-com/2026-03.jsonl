@@ -1,0 +1,17 @@
+{"type":"fail","from":"2026-02-28T08:04:58.269Z","to":"2026-03-01T07:54:53.622Z","count":144,"status":404,"error":"HTTP 404","avg_latency":724,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-01T08:04:11.706Z","to":"2026-03-02T07:54:34.558Z","count":144,"status":404,"error":"HTTP 404","avg_latency":743,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-02T08:04:24.267Z","to":"2026-03-03T07:54:38.112Z","count":143,"status":404,"error":"HTTP 404","avg_latency":701,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-03T08:04:39.098Z","to":"2026-03-04T07:54:33.625Z","count":143,"status":404,"error":"HTTP 404","avg_latency":699,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-04T08:04:42.708Z","to":"2026-03-05T07:54:15.054Z","count":131,"status":404,"error":"HTTP 404","avg_latency":699,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-05T08:04:44.727Z","to":"2026-03-05T20:04:07.022Z","count":70,"status":404,"error":"HTTP 404","avg_latency":731,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-05T20:14:07.901Z","to":"2026-03-05T20:14:07.901Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-05T20:24:17.031Z","to":"2026-03-06T07:54:21.488Z","count":70,"status":404,"error":"HTTP 404","avg_latency":700,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-06T08:04:13.588Z","to":"2026-03-07T07:54:26.715Z","count":144,"status":404,"error":"HTTP 404","avg_latency":688,"url":"https://aicanapi.com/v1"}
+{"type":"fail","from":"2026-03-07T08:04:25.726Z","to":"2026-03-08T01:04:12.739Z","count":103,"url":"https://aicanapi.com/v1","status":404,"error":"HTTP 404","avg_latency":666}
+{"type":"ok","from":"2026-03-08T01:14:03.869Z","to":"2026-03-08T07:54:18.390Z","count":40,"url":"https://aicanapi.com","avg":720,"min":454,"max":1143,"p95":1113}
+{"type":"ok","from":"2026-03-08T08:04:19.298Z","to":"2026-03-09T07:54:16.673Z","count":144,"url":"https://aicanapi.com","avg":686,"min":453,"max":1373,"p95":1057}
+{"type":"ok","from":"2026-03-09T08:04:09.501Z","to":"2026-03-10T07:54:23.580Z","count":144,"url":"https://aicanapi.com","avg":790,"min":451,"max":4770,"p95":1205}
+{"type":"ok","from":"2026-03-10T08:04:26.196Z","to":"2026-03-10T12:43:28.972Z","count":29,"url":"https://aicanapi.com","avg":796,"min":473,"max":1271,"p95":1149}
+{"type":"fail","from":"2026-03-10T12:53:50.742Z","to":"2026-03-10T12:53:50.742Z","count":1,"url":"https://aicanapi.com","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-10T13:03:44.740Z","to":"2026-03-11T07:57:08.219Z","count":113,"url":"https://aicanapi.com","avg":748,"min":461,"max":2563,"p95":1293}
+{"type":"ok","from":"2026-03-11T08:04:31.835Z","to":"2026-03-12T07:54:33.982Z","count":140,"url":"https://aicanapi.com","avg":678,"min":451,"max":1487,"p95":1088}

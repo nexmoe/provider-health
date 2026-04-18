@@ -1,0 +1,23 @@
+{"type":"fail","from":"2026-02-28T08:04:13.519Z","to":"2026-03-01T07:54:16.219Z","count":144,"status":404,"error":"HTTP 404","avg_latency":683,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-01T08:03:39.483Z","to":"2026-03-02T07:53:53.828Z","count":144,"status":404,"error":"HTTP 404","avg_latency":713,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-02T08:03:41.834Z","to":"2026-03-02T22:24:19.669Z","count":86,"status":404,"error":"HTTP 404","avg_latency":709,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-02T22:34:11.005Z","to":"2026-03-02T22:34:11.005Z","count":1,"status":null,"error":"fetch failed","avg_latency":541,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-02T22:44:30.753Z","to":"2026-03-03T07:54:00.819Z","count":56,"status":404,"error":"HTTP 404","avg_latency":791,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-03T08:04:03.186Z","to":"2026-03-03T22:24:07.211Z","count":87,"status":404,"error":"HTTP 404","avg_latency":718,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-03T22:34:04.840Z","to":"2026-03-03T22:54:23.002Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-03T23:04:15.995Z","to":"2026-03-04T07:53:54.454Z","count":53,"status":404,"error":"HTTP 404","avg_latency":538,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-04T08:04:00.840Z","to":"2026-03-05T07:53:38.309Z","count":132,"status":404,"error":"HTTP 404","avg_latency":570,"url":"https://api.vectorengine.ai/v1"}
+{"type":"fail","from":"2026-03-05T08:04:09.468Z","to":"2026-03-05T09:03:38.794Z","count":7,"url":"https://api.vectorengine.ai/v1","status":404,"error":"HTTP 404","avg_latency":557}
+{"type":"ok","from":"2026-03-05T09:13:40.620Z","to":"2026-03-06T07:53:46.288Z","count":135,"url":"https://api.vectorengine.ai","avg":604,"min":428,"max":1526,"p95":980}
+{"type":"ok","from":"2026-03-06T08:03:35.577Z","to":"2026-03-06T20:33:25.926Z","count":76,"url":"https://api.vectorengine.ai","avg":575,"min":469,"max":1261,"p95":902}
+{"type":"fail","from":"2026-03-06T20:43:37.663Z","to":"2026-03-06T20:43:37.663Z","count":1,"url":"https://api.vectorengine.ai","status":502,"error":"HTTP 502","avg_latency":638}
+{"type":"ok","from":"2026-03-06T20:53:54.530Z","to":"2026-03-07T07:53:44.588Z","count":67,"url":"https://api.vectorengine.ai","avg":643,"min":469,"max":1868,"p95":916}
+{"type":"ok","from":"2026-03-07T08:03:45.261Z","to":"2026-03-08T07:53:43.321Z","count":143,"url":"https://api.vectorengine.ai","avg":606,"min":467,"max":2004,"p95":867}
+{"type":"ok","from":"2026-03-08T08:03:46.959Z","to":"2026-03-08T21:23:36.280Z","count":81,"url":"https://api.vectorengine.ai","avg":636,"min":468,"max":1001,"p95":902}
+{"type":"fail","from":"2026-03-08T21:33:39.950Z","to":"2026-03-08T21:33:39.950Z","count":1,"url":"https://api.vectorengine.ai","status":502,"error":"HTTP 502","avg_latency":689}
+{"type":"ok","from":"2026-03-08T21:43:36.307Z","to":"2026-03-09T07:53:45.620Z","count":62,"url":"https://api.vectorengine.ai","avg":661,"min":466,"max":1208,"p95":956}
+{"type":"ok","from":"2026-03-09T08:03:35.661Z","to":"2026-03-10T07:53:43.787Z","count":144,"url":"https://api.vectorengine.ai","avg":611,"min":468,"max":1423,"p95":908}
+{"type":"ok","from":"2026-03-10T08:03:47.341Z","to":"2026-03-11T01:33:31.916Z","count":106,"url":"https://api.vectorengine.ai","avg":646,"min":469,"max":1683,"p95":922}
+{"type":"fail","from":"2026-03-11T01:43:37.211Z","to":"2026-03-11T01:43:37.211Z","count":1,"url":"https://api.vectorengine.ai","status":null,"error":"fetch failed","avg_latency":433}
+{"type":"ok","from":"2026-03-11T01:53:30.899Z","to":"2026-03-11T07:55:45.816Z","count":36,"url":"https://api.vectorengine.ai","avg":617,"min":472,"max":1061,"p95":887}
+{"type":"ok","from":"2026-03-11T08:03:53.825Z","to":"2026-03-12T07:53:57.049Z","count":140,"url":"https://api.vectorengine.ai","avg":651,"min":469,"max":2850,"p95":1093}

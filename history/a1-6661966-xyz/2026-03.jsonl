@@ -1,0 +1,18 @@
+{"type":"fail","from":"2026-02-28T08:04:18.098Z","to":"2026-03-01T07:54:20.938Z","count":144,"status":404,"error":"HTTP 404","avg_latency":116,"url":"https://a1.6661966.xyz/v1"}
+{"type":"fail","from":"2026-03-01T08:03:43.859Z","to":"2026-03-02T07:53:58.330Z","count":144,"status":404,"error":"HTTP 404","avg_latency":113,"url":"https://a1.6661966.xyz/v1"}
+{"type":"fail","from":"2026-03-02T08:03:46.370Z","to":"2026-03-03T07:54:05.253Z","count":143,"status":404,"error":"HTTP 404","avg_latency":127,"url":"https://a1.6661966.xyz/v1"}
+{"type":"fail","from":"2026-03-03T08:04:07.403Z","to":"2026-03-04T07:53:58.690Z","count":143,"status":404,"error":"HTTP 404","avg_latency":105,"url":"https://a1.6661966.xyz/v1"}
+{"type":"fail","from":"2026-03-04T08:04:05.839Z","to":"2026-03-05T07:04:16.678Z","count":127,"url":"https://a1.6661966.xyz/v1","status":404,"error":"HTTP 404","avg_latency":107}
+{"type":"ok","from":"2026-03-05T07:24:00.745Z","to":"2026-03-05T07:53:43.135Z","count":4,"url":"https://a1.6661966.xyz","avg":79,"min":61,"max":111,"p95":111}
+{"type":"ok","from":"2026-03-05T08:04:14.069Z","to":"2026-03-06T07:53:50.936Z","count":142,"url":"https://a1.6661966.xyz","avg":82,"min":32,"max":287,"p95":187}
+{"type":"ok","from":"2026-03-06T08:03:40.100Z","to":"2026-03-07T04:43:55.461Z","count":125,"url":"https://a1.6661966.xyz","avg":99,"min":37,"max":321,"p95":235}
+{"type":"fail","from":"2026-03-07T04:53:55.232Z","to":"2026-03-07T04:53:55.232Z","count":1,"url":"https://a1.6661966.xyz","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-07T05:03:40.877Z","to":"2026-03-07T06:53:44.589Z","count":12,"url":"https://a1.6661966.xyz","avg":166,"min":43,"max":311,"p95":311}
+{"type":"fail","from":"2026-03-07T07:04:12.704Z","to":"2026-03-07T07:04:12.704Z","count":1,"url":"https://a1.6661966.xyz","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-07T07:13:40.364Z","to":"2026-03-07T07:53:49.233Z","count":5,"url":"https://a1.6661966.xyz","avg":116,"min":47,"max":318,"p95":318}
+{"type":"ok","from":"2026-03-07T08:03:49.566Z","to":"2026-03-08T07:53:48.065Z","count":143,"url":"https://a1.6661966.xyz","avg":94,"min":35,"max":363,"p95":204}
+{"type":"ok","from":"2026-03-08T08:03:51.217Z","to":"2026-03-09T07:53:50.264Z","count":144,"url":"https://a1.6661966.xyz","avg":106,"min":37,"max":1062,"p95":217}
+{"type":"ok","from":"2026-03-09T08:03:40.334Z","to":"2026-03-10T07:53:48.441Z","count":144,"url":"https://a1.6661966.xyz","avg":111,"min":39,"max":514,"p95":358}
+{"type":"ok","from":"2026-03-10T08:03:51.762Z","to":"2026-03-11T07:55:49.880Z","count":143,"url":"https://a1.6661966.xyz","avg":86,"min":41,"max":258,"p95":190}
+{"type":"ok","from":"2026-03-11T08:03:54.958Z","to":"2026-03-12T07:34:10.215Z","count":138,"url":"https://a1.6661966.xyz","avg":76,"min":39,"max":310,"p95":181}
+{"type":"fail","from":"2026-03-12T07:44:04.062Z","to":"2026-03-12T07:54:01.656Z","count":2,"url":"https://a1.6661966.xyz","status":null,"error":"fetch failed","avg_latency":22}

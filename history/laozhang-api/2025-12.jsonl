@@ -1,0 +1,16 @@
+{"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2025-12-26T19:06:42.567Z","to":"2025-12-27T07:50:53.727Z","count":42,"avg":118,"min":21,"max":1286,"p95":861}
+{"type":"ok","from":"2025-12-27T08:00:49.286Z","to":"2025-12-27T08:30:48.843Z","count":4,"avg":28,"min":26,"max":31,"p95":31}
+{"type":"fail","from":"2025-12-27T08:40:51.900Z","to":"2025-12-27T08:40:51.900Z","count":1,"status":500,"error":"HTTP 500","avg_latency":116}
+{"type":"ok","from":"2025-12-27T08:50:45.250Z","to":"2025-12-27T10:00:45.292Z","count":8,"avg":44,"min":27,"max":123,"p95":123}
+{"type":"fail","from":"2025-12-27T10:10:49.379Z","to":"2025-12-27T10:10:49.379Z","count":1,"status":500,"error":"HTTP 500","avg_latency":1140}
+{"type":"ok","from":"2025-12-27T10:20:51.082Z","to":"2025-12-28T07:30:52.714Z","count":127,"avg":79,"min":22,"max":4833,"p95":140}
+{"type":"fail","from":"2025-12-28T07:40:55.200Z","to":"2025-12-28T07:40:55.200Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2025-12-28T07:50:46.179Z","to":"2025-12-28T07:50:46.179Z","count":1,"avg":24,"min":24,"max":24,"p95":24}
+{"type":"ok","from":"2025-12-28T08:00:47.452Z","to":"2025-12-28T08:10:45.409Z","count":2,"avg":34,"min":25,"max":42,"p95":42}
+{"type":"fail","from":"2025-12-28T08:20:50.582Z","to":"2025-12-28T08:20:50.582Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2025-12-28T08:30:44.793Z","to":"2025-12-29T07:50:47.036Z","count":141,"avg":42,"min":23,"max":690,"p95":65}
+{"type":"ok","from":"2025-12-29T08:00:46.110Z","to":"2025-12-30T07:50:44.424Z","count":144,"avg":46,"min":21,"max":1042,"p95":135}
+{"type":"ok","from":"2025-12-30T08:00:43.234Z","to":"2025-12-31T02:20:44.575Z","count":111,"avg":90,"min":22,"max":3662,"p95":140}
+{"type":"fail","from":"2025-12-31T02:30:51.679Z","to":"2025-12-31T02:30:51.679Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2025-12-31T02:40:45.593Z","to":"2025-12-31T07:50:46.047Z","count":32,"avg":32,"min":23,"max":135,"p95":39}

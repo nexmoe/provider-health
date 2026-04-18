@@ -1,0 +1,27 @@
+{"url":"https://gmi-serving.com"}
+{"type":"fail","from":"2025-12-26T19:06:04.227Z","to":"2025-12-26T19:06:04.227Z","count":1,"status":525,"error":"HTTP 525","avg_latency":1100}
+{"type":"ok","from":"2025-12-26T19:12:39.407Z","to":"2025-12-27T07:50:50.569Z","count":41,"avg":183,"min":119,"max":920,"p95":240}
+{"type":"ok","from":"2025-12-27T08:00:46.546Z","to":"2025-12-27T09:50:42.356Z","count":12,"avg":165,"min":131,"max":253,"p95":253}
+{"type":"fail","from":"2025-12-27T10:00:42.808Z","to":"2025-12-27T10:00:42.808Z","count":1,"status":525,"error":"HTTP 525","avg_latency":142}
+{"type":"ok","from":"2025-12-27T10:10:41.399Z","to":"2025-12-27T10:10:41.399Z","count":1,"avg":133,"min":133,"max":133,"p95":133}
+{"type":"fail","from":"2025-12-27T10:20:48.358Z","to":"2025-12-27T10:20:48.358Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2025-12-27T10:30:42.054Z","to":"2025-12-28T05:00:45.760Z","count":111,"avg":153,"min":125,"max":820,"p95":211}
+{"type":"fail","from":"2025-12-28T05:10:45.273Z","to":"2025-12-28T05:10:45.273Z","count":1,"status":525,"error":"HTTP 525","avg_latency":143}
+{"type":"ok","from":"2025-12-28T05:20:49.312Z","to":"2025-12-28T07:50:43.659Z","count":16,"avg":146,"min":125,"max":205,"p95":205}
+{"type":"ok","from":"2025-12-28T08:00:44.949Z","to":"2025-12-29T00:00:42.518Z","count":97,"avg":166,"min":123,"max":949,"p95":287}
+{"type":"fail","from":"2025-12-29T00:10:42.903Z","to":"2025-12-29T00:10:42.903Z","count":1,"status":525,"error":"HTTP 525","avg_latency":170}
+{"type":"ok","from":"2025-12-29T00:20:41.979Z","to":"2025-12-29T07:50:44.492Z","count":46,"avg":147,"min":122,"max":404,"p95":237}
+{"type":"fail","from":"2025-12-29T08:00:43.616Z","to":"2025-12-29T08:00:43.616Z","count":1,"status":525,"error":"HTTP 525","avg_latency":142}
+{"type":"ok","from":"2025-12-29T08:10:42.885Z","to":"2025-12-29T12:20:43.981Z","count":26,"avg":142,"min":124,"max":197,"p95":174}
+{"type":"fail","from":"2025-12-29T12:30:42.050Z","to":"2025-12-29T12:30:42.050Z","count":1,"status":525,"error":"HTTP 525","avg_latency":151}
+{"type":"ok","from":"2025-12-29T12:40:39.063Z","to":"2025-12-29T19:30:40.809Z","count":42,"avg":151,"min":121,"max":258,"p95":220}
+{"type":"fail","from":"2025-12-29T19:40:43.214Z","to":"2025-12-29T19:40:43.214Z","count":1,"status":525,"error":"HTTP 525","avg_latency":253}
+{"type":"fail","from":"2025-12-29T19:50:44.299Z","to":"2025-12-29T19:50:44.299Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2025-12-29T20:00:41.483Z","to":"2025-12-29T20:20:41.620Z","count":3,"avg":137,"min":134,"max":139,"p95":139}
+{"type":"fail","from":"2025-12-29T20:30:49.149Z","to":"2025-12-29T20:30:49.149Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2025-12-29T20:40:41.435Z","to":"2025-12-30T06:10:44.468Z","count":58,"avg":142,"min":120,"max":259,"p95":169}
+{"type":"fail","from":"2025-12-30T06:20:44.056Z","to":"2025-12-30T06:20:44.056Z","count":1,"status":525,"error":"HTTP 525","avg_latency":157}
+{"type":"ok","from":"2025-12-30T06:30:48.238Z","to":"2025-12-30T07:50:40.920Z","count":9,"avg":146,"min":128,"max":241,"p95":241}
+{"type":"ok","from":"2025-12-30T08:00:40.706Z","to":"2025-12-30T20:30:40.920Z","count":76,"avg":159,"min":124,"max":1174,"p95":239}
+{"type":"fail","from":"2025-12-30T20:40:45.854Z","to":"2025-12-30T20:40:45.854Z","count":1,"status":525,"error":"HTTP 525","avg_latency":150}
+{"type":"ok","from":"2025-12-30T20:50:41.608Z","to":"2025-12-31T07:50:43.304Z","count":67,"avg":146,"min":123,"max":247,"p95":201}

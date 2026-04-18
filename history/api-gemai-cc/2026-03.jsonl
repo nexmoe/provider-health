@@ -1,0 +1,19 @@
+{"type":"fail","from":"2026-02-28T08:04:23.627Z","to":"2026-03-01T07:54:22.133Z","count":144,"status":404,"error":"HTTP 404","avg_latency":496,"url":"https://api.gemai.cc/v1"}
+{"type":"fail","from":"2026-03-01T08:03:45.109Z","to":"2026-03-02T07:53:59.274Z","count":144,"status":404,"error":"HTTP 404","avg_latency":504,"url":"https://api.gemai.cc/v1"}
+{"type":"fail","from":"2026-03-02T08:03:52.031Z","to":"2026-03-03T07:54:06.205Z","count":143,"status":404,"error":"HTTP 404","avg_latency":501,"url":"https://api.gemai.cc/v1"}
+{"type":"fail","from":"2026-03-03T08:04:08.639Z","to":"2026-03-04T07:54:01.918Z","count":143,"status":404,"error":"HTTP 404","avg_latency":498,"url":"https://api.gemai.cc/v1"}
+{"type":"fail","from":"2026-03-04T08:04:08.731Z","to":"2026-03-05T07:53:44.186Z","count":131,"status":404,"error":"HTTP 404","avg_latency":506,"url":"https://api.gemai.cc/v1"}
+{"type":"fail","from":"2026-03-05T08:04:15.434Z","to":"2026-03-05T15:03:25.189Z","count":40,"url":"https://api.gemai.cc/v1","status":404,"error":"HTTP 404","avg_latency":525}
+{"type":"ok","from":"2026-03-05T15:13:36.928Z","to":"2026-03-05T15:53:33.711Z","count":5,"url":"https://api.gemai.cc","avg":464,"min":452,"max":478,"p95":478}
+{"type":"fail","from":"2026-03-05T16:03:35.567Z","to":"2026-03-05T16:03:35.567Z","count":1,"url":"https://api.gemai.cc","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-05T16:13:33.312Z","to":"2026-03-05T17:13:42.162Z","count":7,"url":"https://api.gemai.cc","avg":486,"min":463,"max":518,"p95":518}
+{"type":"fail","from":"2026-03-05T17:23:31.786Z","to":"2026-03-05T17:23:31.786Z","count":1,"url":"https://api.gemai.cc","status":502,"error":"HTTP 502","avg_latency":452}
+{"type":"ok","from":"2026-03-05T17:33:26.511Z","to":"2026-03-06T07:53:51.723Z","count":88,"url":"https://api.gemai.cc","avg":564,"min":452,"max":1670,"p95":965}
+{"type":"ok","from":"2026-03-06T08:03:40.846Z","to":"2026-03-07T07:53:49.997Z","count":144,"url":"https://api.gemai.cc","avg":501,"min":446,"max":863,"p95":562}
+{"type":"ok","from":"2026-03-07T08:03:50.287Z","to":"2026-03-08T07:53:48.867Z","count":143,"url":"https://api.gemai.cc","avg":488,"min":449,"max":898,"p95":524}
+{"type":"ok","from":"2026-03-08T08:03:51.951Z","to":"2026-03-09T07:53:50.983Z","count":144,"url":"https://api.gemai.cc","avg":494,"min":441,"max":826,"p95":552}
+{"type":"ok","from":"2026-03-09T08:03:41.046Z","to":"2026-03-10T07:53:49.160Z","count":144,"url":"https://api.gemai.cc","avg":493,"min":440,"max":803,"p95":633}
+{"type":"ok","from":"2026-03-10T08:03:52.486Z","to":"2026-03-10T16:13:24.588Z","count":50,"url":"https://api.gemai.cc","avg":529,"min":445,"max":1934,"p95":773}
+{"type":"fail","from":"2026-03-10T16:23:34.044Z","to":"2026-03-10T16:23:34.044Z","count":1,"url":"https://api.gemai.cc","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-10T16:33:33.159Z","to":"2026-03-11T07:55:50.897Z","count":92,"url":"https://api.gemai.cc","avg":558,"min":452,"max":3372,"p95":936}
+{"type":"ok","from":"2026-03-11T08:03:56.440Z","to":"2026-03-12T07:54:02.429Z","count":140,"url":"https://api.gemai.cc","avg":592,"min":443,"max":4196,"p95":1229}

@@ -1,0 +1,28 @@
+{"type":"fail","from":"2026-02-28T08:04:44.751Z","to":"2026-03-01T07:54:44.088Z","count":144,"status":404,"error":"HTTP 404","avg_latency":229,"url":"https://api.amethyst.ltd/v1"}
+{"type":"fail","from":"2026-03-01T08:04:02.414Z","to":"2026-03-02T07:54:21.118Z","count":144,"status":404,"error":"HTTP 404","avg_latency":200,"url":"https://api.amethyst.ltd/v1"}
+{"type":"fail","from":"2026-03-02T08:04:15.146Z","to":"2026-03-02T23:44:13.654Z","count":94,"url":"https://api.amethyst.ltd/v1","status":404,"error":"HTTP 404","avg_latency":186}
+{"type":"ok","from":"2026-03-02T23:54:23.272Z","to":"2026-03-03T06:14:44.424Z","count":39,"url":"https://api.amethyst.ltd","avg":188,"min":165,"max":395,"p95":217}
+{"type":"fail","from":"2026-03-03T06:24:37.391Z","to":"2026-03-03T06:24:37.391Z","count":1,"url":"https://api.amethyst.ltd","status":502,"error":"HTTP 502","avg_latency":173}
+{"type":"ok","from":"2026-03-03T06:35:19.317Z","to":"2026-03-03T07:54:28.029Z","count":9,"url":"https://api.amethyst.ltd","avg":209,"min":163,"max":306,"p95":306}
+{"type":"ok","from":"2026-03-03T08:04:29.744Z","to":"2026-03-04T02:04:21.896Z","count":109,"url":"https://api.amethyst.ltd","avg":222,"min":156,"max":2101,"p95":255}
+{"type":"fail","from":"2026-03-04T02:14:38.726Z","to":"2026-03-04T02:14:38.726Z","count":1,"url":"https://api.amethyst.ltd","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-04T02:24:40.593Z","to":"2026-03-04T07:54:23.986Z","count":33,"url":"https://api.amethyst.ltd","avg":200,"min":158,"max":695,"p95":398}
+{"type":"ok","from":"2026-03-04T08:04:33.327Z","to":"2026-03-05T04:54:45.098Z","count":114,"url":"https://api.amethyst.ltd","avg":193,"min":160,"max":626,"p95":238}
+{"type":"fail","from":"2026-03-05T05:04:15.025Z","to":"2026-03-05T05:04:15.025Z","count":1,"url":"https://api.amethyst.ltd","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-05T05:14:15.071Z","to":"2026-03-05T05:14:15.071Z","count":1,"url":"https://api.amethyst.ltd","status":null,"error":"fetch failed","avg_latency":60}
+{"type":"ok","from":"2026-03-05T05:24:20.886Z","to":"2026-03-05T07:54:06.264Z","count":15,"url":"https://api.amethyst.ltd","avg":265,"min":173,"max":698,"p95":698}
+{"type":"ok","from":"2026-03-05T08:04:36.178Z","to":"2026-03-06T01:04:23.968Z","count":100,"url":"https://api.amethyst.ltd","avg":227,"min":164,"max":434,"p95":357}
+{"type":"fail","from":"2026-03-06T01:14:12.482Z","to":"2026-03-06T01:24:03.900Z","count":2,"url":"https://api.amethyst.ltd","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-06T01:34:03.112Z","to":"2026-03-06T03:24:01.683Z","count":12,"url":"https://api.amethyst.ltd","avg":210,"min":187,"max":281,"p95":281}
+{"type":"fail","from":"2026-03-06T03:34:24.535Z","to":"2026-03-06T04:44:38.078Z","count":8,"url":"https://api.amethyst.ltd","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-03-06T04:54:31.340Z","to":"2026-03-06T06:44:47.257Z","count":12,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":50}
+{"type":"fail","from":"2026-03-06T06:54:39.686Z","to":"2026-03-06T06:54:39.686Z","count":1,"url":"https://api.amethyst.ltd","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-06T07:04:35.921Z","to":"2026-03-06T07:54:11.815Z","count":6,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":82}
+{"type":"fail","from":"2026-03-06T08:03:58.731Z","to":"2026-03-06T20:44:01.904Z","count":77,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":35}
+{"type":"ok","from":"2026-03-06T20:54:19.439Z","to":"2026-03-06T20:54:19.439Z","count":1,"url":"https://api.amethyst.ltd","avg":249,"min":249,"max":249,"p95":249}
+{"type":"fail","from":"2026-03-06T21:04:03.350Z","to":"2026-03-07T07:54:09.027Z","count":66,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":116}
+{"type":"fail","from":"2026-03-07T08:04:12.704Z","to":"2026-03-08T07:54:06.739Z","count":143,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":44}
+{"type":"fail","from":"2026-03-08T08:04:11.122Z","to":"2026-03-09T07:54:08.011Z","count":144,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":56}
+{"type":"fail","from":"2026-03-09T08:04:00.652Z","to":"2026-03-10T07:54:14.768Z","count":144,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":52}
+{"type":"fail","from":"2026-03-10T08:04:13.325Z","to":"2026-03-11T07:57:00.352Z","count":143,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":51}
+{"type":"fail","from":"2026-03-11T08:04:21.180Z","to":"2026-03-12T07:54:25.776Z","count":140,"url":"https://api.amethyst.ltd","status":403,"error":"HTTP 403","avg_latency":66}

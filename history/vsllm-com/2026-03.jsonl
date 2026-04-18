@@ -1,0 +1,10 @@
+{"type":"fail","from":"2026-03-08T01:14:20.633Z","to":"2026-03-08T07:54:31.578Z","count":40,"status":404,"error":"HTTP 404","avg_latency":1086,"url":"https://vsllm.com/v1"}
+{"type":"fail","from":"2026-03-08T08:04:36.299Z","to":"2026-03-08T15:03:53.998Z","count":43,"url":"https://vsllm.com/v1","status":404,"error":"HTTP 404","avg_latency":1180}
+{"type":"ok","from":"2026-03-08T15:14:00.215Z","to":"2026-03-09T07:54:28.348Z","count":101,"url":"https://vsllm.com","avg":1174,"min":271,"max":1778,"p95":1499}
+{"type":"ok","from":"2026-03-09T08:04:23.336Z","to":"2026-03-10T07:54:36.552Z","count":144,"url":"https://vsllm.com","avg":1207,"min":598,"max":2018,"p95":1503}
+{"type":"ok","from":"2026-03-10T08:04:43.428Z","to":"2026-03-10T21:24:17.540Z","count":81,"url":"https://vsllm.com","avg":1228,"min":600,"max":1870,"p95":1570}
+{"type":"fail","from":"2026-03-10T21:34:32.002Z","to":"2026-03-10T21:34:32.002Z","count":1,"url":"https://vsllm.com","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-10T21:44:29.852Z","to":"2026-03-11T07:57:20.582Z","count":61,"url":"https://vsllm.com","avg":1301,"min":577,"max":3892,"p95":1923}
+{"type":"ok","from":"2026-03-11T08:04:47.687Z","to":"2026-03-12T04:44:30.988Z","count":121,"url":"https://vsllm.com","avg":1185,"min":769,"max":2074,"p95":1414}
+{"type":"fail","from":"2026-03-12T04:54:48.038Z","to":"2026-03-12T04:54:48.038Z","count":1,"url":"https://vsllm.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-12T05:04:48.257Z","to":"2026-03-12T07:54:46.271Z","count":18,"url":"https://vsllm.com","avg":1164,"min":850,"max":1447,"p95":1447}

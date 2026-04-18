@@ -1,0 +1,22 @@
+{"type":"fail","from":"2026-01-18T15:43:24.389Z","to":"2026-01-19T07:53:52.825Z","count":98,"status":404,"error":"HTTP 404","avg_latency":492,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-19T08:04:02.174Z","to":"2026-01-20T00:24:15.473Z","count":99,"status":404,"error":"HTTP 404","avg_latency":594,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-20T00:34:12.383Z","to":"2026-01-20T00:34:12.383Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-20T00:44:11.950Z","to":"2026-01-20T06:54:55.461Z","count":32,"status":404,"error":"HTTP 404","avg_latency":676,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-20T07:05:02.941Z","to":"2026-01-20T07:05:02.941Z","count":1,"status":null,"error":"fetch failed","avg_latency":295,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-20T07:14:57.419Z","to":"2026-01-20T07:54:54.119Z","count":5,"status":404,"error":"HTTP 404","avg_latency":729,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-20T08:04:59.505Z","to":"2026-01-21T07:54:17.107Z","count":144,"status":404,"error":"HTTP 404","avg_latency":668,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-21T08:04:34.766Z","to":"2026-01-22T07:54:22.375Z","count":144,"status":404,"error":"HTTP 404","avg_latency":861,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-22T08:04:09.599Z","to":"2026-01-23T07:55:26.098Z","count":144,"status":404,"error":"HTTP 404","avg_latency":860,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-23T08:05:06.608Z","to":"2026-01-24T07:55:02.937Z","count":144,"status":404,"error":"HTTP 404","avg_latency":878,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-24T08:05:00.830Z","to":"2026-01-25T07:55:01.730Z","count":144,"status":404,"error":"HTTP 404","avg_latency":806,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-25T08:04:51.499Z","to":"2026-01-26T06:14:40.091Z","count":134,"status":404,"error":"HTTP 404","avg_latency":782,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-26T06:24:41.392Z","to":"2026-01-26T06:24:41.392Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-26T06:34:58.123Z","to":"2026-01-26T07:54:12.679Z","count":9,"status":404,"error":"HTTP 404","avg_latency":1057,"url":"https://api.n1n.ai/v1/"}
+{"type":"fail","from":"2026-01-26T08:04:12.472Z","to":"2026-01-26T14:53:55.071Z","count":42,"url":"https://api.n1n.ai/v1/","status":404,"error":"HTTP 404","avg_latency":685}
+{"type":"ok","from":"2026-01-26T15:03:40.071Z","to":"2026-01-26T15:23:37.788Z","count":3,"url":"https://api.n1n.ai","avg":287,"min":267,"max":320,"p95":320}
+{"type":"fail","from":"2026-01-26T15:33:28.141Z","to":"2026-01-26T15:33:28.141Z","count":1,"url":"https://api.n1n.ai","status":502,"error":"HTTP 502","avg_latency":265}
+{"type":"ok","from":"2026-01-26T15:43:36.435Z","to":"2026-01-27T07:53:57.739Z","count":98,"url":"https://api.n1n.ai","avg":390,"min":264,"max":1332,"p95":817}
+{"type":"ok","from":"2026-01-27T08:04:12.539Z","to":"2026-01-28T07:54:18.761Z","count":143,"url":"https://api.n1n.ai","avg":398,"min":263,"max":844,"p95":780}
+{"type":"ok","from":"2026-01-28T08:04:36.599Z","to":"2026-01-29T07:54:36.303Z","count":144,"url":"https://api.n1n.ai","avg":515,"min":276,"max":2094,"p95":865}
+{"type":"ok","from":"2026-01-29T08:04:10.499Z","to":"2026-01-30T07:54:29.966Z","count":143,"url":"https://api.n1n.ai","avg":541,"min":282,"max":1544,"p95":872}
+{"type":"ok","from":"2026-01-30T08:04:13.716Z","to":"2026-01-31T07:54:13.994Z","count":144,"url":"https://api.n1n.ai","avg":533,"min":259,"max":1105,"p95":781}

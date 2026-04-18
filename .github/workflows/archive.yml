@@ -1,0 +1,59 @@
+name: Archive provider healthchecks
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Archive healthchecks to JSONL
+        run: bun run archive
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+
+      - name: Render status README
+        run: bun run render
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "provider-health-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          LAST_DAY=$(jq -r '.last_archived_day // "none"' state.json)
+          LAST_ID=$(jq -r '.last_archived_id // 0' state.json)
+          if git diff --cached --name-only | grep -qE '^(history/|state\.json$)'; then
+            MSG="archive through ${LAST_DAY} (id ${LAST_ID})"
+          else
+            MSG="update status snapshot"
+          fi
+          git commit -m "${MSG}"
+          git push
+
+      - name: Purge archived rows from database
+        run: bun run purge
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}

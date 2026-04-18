@@ -1,0 +1,16 @@
+{"type":"fail","from":"2026-02-15T19:23:45.863Z","to":"2026-02-16T07:54:08.175Z","count":76,"status":404,"error":"HTTP 404","avg_latency":534,"url":"https://apis.soys.site/v1"}
+{"type":"fail","from":"2026-02-16T08:04:07.213Z","to":"2026-02-16T15:13:46.267Z","count":44,"url":"https://apis.soys.site/v1","status":404,"error":"HTTP 404","avg_latency":556}
+{"type":"ok","from":"2026-02-16T15:23:37.954Z","to":"2026-02-17T07:54:17.005Z","count":100,"url":"https://apis.soys.site","avg":514,"min":463,"max":883,"p95":734}
+{"type":"ok","from":"2026-02-17T08:04:01.317Z","to":"2026-02-18T07:54:43.656Z","count":144,"url":"https://apis.soys.site","avg":518,"min":460,"max":1289,"p95":686}
+{"type":"ok","from":"2026-02-18T08:04:25.381Z","to":"2026-02-19T07:54:21.862Z","count":144,"url":"https://apis.soys.site","avg":516,"min":458,"max":861,"p95":699}
+{"type":"ok","from":"2026-02-19T08:04:09.230Z","to":"2026-02-20T07:54:17.073Z","count":144,"url":"https://apis.soys.site","avg":515,"min":459,"max":904,"p95":803}
+{"type":"ok","from":"2026-02-20T08:04:18.324Z","to":"2026-02-21T07:54:33.315Z","count":143,"url":"https://apis.soys.site","avg":536,"min":456,"max":1466,"p95":818}
+{"type":"ok","from":"2026-02-21T08:04:31.164Z","to":"2026-02-22T07:24:39.964Z","count":141,"url":"https://apis.soys.site","avg":548,"min":455,"max":4259,"p95":753}
+{"type":"fail","from":"2026-02-22T07:34:44.514Z","to":"2026-02-22T07:34:44.514Z","count":1,"url":"https://apis.soys.site","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-02-22T07:44:31.242Z","to":"2026-02-22T07:54:11.674Z","count":2,"url":"https://apis.soys.site","avg":483,"min":467,"max":498,"p95":498}
+{"type":"ok","from":"2026-02-22T08:04:40.069Z","to":"2026-02-23T07:54:21.207Z","count":144,"url":"https://apis.soys.site","avg":570,"min":456,"max":1693,"p95":967}
+{"type":"ok","from":"2026-02-23T08:04:32.605Z","to":"2026-02-24T07:54:43.831Z","count":143,"url":"https://apis.soys.site","avg":529,"min":459,"max":997,"p95":749}
+{"type":"ok","from":"2026-02-24T08:04:42.938Z","to":"2026-02-25T07:54:55.419Z","count":144,"url":"https://apis.soys.site","avg":540,"min":458,"max":1240,"p95":790}
+{"type":"ok","from":"2026-02-25T08:04:49.643Z","to":"2026-02-26T07:54:59.916Z","count":143,"url":"https://apis.soys.site","avg":537,"min":461,"max":1372,"p95":804}
+{"type":"ok","from":"2026-02-26T08:04:42.060Z","to":"2026-02-27T07:54:33.010Z","count":143,"url":"https://apis.soys.site","avg":590,"min":461,"max":3955,"p95":884}
+{"type":"ok","from":"2026-02-27T08:04:55.979Z","to":"2026-02-28T07:54:54.133Z","count":143,"url":"https://apis.soys.site","avg":549,"min":462,"max":1520,"p95":807}

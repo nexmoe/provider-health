@@ -1,0 +1,18 @@
+{
+  "name": "provider-health",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "archive": "bun run scripts/archive.ts",
+    "render": "bun run scripts/render-readme.ts",
+    "purge": "bun run scripts/purge.ts"
+  },
+  "dependencies": {
+    "postgres": "^3.4.5"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.5.0"
+  }
+}

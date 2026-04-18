@@ -1,0 +1,17 @@
+{"type":"fail","from":"2026-02-28T08:04:50.532Z","to":"2026-03-01T07:54:45.010Z","count":144,"status":404,"error":"HTTP 404","avg_latency":566,"url":"https://api.xiaowan.us.ci/v1"}
+{"type":"fail","from":"2026-03-01T08:04:03.984Z","to":"2026-03-02T07:54:26.617Z","count":144,"status":404,"error":"HTTP 404","avg_latency":579,"url":"https://api.xiaowan.us.ci/v1"}
+{"type":"fail","from":"2026-03-02T08:04:16.410Z","to":"2026-03-03T07:54:29.093Z","count":143,"status":404,"error":"HTTP 404","avg_latency":569,"url":"https://api.xiaowan.us.ci/v1"}
+{"type":"fail","from":"2026-03-03T08:04:30.722Z","to":"2026-03-04T07:54:25.435Z","count":143,"status":404,"error":"HTTP 404","avg_latency":567,"url":"https://api.xiaowan.us.ci/v1"}
+{"type":"fail","from":"2026-03-04T08:04:34.084Z","to":"2026-03-05T07:54:07.345Z","count":131,"status":404,"error":"HTTP 404","avg_latency":558,"url":"https://api.xiaowan.us.ci/v1"}
+{"type":"fail","from":"2026-03-05T08:04:37.042Z","to":"2026-03-06T07:54:12.862Z","count":141,"status":404,"error":"HTTP 404","avg_latency":649,"url":"https://api.xiaowan.us.ci/v1"}
+{"type":"fail","from":"2026-03-06T08:04:00.562Z","to":"2026-03-07T07:54:14.627Z","count":144,"status":404,"error":"HTTP 404","avg_latency":565,"url":"https://api.xiaowan.us.ci/v1"}
+{"type":"fail","from":"2026-03-07T08:04:18.119Z","to":"2026-03-08T07:54:08.139Z","count":143,"status":404,"error":"HTTP 404","avg_latency":572,"url":"https://api.xiaowan.us.ci/v1"}
+{"type":"fail","from":"2026-03-08T08:04:12.318Z","to":"2026-03-08T09:23:58.597Z","count":9,"url":"https://api.xiaowan.us.ci/v1","status":404,"error":"HTTP 404","avg_latency":554}
+{"type":"fail","from":"2026-03-08T09:33:53.551Z","to":"2026-03-08T09:33:53.551Z","count":1,"url":"https://api.xiaowan.us.ci/v1","status":null,"error":"fetch failed","avg_latency":329}
+{"type":"fail","from":"2026-03-08T09:43:39.391Z","to":"2026-03-09T05:08:27.689Z","count":117,"url":"https://api.xiaowan.us.ci/v1","status":404,"error":"HTTP 404","avg_latency":513}
+{"type":"ok","from":"2026-03-09T05:16:16.563Z","to":"2026-03-09T07:54:09.736Z","count":17,"url":"https://api.xiaowan.us.ci","avg":1087,"min":950,"max":2888,"p95":2888}
+{"type":"ok","from":"2026-03-09T08:04:02.700Z","to":"2026-03-10T07:54:16.561Z","count":144,"url":"https://api.xiaowan.us.ci","avg":999,"min":938,"max":2268,"p95":1198}
+{"type":"ok","from":"2026-03-10T08:04:15.393Z","to":"2026-03-10T23:23:48.562Z","count":93,"url":"https://api.xiaowan.us.ci","avg":969,"min":937,"max":1077,"p95":1009}
+{"type":"fail","from":"2026-03-10T23:34:04.007Z","to":"2026-03-10T23:34:04.007Z","count":1,"url":"https://api.xiaowan.us.ci","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-10T23:44:23.951Z","to":"2026-03-11T07:57:01.368Z","count":49,"url":"https://api.xiaowan.us.ci","avg":1004,"min":941,"max":1322,"p95":1131}
+{"type":"ok","from":"2026-03-11T08:04:22.815Z","to":"2026-03-12T07:54:27.235Z","count":140,"url":"https://api.xiaowan.us.ci","avg":977,"min":933,"max":1276,"p95":1040}
