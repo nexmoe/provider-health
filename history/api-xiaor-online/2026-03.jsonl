@@ -93,3 +93,11 @@
 {"type":"ok","from":"2026-03-11T08:04:32.788Z","to":"2026-03-12T07:54:34.603Z","count":140,"url":"https://api.xiaor.online","avg":129,"min":61,"max":593,"p95":273}
 {"type":"ok","from":"2026-03-12T16:04:22.554Z","to":"2026-03-12T23:54:04.258Z","count":48,"url":"https://api.xiaor.online","avg":175,"min":57,"max":611,"p95":569}
 {"type":"ok","from":"2026-03-13T00:03:54.209Z","to":"2026-03-13T23:53:56.033Z","count":140,"url":"https://api.xiaor.online","avg":131,"min":58,"max":703,"p95":370}
+{"type":"ok","from":"2026-03-14T00:03:55.746Z","to":"2026-03-14T05:54:13.860Z","count":35,"url":"https://api.xiaor.online","avg":114,"min":61,"max":289,"p95":185}
+{"type":"fail","from":"2026-03-14T06:04:36.305Z","to":"2026-03-14T06:14:20.141Z","count":2,"url":"https://api.xiaor.online","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-14T06:24:04.280Z","to":"2026-03-14T07:34:07.675Z","count":8,"url":"https://api.xiaor.online","avg":79,"min":57,"max":133,"p95":133}
+{"type":"fail","from":"2026-03-14T07:44:20.143Z","to":"2026-03-14T07:44:20.143Z","count":1,"url":"https://api.xiaor.online","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-14T07:54:32.204Z","to":"2026-03-14T09:04:15.441Z","count":8,"url":"https://api.xiaor.online","avg":90,"min":58,"max":131,"p95":131}
+{"type":"fail","from":"2026-03-14T09:14:12.441Z","to":"2026-03-14T12:24:35.868Z","count":20,"url":"https://api.xiaor.online","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-14T12:34:19.962Z","to":"2026-03-14T12:34:19.962Z","count":1,"url":"https://api.xiaor.online","status":521,"error":"HTTP 521","avg_latency":91}
+{"type":"ok","from":"2026-03-14T12:44:14.967Z","to":"2026-03-14T23:54:03.398Z","count":67,"url":"https://api.xiaor.online","avg":123,"min":60,"max":289,"p95":207}
