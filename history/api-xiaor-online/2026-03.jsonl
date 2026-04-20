@@ -101,3 +101,6 @@
 {"type":"fail","from":"2026-03-14T09:14:12.441Z","to":"2026-03-14T12:24:35.868Z","count":20,"url":"https://api.xiaor.online","status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"fail","from":"2026-03-14T12:34:19.962Z","to":"2026-03-14T12:34:19.962Z","count":1,"url":"https://api.xiaor.online","status":521,"error":"HTTP 521","avg_latency":91}
 {"type":"ok","from":"2026-03-14T12:44:14.967Z","to":"2026-03-14T23:54:03.398Z","count":67,"url":"https://api.xiaor.online","avg":123,"min":60,"max":289,"p95":207}
+{"type":"ok","from":"2026-03-15T00:04:01.495Z","to":"2026-03-15T07:54:12.545Z","count":48,"url":"https://api.xiaor.online","avg":109,"min":58,"max":283,"p95":168}
+{"type":"fail","from":"2026-03-15T08:04:11.632Z","to":"2026-03-15T08:04:11.632Z","count":1,"url":"https://api.xiaor.online","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-15T08:14:10.977Z","to":"2026-03-15T23:54:05.797Z","count":95,"url":"https://api.xiaor.online","avg":122,"min":59,"max":537,"p95":309}

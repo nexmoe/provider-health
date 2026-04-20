@@ -121,3 +121,14 @@
 {"type":"fail","from":"2026-03-14T22:52:30.660Z","to":"2026-03-14T23:22:38.504Z","count":4,"status":404,"error":"HTTP 404","avg_latency":695}
 {"type":"fail","from":"2026-03-14T23:32:49.499Z","to":"2026-03-14T23:32:49.499Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
 {"type":"fail","from":"2026-03-14T23:42:36.917Z","to":"2026-03-14T23:52:37.224Z","count":2,"status":404,"error":"HTTP 404","avg_latency":708}
+{"type":"fail","from":"2026-03-15T00:02:38.811Z","to":"2026-03-15T00:32:31.552Z","count":4,"status":404,"error":"HTTP 404","avg_latency":732}
+{"type":"fail","from":"2026-03-15T00:42:37.538Z","to":"2026-03-15T00:42:37.538Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-15T00:52:32.370Z","to":"2026-03-15T02:32:50.594Z","count":11,"status":404,"error":"HTTP 404","avg_latency":840}
+{"type":"fail","from":"2026-03-15T02:42:41.035Z","to":"2026-03-15T02:42:41.035Z","count":1,"status":null,"error":"fetch failed","avg_latency":309}
+{"type":"fail","from":"2026-03-15T02:52:40.435Z","to":"2026-03-15T04:02:40.719Z","count":8,"status":404,"error":"HTTP 404","avg_latency":1097}
+{"type":"fail","from":"2026-03-15T04:12:51.114Z","to":"2026-03-15T04:12:51.114Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-15T04:22:48.135Z","to":"2026-03-15T05:42:43.122Z","count":9,"status":404,"error":"HTTP 404","avg_latency":993}
+{"type":"fail","from":"2026-03-15T05:52:35.767Z","to":"2026-03-15T05:52:35.767Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-15T06:02:40.917Z","to":"2026-03-15T07:52:44.213Z","count":12,"status":404,"error":"HTTP 404","avg_latency":812}
+{"type":"fail","from":"2026-03-15T08:02:43.038Z","to":"2026-03-15T08:02:43.038Z","count":1,"status":null,"error":"fetch failed","avg_latency":410}
+{"type":"fail","from":"2026-03-15T08:12:43.304Z","to":"2026-03-15T23:52:36.325Z","count":95,"status":404,"error":"HTTP 404","avg_latency":816}

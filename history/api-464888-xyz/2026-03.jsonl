@@ -20,3 +20,6 @@
 {"type":"fail","from":"2026-03-13T21:53:13.039Z","to":"2026-03-13T21:53:13.039Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"ok","from":"2026-03-13T22:03:12.179Z","to":"2026-03-13T23:53:12.991Z","count":12,"avg":453,"min":252,"max":508,"p95":508}
 {"type":"ok","from":"2026-03-14T00:03:13.896Z","to":"2026-03-14T23:53:15.522Z","count":142,"avg":474,"min":254,"max":815,"p95":547}
+{"type":"ok","from":"2026-03-15T00:03:16.996Z","to":"2026-03-15T11:33:25.591Z","count":70,"avg":470,"min":246,"max":923,"p95":585}
+{"type":"fail","from":"2026-03-15T11:43:27.700Z","to":"2026-03-15T12:03:32.597Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-15T12:13:42.401Z","to":"2026-03-15T23:53:18.068Z","count":71,"avg":497,"min":264,"max":849,"p95":615}
