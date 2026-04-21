@@ -1,2 +1,5 @@
-{"url":"https://api.aigc.bar/v1"}
-{"type":"fail","from":"2026-03-15T16:54:29.083Z","to":"2026-03-15T23:54:26.921Z","count":43,"status":404,"error":"HTTP 404","avg_latency":633}
+{"type":"fail","from":"2026-03-15T16:54:29.083Z","to":"2026-03-15T23:54:26.921Z","count":43,"status":404,"error":"HTTP 404","avg_latency":633,"url":"https://api.aigc.bar/v1"}
+{"type":"fail","from":"2026-03-16T00:04:25.613Z","to":"2026-03-16T05:04:27.655Z","count":31,"url":"https://api.aigc.bar/v1","status":404,"error":"HTTP 404","avg_latency":534}
+{"type":"ok","from":"2026-03-16T05:14:24.617Z","to":"2026-03-16T15:54:44.318Z","count":65,"url":"https://api.aigc.bar","avg":614,"min":279,"max":2084,"p95":1302}
+{"type":"fail","from":"2026-03-16T16:04:33.379Z","to":"2026-03-16T16:34:26.527Z","count":4,"url":"https://api.aigc.bar","status":404,"error":"HTTP 404","avg_latency":209}
+{"type":"ok","from":"2026-03-16T16:44:28.982Z","to":"2026-03-16T23:54:18.874Z","count":44,"url":"https://api.aigc.bar","avg":370,"min":149,"max":1707,"p95":1173}

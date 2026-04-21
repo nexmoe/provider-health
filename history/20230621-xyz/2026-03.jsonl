@@ -27,3 +27,6 @@
 {"type":"fail","from":"2026-03-14T16:13:03.154Z","to":"2026-03-14T16:13:03.154Z","count":1,"status":502,"error":"HTTP 502","avg_latency":57}
 {"type":"fail","from":"2026-03-14T16:23:24.359Z","to":"2026-03-14T23:52:58.348Z","count":46,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"fail","from":"2026-03-15T00:02:58.206Z","to":"2026-03-15T23:52:57.003Z","count":144,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-16T00:02:58.535Z","to":"2026-03-16T03:12:59.172Z","count":20,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-16T03:22:52.974Z","to":"2026-03-16T03:22:52.974Z","count":1,"status":null,"error":"fetch failed","avg_latency":735}
+{"type":"ok","from":"2026-03-16T03:32:56.349Z","to":"2026-03-16T23:52:52.449Z","count":123,"avg":781,"min":288,"max":1224,"p95":1096}
