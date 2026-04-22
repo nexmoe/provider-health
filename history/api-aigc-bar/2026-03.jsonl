@@ -3,3 +3,14 @@
 {"type":"ok","from":"2026-03-16T05:14:24.617Z","to":"2026-03-16T15:54:44.318Z","count":65,"url":"https://api.aigc.bar","avg":614,"min":279,"max":2084,"p95":1302}
 {"type":"fail","from":"2026-03-16T16:04:33.379Z","to":"2026-03-16T16:34:26.527Z","count":4,"url":"https://api.aigc.bar","status":404,"error":"HTTP 404","avg_latency":209}
 {"type":"ok","from":"2026-03-16T16:44:28.982Z","to":"2026-03-16T23:54:18.874Z","count":44,"url":"https://api.aigc.bar","avg":370,"min":149,"max":1707,"p95":1173}
+{"type":"ok","from":"2026-03-17T00:04:01.511Z","to":"2026-03-17T01:24:43.326Z","count":9,"url":"https://api.aigc.bar","avg":344,"min":118,"max":1213,"p95":1213}
+{"type":"fail","from":"2026-03-17T01:34:24.449Z","to":"2026-03-17T01:54:40.483Z","count":3,"url":"https://api.aigc.bar","status":null,"error":"fetch failed","avg_latency":141}
+{"type":"ok","from":"2026-03-17T02:04:36.649Z","to":"2026-03-17T16:24:21.770Z","count":86,"url":"https://api.aigc.bar","avg":611,"min":332,"max":1748,"p95":1143}
+{"type":"fail","from":"2026-03-17T16:34:25.257Z","to":"2026-03-17T16:34:25.257Z","count":1,"url":"https://api.aigc.bar","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-17T16:44:17.002Z","to":"2026-03-17T17:14:07.889Z","count":4,"url":"https://api.aigc.bar","avg":556,"min":426,"max":680,"p95":680}
+{"type":"fail","from":"2026-03-17T17:24:28.053Z","to":"2026-03-17T17:24:28.053Z","count":1,"url":"https://api.aigc.bar","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-17T17:34:22.488Z","to":"2026-03-17T21:23:57.981Z","count":24,"url":"https://api.aigc.bar","avg":630,"min":374,"max":1006,"p95":887}
+{"type":"fail","from":"2026-03-17T21:34:07.125Z","to":"2026-03-17T21:34:07.125Z","count":1,"url":"https://api.aigc.bar","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-17T21:43:54.772Z","to":"2026-03-17T23:04:09.884Z","count":9,"url":"https://api.aigc.bar","avg":655,"min":370,"max":1281,"p95":1281}
+{"type":"fail","from":"2026-03-17T23:14:04.451Z","to":"2026-03-17T23:14:04.451Z","count":1,"url":"https://api.aigc.bar","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-17T23:24:09.950Z","to":"2026-03-17T23:54:09.799Z","count":4,"url":"https://api.aigc.bar","avg":864,"min":671,"max":1132,"p95":1132}

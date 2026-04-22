@@ -1,24 +1,56 @@
-{"url":"https://www.modelpool.cn/v1"}
-{"type":"fail","from":"2026-03-16T09:54:26.956Z","to":"2026-03-16T10:04:33.024Z","count":2,"status":404,"error":"HTTP 404","avg_latency":3147}
-{"type":"fail","from":"2026-03-16T10:14:43.955Z","to":"2026-03-16T10:24:42.337Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-03-16T10:34:57.131Z","to":"2026-03-16T11:54:36.338Z","count":9,"status":404,"error":"HTTP 404","avg_latency":2632}
-{"type":"fail","from":"2026-03-16T12:04:38.305Z","to":"2026-03-16T12:14:53.271Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-03-16T12:24:42.170Z","to":"2026-03-16T12:54:44.461Z","count":4,"status":404,"error":"HTTP 404","avg_latency":2753}
-{"type":"fail","from":"2026-03-16T13:05:22.712Z","to":"2026-03-16T13:05:22.712Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-03-16T13:14:32.297Z","to":"2026-03-16T13:24:55.057Z","count":2,"status":404,"error":"HTTP 404","avg_latency":2266}
-{"type":"fail","from":"2026-03-16T13:34:53.020Z","to":"2026-03-16T13:34:53.020Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-03-16T13:44:57.799Z","to":"2026-03-16T13:44:57.799Z","count":1,"status":404,"error":"HTTP 404","avg_latency":824}
-{"type":"fail","from":"2026-03-16T13:54:59.515Z","to":"2026-03-16T14:05:35.103Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-03-16T14:15:15.874Z","to":"2026-03-16T14:44:55.150Z","count":4,"status":404,"error":"HTTP 404","avg_latency":1978}
-{"type":"fail","from":"2026-03-16T14:55:11.704Z","to":"2026-03-16T14:55:11.704Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"fail","from":"2026-03-16T15:05:01.129Z","to":"2026-03-16T15:15:13.338Z","count":2,"status":404,"error":"HTTP 404","avg_latency":1344}
-{"type":"fail","from":"2026-03-16T15:25:10.039Z","to":"2026-03-16T15:35:19.738Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-03-16T15:44:56.092Z","to":"2026-03-16T15:44:56.092Z","count":1,"status":404,"error":"HTTP 404","avg_latency":3472}
-{"type":"fail","from":"2026-03-16T15:54:52.995Z","to":"2026-03-16T15:54:52.995Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"fail","from":"2026-03-16T16:04:37.172Z","to":"2026-03-16T17:34:12.811Z","count":10,"status":404,"error":"HTTP 404","avg_latency":2274}
-{"type":"fail","from":"2026-03-16T17:44:23.490Z","to":"2026-03-16T17:44:23.490Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5004}
-{"type":"fail","from":"2026-03-16T17:54:28.878Z","to":"2026-03-16T18:54:00.450Z","count":7,"status":404,"error":"HTTP 404","avg_latency":1223}
-{"type":"fail","from":"2026-03-16T19:04:06.306Z","to":"2026-03-16T19:04:06.306Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"fail","from":"2026-03-16T19:14:00.257Z","to":"2026-03-16T21:54:07.685Z","count":17,"status":404,"error":"HTTP 404","avg_latency":1692}
-{"type":"fail","from":"2026-03-16T22:04:07.724Z","to":"2026-03-16T22:04:07.724Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-03-16T22:14:13.889Z","to":"2026-03-16T23:54:25.637Z","count":11,"status":404,"error":"HTTP 404","avg_latency":2166}
+{"type":"fail","from":"2026-03-16T09:54:26.956Z","to":"2026-03-16T10:04:33.024Z","count":2,"status":404,"error":"HTTP 404","avg_latency":3147,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T10:14:43.955Z","to":"2026-03-16T10:24:42.337Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T10:34:57.131Z","to":"2026-03-16T11:54:36.338Z","count":9,"status":404,"error":"HTTP 404","avg_latency":2632,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T12:04:38.305Z","to":"2026-03-16T12:14:53.271Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T12:24:42.170Z","to":"2026-03-16T12:54:44.461Z","count":4,"status":404,"error":"HTTP 404","avg_latency":2753,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T13:05:22.712Z","to":"2026-03-16T13:05:22.712Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T13:14:32.297Z","to":"2026-03-16T13:24:55.057Z","count":2,"status":404,"error":"HTTP 404","avg_latency":2266,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T13:34:53.020Z","to":"2026-03-16T13:34:53.020Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T13:44:57.799Z","to":"2026-03-16T13:44:57.799Z","count":1,"status":404,"error":"HTTP 404","avg_latency":824,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T13:54:59.515Z","to":"2026-03-16T14:05:35.103Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T14:15:15.874Z","to":"2026-03-16T14:44:55.150Z","count":4,"status":404,"error":"HTTP 404","avg_latency":1978,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T14:55:11.704Z","to":"2026-03-16T14:55:11.704Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T15:05:01.129Z","to":"2026-03-16T15:15:13.338Z","count":2,"status":404,"error":"HTTP 404","avg_latency":1344,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T15:25:10.039Z","to":"2026-03-16T15:35:19.738Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T15:44:56.092Z","to":"2026-03-16T15:44:56.092Z","count":1,"status":404,"error":"HTTP 404","avg_latency":3472,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T15:54:52.995Z","to":"2026-03-16T15:54:52.995Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T16:04:37.172Z","to":"2026-03-16T17:34:12.811Z","count":10,"status":404,"error":"HTTP 404","avg_latency":2274,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T17:44:23.490Z","to":"2026-03-16T17:44:23.490Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5004,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T17:54:28.878Z","to":"2026-03-16T18:54:00.450Z","count":7,"status":404,"error":"HTTP 404","avg_latency":1223,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T19:04:06.306Z","to":"2026-03-16T19:04:06.306Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T19:14:00.257Z","to":"2026-03-16T21:54:07.685Z","count":17,"status":404,"error":"HTTP 404","avg_latency":1692,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T22:04:07.724Z","to":"2026-03-16T22:04:07.724Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-16T22:14:13.889Z","to":"2026-03-16T23:54:25.637Z","count":11,"status":404,"error":"HTTP 404","avg_latency":2166,"url":"https://www.modelpool.cn/v1"}
+{"type":"fail","from":"2026-03-17T00:04:06.924Z","to":"2026-03-17T01:04:27.999Z","count":7,"url":"https://www.modelpool.cn/v1","status":404,"error":"HTTP 404","avg_latency":1670}
+{"type":"ok","from":"2026-03-17T01:14:32.244Z","to":"2026-03-17T04:54:24.248Z","count":23,"url":"https://www.modelpool.cn","avg":2559,"min":804,"max":4866,"p95":4544}
+{"type":"fail","from":"2026-03-17T05:04:37.247Z","to":"2026-03-17T05:04:37.247Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":4999}
+{"type":"ok","from":"2026-03-17T05:14:22.490Z","to":"2026-03-17T05:54:42.375Z","count":5,"url":"https://www.modelpool.cn","avg":2766,"min":2435,"max":3462,"p95":3462}
+{"type":"fail","from":"2026-03-17T06:04:41.696Z","to":"2026-03-17T06:04:41.696Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T06:14:41.922Z","to":"2026-03-17T07:34:40.648Z","count":9,"url":"https://www.modelpool.cn","avg":1833,"min":777,"max":3852,"p95":3852}
+{"type":"fail","from":"2026-03-17T07:44:35.420Z","to":"2026-03-17T07:44:35.420Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-17T07:54:20.324Z","to":"2026-03-17T08:24:31.168Z","count":4,"url":"https://www.modelpool.cn","avg":1764,"min":1443,"max":2587,"p95":2587}
+{"type":"fail","from":"2026-03-17T08:34:53.356Z","to":"2026-03-17T08:34:53.356Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T08:44:35.715Z","to":"2026-03-17T09:24:39.092Z","count":5,"url":"https://www.modelpool.cn","avg":2740,"min":1642,"max":4015,"p95":4015}
+{"type":"fail","from":"2026-03-17T09:34:25.590Z","to":"2026-03-17T09:34:25.590Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T09:44:26.287Z","to":"2026-03-17T10:14:41.866Z","count":4,"url":"https://www.modelpool.cn","avg":2283,"min":824,"max":3908,"p95":3908}
+{"type":"fail","from":"2026-03-17T10:24:31.198Z","to":"2026-03-17T10:24:31.198Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T10:34:38.548Z","to":"2026-03-17T10:44:21.695Z","count":2,"url":"https://www.modelpool.cn","avg":2073,"min":1544,"max":2601,"p95":2601}
+{"type":"fail","from":"2026-03-17T10:54:14.181Z","to":"2026-03-17T10:54:14.181Z","count":1,"url":"https://www.modelpool.cn","status":502,"error":"HTTP 502","avg_latency":847}
+{"type":"fail","from":"2026-03-17T11:04:41.768Z","to":"2026-03-17T11:04:41.768Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-17T11:14:25.854Z","to":"2026-03-17T11:14:25.854Z","count":1,"url":"https://www.modelpool.cn","avg":1529,"min":1529,"max":1529,"p95":1529}
+{"type":"fail","from":"2026-03-17T11:24:54.268Z","to":"2026-03-17T11:24:54.268Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T11:34:38.023Z","to":"2026-03-17T11:55:01.124Z","count":3,"url":"https://www.modelpool.cn","avg":2241,"min":954,"max":3855,"p95":3855}
+{"type":"fail","from":"2026-03-17T12:04:53.339Z","to":"2026-03-17T12:04:53.339Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-17T12:14:35.637Z","to":"2026-03-17T14:04:51.969Z","count":11,"url":"https://www.modelpool.cn","avg":2428,"min":861,"max":4319,"p95":4319}
+{"type":"fail","from":"2026-03-17T14:15:14.120Z","to":"2026-03-17T14:24:45.100Z","count":2,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T14:34:31.938Z","to":"2026-03-17T14:54:59.152Z","count":3,"url":"https://www.modelpool.cn","avg":3145,"min":1863,"max":4938,"p95":4938}
+{"type":"fail","from":"2026-03-17T15:05:05.739Z","to":"2026-03-17T15:05:05.739Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-17T15:14:31.342Z","to":"2026-03-17T15:24:42.631Z","count":2,"url":"https://www.modelpool.cn","avg":840,"min":839,"max":840,"p95":840}
+{"type":"fail","from":"2026-03-17T15:34:58.182Z","to":"2026-03-17T15:34:58.182Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T15:44:34.760Z","to":"2026-03-17T16:44:20.777Z","count":7,"url":"https://www.modelpool.cn","avg":2875,"min":811,"max":4544,"p95":4544}
+{"type":"fail","from":"2026-03-17T16:54:26.335Z","to":"2026-03-17T16:54:26.335Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-17T17:04:26.803Z","to":"2026-03-17T19:04:14.025Z","count":13,"url":"https://www.modelpool.cn","avg":2025,"min":794,"max":3927,"p95":3927}
+{"type":"fail","from":"2026-03-17T19:14:29.145Z","to":"2026-03-17T19:14:29.145Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T19:24:11.448Z","to":"2026-03-17T23:14:05.937Z","count":24,"url":"https://www.modelpool.cn","avg":1318,"min":737,"max":4023,"p95":2273}
+{"type":"fail","from":"2026-03-17T23:24:15.510Z","to":"2026-03-17T23:24:15.510Z","count":1,"url":"https://www.modelpool.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-17T23:33:59.626Z","to":"2026-03-17T23:54:15.421Z","count":3,"url":"https://www.modelpool.cn","avg":1678,"min":1214,"max":1991,"p95":1991}
