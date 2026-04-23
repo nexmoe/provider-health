@@ -1,6 +1,7 @@
-{"url":"https://openai.good.hidns.vip/v1"}
-{"type":"fail","from":"2026-03-17T14:24:46.603Z","to":"2026-03-17T15:14:34.733Z","count":6,"status":404,"error":"HTTP 404","avg_latency":1571}
-{"type":"fail","from":"2026-03-17T15:24:49.766Z","to":"2026-03-17T15:24:49.766Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-03-17T15:34:59.443Z","to":"2026-03-17T15:44:37.048Z","count":2,"status":404,"error":"HTTP 404","avg_latency":741}
-{"type":"fail","from":"2026-03-17T15:54:48.321Z","to":"2026-03-17T16:04:47.110Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-03-17T16:14:32.194Z","to":"2026-03-17T23:54:20.682Z","count":47,"status":404,"error":"HTTP 404","avg_latency":1391}
+{"type":"fail","from":"2026-03-17T14:24:46.603Z","to":"2026-03-17T15:14:34.733Z","count":6,"status":404,"error":"HTTP 404","avg_latency":1571,"url":"https://openai.good.hidns.vip/v1"}
+{"type":"fail","from":"2026-03-17T15:24:49.766Z","to":"2026-03-17T15:24:49.766Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://openai.good.hidns.vip/v1"}
+{"type":"fail","from":"2026-03-17T15:34:59.443Z","to":"2026-03-17T15:44:37.048Z","count":2,"status":404,"error":"HTTP 404","avg_latency":741,"url":"https://openai.good.hidns.vip/v1"}
+{"type":"fail","from":"2026-03-17T15:54:48.321Z","to":"2026-03-17T16:04:47.110Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://openai.good.hidns.vip/v1"}
+{"type":"fail","from":"2026-03-17T16:14:32.194Z","to":"2026-03-17T23:54:20.682Z","count":47,"status":404,"error":"HTTP 404","avg_latency":1391,"url":"https://openai.good.hidns.vip/v1"}
+{"type":"fail","from":"2026-03-18T00:04:15.825Z","to":"2026-03-18T07:04:43.943Z","count":43,"url":"https://openai.good.hidns.vip/v1","status":404,"error":"HTTP 404","avg_latency":1229}
+{"type":"ok","from":"2026-03-18T07:14:49.828Z","to":"2026-03-18T23:54:08.983Z","count":101,"url":"https://www.bilibili.com","avg":238,"min":114,"max":2291,"p95":491}
