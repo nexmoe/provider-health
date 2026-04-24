@@ -19,3 +19,10 @@
 {"type":"ok","from":"2026-03-18T06:24:30.397Z","to":"2026-03-18T20:23:56.200Z","count":85,"url":"https://api.aigc.bar","avg":746,"min":357,"max":4566,"p95":1556}
 {"type":"fail","from":"2026-03-18T20:34:10.743Z","to":"2026-03-18T20:34:10.743Z","count":1,"url":"https://api.aigc.bar","status":null,"error":"Healthcheck timeout","avg_latency":5002}
 {"type":"ok","from":"2026-03-18T20:43:58.070Z","to":"2026-03-18T23:54:05.163Z","count":20,"url":"https://api.aigc.bar","avg":620,"min":357,"max":1594,"p95":1594}
+{"type":"ok","from":"2026-03-19T00:04:08.467Z","to":"2026-03-19T05:04:17.940Z","count":31,"url":"https://api.aigc.bar","avg":683,"min":342,"max":2068,"p95":1659}
+{"type":"fail","from":"2026-03-19T05:14:35.913Z","to":"2026-03-19T05:14:35.913Z","count":1,"url":"https://api.aigc.bar","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-19T05:24:26.897Z","to":"2026-03-19T09:24:33.051Z","count":25,"url":"https://api.aigc.bar","avg":627,"min":340,"max":1506,"p95":1361}
+{"type":"fail","from":"2026-03-19T09:34:47.763Z","to":"2026-03-19T13:34:53.978Z","count":25,"url":"https://api.aigc.bar","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-19T13:44:52.669Z","to":"2026-03-19T17:24:10.797Z","count":23,"url":"https://api.aigc.bar","avg":790,"min":364,"max":1861,"p95":1460}
+{"type":"fail","from":"2026-03-19T17:34:06.435Z","to":"2026-03-19T17:34:06.435Z","count":1,"url":"https://api.aigc.bar","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-19T17:44:33.850Z","to":"2026-03-19T23:54:23.335Z","count":38,"url":"https://api.aigc.bar","avg":805,"min":406,"max":1268,"p95":1265}

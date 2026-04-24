@@ -30,3 +30,15 @@
 {"type":"ok","from":"2026-03-18T18:54:13.080Z","to":"2026-03-18T19:04:10.639Z","count":2,"avg":948,"min":906,"max":990,"p95":990}
 {"type":"fail","from":"2026-03-18T19:14:18.430Z","to":"2026-03-18T19:14:18.430Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
 {"type":"ok","from":"2026-03-18T19:23:56.236Z","to":"2026-03-18T23:54:03.862Z","count":28,"avg":372,"min":224,"max":970,"p95":872}
+{"type":"ok","from":"2026-03-19T00:04:08.133Z","to":"2026-03-19T02:14:11.221Z","count":14,"avg":383,"min":284,"max":1250,"p95":1250}
+{"type":"fail","from":"2026-03-19T02:24:29.463Z","to":"2026-03-19T02:34:28.287Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-19T02:44:34.880Z","to":"2026-03-19T03:25:23.065Z","count":5,"avg":576,"min":257,"max":1114,"p95":1114}
+{"type":"fail","from":"2026-03-19T03:34:17.162Z","to":"2026-03-19T03:34:17.162Z","count":1,"status":502,"error":"HTTP 502","avg_latency":398}
+{"type":"ok","from":"2026-03-19T03:45:36.016Z","to":"2026-03-19T11:04:35.816Z","count":45,"avg":734,"min":319,"max":3785,"p95":2262}
+{"type":"fail","from":"2026-03-19T11:14:43.255Z","to":"2026-03-19T11:14:43.255Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-19T11:24:27.295Z","to":"2026-03-19T13:34:49.412Z","count":14,"avg":518,"min":296,"max":962,"p95":962}
+{"type":"fail","from":"2026-03-19T13:44:56.685Z","to":"2026-03-19T13:44:56.685Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-19T13:54:52.061Z","to":"2026-03-19T16:24:35.570Z","count":16,"avg":653,"min":306,"max":1281,"p95":1281}
+{"type":"fail","from":"2026-03-19T16:34:45.715Z","to":"2026-03-19T16:34:45.715Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-19T16:44:38.150Z","to":"2026-03-19T17:24:10.478Z","count":5,"avg":349,"min":297,"max":545,"p95":545}
+{"type":"fail","from":"2026-03-19T17:34:01.601Z","to":"2026-03-19T23:54:22.539Z","count":39,"status":502,"error":"HTTP 502","avg_latency":164}
