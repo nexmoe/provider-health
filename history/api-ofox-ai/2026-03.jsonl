@@ -1,2 +1,5 @@
-{"url":"https://api.ofox.ai/v1"}
-{"type":"ok","from":"2026-03-19T14:45:03.221Z","to":"2026-03-19T23:54:30.741Z","count":56,"avg":54,"min":25,"max":221,"p95":149}
+{"type":"ok","from":"2026-03-19T14:45:03.221Z","to":"2026-03-19T23:54:30.741Z","count":56,"avg":54,"min":25,"max":221,"p95":149,"url":"https://api.ofox.ai/v1"}
+{"type":"ok","from":"2026-03-20T00:04:31.793Z","to":"2026-03-20T19:04:13.871Z","count":115,"url":"https://api.ofox.ai/v1","avg":69,"min":21,"max":1046,"p95":209}
+{"type":"ok","from":"2026-03-20T19:14:22.904Z","to":"2026-03-20T20:44:11.180Z","count":10,"url":"https://ofox.ai","avg":86,"min":59,"max":130,"p95":130}
+{"type":"fail","from":"2026-03-20T20:54:15.803Z","to":"2026-03-20T20:54:15.803Z","count":1,"url":"https://ofox.ai","status":null,"error":"Healthcheck timeout","avg_latency":4999}
+{"type":"ok","from":"2026-03-20T21:04:27.965Z","to":"2026-03-20T23:54:16.854Z","count":18,"url":"https://ofox.ai","avg":96,"min":56,"max":376,"p95":376}
