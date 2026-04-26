@@ -27,3 +27,6 @@
 {"type":"ok","from":"2026-03-18T00:04:01.283Z","to":"2026-03-18T23:53:56.420Z","count":144,"url":"https://vsllm.com","avg":1117,"min":485,"max":1612,"p95":1403}
 {"type":"ok","from":"2026-03-19T00:03:57.980Z","to":"2026-03-19T23:54:12.559Z","count":144,"url":"https://vsllm.com","avg":1073,"min":323,"max":2326,"p95":1410}
 {"type":"ok","from":"2026-03-20T00:04:12.193Z","to":"2026-03-20T23:53:57.030Z","count":144,"url":"https://vsllm.com","avg":1162,"min":510,"max":2351,"p95":1554}
+{"type":"ok","from":"2026-03-21T00:03:55.646Z","to":"2026-03-21T05:24:43.009Z","count":33,"url":"https://vsllm.com","avg":1059,"min":563,"max":1388,"p95":1371}
+{"type":"fail","from":"2026-03-21T05:34:41.444Z","to":"2026-03-21T05:34:41.444Z","count":1,"url":"https://vsllm.com","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-21T05:44:16.290Z","to":"2026-03-21T23:54:05.873Z","count":110,"url":"https://vsllm.com","avg":1091,"min":277,"max":1719,"p95":1424}

@@ -26,3 +26,11 @@
 {"type":"ok","from":"2026-03-18T00:03:30.977Z","to":"2026-03-18T23:53:24.217Z","count":144,"url":"https://api.gemai.cc","avg":486,"min":436,"max":797,"p95":517}
 {"type":"ok","from":"2026-03-19T00:03:29.521Z","to":"2026-03-19T23:53:45.530Z","count":144,"url":"https://api.gemai.cc","avg":503,"min":439,"max":824,"p95":726}
 {"type":"ok","from":"2026-03-20T00:03:40.005Z","to":"2026-03-20T23:53:28.509Z","count":144,"url":"https://api.gemai.cc","avg":504,"min":446,"max":1285,"p95":734}
+{"type":"ok","from":"2026-03-21T00:03:25.353Z","to":"2026-03-21T19:03:44.131Z","count":115,"url":"https://api.gemai.cc","avg":496,"min":449,"max":933,"p95":583}
+{"type":"fail","from":"2026-03-21T19:13:32.386Z","to":"2026-03-21T19:13:32.386Z","count":1,"url":"https://api.gemai.cc","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-03-21T19:23:37.871Z","to":"2026-03-21T19:23:37.871Z","count":1,"url":"https://api.gemai.cc","status":502,"error":"HTTP 502","avg_latency":1890}
+{"type":"ok","from":"2026-03-21T19:33:35.627Z","to":"2026-03-21T22:43:36.737Z","count":20,"url":"https://api.gemai.cc","avg":479,"min":451,"max":531,"p95":531}
+{"type":"fail","from":"2026-03-21T22:53:34.204Z","to":"2026-03-21T22:53:34.204Z","count":1,"url":"https://api.gemai.cc","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-21T23:03:35.769Z","to":"2026-03-21T23:13:40.759Z","count":2,"url":"https://api.gemai.cc","avg":478,"min":473,"max":483,"p95":483}
+{"type":"fail","from":"2026-03-21T23:23:44.221Z","to":"2026-03-21T23:33:59.844Z","count":2,"url":"https://api.gemai.cc","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-21T23:43:39.779Z","to":"2026-03-21T23:53:35.233Z","count":2,"url":"https://api.gemai.cc","avg":469,"min":459,"max":479,"p95":479}
