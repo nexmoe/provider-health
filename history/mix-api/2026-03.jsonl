@@ -463,3 +463,17 @@
 {"type":"fail","from":"2026-03-22T07:04:05.685Z","to":"2026-03-22T12:34:16.430Z","count":34,"status":404,"error":"HTTP 404","avg_latency":1405}
 {"type":"fail","from":"2026-03-22T12:44:26.396Z","to":"2026-03-22T12:44:26.396Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"fail","from":"2026-03-22T12:54:19.889Z","to":"2026-03-22T23:53:54.165Z","count":67,"status":404,"error":"HTTP 404","avg_latency":1428}
+{"type":"fail","from":"2026-03-23T00:03:51.151Z","to":"2026-03-23T04:23:59.845Z","count":27,"status":404,"error":"HTTP 404","avg_latency":1239}
+{"type":"fail","from":"2026-03-23T04:34:22.363Z","to":"2026-03-23T04:34:22.363Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-23T04:44:14.139Z","to":"2026-03-23T07:44:07.050Z","count":19,"status":404,"error":"HTTP 404","avg_latency":1562}
+{"type":"fail","from":"2026-03-23T07:54:16.150Z","to":"2026-03-23T07:54:16.150Z","count":1,"status":522,"error":"HTTP 522","avg_latency":1777}
+{"type":"fail","from":"2026-03-23T08:04:00.359Z","to":"2026-03-23T10:44:05.249Z","count":17,"status":404,"error":"HTTP 404","avg_latency":1401}
+{"type":"ok","from":"2026-03-23T10:54:02.549Z","to":"2026-03-23T11:23:51.089Z","count":4,"avg":1015,"min":747,"max":1148,"p95":1148}
+{"type":"fail","from":"2026-03-23T11:34:21.042Z","to":"2026-03-23T11:34:21.042Z","count":1,"status":502,"error":"HTTP 502","avg_latency":2524}
+{"type":"fail","from":"2026-03-23T11:44:10.975Z","to":"2026-03-23T11:44:10.975Z","count":1,"status":404,"error":"HTTP 404","avg_latency":1464}
+{"type":"fail","from":"2026-03-23T11:54:18.391Z","to":"2026-03-23T11:54:18.391Z","count":1,"status":522,"error":"HTTP 522","avg_latency":1619}
+{"type":"fail","from":"2026-03-23T12:04:14.195Z","to":"2026-03-23T15:34:10.460Z","count":22,"status":404,"error":"HTTP 404","avg_latency":1996}
+{"type":"fail","from":"2026-03-23T15:44:18.957Z","to":"2026-03-23T15:44:18.957Z","count":1,"status":522,"error":"HTTP 522","avg_latency":1875}
+{"type":"fail","from":"2026-03-23T15:54:04.938Z","to":"2026-03-23T18:33:43.589Z","count":17,"status":404,"error":"HTTP 404","avg_latency":1303}
+{"type":"fail","from":"2026-03-23T18:43:54.519Z","to":"2026-03-23T18:43:54.519Z","count":1,"status":522,"error":"HTTP 522","avg_latency":1663}
+{"type":"fail","from":"2026-03-23T18:53:44.100Z","to":"2026-03-23T23:53:42.308Z","count":31,"status":404,"error":"HTTP 404","avg_latency":1210}

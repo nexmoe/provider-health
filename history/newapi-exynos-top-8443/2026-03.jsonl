@@ -1,2 +1,12 @@
-{"url":"https://newapi.exynos.top:8443/v1"}
-{"type":"fail","from":"2026-03-22T15:45:05.668Z","to":"2026-03-22T23:54:39.035Z","count":50,"status":404,"error":"HTTP 404","avg_latency":1214}
+{"type":"fail","from":"2026-03-22T15:45:05.668Z","to":"2026-03-22T23:54:39.035Z","count":50,"status":404,"error":"HTTP 404","avg_latency":1214,"url":"https://newapi.exynos.top:8443/v1"}
+{"type":"fail","from":"2026-03-23T00:04:30.473Z","to":"2026-03-23T03:24:48.311Z","count":21,"url":"https://newapi.exynos.top:8443/v1","status":404,"error":"HTTP 404","avg_latency":1072}
+{"type":"fail","from":"2026-03-23T03:34:52.566Z","to":"2026-03-23T03:34:52.566Z","count":1,"url":"https://newapi.exynos.top:8443/v1","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-23T03:44:44.218Z","to":"2026-03-23T04:55:12.325Z","count":8,"url":"https://newapi.exynos.top:8443/v1","status":404,"error":"HTTP 404","avg_latency":1542}
+{"type":"fail","from":"2026-03-23T05:05:03.873Z","to":"2026-03-23T05:05:03.873Z","count":1,"url":"https://newapi.exynos.top:8443/v1","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-03-23T05:14:50.678Z","to":"2026-03-23T05:55:05.643Z","count":5,"url":"https://newapi.exynos.top:8443/v1","status":404,"error":"HTTP 404","avg_latency":2438}
+{"type":"fail","from":"2026-03-23T06:05:00.549Z","to":"2026-03-23T06:05:00.549Z","count":1,"url":"https://newapi.exynos.top:8443/v1","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-03-23T06:14:54.166Z","to":"2026-03-23T07:25:09.424Z","count":8,"url":"https://newapi.exynos.top:8443/v1","status":404,"error":"HTTP 404","avg_latency":1313}
+{"type":"fail","from":"2026-03-23T07:34:58.916Z","to":"2026-03-23T07:34:58.916Z","count":1,"url":"https://newapi.exynos.top:8443/v1","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-03-23T07:44:55.487Z","to":"2026-03-23T10:54:58.712Z","count":20,"url":"https://newapi.exynos.top:8443/v1","status":404,"error":"HTTP 404","avg_latency":1486}
+{"type":"fail","from":"2026-03-23T11:04:56.228Z","to":"2026-03-23T11:04:56.228Z","count":1,"url":"https://newapi.exynos.top:8443/v1","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-23T11:15:02.711Z","to":"2026-03-23T23:54:22.893Z","count":77,"url":"https://exynos.top","avg":157,"min":86,"max":1153,"p95":317}
