@@ -1,2 +1,9 @@
-{"url":"https://api.0chat.vip/v1"}
-{"type":"fail","from":"2026-03-23T16:14:56.606Z","to":"2026-03-23T23:54:23.490Z","count":47,"status":404,"error":"HTTP 404","avg_latency":1401}
+{"type":"fail","from":"2026-03-23T16:14:56.606Z","to":"2026-03-23T23:54:23.490Z","count":47,"status":404,"error":"HTTP 404","avg_latency":1401,"url":"https://api.0chat.vip/v1"}
+{"type":"fail","from":"2026-03-24T00:04:35.234Z","to":"2026-03-24T07:05:06.409Z","count":43,"url":"https://api.0chat.vip/v1","status":404,"error":"HTTP 404","avg_latency":1458}
+{"type":"ok","from":"2026-03-24T07:15:01.350Z","to":"2026-03-24T10:56:15.154Z","count":23,"url":"https://api.0chat.vip","avg":1788,"min":528,"max":3679,"p95":3661}
+{"type":"fail","from":"2026-03-24T11:05:34.306Z","to":"2026-03-24T11:05:34.306Z","count":1,"url":"https://api.0chat.vip","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-24T11:15:55.658Z","to":"2026-03-24T13:05:13.121Z","count":12,"url":"https://api.0chat.vip","avg":1792,"min":1132,"max":3772,"p95":3772}
+{"type":"fail","from":"2026-03-24T13:15:20.718Z","to":"2026-03-24T13:15:20.718Z","count":1,"url":"https://api.0chat.vip","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-24T13:25:12.459Z","to":"2026-03-24T14:15:08.031Z","count":6,"url":"https://api.0chat.vip","avg":2560,"min":1012,"max":4817,"p95":4817}
+{"type":"fail","from":"2026-03-24T14:25:33.084Z","to":"2026-03-24T14:25:33.084Z","count":1,"url":"https://api.0chat.vip","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-24T14:35:11.128Z","to":"2026-03-24T23:54:35.142Z","count":57,"url":"https://api.0chat.vip","avg":1511,"min":823,"max":3978,"p95":3623}

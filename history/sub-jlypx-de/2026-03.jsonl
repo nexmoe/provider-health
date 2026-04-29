@@ -11,3 +11,10 @@
 {"type":"fail","from":"2026-03-22T02:24:52.911Z","to":"2026-03-22T02:24:52.911Z","count":1,"url":"https://sub.jlypx.de","status":502,"error":"HTTP 502","avg_latency":323}
 {"type":"ok","from":"2026-03-22T02:34:42.586Z","to":"2026-03-22T23:54:33.386Z","count":129,"url":"https://sub.jlypx.de","avg":377,"min":242,"max":3343,"p95":691}
 {"type":"ok","from":"2026-03-23T00:04:24.602Z","to":"2026-03-23T23:54:18.092Z","count":144,"url":"https://sub.jlypx.de","avg":330,"min":238,"max":970,"p95":576}
+{"type":"ok","from":"2026-03-24T00:04:29.960Z","to":"2026-03-24T08:35:00.922Z","count":52,"url":"https://sub.jlypx.de","avg":362,"min":242,"max":784,"p95":626}
+{"type":"fail","from":"2026-03-24T08:45:11.587Z","to":"2026-03-24T08:45:11.587Z","count":1,"url":"https://sub.jlypx.de","status":502,"error":"HTTP 502","avg_latency":1313}
+{"type":"ok","from":"2026-03-24T08:54:52.459Z","to":"2026-03-24T09:45:11.056Z","count":6,"url":"https://sub.jlypx.de","avg":386,"min":287,"max":641,"p95":641}
+{"type":"fail","from":"2026-03-24T09:55:01.688Z","to":"2026-03-24T09:55:01.688Z","count":1,"url":"https://sub.jlypx.de","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-24T10:04:40.041Z","to":"2026-03-24T17:34:53.445Z","count":46,"url":"https://sub.jlypx.de","avg":343,"min":243,"max":1106,"p95":643}
+{"type":"fail","from":"2026-03-24T17:44:42.837Z","to":"2026-03-24T17:44:42.837Z","count":1,"url":"https://sub.jlypx.de","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-24T17:54:40.621Z","to":"2026-03-24T23:54:29.764Z","count":37,"url":"https://sub.jlypx.de","avg":357,"min":242,"max":1372,"p95":890}

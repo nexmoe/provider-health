@@ -10,3 +10,6 @@
 {"type":"fail","from":"2026-03-23T07:44:55.487Z","to":"2026-03-23T10:54:58.712Z","count":20,"url":"https://newapi.exynos.top:8443/v1","status":404,"error":"HTTP 404","avg_latency":1486}
 {"type":"fail","from":"2026-03-23T11:04:56.228Z","to":"2026-03-23T11:04:56.228Z","count":1,"url":"https://newapi.exynos.top:8443/v1","status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"ok","from":"2026-03-23T11:15:02.711Z","to":"2026-03-23T23:54:22.893Z","count":77,"url":"https://exynos.top","avg":157,"min":86,"max":1153,"p95":317}
+{"type":"ok","from":"2026-03-24T00:04:34.491Z","to":"2026-03-24T22:44:36.060Z","count":137,"url":"https://exynos.top","avg":284,"min":84,"max":4113,"p95":666}
+{"type":"fail","from":"2026-03-24T22:54:39.865Z","to":"2026-03-24T23:04:31.306Z","count":2,"url":"https://exynos.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-24T23:14:25.628Z","to":"2026-03-24T23:54:34.204Z","count":5,"url":"https://exynos.top","avg":105,"min":95,"max":116,"p95":116}
