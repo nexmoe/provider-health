@@ -54,3 +54,6 @@
 {"type":"fail","from":"2026-03-24T00:01:52.614Z","to":"2026-03-24T11:12:29.071Z","count":68,"status":550,"error":"HTTP 550","avg_latency":1869}
 {"type":"fail","from":"2026-03-24T11:22:35.240Z","to":"2026-03-24T11:22:35.240Z","count":1,"status":503,"error":"HTTP 503","avg_latency":1203}
 {"type":"fail","from":"2026-03-24T11:32:05.683Z","to":"2026-03-24T23:51:52.422Z","count":75,"status":550,"error":"HTTP 550","avg_latency":1901}
+{"type":"fail","from":"2026-03-25T00:01:54.246Z","to":"2026-03-25T16:22:07.145Z","count":99,"status":550,"error":"HTTP 550","avg_latency":1909}
+{"type":"fail","from":"2026-03-25T16:32:03.397Z","to":"2026-03-25T16:32:03.397Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-03-25T16:42:04.675Z","to":"2026-03-25T23:51:52.252Z","count":44,"status":550,"error":"HTTP 550","avg_latency":1821}
