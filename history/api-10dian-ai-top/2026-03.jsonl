@@ -63,3 +63,13 @@
 {"type":"ok","from":"2026-03-23T00:03:58.216Z","to":"2026-03-23T23:53:49.572Z","count":144,"url":"https://api.10dian-ai.top","avg":869,"min":463,"max":1716,"p95":1449}
 {"type":"ok","from":"2026-03-24T00:03:58.346Z","to":"2026-03-24T23:53:59.225Z","count":144,"url":"https://api.10dian-ai.top","avg":851,"min":483,"max":2680,"p95":1588}
 {"type":"ok","from":"2026-03-25T00:03:54.158Z","to":"2026-03-25T23:53:53.344Z","count":143,"url":"https://api.10dian-ai.top","avg":827,"min":494,"max":3674,"p95":1618}
+{"type":"ok","from":"2026-03-26T00:04:04.628Z","to":"2026-03-26T07:04:22.393Z","count":43,"url":"https://api.10dian-ai.top","avg":834,"min":558,"max":1713,"p95":1233}
+{"type":"fail","from":"2026-03-26T07:14:33.582Z","to":"2026-03-26T10:24:12.848Z","count":20,"url":"https://api.10dian-ai.top","status":502,"error":"HTTP 502","avg_latency":3512}
+{"type":"fail","from":"2026-03-26T10:34:35.464Z","to":"2026-03-26T10:34:35.464Z","count":1,"url":"https://api.10dian-ai.top","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-26T10:44:12.970Z","to":"2026-03-26T16:44:23.980Z","count":37,"url":"https://api.10dian-ai.top","status":502,"error":"HTTP 502","avg_latency":3029}
+{"type":"fail","from":"2026-03-26T16:54:17.548Z","to":"2026-03-26T16:54:17.548Z","count":1,"url":"https://api.10dian-ai.top","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-26T17:04:01.519Z","to":"2026-03-26T19:23:44.942Z","count":15,"url":"https://api.10dian-ai.top","status":502,"error":"HTTP 502","avg_latency":3042}
+{"type":"fail","from":"2026-03-26T19:33:57.297Z","to":"2026-03-26T19:33:57.297Z","count":1,"url":"https://api.10dian-ai.top","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-03-26T19:43:44.241Z","to":"2026-03-26T23:33:58.378Z","count":24,"url":"https://api.10dian-ai.top","status":502,"error":"HTTP 502","avg_latency":3318}
+{"type":"fail","from":"2026-03-26T23:43:58.335Z","to":"2026-03-26T23:43:58.335Z","count":1,"url":"https://api.10dian-ai.top","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-26T23:54:03.310Z","to":"2026-03-26T23:54:03.310Z","count":1,"url":"https://api.10dian-ai.top","status":502,"error":"HTTP 502","avg_latency":2702}
