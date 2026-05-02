@@ -39,3 +39,5 @@
 {"type":"ok","from":"2026-03-25T00:03:21.122Z","to":"2026-03-25T23:53:16.855Z","count":143,"avg":150,"min":51,"max":594,"p95":273}
 {"type":"ok","from":"2026-03-26T00:03:26.676Z","to":"2026-03-26T21:33:15.005Z","count":130,"avg":140,"min":51,"max":544,"p95":299}
 {"type":"fail","from":"2026-03-26T21:43:17.171Z","to":"2026-03-26T23:53:29.159Z","count":14,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-27T00:03:26.973Z","to":"2026-03-27T04:13:42.813Z","count":26,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-27T04:23:40.407Z","to":"2026-03-27T23:53:40.354Z","count":118,"avg":181,"min":52,"max":2399,"p95":442}

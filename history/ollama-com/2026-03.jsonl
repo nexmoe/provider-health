@@ -1,5 +1,6 @@
-{"url":"https://ollama.com/v1/"}
-{"type":"fail","from":"2026-03-23T09:14:55.053Z","to":"2026-03-23T23:54:23.299Z","count":89,"status":404,"error":"HTTP 404","avg_latency":668}
-{"type":"fail","from":"2026-03-24T00:04:34.906Z","to":"2026-03-24T23:54:34.599Z","count":144,"status":404,"error":"HTTP 404","avg_latency":729}
-{"type":"fail","from":"2026-03-25T00:04:37.300Z","to":"2026-03-25T23:54:32.135Z","count":143,"status":404,"error":"HTTP 404","avg_latency":748}
-{"type":"fail","from":"2026-03-26T00:04:44.863Z","to":"2026-03-26T23:54:40.165Z","count":144,"status":404,"error":"HTTP 404","avg_latency":712}
+{"type":"fail","from":"2026-03-23T09:14:55.053Z","to":"2026-03-23T23:54:23.299Z","count":89,"status":404,"error":"HTTP 404","avg_latency":668,"url":"https://ollama.com/v1/"}
+{"type":"fail","from":"2026-03-24T00:04:34.906Z","to":"2026-03-24T23:54:34.599Z","count":144,"status":404,"error":"HTTP 404","avg_latency":729,"url":"https://ollama.com/v1/"}
+{"type":"fail","from":"2026-03-25T00:04:37.300Z","to":"2026-03-25T23:54:32.135Z","count":143,"status":404,"error":"HTTP 404","avg_latency":748,"url":"https://ollama.com/v1/"}
+{"type":"fail","from":"2026-03-26T00:04:44.863Z","to":"2026-03-26T23:54:40.165Z","count":144,"status":404,"error":"HTTP 404","avg_latency":712,"url":"https://ollama.com/v1/"}
+{"type":"fail","from":"2026-03-27T00:04:37.063Z","to":"2026-03-27T13:05:29.225Z","count":79,"url":"https://ollama.com/v1/","status":404,"error":"HTTP 404","avg_latency":656}
+{"type":"ok","from":"2026-03-27T13:15:17.763Z","to":"2026-03-27T23:54:58.995Z","count":65,"url":"https://ollama.com","avg":417,"min":254,"max":954,"p95":905}

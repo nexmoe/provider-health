@@ -58,3 +58,8 @@
 {"type":"fail","from":"2026-03-25T02:13:56.881Z","to":"2026-03-25T02:13:56.881Z","count":1,"url":"https://api2.aigcbest.top","status":429,"error":"HTTP 429","avg_latency":544}
 {"type":"ok","from":"2026-03-25T02:24:08.113Z","to":"2026-03-25T23:53:44.720Z","count":129,"url":"https://api2.aigcbest.top","avg":524,"min":461,"max":1502,"p95":681}
 {"type":"ok","from":"2026-03-26T00:03:55.769Z","to":"2026-03-26T23:53:51.181Z","count":144,"url":"https://api2.aigcbest.top","avg":522,"min":463,"max":905,"p95":733}
+{"type":"ok","from":"2026-03-27T00:03:53.085Z","to":"2026-03-27T17:34:14.924Z","count":106,"url":"https://api2.aigcbest.top","avg":527,"min":448,"max":892,"p95":819}
+{"type":"fail","from":"2026-03-27T17:44:07.511Z","to":"2026-03-27T17:44:07.511Z","count":1,"url":"https://api2.aigcbest.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-27T17:54:08.926Z","to":"2026-03-27T19:44:04.030Z","count":12,"url":"https://api2.aigcbest.top","avg":471,"min":441,"max":490,"p95":490}
+{"type":"fail","from":"2026-03-27T19:54:15.351Z","to":"2026-03-27T19:54:15.351Z","count":1,"url":"https://api2.aigcbest.top","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-27T20:03:58.814Z","to":"2026-03-27T23:54:15.503Z","count":24,"url":"https://api2.aigcbest.top","avg":532,"min":442,"max":1493,"p95":808}

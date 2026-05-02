@@ -38,3 +38,6 @@
 {"type":"ok","from":"2026-03-24T00:03:30.967Z","to":"2026-03-24T23:53:36.820Z","count":144,"url":"https://api.vectorengine.ai","avg":593,"min":439,"max":1683,"p95":832}
 {"type":"ok","from":"2026-03-25T00:03:34.875Z","to":"2026-03-25T23:53:29.187Z","count":143,"url":"https://api.vectorengine.ai","avg":598,"min":441,"max":1521,"p95":904}
 {"type":"ok","from":"2026-03-26T00:03:41.504Z","to":"2026-03-26T23:53:39.614Z","count":144,"url":"https://api.vectorengine.ai","avg":618,"min":441,"max":1464,"p95":964}
+{"type":"ok","from":"2026-03-27T00:03:41.079Z","to":"2026-03-27T11:54:00.402Z","count":72,"url":"https://api.vectorengine.ai","avg":675,"min":441,"max":1933,"p95":1280}
+{"type":"fail","from":"2026-03-27T12:04:13.671Z","to":"2026-03-27T12:04:13.671Z","count":1,"url":"https://api.vectorengine.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-27T12:13:59.323Z","to":"2026-03-27T23:53:59.386Z","count":71,"url":"https://api.vectorengine.ai","avg":610,"min":441,"max":1499,"p95":1147}

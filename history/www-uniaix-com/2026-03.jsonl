@@ -30,3 +30,8 @@
 {"type":"ok","from":"2026-03-24T00:04:04.871Z","to":"2026-03-24T23:54:03.829Z","count":144,"url":"https://www.uniaix.com","avg":703,"min":409,"max":1356,"p95":937}
 {"type":"ok","from":"2026-03-25T00:04:00.626Z","to":"2026-03-25T23:53:57.991Z","count":143,"url":"https://www.uniaix.com","avg":686,"min":554,"max":1033,"p95":868}
 {"type":"ok","from":"2026-03-26T00:04:12.306Z","to":"2026-03-26T23:54:07.857Z","count":144,"url":"https://www.uniaix.com","avg":702,"min":401,"max":1118,"p95":908}
+{"type":"ok","from":"2026-03-27T00:04:08.788Z","to":"2026-03-27T10:14:27.422Z","count":62,"url":"https://www.uniaix.com","avg":711,"min":371,"max":1072,"p95":1036}
+{"type":"fail","from":"2026-03-27T10:24:23.318Z","to":"2026-03-27T10:24:23.318Z","count":1,"url":"https://www.uniaix.com","status":null,"error":"fetch failed","avg_latency":158}
+{"type":"fail","from":"2026-03-27T10:34:36.245Z","to":"2026-03-27T10:44:25.373Z","count":2,"url":"https://www.uniaix.com","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-27T10:54:23.187Z","to":"2026-03-27T10:54:23.187Z","count":1,"url":"https://www.uniaix.com","status":null,"error":"fetch failed","avg_latency":47}
+{"type":"ok","from":"2026-03-27T11:04:35.667Z","to":"2026-03-27T23:54:27.717Z","count":78,"url":"https://www.uniaix.com","avg":705,"min":353,"max":1629,"p95":903}
