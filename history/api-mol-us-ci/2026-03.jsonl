@@ -1,2 +1,7 @@
 {"type":"fail","from":"2026-03-27T06:15:08.270Z","to":"2026-03-27T19:04:50.506Z","count":78,"url":"https://api.mol.us.ci/v1","status":404,"error":"HTTP 404","avg_latency":328}
 {"type":"ok","from":"2026-03-27T19:14:56.288Z","to":"2026-03-27T23:55:09.196Z","count":29,"url":"https://api.mol.us.ci","avg":525,"min":203,"max":673,"p95":627}
+{"type":"ok","from":"2026-03-28T00:05:12.324Z","to":"2026-03-28T11:45:15.857Z","count":71,"url":"https://api.mol.us.ci","avg":543,"min":203,"max":3847,"p95":710}
+{"type":"fail","from":"2026-03-28T11:55:06.034Z","to":"2026-03-28T11:55:06.034Z","count":1,"url":"https://api.mol.us.ci","status":502,"error":"HTTP 502","avg_latency":525}
+{"type":"ok","from":"2026-03-28T12:05:33.027Z","to":"2026-03-28T12:05:33.027Z","count":1,"url":"https://api.mol.us.ci","avg":595,"min":595,"max":595,"p95":595}
+{"type":"fail","from":"2026-03-28T12:15:22.411Z","to":"2026-03-28T12:15:22.411Z","count":1,"url":"https://api.mol.us.ci","status":502,"error":"HTTP 502","avg_latency":544}
+{"type":"ok","from":"2026-03-28T12:25:23.684Z","to":"2026-03-28T23:55:01.856Z","count":70,"url":"https://api.mol.us.ci","avg":579,"min":208,"max":1158,"p95":665}
