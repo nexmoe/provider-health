@@ -1,3 +1,12 @@
 {"type":"fail","from":"2026-03-27T15:15:28.342Z","to":"2026-03-27T23:55:09.564Z","count":53,"status":404,"error":"HTTP 404","avg_latency":387,"url":"https://mars-hk.duckdns.org:38317/v1"}
 {"type":"fail","from":"2026-03-28T00:05:12.631Z","to":"2026-03-28T03:05:04.151Z","count":19,"url":"https://mars-hk.duckdns.org:38317/v1","status":404,"error":"HTTP 404","avg_latency":263}
 {"type":"ok","from":"2026-03-28T03:15:17.383Z","to":"2026-03-28T23:55:02.153Z","count":125,"url":"http://mars-hk.duckdns.org","avg":270,"min":204,"max":3224,"p95":249}
+{"type":"ok","from":"2026-03-29T00:05:00.755Z","to":"2026-03-29T00:15:16.985Z","count":2,"url":"http://mars-hk.duckdns.org","avg":227,"min":218,"max":236,"p95":236}
+{"type":"fail","from":"2026-03-29T00:25:02.882Z","to":"2026-03-29T00:25:02.882Z","count":1,"url":"http://mars-hk.duckdns.org","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-29T00:35:21.269Z","to":"2026-03-29T14:05:50.014Z","count":82,"url":"http://mars-hk.duckdns.org","avg":243,"min":204,"max":724,"p95":400}
+{"type":"fail","from":"2026-03-29T14:15:38.457Z","to":"2026-03-29T14:15:38.457Z","count":1,"url":"http://mars-hk.duckdns.org","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-29T14:25:40.165Z","to":"2026-03-29T14:25:40.165Z","count":1,"url":"http://mars-hk.duckdns.org","avg":2222,"min":2222,"max":2222,"p95":2222}
+{"type":"fail","from":"2026-03-29T14:35:43.740Z","to":"2026-03-29T14:55:20.919Z","count":3,"url":"http://mars-hk.duckdns.org","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-29T15:05:27.497Z","to":"2026-03-29T15:25:23.855Z","count":3,"url":"http://mars-hk.duckdns.org","avg":1936,"min":1159,"max":3143,"p95":3143}
+{"type":"fail","from":"2026-03-29T15:35:59.614Z","to":"2026-03-29T15:45:19.838Z","count":2,"url":"http://mars-hk.duckdns.org","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-29T15:55:19.202Z","to":"2026-03-29T23:55:07.460Z","count":49,"url":"http://mars-hk.duckdns.org","avg":241,"min":204,"max":1220,"p95":241}

@@ -39,3 +39,14 @@
 {"type":"fail","from":"2026-03-28T03:25:21.419Z","to":"2026-03-28T03:35:01.185Z","count":2,"url":"https://sub.jlypx.de","status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"fail","from":"2026-03-28T03:44:51.429Z","to":"2026-03-28T03:44:51.429Z","count":1,"url":"https://sub.jlypx.de","status":521,"error":"HTTP 521","avg_latency":471}
 {"type":"ok","from":"2026-03-28T03:54:57.160Z","to":"2026-03-28T23:54:51.541Z","count":121,"url":"https://sub.jlypx.de","avg":355,"min":240,"max":1568,"p95":659}
+{"type":"ok","from":"2026-03-29T00:04:50.270Z","to":"2026-03-29T06:24:57.886Z","count":39,"url":"https://sub.jlypx.de","avg":301,"min":240,"max":720,"p95":438}
+{"type":"fail","from":"2026-03-29T06:34:57.819Z","to":"2026-03-29T09:24:57.824Z","count":18,"url":"https://sub.jlypx.de","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-29T09:34:55.829Z","to":"2026-03-29T15:44:58.275Z","count":38,"url":"https://sub.jlypx.de","avg":318,"min":242,"max":1055,"p95":639}
+{"type":"fail","from":"2026-03-29T15:55:05.190Z","to":"2026-03-29T15:55:05.190Z","count":1,"url":"https://sub.jlypx.de","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-29T16:04:58.143Z","to":"2026-03-29T17:14:49.753Z","count":8,"url":"https://sub.jlypx.de","avg":329,"min":256,"max":669,"p95":669}
+{"type":"fail","from":"2026-03-29T17:25:02.125Z","to":"2026-03-29T17:25:02.125Z","count":1,"url":"https://sub.jlypx.de","status":502,"error":"HTTP 502","avg_latency":246}
+{"type":"ok","from":"2026-03-29T17:34:38.125Z","to":"2026-03-29T18:04:49.873Z","count":4,"url":"https://sub.jlypx.de","avg":319,"min":246,"max":473,"p95":473}
+{"type":"fail","from":"2026-03-29T18:14:48.697Z","to":"2026-03-29T18:14:48.697Z","count":1,"url":"https://sub.jlypx.de","status":502,"error":"HTTP 502","avg_latency":428}
+{"type":"ok","from":"2026-03-29T18:24:37.940Z","to":"2026-03-29T19:14:20.783Z","count":6,"url":"https://sub.jlypx.de","avg":286,"min":268,"max":322,"p95":322}
+{"type":"fail","from":"2026-03-29T19:24:43.523Z","to":"2026-03-29T19:24:43.523Z","count":1,"url":"https://sub.jlypx.de","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-29T19:34:51.374Z","to":"2026-03-29T23:54:53.674Z","count":27,"url":"https://sub.jlypx.de","avg":336,"min":241,"max":728,"p95":653}
