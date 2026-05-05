@@ -56,3 +56,6 @@
 {"type":"fail","from":"2026-03-28T10:04:24.639Z","to":"2026-03-28T10:04:24.639Z","count":1,"url":"https://once.novai.su","status":403,"error":"HTTP 403","avg_latency":25}
 {"type":"ok","from":"2026-03-28T10:14:29.406Z","to":"2026-03-28T23:54:28.053Z","count":83,"url":"https://once.novai.su","avg":568,"min":240,"max":1129,"p95":805}
 {"type":"ok","from":"2026-03-29T00:04:22.750Z","to":"2026-03-29T23:54:24.839Z","count":144,"url":"https://once.novai.su","avg":794,"min":767,"max":1007,"p95":818}
+{"type":"ok","from":"2026-03-30T00:04:22.324Z","to":"2026-03-30T09:44:15.168Z","count":59,"url":"https://once.novai.su","avg":800,"min":767,"max":1059,"p95":833}
+{"type":"fail","from":"2026-03-30T09:54:22.716Z","to":"2026-03-30T09:54:22.716Z","count":1,"url":"https://once.novai.su","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-30T10:04:15.788Z","to":"2026-03-30T23:54:08.248Z","count":84,"url":"https://once.novai.su","avg":715,"min":660,"max":942,"p95":751}

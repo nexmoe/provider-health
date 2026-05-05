@@ -32,3 +32,6 @@
 {"type":"ok","from":"2026-03-29T01:04:59.648Z","to":"2026-03-29T01:45:00.037Z","count":5,"url":"https://api.uglycat.cc","avg":176,"min":113,"max":345,"p95":345}
 {"type":"fail","from":"2026-03-29T01:55:08.793Z","to":"2026-03-29T01:55:08.793Z","count":1,"url":"https://api.uglycat.cc","status":null,"error":"fetch failed","avg_latency":724}
 {"type":"ok","from":"2026-03-29T02:05:02.582Z","to":"2026-03-29T23:54:52.273Z","count":132,"url":"https://api.uglycat.cc","avg":266,"min":79,"max":899,"p95":651}
+{"type":"ok","from":"2026-03-30T00:04:43.783Z","to":"2026-03-30T14:35:23.488Z","count":88,"url":"https://api.uglycat.cc","avg":432,"min":109,"max":1629,"p95":979}
+{"type":"fail","from":"2026-03-30T14:45:05.090Z","to":"2026-03-30T14:45:05.090Z","count":1,"url":"https://api.uglycat.cc","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-30T14:55:04.931Z","to":"2026-03-30T23:54:28.554Z","count":55,"url":"https://api.uglycat.cc","avg":533,"min":131,"max":1462,"p95":862}
