@@ -1085,3 +1085,43 @@
 {"type":"ok","from":"2026-03-30T22:43:47.494Z","to":"2026-03-30T23:23:41.116Z","count":5,"url":"https://api.scnet.cn","avg":1670,"min":606,"max":3859,"p95":3859}
 {"type":"fail","from":"2026-03-30T23:33:50.934Z","to":"2026-03-30T23:33:50.934Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":910}
 {"type":"ok","from":"2026-03-30T23:43:36.658Z","to":"2026-03-30T23:53:56.013Z","count":2,"url":"https://api.scnet.cn","avg":1309,"min":970,"max":1647,"p95":1647}
+{"type":"ok","from":"2026-03-31T00:03:45.734Z","to":"2026-03-31T00:24:03.119Z","count":3,"url":"https://api.scnet.cn","avg":1773,"min":1597,"max":2107,"p95":2107}
+{"type":"fail","from":"2026-03-31T00:34:05.680Z","to":"2026-03-31T00:34:05.680Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":940}
+{"type":"ok","from":"2026-03-31T00:44:04.960Z","to":"2026-03-31T01:04:01.843Z","count":3,"url":"https://api.scnet.cn","avg":1993,"min":560,"max":3625,"p95":3625}
+{"type":"fail","from":"2026-03-31T01:14:03.278Z","to":"2026-03-31T01:14:03.278Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":942}
+{"type":"ok","from":"2026-03-31T01:24:19.882Z","to":"2026-03-31T03:24:19.249Z","count":13,"url":"https://api.scnet.cn","avg":1550,"min":894,"max":2378,"p95":2378}
+{"type":"fail","from":"2026-03-31T03:34:28.345Z","to":"2026-03-31T03:34:28.345Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-31T03:44:01.472Z","to":"2026-03-31T04:34:07.496Z","count":6,"url":"https://api.scnet.cn","avg":1139,"min":367,"max":1652,"p95":1652}
+{"type":"fail","from":"2026-03-31T04:44:17.723Z","to":"2026-03-31T04:44:17.723Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-31T04:54:07.966Z","to":"2026-03-31T05:33:57.761Z","count":5,"url":"https://api.scnet.cn","avg":1661,"min":1167,"max":2096,"p95":2096}
+{"type":"fail","from":"2026-03-31T05:44:17.907Z","to":"2026-03-31T05:44:17.907Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-31T05:54:09.221Z","to":"2026-03-31T06:03:54.724Z","count":2,"url":"https://api.scnet.cn","avg":2949,"min":2454,"max":3443,"p95":3443}
+{"type":"fail","from":"2026-03-31T06:13:57.117Z","to":"2026-03-31T06:13:57.117Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-31T06:24:14.052Z","to":"2026-03-31T07:24:07.941Z","count":7,"url":"https://api.scnet.cn","avg":1914,"min":1079,"max":3139,"p95":3139}
+{"type":"fail","from":"2026-03-31T07:34:07.201Z","to":"2026-03-31T07:34:07.201Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":3322}
+{"type":"ok","from":"2026-03-31T07:44:05.306Z","to":"2026-03-31T07:54:11.180Z","count":2,"url":"https://api.scnet.cn","avg":2049,"min":1090,"max":3008,"p95":3008}
+{"type":"fail","from":"2026-03-31T08:04:11.236Z","to":"2026-03-31T08:04:11.236Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-31T08:14:07.540Z","to":"2026-03-31T08:54:15.088Z","count":5,"url":"https://api.scnet.cn","avg":1947,"min":958,"max":3131,"p95":3131}
+{"type":"fail","from":"2026-03-31T09:04:00.342Z","to":"2026-03-31T09:04:00.342Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":1074}
+{"type":"ok","from":"2026-03-31T09:14:01.884Z","to":"2026-03-31T11:24:32.163Z","count":14,"url":"https://api.scnet.cn","avg":1804,"min":1025,"max":4069,"p95":4069}
+{"type":"fail","from":"2026-03-31T11:34:18.351Z","to":"2026-03-31T11:54:27.238Z","count":3,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-31T12:04:21.975Z","to":"2026-03-31T12:14:24.152Z","count":2,"url":"https://api.scnet.cn","avg":2056,"min":1613,"max":2498,"p95":2498}
+{"type":"fail","from":"2026-03-31T12:24:23.323Z","to":"2026-03-31T12:24:23.323Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-31T12:34:08.506Z","to":"2026-03-31T13:24:35.869Z","count":6,"url":"https://api.scnet.cn","avg":2077,"min":1117,"max":3695,"p95":3695}
+{"type":"fail","from":"2026-03-31T13:34:44.630Z","to":"2026-03-31T13:34:44.630Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-31T13:44:50.835Z","to":"2026-03-31T14:04:16.036Z","count":3,"url":"https://api.scnet.cn","avg":3610,"min":2703,"max":4403,"p95":4403}
+{"type":"fail","from":"2026-03-31T14:14:13.971Z","to":"2026-03-31T14:14:13.971Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-31T14:24:32.894Z","to":"2026-03-31T14:44:27.974Z","count":3,"url":"https://api.scnet.cn","avg":2955,"min":1654,"max":4588,"p95":4588}
+{"type":"fail","from":"2026-03-31T14:54:25.570Z","to":"2026-03-31T14:54:25.570Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-31T15:04:20.262Z","to":"2026-03-31T15:14:20.785Z","count":2,"url":"https://api.scnet.cn","avg":3203,"min":2775,"max":3631,"p95":3631}
+{"type":"fail","from":"2026-03-31T15:24:15.266Z","to":"2026-03-31T15:24:15.266Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":934}
+{"type":"ok","from":"2026-03-31T15:34:11.605Z","to":"2026-03-31T15:34:11.605Z","count":1,"url":"https://api.scnet.cn","avg":1579,"min":1579,"max":1579,"p95":1579}
+{"type":"fail","from":"2026-03-31T15:44:09.826Z","to":"2026-03-31T15:44:09.826Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":2881}
+{"type":"ok","from":"2026-03-31T15:54:15.756Z","to":"2026-03-31T16:44:21.236Z","count":6,"url":"https://api.scnet.cn","avg":1950,"min":1332,"max":3295,"p95":3295}
+{"type":"fail","from":"2026-03-31T16:54:23.738Z","to":"2026-03-31T17:04:12.958Z","count":2,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":1446}
+{"type":"ok","from":"2026-03-31T17:14:05.398Z","to":"2026-03-31T19:13:53.191Z","count":13,"url":"https://api.scnet.cn","avg":1841,"min":836,"max":4267,"p95":4267}
+{"type":"fail","from":"2026-03-31T19:23:50.911Z","to":"2026-03-31T19:23:50.911Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":910}
+{"type":"ok","from":"2026-03-31T19:33:39.732Z","to":"2026-03-31T22:43:53.429Z","count":20,"url":"https://api.scnet.cn","avg":1590,"min":526,"max":4472,"p95":4472}
+{"type":"fail","from":"2026-03-31T22:53:55.578Z","to":"2026-03-31T22:53:55.578Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-03-31T23:03:50.774Z","to":"2026-03-31T23:03:50.774Z","count":1,"url":"https://api.scnet.cn","status":null,"error":"fetch failed","avg_latency":960}
+{"type":"ok","from":"2026-03-31T23:13:52.501Z","to":"2026-03-31T23:53:59.978Z","count":5,"url":"https://api.scnet.cn","avg":1476,"min":823,"max":2523,"p95":2523}

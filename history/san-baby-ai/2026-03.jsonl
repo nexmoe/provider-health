@@ -52,3 +52,7 @@
 {"type":"ok","from":"2026-03-28T00:04:33.101Z","to":"2026-03-28T23:54:30.506Z","count":144,"url":"http://ai.san.baby","avg":326,"min":300,"max":1374,"p95":336}
 {"type":"ok","from":"2026-03-29T00:04:25.235Z","to":"2026-03-29T23:54:29.467Z","count":144,"url":"http://ai.san.baby","avg":318,"min":302,"max":347,"p95":336}
 {"type":"ok","from":"2026-03-30T00:04:24.746Z","to":"2026-03-30T23:54:10.715Z","count":144,"url":"http://ai.san.baby","avg":330,"min":304,"max":1328,"p95":349}
+{"type":"ok","from":"2026-03-31T00:03:56.398Z","to":"2026-03-31T02:04:17.060Z","count":13,"url":"http://ai.san.baby","avg":327,"min":311,"max":370,"p95":370}
+{"type":"fail","from":"2026-03-31T02:14:20.827Z","to":"2026-03-31T09:24:14.121Z","count":44,"url":"http://ai.san.baby","status":null,"error":"fetch failed","avg_latency":19}
+{"type":"fail","from":"2026-03-31T09:34:20.968Z","to":"2026-03-31T09:34:20.968Z","count":1,"url":"http://ai.san.baby","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-03-31T09:44:22.653Z","to":"2026-03-31T23:54:10.691Z","count":86,"url":"http://ai.san.baby","status":null,"error":"fetch failed","avg_latency":18}

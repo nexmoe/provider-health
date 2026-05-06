@@ -1,3 +1,6 @@
 {"type":"fail","from":"2026-03-29T11:05:09.719Z","to":"2026-03-29T23:55:10.986Z","count":78,"status":404,"error":"HTTP 404","avg_latency":434,"url":"https://ai.fengsili.online/v1"}
 {"type":"fail","from":"2026-03-30T00:05:05.964Z","to":"2026-03-30T02:05:10.611Z","count":13,"url":"https://ai.fengsili.online/v1","status":404,"error":"HTTP 404","avg_latency":396}
 {"type":"ok","from":"2026-03-30T02:15:17.864Z","to":"2026-03-30T23:54:48.686Z","count":131,"url":"https://ai.fengsili.online","avg":389,"min":138,"max":2934,"p95":719}
+{"type":"ok","from":"2026-03-31T00:04:35.477Z","to":"2026-03-31T09:35:02.035Z","count":58,"url":"https://ai.fengsili.online","avg":291,"min":143,"max":1592,"p95":531}
+{"type":"fail","from":"2026-03-31T09:45:30.691Z","to":"2026-03-31T09:45:30.691Z","count":1,"url":"https://ai.fengsili.online","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-03-31T09:55:26.233Z","to":"2026-03-31T23:54:52.302Z","count":85,"url":"https://ai.fengsili.online","avg":250,"min":128,"max":559,"p95":433}

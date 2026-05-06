@@ -1,2 +1,5 @@
 {"type":"fail","from":"2026-03-30T02:45:06.203Z","to":"2026-03-30T16:05:21.692Z","count":81,"url":"https://api.mmkg.cloud/v1","status":404,"error":"HTTP 404","avg_latency":476}
 {"type":"ok","from":"2026-03-30T16:15:17.878Z","to":"2026-03-30T23:54:49.022Z","count":47,"url":"https://api.mmkg.cloud","avg":570,"min":220,"max":1158,"p95":909}
+{"type":"ok","from":"2026-03-31T00:04:35.521Z","to":"2026-03-31T06:25:21.830Z","count":39,"url":"https://api.mmkg.cloud","avg":528,"min":191,"max":1118,"p95":1076}
+{"type":"fail","from":"2026-03-31T06:35:22.056Z","to":"2026-03-31T06:35:22.056Z","count":1,"url":"https://api.mmkg.cloud","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-03-31T06:45:35.930Z","to":"2026-03-31T23:54:52.591Z","count":104,"url":"https://api.mmkg.cloud","avg":586,"min":197,"max":1818,"p95":993}

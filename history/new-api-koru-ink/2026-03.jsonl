@@ -1,2 +1,5 @@
-{"url":"https://new.api.koru.ink/v1"}
-{"type":"fail","from":"2026-03-30T18:45:00.803Z","to":"2026-03-30T23:54:50.241Z","count":32,"status":404,"error":"HTTP 404","avg_latency":492}
+{"type":"fail","from":"2026-03-30T18:45:00.803Z","to":"2026-03-30T23:54:50.241Z","count":32,"status":404,"error":"HTTP 404","avg_latency":492,"url":"https://new.api.koru.ink/v1"}
+{"type":"fail","from":"2026-03-31T00:04:37.542Z","to":"2026-03-31T08:05:11.122Z","count":49,"url":"https://new.api.koru.ink/v1","status":404,"error":"HTTP 404","avg_latency":571}
+{"type":"ok","from":"2026-03-31T08:15:08.091Z","to":"2026-03-31T08:25:17.065Z","count":2,"url":"https://new.api.koru.ink","avg":636,"min":478,"max":793,"p95":793}
+{"type":"fail","from":"2026-03-31T08:35:46.263Z","to":"2026-03-31T08:35:46.263Z","count":1,"url":"https://new.api.koru.ink","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-31T08:44:55.804Z","to":"2026-03-31T23:54:54.162Z","count":92,"url":"https://new.api.koru.ink","avg":552,"min":449,"max":2173,"p95":807}

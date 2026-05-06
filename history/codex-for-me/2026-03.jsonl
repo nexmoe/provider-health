@@ -31,3 +31,14 @@
 {"type":"ok","from":"2026-03-28T00:04:36.132Z","to":"2026-03-28T23:54:33.682Z","count":144,"url":"https://api.codex-for.me","avg":476,"min":245,"max":1901,"p95":868}
 {"type":"ok","from":"2026-03-29T00:04:28.116Z","to":"2026-03-29T23:54:33.817Z","count":144,"url":"https://api.codex-for.me","avg":490,"min":245,"max":1848,"p95":941}
 {"type":"ok","from":"2026-03-30T00:04:28.354Z","to":"2026-03-30T23:54:13.329Z","count":144,"url":"https://api.codex-for.me","avg":546,"min":247,"max":2834,"p95":922}
+{"type":"ok","from":"2026-03-31T00:03:58.959Z","to":"2026-03-31T02:44:22.784Z","count":17,"url":"https://api.codex-for.me","avg":525,"min":265,"max":875,"p95":875}
+{"type":"fail","from":"2026-03-31T02:54:36.302Z","to":"2026-03-31T02:54:36.302Z","count":1,"url":"https://api.codex-for.me","status":524,"error":"HTTP 524","avg_latency":4735}
+{"type":"ok","from":"2026-03-31T03:04:35.889Z","to":"2026-03-31T03:04:35.889Z","count":1,"url":"https://api.codex-for.me","avg":1565,"min":1565,"max":1565,"p95":1565}
+{"type":"fail","from":"2026-03-31T03:14:31.435Z","to":"2026-03-31T03:14:31.435Z","count":1,"url":"https://api.codex-for.me","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-31T03:24:41.243Z","to":"2026-03-31T04:44:34.576Z","count":9,"url":"https://api.codex-for.me","avg":674,"min":276,"max":1605,"p95":1605}
+{"type":"fail","from":"2026-03-31T04:54:29.972Z","to":"2026-03-31T04:54:29.972Z","count":1,"url":"https://api.codex-for.me","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-31T05:04:32.166Z","to":"2026-03-31T07:34:23.233Z","count":16,"url":"https://api.codex-for.me","avg":636,"min":306,"max":1896,"p95":1896}
+{"type":"fail","from":"2026-03-31T07:44:25.809Z","to":"2026-03-31T07:44:25.809Z","count":1,"url":"https://api.codex-for.me","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-03-31T07:54:25.373Z","to":"2026-03-31T10:34:44.988Z","count":17,"url":"https://api.codex-for.me","avg":548,"min":272,"max":860,"p95":860}
+{"type":"fail","from":"2026-03-31T10:44:17.587Z","to":"2026-03-31T10:44:17.587Z","count":1,"url":"https://api.codex-for.me","status":503,"error":"HTTP 503","avg_latency":882}
+{"type":"ok","from":"2026-03-31T10:54:15.809Z","to":"2026-03-31T23:54:14.950Z","count":79,"url":"https://api.codex-for.me","avg":641,"min":263,"max":1831,"p95":1496}
