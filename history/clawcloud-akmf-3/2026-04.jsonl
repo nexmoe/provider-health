@@ -1,0 +1,8 @@
+{"url":"https://run.claw.cloud"}
+{"type":"ok","from":"2026-04-01T00:03:22.340Z","to":"2026-04-01T05:23:37.340Z","count":33,"avg":239,"min":82,"max":444,"p95":392}
+{"type":"fail","from":"2026-04-01T05:33:30.398Z","to":"2026-04-01T05:53:50.843Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-04-01T06:03:32.286Z","to":"2026-04-01T19:03:23.226Z","count":79,"status":502,"error":"HTTP 502","avg_latency":145}
+{"type":"fail","from":"2026-04-01T19:13:21.508Z","to":"2026-04-01T19:13:21.508Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003}
+{"type":"fail","from":"2026-04-01T19:23:55.450Z","to":"2026-04-01T21:53:19.551Z","count":16,"status":502,"error":"HTTP 502","avg_latency":147}
+{"type":"fail","from":"2026-04-01T22:03:23.314Z","to":"2026-04-01T22:03:23.314Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-04-01T22:13:25.475Z","to":"2026-04-01T23:53:24.486Z","count":11,"status":502,"error":"HTTP 502","avg_latency":157}

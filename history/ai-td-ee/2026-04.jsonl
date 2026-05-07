@@ -1,0 +1,8 @@
+{"url":"https://ai.td.ee"}
+{"type":"fail","from":"2026-04-01T00:04:36.483Z","to":"2026-04-01T03:14:59.545Z","count":20,"status":403,"error":"HTTP 403","avg_latency":29}
+{"type":"fail","from":"2026-04-01T03:24:37.340Z","to":"2026-04-01T03:24:37.340Z","count":1,"status":521,"error":"HTTP 521","avg_latency":343}
+{"type":"ok","from":"2026-04-01T03:34:43.816Z","to":"2026-04-01T06:24:52.190Z","count":18,"avg":546,"min":253,"max":2660,"p95":2660}
+{"type":"fail","from":"2026-04-01T06:35:10.206Z","to":"2026-04-01T11:14:58.014Z","count":29,"status":403,"error":"HTTP 403","avg_latency":334}
+{"type":"ok","from":"2026-04-01T11:24:53.467Z","to":"2026-04-01T12:54:56.419Z","count":10,"avg":283,"min":248,"max":489,"p95":489}
+{"type":"fail","from":"2026-04-01T13:05:18.004Z","to":"2026-04-01T13:05:18.004Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5004}
+{"type":"ok","from":"2026-04-01T13:15:10.025Z","to":"2026-04-01T23:54:32.522Z","count":65,"avg":285,"min":243,"max":486,"p95":477}
