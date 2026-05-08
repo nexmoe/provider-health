@@ -1,3 +1,7 @@
 {"url":"https://api.gueai.com"}
 {"type":"ok","from":"2026-04-01T00:02:21.462Z","to":"2026-04-01T02:52:24.377Z","count":18,"avg":498,"min":370,"max":756,"p95":756}
 {"type":"fail","from":"2026-04-01T03:02:35.916Z","to":"2026-04-01T23:52:16.909Z","count":126,"status":null,"error":"fetch failed","avg_latency":2255}
+{"type":"fail","from":"2026-04-02T00:02:22.662Z","to":"2026-04-02T07:02:30.778Z","count":43,"status":null,"error":"fetch failed","avg_latency":2241}
+{"type":"ok","from":"2026-04-02T07:12:34.949Z","to":"2026-04-02T09:22:35.091Z","count":14,"avg":980,"min":784,"max":1317,"p95":1317}
+{"type":"fail","from":"2026-04-02T09:32:39.682Z","to":"2026-04-02T09:32:39.682Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-02T09:42:34.926Z","to":"2026-04-02T23:52:17.462Z","count":86,"avg":993,"min":723,"max":2675,"p95":1340}

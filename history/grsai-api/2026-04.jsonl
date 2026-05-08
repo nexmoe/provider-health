@@ -1,2 +1,6 @@
 {"url":"http://grsaiapi.com"}
 {"type":"ok","from":"2026-04-01T00:03:50.702Z","to":"2026-04-01T23:53:52.390Z","count":144,"avg":350,"min":304,"max":947,"p95":505}
+{"type":"ok","from":"2026-04-02T00:03:49.511Z","to":"2026-04-02T08:14:13.754Z","count":50,"avg":411,"min":305,"max":2173,"p95":794}
+{"type":"fail","from":"2026-04-02T08:24:11.254Z","to":"2026-04-02T08:24:11.254Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-04-02T08:34:23.891Z","to":"2026-04-02T08:54:10.655Z","count":3,"status":null,"error":"fetch failed","avg_latency":180}
+{"type":"ok","from":"2026-04-02T09:04:33.539Z","to":"2026-04-02T23:53:45.354Z","count":90,"avg":336,"min":288,"max":463,"p95":436}

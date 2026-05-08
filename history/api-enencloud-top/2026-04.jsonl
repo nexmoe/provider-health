@@ -1,2 +1,9 @@
 {"url":"https://api.enencloud.top"}
 {"type":"ok","from":"2026-04-01T00:03:55.073Z","to":"2026-04-01T23:53:56.994Z","count":144,"avg":547,"min":482,"max":1100,"p95":627}
+{"type":"ok","from":"2026-04-02T00:03:53.644Z","to":"2026-04-02T04:54:03.098Z","count":30,"avg":573,"min":479,"max":1398,"p95":728}
+{"type":"fail","from":"2026-04-02T05:04:05.912Z","to":"2026-04-02T06:34:06.737Z","count":10,"status":523,"error":"HTTP 523","avg_latency":2245}
+{"type":"fail","from":"2026-04-02T06:44:27.671Z","to":"2026-04-02T06:44:27.671Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-02T06:53:59.537Z","to":"2026-04-02T07:24:13.716Z","count":4,"status":523,"error":"HTTP 523","avg_latency":1369}
+{"type":"ok","from":"2026-04-02T07:34:03.468Z","to":"2026-04-02T14:04:11.898Z","count":40,"avg":573,"min":477,"max":1270,"p95":871}
+{"type":"fail","from":"2026-04-02T14:14:27.645Z","to":"2026-04-02T14:24:25.585Z","count":2,"status":521,"error":"HTTP 521","avg_latency":354}
+{"type":"fail","from":"2026-04-02T14:34:12.270Z","to":"2026-04-02T23:53:49.577Z","count":57,"status":525,"error":"HTTP 525","avg_latency":404}
