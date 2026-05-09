@@ -1,3 +1,10 @@
 {"url":"https://exynos.top"}
 {"type":"ok","from":"2026-04-01T00:04:38.806Z","to":"2026-04-01T23:54:37.445Z","count":144,"avg":149,"min":84,"max":641,"p95":206}
 {"type":"ok","from":"2026-04-02T00:04:33.895Z","to":"2026-04-02T23:54:28.072Z","count":144,"avg":154,"min":85,"max":1108,"p95":219}
+{"type":"ok","from":"2026-04-03T00:04:35.626Z","to":"2026-04-03T16:26:30.151Z","count":99,"avg":202,"min":97,"max":4286,"p95":287}
+{"type":"fail","from":"2026-04-03T16:36:16.444Z","to":"2026-04-03T16:36:16.444Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-03T16:45:01.837Z","to":"2026-04-03T16:45:01.837Z","count":1,"avg":132,"min":132,"max":132,"p95":132}
+{"type":"fail","from":"2026-04-03T16:55:00.672Z","to":"2026-04-03T16:55:00.672Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-03T17:05:53.539Z","to":"2026-04-03T20:14:22.701Z","count":18,"avg":118,"min":95,"max":160,"p95":160}
+{"type":"fail","from":"2026-04-03T20:24:20.267Z","to":"2026-04-03T20:24:20.267Z","count":1,"status":525,"error":"HTTP 525","avg_latency":29}
+{"type":"ok","from":"2026-04-03T20:34:19.205Z","to":"2026-04-03T23:54:39.910Z","count":21,"avg":125,"min":93,"max":256,"p95":170}

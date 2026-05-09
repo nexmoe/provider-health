@@ -9,3 +9,10 @@
 {"type":"fail","from":"2026-04-02T09:45:10.238Z","to":"2026-04-02T09:45:10.238Z","count":1,"url":"https://api.chlink.de5.net/v1","status":null,"error":"Healthcheck timeout","avg_latency":5000}
 {"type":"fail","from":"2026-04-02T09:54:56.537Z","to":"2026-04-02T18:05:31.405Z","count":50,"url":"https://api.chlink.de5.net/v1","status":404,"error":"HTTP 404","avg_latency":1270}
 {"type":"ok","from":"2026-04-02T18:15:24.144Z","to":"2026-04-02T23:54:44.381Z","count":35,"url":"https://api.chlink.de5.net","avg":729,"min":374,"max":982,"p95":975}
+{"type":"ok","from":"2026-04-03T00:05:03.413Z","to":"2026-04-03T02:25:32.280Z","count":15,"url":"https://api.chlink.de5.net","avg":847,"min":395,"max":1351,"p95":1351}
+{"type":"fail","from":"2026-04-03T02:35:35.153Z","to":"2026-04-03T02:35:35.153Z","count":1,"url":"https://api.chlink.de5.net","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-03T02:45:08.750Z","to":"2026-04-03T06:55:34.284Z","count":26,"url":"https://api.chlink.de5.net","avg":946,"min":396,"max":1779,"p95":1553}
+{"type":"fail","from":"2026-04-03T07:05:31.128Z","to":"2026-04-03T07:05:31.128Z","count":1,"url":"https://api.chlink.de5.net","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-03T07:16:45.663Z","to":"2026-04-03T14:55:33.943Z","count":47,"url":"https://api.chlink.de5.net","avg":1007,"min":432,"max":2848,"p95":1910}
+{"type":"fail","from":"2026-04-03T15:05:41.224Z","to":"2026-04-03T15:05:41.224Z","count":1,"url":"https://api.chlink.de5.net","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-03T15:15:50.089Z","to":"2026-04-03T23:54:59.472Z","count":51,"url":"https://api.chlink.de5.net","avg":944,"min":627,"max":2514,"p95":1657}
