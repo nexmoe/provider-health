@@ -1,0 +1,4 @@
+{"type":"fail","from":"2026-04-04T04:54:59.626Z","to":"2026-04-04T13:25:51.277Z","count":52,"url":"http://api.piaochong.us.ci/v1","status":404,"error":"HTTP 404","avg_latency":431}
+{"type":"fail","from":"2026-04-04T13:35:47.813Z","to":"2026-04-04T13:35:47.813Z","count":1,"url":"http://api.piaochong.us.ci/v1","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-04-04T13:45:42.812Z","to":"2026-04-04T20:25:19.282Z","count":41,"url":"http://api.piaochong.us.ci/v1","status":404,"error":"HTTP 404","avg_latency":432}
+{"type":"ok","from":"2026-04-04T20:34:45.094Z","to":"2026-04-04T23:55:03.077Z","count":21,"url":"http://api.piaochong.us.ci","avg":719,"min":640,"max":1320,"p95":988}
