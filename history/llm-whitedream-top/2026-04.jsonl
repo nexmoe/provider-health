@@ -1,6 +1,35 @@
-{"url":"https://llm.whitedream.top/v1"}
-{"type":"fail","from":"2026-04-05T17:25:08.643Z","to":"2026-04-05T19:14:46.206Z","count":12,"status":404,"error":"HTTP 404","avg_latency":1172}
-{"type":"fail","from":"2026-04-05T19:24:48.462Z","to":"2026-04-05T19:24:48.462Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-05T19:34:42.966Z","to":"2026-04-05T22:14:47.036Z","count":17,"status":404,"error":"HTTP 404","avg_latency":1214}
-{"type":"fail","from":"2026-04-05T22:24:53.162Z","to":"2026-04-05T22:34:50.316Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-05T22:44:55.465Z","to":"2026-04-05T23:55:31.889Z","count":8,"status":404,"error":"HTTP 404","avg_latency":1236}
+{"type":"fail","from":"2026-04-05T17:25:08.643Z","to":"2026-04-05T19:14:46.206Z","count":12,"status":404,"error":"HTTP 404","avg_latency":1172,"url":"https://llm.whitedream.top/v1"}
+{"type":"fail","from":"2026-04-05T19:24:48.462Z","to":"2026-04-05T19:24:48.462Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://llm.whitedream.top/v1"}
+{"type":"fail","from":"2026-04-05T19:34:42.966Z","to":"2026-04-05T22:14:47.036Z","count":17,"status":404,"error":"HTTP 404","avg_latency":1214,"url":"https://llm.whitedream.top/v1"}
+{"type":"fail","from":"2026-04-05T22:24:53.162Z","to":"2026-04-05T22:34:50.316Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://llm.whitedream.top/v1"}
+{"type":"fail","from":"2026-04-05T22:44:55.465Z","to":"2026-04-05T23:55:31.889Z","count":8,"status":404,"error":"HTTP 404","avg_latency":1236,"url":"https://llm.whitedream.top/v1"}
+{"type":"fail","from":"2026-04-06T00:05:04.979Z","to":"2026-04-06T00:05:04.979Z","count":1,"url":"https://llm.whitedream.top/v1","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-06T00:15:21.978Z","to":"2026-04-06T01:15:01.520Z","count":7,"url":"https://llm.whitedream.top/v1","status":404,"error":"HTTP 404","avg_latency":966}
+{"type":"fail","from":"2026-04-06T01:25:13.522Z","to":"2026-04-06T01:25:13.522Z","count":1,"url":"https://llm.whitedream.top/v1","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-06T01:34:57.201Z","to":"2026-04-06T01:55:22.491Z","count":3,"url":"https://llm.whitedream.top/v1","status":404,"error":"HTTP 404","avg_latency":665}
+{"type":"fail","from":"2026-04-06T02:05:08.427Z","to":"2026-04-06T02:05:08.427Z","count":1,"url":"https://llm.whitedream.top/v1","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-04-06T02:15:05.501Z","to":"2026-04-06T02:45:12.425Z","count":4,"url":"https://llm.whitedream.top/v1","status":404,"error":"HTTP 404","avg_latency":1325}
+{"type":"fail","from":"2026-04-06T02:55:44.532Z","to":"2026-04-06T02:55:44.532Z","count":1,"url":"https://llm.whitedream.top/v1","status":null,"error":"Healthcheck timeout","avg_latency":4999}
+{"type":"fail","from":"2026-04-06T03:05:03.353Z","to":"2026-04-06T03:15:37.596Z","count":2,"url":"https://llm.whitedream.top/v1","status":404,"error":"HTTP 404","avg_latency":1789}
+{"type":"fail","from":"2026-04-06T03:25:26.259Z","to":"2026-04-06T03:25:26.259Z","count":1,"url":"https://llm.whitedream.top/v1","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-04-06T03:35:39.822Z","to":"2026-04-06T04:04:58.594Z","count":4,"url":"https://llm.whitedream.top/v1","status":404,"error":"HTTP 404","avg_latency":1253}
+{"type":"fail","from":"2026-04-06T04:15:12.938Z","to":"2026-04-06T04:15:12.938Z","count":1,"url":"https://llm.whitedream.top/v1","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-06T04:25:15.498Z","to":"2026-04-06T05:45:16.819Z","count":9,"url":"https://llm.whitedream.top/v1","status":404,"error":"HTTP 404","avg_latency":1329}
+{"type":"fail","from":"2026-04-06T05:55:12.692Z","to":"2026-04-06T05:55:12.692Z","count":1,"url":"https://llm.whitedream.top/v1","status":null,"error":"Healthcheck timeout","avg_latency":4999}
+{"type":"fail","from":"2026-04-06T06:05:39.161Z","to":"2026-04-06T06:25:21.392Z","count":3,"url":"https://llm.whitedream.top/v1","status":404,"error":"HTTP 404","avg_latency":839}
+{"type":"ok","from":"2026-04-06T06:35:14.476Z","to":"2026-04-06T06:55:17.649Z","count":3,"url":"https://llm.whitedream.top","avg":621,"min":556,"max":696,"p95":696}
+{"type":"fail","from":"2026-04-06T07:05:16.167Z","to":"2026-04-06T07:05:16.167Z","count":1,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-06T07:15:02.646Z","to":"2026-04-06T07:55:23.135Z","count":5,"url":"https://llm.whitedream.top","avg":1192,"min":623,"max":2812,"p95":2812}
+{"type":"fail","from":"2026-04-06T08:05:51.267Z","to":"2026-04-06T08:05:51.267Z","count":1,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-06T08:15:37.095Z","to":"2026-04-06T09:55:17.951Z","count":11,"url":"https://llm.whitedream.top","avg":1828,"min":565,"max":3208,"p95":3208}
+{"type":"fail","from":"2026-04-06T10:05:40.138Z","to":"2026-04-06T10:05:40.138Z","count":1,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-06T10:15:04.296Z","to":"2026-04-06T10:45:12.789Z","count":4,"url":"https://llm.whitedream.top","avg":1106,"min":713,"max":1676,"p95":1676}
+{"type":"fail","from":"2026-04-06T10:55:27.837Z","to":"2026-04-06T10:55:27.837Z","count":1,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-06T11:05:16.274Z","to":"2026-04-06T11:15:39.452Z","count":2,"url":"https://llm.whitedream.top","avg":1465,"min":797,"max":2133,"p95":2133}
+{"type":"fail","from":"2026-04-06T11:25:57.149Z","to":"2026-04-06T11:25:57.149Z","count":1,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-06T11:35:10.028Z","to":"2026-04-06T11:45:07.278Z","count":2,"url":"https://llm.whitedream.top","avg":675,"min":528,"max":822,"p95":822}
+{"type":"fail","from":"2026-04-06T11:55:29.324Z","to":"2026-04-06T12:25:39.613Z","count":4,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-06T12:35:23.816Z","to":"2026-04-06T19:43:57.780Z","count":44,"url":"https://llm.whitedream.top","avg":607,"min":461,"max":1574,"p95":921}
+{"type":"fail","from":"2026-04-06T19:54:25.078Z","to":"2026-04-06T19:54:25.078Z","count":1,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-06T20:04:05.353Z","to":"2026-04-06T20:13:59.076Z","count":2,"url":"https://llm.whitedream.top","avg":594,"min":554,"max":634,"p95":634}
+{"type":"fail","from":"2026-04-06T20:24:20.110Z","to":"2026-04-06T23:54:25.120Z","count":22,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
