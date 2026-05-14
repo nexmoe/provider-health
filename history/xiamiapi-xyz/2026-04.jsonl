@@ -1,4 +1,5 @@
-{"url":"https://xiamiapi.xyz/v1"}
-{"type":"fail","from":"2026-04-07T07:25:04.529Z","to":"2026-04-07T08:44:47.603Z","count":9,"status":404,"error":"HTTP 404","avg_latency":1094}
-{"type":"fail","from":"2026-04-07T08:54:58.797Z","to":"2026-04-07T08:54:58.797Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-07T09:04:45.620Z","to":"2026-04-07T23:53:59.191Z","count":90,"status":404,"error":"HTTP 404","avg_latency":787}
+{"type":"fail","from":"2026-04-07T07:25:04.529Z","to":"2026-04-07T08:44:47.603Z","count":9,"status":404,"error":"HTTP 404","avg_latency":1094,"url":"https://xiamiapi.xyz/v1"}
+{"type":"fail","from":"2026-04-07T08:54:58.797Z","to":"2026-04-07T08:54:58.797Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://xiamiapi.xyz/v1"}
+{"type":"fail","from":"2026-04-07T09:04:45.620Z","to":"2026-04-07T23:53:59.191Z","count":90,"status":404,"error":"HTTP 404","avg_latency":787,"url":"https://xiamiapi.xyz/v1"}
+{"type":"fail","from":"2026-04-08T00:04:39.066Z","to":"2026-04-08T08:25:10.786Z","count":51,"url":"https://xiamiapi.xyz/v1","status":404,"error":"HTTP 404","avg_latency":896}
+{"type":"ok","from":"2026-04-08T08:35:20.613Z","to":"2026-04-08T23:55:15.554Z","count":93,"url":"https://xiamiapi.xyz","avg":925,"min":735,"max":1764,"p95":1233}
