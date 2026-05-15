@@ -108,3 +108,15 @@
 {"type":"ok","from":"2026-04-08T22:21:52.981Z","to":"2026-04-08T23:11:51.193Z","count":6,"avg":1036,"min":637,"max":2823,"p95":2823}
 {"type":"fail","from":"2026-04-08T23:22:01.551Z","to":"2026-04-08T23:32:07.206Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
 {"type":"ok","from":"2026-04-08T23:41:46.711Z","to":"2026-04-08T23:51:49.094Z","count":2,"avg":1318,"min":273,"max":2362,"p95":2362}
+{"type":"fail","from":"2026-04-09T00:01:44.132Z","to":"2026-04-09T00:21:55.156Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-09T00:31:55.524Z","to":"2026-04-09T03:51:52.437Z","count":21,"avg":1070,"min":216,"max":3505,"p95":2311}
+{"type":"fail","from":"2026-04-09T04:02:10.866Z","to":"2026-04-09T04:02:10.866Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-09T04:12:12.583Z","to":"2026-04-09T04:42:01.241Z","count":4,"avg":630,"min":216,"max":794,"p95":794}
+{"type":"fail","from":"2026-04-09T04:52:08.721Z","to":"2026-04-09T04:52:08.721Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-09T05:01:48.292Z","to":"2026-04-09T06:31:59.302Z","count":10,"avg":792,"min":231,"max":1787,"p95":1787}
+{"type":"fail","from":"2026-04-09T06:42:01.937Z","to":"2026-04-09T06:42:01.937Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-09T06:51:57.349Z","to":"2026-04-09T07:02:02.264Z","count":2,"avg":246,"min":233,"max":259,"p95":259}
+{"type":"fail","from":"2026-04-09T07:12:06.010Z","to":"2026-04-09T07:12:06.010Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-09T07:21:56.694Z","to":"2026-04-09T07:21:56.694Z","count":1,"avg":237,"min":237,"max":237,"p95":237}
+{"type":"fail","from":"2026-04-09T07:32:13.715Z","to":"2026-04-09T07:32:13.715Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-09T07:41:57.790Z","to":"2026-04-09T23:51:28.810Z","count":98,"avg":406,"min":185,"max":1254,"p95":680}
