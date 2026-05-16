@@ -2,3 +2,6 @@
 {"type":"fail","from":"2026-04-09T07:15:29.290Z","to":"2026-04-09T08:05:25.780Z","count":6,"url":"https://gemma.san.baby/v1","status":530,"error":"HTTP 530","avg_latency":70}
 {"type":"ok","from":"2026-04-09T08:15:18.199Z","to":"2026-04-09T18:24:11.981Z","count":62,"url":"https://gemma.san.baby/v1","avg":735,"min":405,"max":1310,"p95":884}
 {"type":"ok","from":"2026-04-09T18:34:05.803Z","to":"2026-04-09T23:54:21.715Z","count":33,"url":"https://gemma.san.baby","avg":685,"min":633,"max":879,"p95":756}
+{"type":"ok","from":"2026-04-10T00:04:22.957Z","to":"2026-04-10T00:44:19.854Z","count":5,"url":"https://gemma.san.baby","avg":745,"min":703,"max":769,"p95":769}
+{"type":"fail","from":"2026-04-10T00:54:31.113Z","to":"2026-04-10T07:14:54.186Z","count":38,"url":"https://gemma.san.baby","status":502,"error":"HTTP 502","avg_latency":785}
+{"type":"ok","from":"2026-04-10T07:25:11.553Z","to":"2026-04-10T23:54:28.476Z","count":100,"url":"https://gemma.san.baby","avg":782,"min":617,"max":4681,"p95":987}
