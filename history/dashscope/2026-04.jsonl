@@ -1,487 +1,501 @@
-{"url":"https://dashscope.aliyun.com"}
-{"type":"fail","from":"2026-04-01T00:00:53.312Z","to":"2026-04-01T00:00:53.312Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T00:10:52.183Z","to":"2026-04-01T00:20:52.165Z","count":2,"avg":3914,"min":3847,"max":3980,"p95":3980}
-{"type":"fail","from":"2026-04-01T00:30:53.175Z","to":"2026-04-01T00:30:53.175Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-01T00:40:52.473Z","to":"2026-04-01T01:40:51.874Z","count":7,"avg":3661,"min":2430,"max":4488,"p95":4488}
-{"type":"fail","from":"2026-04-01T01:50:53.242Z","to":"2026-04-01T01:50:53.242Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T02:00:50.874Z","to":"2026-04-01T03:00:53.313Z","count":7,"avg":2929,"min":478,"max":4995,"p95":4995}
-{"type":"fail","from":"2026-04-01T03:10:53.218Z","to":"2026-04-01T03:20:53.231Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T03:30:51.004Z","to":"2026-04-01T04:20:51.055Z","count":6,"avg":3001,"min":500,"max":4216,"p95":4216}
-{"type":"fail","from":"2026-04-01T04:30:53.255Z","to":"2026-04-01T04:30:53.255Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T04:40:50.506Z","to":"2026-04-01T05:30:52.299Z","count":6,"avg":4020,"min":2268,"max":4581,"p95":4581}
-{"type":"fail","from":"2026-04-01T05:40:53.198Z","to":"2026-04-01T05:40:53.198Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T05:50:50.182Z","to":"2026-04-01T05:50:50.182Z","count":1,"avg":1926,"min":1926,"max":1926,"p95":1926}
-{"type":"fail","from":"2026-04-01T06:00:53.219Z","to":"2026-04-01T06:00:53.219Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T06:10:51.210Z","to":"2026-04-01T07:30:50.429Z","count":9,"avg":3633,"min":1545,"max":4668,"p95":4668}
-{"type":"fail","from":"2026-04-01T07:40:53.312Z","to":"2026-04-01T07:40:53.312Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T07:50:52.567Z","to":"2026-04-01T07:50:52.567Z","count":1,"avg":4340,"min":4340,"max":4340,"p95":4340}
-{"type":"fail","from":"2026-04-01T08:00:53.220Z","to":"2026-04-01T08:00:53.220Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T08:10:52.912Z","to":"2026-04-01T08:10:52.912Z","count":1,"avg":4743,"min":4743,"max":4743,"p95":4743}
-{"type":"fail","from":"2026-04-01T08:20:53.190Z","to":"2026-04-01T08:20:53.190Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-01T08:30:52.734Z","to":"2026-04-01T08:30:52.734Z","count":1,"avg":4565,"min":4565,"max":4565,"p95":4565}
-{"type":"fail","from":"2026-04-01T08:40:53.220Z","to":"2026-04-01T08:50:53.187Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T09:00:52.346Z","to":"2026-04-01T09:10:50.243Z","count":2,"avg":3045,"min":2054,"max":4035,"p95":4035}
-{"type":"fail","from":"2026-04-01T09:20:53.172Z","to":"2026-04-01T09:20:53.172Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T09:30:52.234Z","to":"2026-04-01T10:30:52.304Z","count":7,"avg":3843,"min":2633,"max":4379,"p95":4379}
-{"type":"fail","from":"2026-04-01T10:40:53.319Z","to":"2026-04-01T10:40:53.319Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T10:50:52.704Z","to":"2026-04-01T11:00:50.079Z","count":2,"avg":3068,"min":1758,"max":4377,"p95":4377}
-{"type":"fail","from":"2026-04-01T11:10:53.285Z","to":"2026-04-01T11:50:53.327Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T12:00:52.728Z","to":"2026-04-01T12:10:50.364Z","count":2,"avg":3286,"min":2186,"max":4385,"p95":4385}
-{"type":"fail","from":"2026-04-01T12:20:53.215Z","to":"2026-04-01T12:30:53.215Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T12:40:52.638Z","to":"2026-04-01T13:00:50.131Z","count":3,"avg":3412,"min":1872,"max":4407,"p95":4407}
-{"type":"fail","from":"2026-04-01T13:10:53.340Z","to":"2026-04-01T13:20:53.344Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T13:30:53.002Z","to":"2026-04-01T13:40:52.019Z","count":2,"avg":4283,"min":3775,"max":4790,"p95":4790}
-{"type":"fail","from":"2026-04-01T13:50:53.300Z","to":"2026-04-01T13:50:53.300Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T14:00:52.406Z","to":"2026-04-01T14:30:49.937Z","count":4,"avg":3194,"min":1686,"max":4821,"p95":4821}
-{"type":"fail","from":"2026-04-01T14:40:53.443Z","to":"2026-04-01T14:40:53.443Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T14:50:50.699Z","to":"2026-04-01T16:20:53.258Z","count":10,"avg":3043,"min":455,"max":4637,"p95":4637}
-{"type":"fail","from":"2026-04-01T16:30:53.327Z","to":"2026-04-01T16:30:53.327Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T16:40:52.309Z","to":"2026-04-01T16:50:52.732Z","count":2,"avg":4331,"min":4105,"max":4557,"p95":4557}
-{"type":"fail","from":"2026-04-01T17:00:53.322Z","to":"2026-04-01T17:00:53.322Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T17:10:51.890Z","to":"2026-04-01T17:10:51.890Z","count":1,"avg":3685,"min":3685,"max":3685,"p95":3685}
-{"type":"fail","from":"2026-04-01T17:20:53.206Z","to":"2026-04-01T17:30:53.208Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T17:40:52.612Z","to":"2026-04-01T21:10:49.792Z","count":22,"avg":3416,"min":506,"max":4720,"p95":4614}
-{"type":"fail","from":"2026-04-01T21:20:53.200Z","to":"2026-04-01T21:20:53.200Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T21:30:53.196Z","to":"2026-04-01T23:00:50.284Z","count":10,"avg":3686,"min":1529,"max":4986,"p95":4986}
-{"type":"fail","from":"2026-04-01T23:10:53.207Z","to":"2026-04-01T23:10:53.207Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T23:20:52.024Z","to":"2026-04-01T23:30:50.405Z","count":2,"avg":2953,"min":2203,"max":3702,"p95":3702}
-{"type":"fail","from":"2026-04-01T23:40:53.318Z","to":"2026-04-01T23:40:53.318Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T23:50:50.033Z","to":"2026-04-01T23:50:50.033Z","count":1,"avg":1789,"min":1789,"max":1789,"p95":1789}
-{"type":"ok","from":"2026-04-02T00:00:53.197Z","to":"2026-04-02T00:10:51.709Z","count":2,"avg":4209,"min":3550,"max":4867,"p95":4867}
-{"type":"fail","from":"2026-04-02T00:20:53.212Z","to":"2026-04-02T00:20:53.212Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T00:30:49.936Z","to":"2026-04-02T01:20:52.998Z","count":6,"avg":2117,"min":690,"max":4851,"p95":4851}
-{"type":"fail","from":"2026-04-02T01:30:53.307Z","to":"2026-04-02T01:30:53.307Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-02T01:40:52.021Z","to":"2026-04-02T01:50:49.882Z","count":2,"avg":2738,"min":1615,"max":3860,"p95":3860}
-{"type":"fail","from":"2026-04-02T02:00:53.329Z","to":"2026-04-02T02:00:53.329Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T02:10:51.463Z","to":"2026-04-02T03:00:48.857Z","count":6,"avg":2436,"min":402,"max":4468,"p95":4468}
-{"type":"fail","from":"2026-04-02T03:10:53.316Z","to":"2026-04-02T03:10:53.316Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T03:20:51.697Z","to":"2026-04-02T03:50:48.772Z","count":4,"avg":1439,"min":562,"max":3392,"p95":3392}
-{"type":"fail","from":"2026-04-02T04:00:53.342Z","to":"2026-04-02T04:00:53.342Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T04:10:52.333Z","to":"2026-04-02T06:00:51.343Z","count":12,"avg":2830,"min":426,"max":4361,"p95":4361}
-{"type":"fail","from":"2026-04-02T06:10:53.188Z","to":"2026-04-02T06:10:53.188Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5004}
-{"type":"ok","from":"2026-04-02T06:20:52.733Z","to":"2026-04-02T06:40:50.199Z","count":3,"avg":3738,"min":1900,"max":4764,"p95":4764}
-{"type":"fail","from":"2026-04-02T06:50:53.176Z","to":"2026-04-02T06:50:53.176Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T07:00:49.049Z","to":"2026-04-02T07:00:49.049Z","count":1,"avg":707,"min":707,"max":707,"p95":707}
-{"type":"fail","from":"2026-04-02T07:10:53.313Z","to":"2026-04-02T07:20:53.213Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T07:30:53.050Z","to":"2026-04-02T08:10:48.962Z","count":5,"avg":3068,"min":542,"max":4878,"p95":4878}
-{"type":"fail","from":"2026-04-02T08:20:53.319Z","to":"2026-04-02T08:20:53.319Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T08:30:53.054Z","to":"2026-04-02T08:30:53.054Z","count":1,"avg":4709,"min":4709,"max":4709,"p95":4709}
-{"type":"fail","from":"2026-04-02T08:40:53.187Z","to":"2026-04-02T09:10:53.183Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T09:20:52.401Z","to":"2026-04-02T09:20:52.401Z","count":1,"avg":4030,"min":4030,"max":4030,"p95":4030}
-{"type":"fail","from":"2026-04-02T09:30:53.211Z","to":"2026-04-02T09:30:53.211Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T09:40:53.224Z","to":"2026-04-02T09:50:52.942Z","count":2,"avg":4751,"min":4598,"max":4903,"p95":4903}
-{"type":"fail","from":"2026-04-02T10:00:53.230Z","to":"2026-04-02T10:00:53.230Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T10:10:52.189Z","to":"2026-04-02T10:20:51.230Z","count":2,"avg":3502,"min":2996,"max":4008,"p95":4008}
-{"type":"fail","from":"2026-04-02T10:30:53.318Z","to":"2026-04-02T11:00:53.239Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T11:10:51.311Z","to":"2026-04-02T11:30:52.671Z","count":3,"avg":3930,"min":3062,"max":4463,"p95":4463}
-{"type":"fail","from":"2026-04-02T11:40:53.327Z","to":"2026-04-02T11:40:53.327Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T11:50:52.790Z","to":"2026-04-02T12:20:50.781Z","count":4,"avg":3390,"min":2577,"max":4481,"p95":4481}
-{"type":"fail","from":"2026-04-02T12:30:53.220Z","to":"2026-04-02T12:30:53.220Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T12:40:52.451Z","to":"2026-04-02T13:00:53.123Z","count":3,"avg":4505,"min":4234,"max":4911,"p95":4911}
-{"type":"fail","from":"2026-04-02T13:10:53.221Z","to":"2026-04-02T13:10:53.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T13:20:52.904Z","to":"2026-04-02T13:20:52.904Z","count":1,"avg":4661,"min":4661,"max":4661,"p95":4661}
-{"type":"fail","from":"2026-04-02T13:30:53.339Z","to":"2026-04-02T13:50:53.378Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T14:00:52.885Z","to":"2026-04-02T14:00:52.885Z","count":1,"avg":4667,"min":4667,"max":4667,"p95":4667}
-{"type":"fail","from":"2026-04-02T14:10:53.210Z","to":"2026-04-02T14:10:53.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T14:20:52.601Z","to":"2026-04-02T14:20:52.601Z","count":1,"avg":4308,"min":4308,"max":4308,"p95":4308}
-{"type":"fail","from":"2026-04-02T14:30:53.391Z","to":"2026-04-02T14:40:53.454Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T14:50:52.471Z","to":"2026-04-02T15:20:52.398Z","count":4,"avg":4277,"min":3924,"max":4793,"p95":4793}
-{"type":"fail","from":"2026-04-02T15:30:53.305Z","to":"2026-04-02T15:30:53.305Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T15:40:50.465Z","to":"2026-04-02T16:00:50.845Z","count":3,"avg":3112,"min":2088,"max":4584,"p95":4584}
-{"type":"fail","from":"2026-04-02T16:10:53.162Z","to":"2026-04-02T16:10:53.162Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T16:20:51.042Z","to":"2026-04-02T16:50:52.113Z","count":4,"avg":3822,"min":2622,"max":4458,"p95":4458}
-{"type":"fail","from":"2026-04-02T17:00:53.191Z","to":"2026-04-02T17:00:53.191Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T17:10:52.842Z","to":"2026-04-02T18:20:53.192Z","count":8,"avg":3848,"min":1838,"max":4994,"p95":4994}
-{"type":"fail","from":"2026-04-02T18:30:53.316Z","to":"2026-04-02T18:30:53.316Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T18:40:52.565Z","to":"2026-04-02T18:40:52.565Z","count":1,"avg":4261,"min":4261,"max":4261,"p95":4261}
-{"type":"fail","from":"2026-04-02T18:50:53.213Z","to":"2026-04-02T19:00:53.313Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T19:10:52.659Z","to":"2026-04-02T20:40:52.678Z","count":10,"avg":3434,"min":1526,"max":4899,"p95":4899}
-{"type":"fail","from":"2026-04-02T20:50:53.199Z","to":"2026-04-02T20:50:53.199Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T21:00:51.511Z","to":"2026-04-02T21:00:51.511Z","count":1,"avg":3315,"min":3315,"max":3315,"p95":3315}
-{"type":"fail","from":"2026-04-02T21:10:53.210Z","to":"2026-04-02T21:10:53.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T21:20:52.571Z","to":"2026-04-02T21:50:50.735Z","count":4,"avg":3760,"min":2417,"max":4473,"p95":4473}
-{"type":"fail","from":"2026-04-02T22:00:53.330Z","to":"2026-04-02T22:00:53.330Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T22:10:50.651Z","to":"2026-04-02T23:10:52.910Z","count":7,"avg":4180,"min":2480,"max":4885,"p95":4885}
-{"type":"fail","from":"2026-04-02T23:20:53.198Z","to":"2026-04-02T23:20:53.198Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T23:30:53.143Z","to":"2026-04-02T23:30:53.143Z","count":1,"avg":4829,"min":4829,"max":4829,"p95":4829}
-{"type":"fail","from":"2026-04-02T23:40:53.311Z","to":"2026-04-02T23:40:53.311Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T23:50:52.263Z","to":"2026-04-02T23:50:52.263Z","count":1,"avg":4061,"min":4061,"max":4061,"p95":4061}
-{"type":"ok","from":"2026-04-03T00:00:52.010Z","to":"2026-04-03T00:10:50.636Z","count":2,"avg":3152,"min":2473,"max":3830,"p95":3830}
-{"type":"fail","from":"2026-04-03T00:20:53.162Z","to":"2026-04-03T00:30:53.236Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T00:40:52.607Z","to":"2026-04-03T01:10:53.112Z","count":4,"avg":2837,"min":607,"max":4874,"p95":4874}
-{"type":"fail","from":"2026-04-03T01:20:53.338Z","to":"2026-04-03T01:20:53.338Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-03T01:30:51.137Z","to":"2026-04-03T03:10:49.929Z","count":11,"avg":3489,"min":1714,"max":4320,"p95":4320}
-{"type":"fail","from":"2026-04-03T03:20:53.214Z","to":"2026-04-03T03:20:53.214Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T03:30:53.014Z","to":"2026-04-03T03:40:52.498Z","count":2,"avg":4428,"min":4182,"max":4674,"p95":4674}
-{"type":"fail","from":"2026-04-03T03:50:53.374Z","to":"2026-04-03T03:50:53.374Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T04:00:52.515Z","to":"2026-04-03T04:40:52.170Z","count":5,"avg":3540,"min":1312,"max":4370,"p95":4370}
-{"type":"fail","from":"2026-04-03T04:50:53.212Z","to":"2026-04-03T04:50:53.212Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-03T05:00:52.956Z","to":"2026-04-03T05:00:52.956Z","count":1,"avg":4618,"min":4618,"max":4618,"p95":4618}
-{"type":"fail","from":"2026-04-03T05:10:53.256Z","to":"2026-04-03T05:10:53.256Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-03T05:20:52.490Z","to":"2026-04-03T06:50:52.596Z","count":10,"avg":3977,"min":2014,"max":4896,"p95":4896}
-{"type":"fail","from":"2026-04-03T07:00:53.211Z","to":"2026-04-03T07:10:53.336Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-03T07:20:53.025Z","to":"2026-04-03T08:20:52.274Z","count":7,"avg":4074,"min":2436,"max":4769,"p95":4769}
-{"type":"fail","from":"2026-04-03T08:30:53.325Z","to":"2026-04-03T08:30:53.325Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T08:40:52.586Z","to":"2026-04-03T08:40:52.586Z","count":1,"avg":4360,"min":4360,"max":4360,"p95":4360}
-{"type":"fail","from":"2026-04-03T08:50:53.318Z","to":"2026-04-03T08:50:53.318Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T09:00:52.204Z","to":"2026-04-03T09:10:52.593Z","count":2,"avg":4072,"min":3876,"max":4268,"p95":4268}
-{"type":"fail","from":"2026-04-03T09:20:53.201Z","to":"2026-04-03T09:31:11.371Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T09:40:52.648Z","to":"2026-04-03T09:40:52.648Z","count":1,"avg":4434,"min":4434,"max":4434,"p95":4434}
-{"type":"fail","from":"2026-04-03T09:50:53.325Z","to":"2026-04-03T09:50:53.325Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T10:00:52.777Z","to":"2026-04-03T10:00:52.777Z","count":1,"avg":4552,"min":4552,"max":4552,"p95":4552}
-{"type":"fail","from":"2026-04-03T10:10:53.178Z","to":"2026-04-03T10:10:53.178Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T10:20:52.718Z","to":"2026-04-03T10:20:52.718Z","count":1,"avg":4514,"min":4514,"max":4514,"p95":4514}
-{"type":"fail","from":"2026-04-03T10:30:53.315Z","to":"2026-04-03T10:30:53.315Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T10:40:51.621Z","to":"2026-04-03T10:40:51.621Z","count":1,"avg":3381,"min":3381,"max":3381,"p95":3381}
-{"type":"fail","from":"2026-04-03T10:50:53.316Z","to":"2026-04-03T11:00:53.349Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T11:10:52.350Z","to":"2026-04-03T11:10:52.350Z","count":1,"avg":4071,"min":4071,"max":4071,"p95":4071}
-{"type":"fail","from":"2026-04-03T11:20:53.231Z","to":"2026-04-03T11:30:53.268Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T11:40:50.738Z","to":"2026-04-03T11:40:50.738Z","count":1,"avg":2380,"min":2380,"max":2380,"p95":2380}
-{"type":"fail","from":"2026-04-03T11:50:53.310Z","to":"2026-04-03T11:50:53.310Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T12:00:52.501Z","to":"2026-04-03T12:00:52.501Z","count":1,"avg":4250,"min":4250,"max":4250,"p95":4250}
-{"type":"fail","from":"2026-04-03T12:10:53.156Z","to":"2026-04-03T12:30:53.253Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T12:40:52.202Z","to":"2026-04-03T12:40:52.202Z","count":1,"avg":3952,"min":3952,"max":3952,"p95":3952}
-{"type":"fail","from":"2026-04-03T12:50:53.323Z","to":"2026-04-03T13:10:53.177Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T13:20:53.048Z","to":"2026-04-03T13:20:53.048Z","count":1,"avg":4708,"min":4708,"max":4708,"p95":4708}
-{"type":"fail","from":"2026-04-03T13:30:53.230Z","to":"2026-04-03T13:30:53.230Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T13:40:52.467Z","to":"2026-04-03T13:40:52.467Z","count":1,"avg":4240,"min":4240,"max":4240,"p95":4240}
-{"type":"fail","from":"2026-04-03T13:50:53.383Z","to":"2026-04-03T13:50:53.383Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T14:00:51.490Z","to":"2026-04-03T15:00:51.001Z","count":7,"avg":3693,"min":2555,"max":4779,"p95":4779}
-{"type":"fail","from":"2026-04-03T15:10:53.322Z","to":"2026-04-03T15:10:53.322Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T15:20:52.722Z","to":"2026-04-03T16:22:05.313Z","count":7,"avg":4223,"min":2472,"max":4695,"p95":4695}
-{"type":"fail","from":"2026-04-03T16:31:46.766Z","to":"2026-04-03T16:31:46.766Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T16:40:52.043Z","to":"2026-04-03T16:50:50.965Z","count":2,"avg":3296,"min":2720,"max":3871,"p95":3871}
-{"type":"fail","from":"2026-04-03T17:00:53.204Z","to":"2026-04-03T17:00:53.204Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-03T17:10:53.154Z","to":"2026-04-03T17:40:53.090Z","count":4,"avg":4609,"min":4230,"max":4776,"p95":4776}
-{"type":"fail","from":"2026-04-03T17:50:53.347Z","to":"2026-04-03T17:50:53.347Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T18:00:52.716Z","to":"2026-04-03T18:40:52.579Z","count":5,"avg":3990,"min":2975,"max":4771,"p95":4771}
-{"type":"fail","from":"2026-04-03T18:50:53.226Z","to":"2026-04-03T18:50:53.226Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T19:00:52.123Z","to":"2026-04-03T19:10:50.818Z","count":2,"avg":3245,"min":2601,"max":3889,"p95":3889}
-{"type":"fail","from":"2026-04-03T19:20:53.233Z","to":"2026-04-03T19:20:53.233Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T19:30:50.740Z","to":"2026-04-03T19:30:50.740Z","count":1,"avg":2396,"min":2396,"max":2396,"p95":2396}
-{"type":"fail","from":"2026-04-03T19:40:53.236Z","to":"2026-04-03T19:40:53.236Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T19:50:52.002Z","to":"2026-04-03T20:20:50.340Z","count":4,"avg":3295,"min":2182,"max":4989,"p95":4989}
-{"type":"fail","from":"2026-04-03T20:30:53.322Z","to":"2026-04-03T20:30:53.322Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-03T20:40:53.032Z","to":"2026-04-03T21:00:53.084Z","count":3,"avg":4007,"min":2631,"max":4804,"p95":4804}
-{"type":"fail","from":"2026-04-03T21:10:53.337Z","to":"2026-04-03T21:10:53.337Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T21:20:52.692Z","to":"2026-04-03T21:20:52.692Z","count":1,"avg":4488,"min":4488,"max":4488,"p95":4488}
-{"type":"fail","from":"2026-04-03T21:30:53.336Z","to":"2026-04-03T21:30:53.336Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T21:40:52.102Z","to":"2026-04-03T21:40:52.102Z","count":1,"avg":3884,"min":3884,"max":3884,"p95":3884}
-{"type":"fail","from":"2026-04-03T21:50:53.344Z","to":"2026-04-03T21:50:53.344Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-03T22:00:51.169Z","to":"2026-04-03T22:20:52.929Z","count":3,"avg":3398,"min":2630,"max":4599,"p95":4599}
-{"type":"fail","from":"2026-04-03T22:30:53.211Z","to":"2026-04-03T22:30:53.211Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T22:40:51.686Z","to":"2026-04-03T23:20:52.058Z","count":5,"avg":3299,"min":2001,"max":4934,"p95":4934}
-{"type":"fail","from":"2026-04-03T23:30:53.191Z","to":"2026-04-03T23:30:53.191Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T23:40:51.302Z","to":"2026-04-03T23:50:50.928Z","count":2,"avg":2842,"min":2697,"max":2987,"p95":2987}
-{"type":"fail","from":"2026-04-04T00:00:53.334Z","to":"2026-04-04T00:00:53.334Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T00:10:51.712Z","to":"2026-04-04T01:00:51.560Z","count":6,"avg":4032,"min":3334,"max":4865,"p95":4865}
-{"type":"fail","from":"2026-04-04T01:10:53.196Z","to":"2026-04-04T01:10:53.196Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003}
-{"type":"ok","from":"2026-04-04T01:20:49.941Z","to":"2026-04-04T03:50:05.459Z","count":10,"avg":3862,"min":1709,"max":4920,"p95":4920}
-{"type":"fail","from":"2026-04-04T04:00:06.708Z","to":"2026-04-04T04:00:06.708Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T04:10:06.091Z","to":"2026-04-04T04:20:06.132Z","count":2,"avg":4783,"min":4746,"max":4820,"p95":4820}
-{"type":"fail","from":"2026-04-04T04:30:06.256Z","to":"2026-04-04T04:30:06.256Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T04:40:03.564Z","to":"2026-04-04T04:50:05.998Z","count":2,"avg":3487,"min":2294,"max":4680,"p95":4680}
-{"type":"fail","from":"2026-04-04T05:00:06.353Z","to":"2026-04-04T05:00:06.353Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T05:10:04.830Z","to":"2026-04-04T05:40:05.851Z","count":4,"avg":4035,"min":3121,"max":4799,"p95":4799}
-{"type":"fail","from":"2026-04-04T05:50:06.343Z","to":"2026-04-04T06:00:06.324Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T06:10:05.530Z","to":"2026-04-04T06:10:05.530Z","count":1,"avg":4185,"min":4185,"max":4185,"p95":4185}
-{"type":"fail","from":"2026-04-04T06:20:06.332Z","to":"2026-04-04T06:20:06.332Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T06:30:06.033Z","to":"2026-04-04T06:40:04.959Z","count":2,"avg":4227,"min":3592,"max":4862,"p95":4862}
-{"type":"fail","from":"2026-04-04T06:50:06.191Z","to":"2026-04-04T06:50:06.191Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-04T07:00:04.237Z","to":"2026-04-04T07:10:03.550Z","count":2,"avg":2607,"min":2211,"max":3003,"p95":3003}
-{"type":"fail","from":"2026-04-04T07:20:06.340Z","to":"2026-04-04T07:20:06.340Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T07:30:04.875Z","to":"2026-04-04T08:10:05.636Z","count":5,"avg":3789,"min":1903,"max":4611,"p95":4611}
-{"type":"fail","from":"2026-04-04T08:20:06.341Z","to":"2026-04-04T08:20:06.341Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T08:30:06.107Z","to":"2026-04-04T08:30:06.107Z","count":1,"avg":4937,"min":4937,"max":4937,"p95":4937}
-{"type":"fail","from":"2026-04-04T08:40:06.241Z","to":"2026-04-04T08:50:06.238Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-04T09:00:06.154Z","to":"2026-04-04T09:00:06.154Z","count":1,"avg":4943,"min":4943,"max":4943,"p95":4943}
-{"type":"fail","from":"2026-04-04T09:10:06.197Z","to":"2026-04-04T09:10:06.197Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T09:20:04.636Z","to":"2026-04-04T09:30:05.556Z","count":2,"avg":3755,"min":3343,"max":4167,"p95":4167}
-{"type":"fail","from":"2026-04-04T09:40:06.221Z","to":"2026-04-04T09:40:06.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003}
-{"type":"ok","from":"2026-04-04T09:50:05.377Z","to":"2026-04-04T10:00:05.837Z","count":2,"avg":4390,"min":4167,"max":4613,"p95":4613}
-{"type":"fail","from":"2026-04-04T10:10:06.175Z","to":"2026-04-04T10:10:06.175Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T10:20:06.049Z","to":"2026-04-04T10:50:03.941Z","count":4,"avg":3987,"min":2619,"max":4715,"p95":4715}
-{"type":"fail","from":"2026-04-04T11:00:35.105Z","to":"2026-04-04T11:20:06.265Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T11:30:04.039Z","to":"2026-04-04T11:30:04.039Z","count":1,"avg":2810,"min":2810,"max":2810,"p95":2810}
-{"type":"fail","from":"2026-04-04T11:40:06.334Z","to":"2026-04-04T11:40:06.334Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T11:50:05.821Z","to":"2026-04-04T14:10:06.023Z","count":15,"avg":3446,"min":559,"max":4774,"p95":4774}
-{"type":"fail","from":"2026-04-04T14:20:06.286Z","to":"2026-04-04T14:20:06.286Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-04T14:30:03.685Z","to":"2026-04-04T15:20:03.557Z","count":6,"avg":1880,"min":613,"max":2510,"p95":2510}
-{"type":"fail","from":"2026-04-04T15:30:06.220Z","to":"2026-04-04T15:30:06.220Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T15:40:02.941Z","to":"2026-04-04T16:20:01.969Z","count":5,"avg":2399,"min":662,"max":4675,"p95":4675}
-{"type":"fail","from":"2026-04-04T16:30:06.310Z","to":"2026-04-04T16:30:06.310Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T16:40:01.896Z","to":"2026-04-04T19:00:01.836Z","count":15,"avg":1030,"min":437,"max":2224,"p95":2224}
-{"type":"fail","from":"2026-04-04T19:10:06.233Z","to":"2026-04-04T19:10:06.233Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T19:20:01.857Z","to":"2026-04-04T20:30:01.767Z","count":8,"avg":1790,"min":484,"max":4587,"p95":4587}
-{"type":"fail","from":"2026-04-04T20:40:06.213Z","to":"2026-04-04T20:40:06.213Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T20:50:03.558Z","to":"2026-04-04T21:50:02.020Z","count":7,"avg":1101,"min":568,"max":2316,"p95":2316}
-{"type":"fail","from":"2026-04-04T22:00:06.231Z","to":"2026-04-04T22:00:06.231Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T22:10:03.291Z","to":"2026-04-04T23:50:01.869Z","count":11,"avg":964,"min":502,"max":2049,"p95":2049}
-{"type":"ok","from":"2026-04-05T00:00:01.804Z","to":"2026-04-05T01:20:01.740Z","count":9,"avg":953,"min":478,"max":2008,"p95":2008}
-{"type":"fail","from":"2026-04-05T01:30:06.255Z","to":"2026-04-05T01:30:06.255Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T01:40:01.674Z","to":"2026-04-05T01:50:01.957Z","count":2,"avg":620,"min":500,"max":739,"p95":739}
-{"type":"fail","from":"2026-04-05T02:00:06.224Z","to":"2026-04-05T02:00:06.224Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-05T02:10:03.822Z","to":"2026-04-05T04:00:01.893Z","count":12,"avg":1486,"min":534,"max":4220,"p95":4220}
-{"type":"fail","from":"2026-04-05T04:10:06.248Z","to":"2026-04-05T04:10:06.248Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T04:20:03.276Z","to":"2026-04-05T07:30:01.726Z","count":20,"avg":1058,"min":500,"max":2413,"p95":2413}
-{"type":"fail","from":"2026-04-05T07:40:06.247Z","to":"2026-04-05T07:40:06.247Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-05T07:50:03.653Z","to":"2026-04-05T11:40:05.533Z","count":24,"avg":1434,"min":460,"max":4943,"p95":4333}
-{"type":"fail","from":"2026-04-05T11:50:06.618Z","to":"2026-04-05T11:50:06.618Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T12:00:01.784Z","to":"2026-04-05T12:50:05.463Z","count":6,"avg":2027,"min":483,"max":4157,"p95":4157}
-{"type":"fail","from":"2026-04-05T13:00:10.837Z","to":"2026-04-05T13:00:10.837Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T13:10:04.101Z","to":"2026-04-05T14:50:03.302Z","count":11,"avg":2482,"min":576,"max":4703,"p95":4703}
-{"type":"fail","from":"2026-04-05T15:00:06.301Z","to":"2026-04-05T15:00:06.301Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T15:10:05.883Z","to":"2026-04-05T15:10:05.883Z","count":1,"avg":4516,"min":4516,"max":4516,"p95":4516}
-{"type":"fail","from":"2026-04-05T15:20:06.363Z","to":"2026-04-05T15:20:06.363Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T15:30:06.186Z","to":"2026-04-05T16:30:01.691Z","count":7,"avg":1945,"min":504,"max":4842,"p95":4842}
-{"type":"fail","from":"2026-04-05T16:40:06.332Z","to":"2026-04-05T16:40:06.332Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T16:50:01.749Z","to":"2026-04-05T18:30:01.741Z","count":11,"avg":1290,"min":492,"max":3698,"p95":3698}
-{"type":"fail","from":"2026-04-05T18:40:06.228Z","to":"2026-04-05T18:40:06.228Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T18:50:03.201Z","to":"2026-04-05T23:50:02.959Z","count":31,"avg":1297,"min":470,"max":3634,"p95":3208}
-{"type":"ok","from":"2026-04-06T00:00:01.816Z","to":"2026-04-06T00:30:04.976Z","count":4,"avg":3334,"min":637,"max":4694,"p95":4694}
-{"type":"fail","from":"2026-04-06T00:40:06.240Z","to":"2026-04-06T00:40:06.240Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T00:50:05.866Z","to":"2026-04-06T01:00:06.186Z","count":2,"avg":4805,"min":4621,"max":4988,"p95":4988}
-{"type":"fail","from":"2026-04-06T01:10:06.321Z","to":"2026-04-06T01:20:06.231Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T01:30:04.955Z","to":"2026-04-06T01:40:03.340Z","count":2,"avg":2971,"min":2164,"max":3778,"p95":3778}
-{"type":"fail","from":"2026-04-06T01:50:06.325Z","to":"2026-04-06T02:00:06.306Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T02:10:03.562Z","to":"2026-04-06T02:40:05.377Z","count":4,"avg":3177,"min":2332,"max":4065,"p95":4065}
-{"type":"fail","from":"2026-04-06T02:50:06.219Z","to":"2026-04-06T02:50:06.219Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T03:00:05.164Z","to":"2026-04-06T03:40:01.816Z","count":5,"avg":1897,"min":565,"max":3911,"p95":3911}
-{"type":"fail","from":"2026-04-06T03:50:06.394Z","to":"2026-04-06T03:50:06.394Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T04:00:05.631Z","to":"2026-04-06T04:30:03.338Z","count":4,"avg":2934,"min":1744,"max":4259,"p95":4259}
-{"type":"fail","from":"2026-04-06T04:40:06.206Z","to":"2026-04-06T04:50:06.315Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T05:00:05.439Z","to":"2026-04-06T06:10:03.273Z","count":8,"avg":2611,"min":471,"max":4428,"p95":4428}
-{"type":"fail","from":"2026-04-06T06:20:06.243Z","to":"2026-04-06T06:20:06.243Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T06:30:01.791Z","to":"2026-04-06T07:10:01.923Z","count":5,"avg":2441,"min":543,"max":4631,"p95":4631}
-{"type":"fail","from":"2026-04-06T07:20:06.212Z","to":"2026-04-06T07:20:06.212Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T07:30:03.649Z","to":"2026-04-06T11:10:03.400Z","count":23,"avg":2121,"min":557,"max":4595,"p95":4564}
-{"type":"fail","from":"2026-04-06T11:20:06.215Z","to":"2026-04-06T11:20:06.215Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T11:30:01.794Z","to":"2026-04-06T11:30:01.794Z","count":1,"avg":512,"min":512,"max":512,"p95":512}
-{"type":"fail","from":"2026-04-06T11:40:06.313Z","to":"2026-04-06T11:40:06.313Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T11:50:04.615Z","to":"2026-04-06T11:50:04.615Z","count":1,"avg":3319,"min":3319,"max":3319,"p95":3319}
-{"type":"fail","from":"2026-04-06T12:00:06.707Z","to":"2026-04-06T12:10:06.260Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T12:20:02.886Z","to":"2026-04-06T13:40:05.894Z","count":9,"avg":3679,"min":1547,"max":4938,"p95":4938}
-{"type":"fail","from":"2026-04-06T13:50:06.272Z","to":"2026-04-06T13:50:06.272Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T14:00:05.540Z","to":"2026-04-06T14:20:04.864Z","count":3,"avg":3984,"min":3257,"max":4972,"p95":4972}
-{"type":"fail","from":"2026-04-06T14:30:06.680Z","to":"2026-04-06T14:30:06.680Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T14:40:06.206Z","to":"2026-04-06T15:10:06.217Z","count":4,"avg":4268,"min":3130,"max":4686,"p95":4686}
-{"type":"fail","from":"2026-04-06T15:20:06.237Z","to":"2026-04-06T15:50:06.181Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T16:00:06.177Z","to":"2026-04-06T16:00:06.177Z","count":1,"avg":4720,"min":4720,"max":4720,"p95":4720}
-{"type":"fail","from":"2026-04-06T16:10:06.333Z","to":"2026-04-06T16:20:06.317Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T16:30:05.639Z","to":"2026-04-06T16:40:05.859Z","count":2,"avg":4467,"min":4408,"max":4526,"p95":4526}
-{"type":"fail","from":"2026-04-06T16:50:06.219Z","to":"2026-04-06T16:50:06.219Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-06T17:00:05.809Z","to":"2026-04-06T17:10:03.622Z","count":2,"avg":3441,"min":2406,"max":4475,"p95":4475}
-{"type":"fail","from":"2026-04-06T17:20:06.249Z","to":"2026-04-06T17:20:06.249Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-06T17:30:05.556Z","to":"2026-04-06T18:10:03.599Z","count":5,"avg":3561,"min":2406,"max":4332,"p95":4332}
-{"type":"fail","from":"2026-04-06T18:20:06.311Z","to":"2026-04-06T18:30:06.180Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T18:40:06.069Z","to":"2026-04-06T18:40:06.069Z","count":1,"avg":4754,"min":4754,"max":4754,"p95":4754}
-{"type":"fail","from":"2026-04-06T18:50:06.348Z","to":"2026-04-06T18:50:06.348Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T19:00:05.474Z","to":"2026-04-06T19:00:05.474Z","count":1,"avg":4235,"min":4235,"max":4235,"p95":4235}
-{"type":"fail","from":"2026-04-06T19:10:06.224Z","to":"2026-04-06T19:10:06.224Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T19:20:05.496Z","to":"2026-04-06T19:20:05.496Z","count":1,"avg":4295,"min":4295,"max":4295,"p95":4295}
-{"type":"fail","from":"2026-04-06T19:30:06.310Z","to":"2026-04-06T19:30:06.310Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T19:40:05.693Z","to":"2026-04-06T21:40:05.439Z","count":13,"avg":3668,"min":1794,"max":4488,"p95":4488}
-{"type":"fail","from":"2026-04-06T21:50:06.223Z","to":"2026-04-06T21:50:06.223Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T22:00:05.642Z","to":"2026-04-06T23:50:05.342Z","count":12,"avg":4199,"min":2349,"max":4691,"p95":4691}
-{"type":"ok","from":"2026-04-07T00:00:05.748Z","to":"2026-04-07T01:20:03.239Z","count":9,"avg":3951,"min":2017,"max":4788,"p95":4788}
-{"type":"fail","from":"2026-04-07T01:30:06.312Z","to":"2026-04-07T01:40:06.375Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T01:50:05.400Z","to":"2026-04-07T02:30:05.511Z","count":5,"avg":3996,"min":2665,"max":4699,"p95":4699}
-{"type":"fail","from":"2026-04-07T02:40:06.210Z","to":"2026-04-07T02:40:06.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T02:50:04.683Z","to":"2026-04-07T03:00:03.951Z","count":2,"avg":3036,"min":2605,"max":3467,"p95":3467}
-{"type":"fail","from":"2026-04-07T03:10:06.221Z","to":"2026-04-07T03:10:06.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T03:20:05.147Z","to":"2026-04-07T03:30:02.949Z","count":2,"avg":2786,"min":1658,"max":3914,"p95":3914}
-{"type":"fail","from":"2026-04-07T03:40:06.209Z","to":"2026-04-07T03:40:06.209Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T03:50:01.947Z","to":"2026-04-07T03:50:01.947Z","count":1,"avg":663,"min":663,"max":663,"p95":663}
-{"type":"fail","from":"2026-04-07T04:00:06.224Z","to":"2026-04-07T04:00:06.224Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T04:10:05.693Z","to":"2026-04-07T04:40:05.606Z","count":4,"avg":3721,"min":2136,"max":4312,"p95":4312}
-{"type":"fail","from":"2026-04-07T04:50:06.249Z","to":"2026-04-07T05:00:06.254Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T05:10:04.929Z","to":"2026-04-07T05:40:03.431Z","count":4,"avg":3448,"min":2109,"max":4351,"p95":4351}
-{"type":"fail","from":"2026-04-07T05:50:06.242Z","to":"2026-04-07T05:50:06.242Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T06:00:05.779Z","to":"2026-04-07T06:00:05.779Z","count":1,"avg":4414,"min":4414,"max":4414,"p95":4414}
-{"type":"fail","from":"2026-04-07T06:10:06.221Z","to":"2026-04-07T06:10:06.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T06:20:05.732Z","to":"2026-04-07T06:40:05.834Z","count":3,"avg":4280,"min":3685,"max":4635,"p95":4635}
-{"type":"fail","from":"2026-04-07T06:50:06.240Z","to":"2026-04-07T07:00:06.560Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-07T07:10:06.087Z","to":"2026-04-07T07:40:05.528Z","count":4,"avg":4146,"min":3227,"max":4910,"p95":4910}
-{"type":"fail","from":"2026-04-07T07:50:06.210Z","to":"2026-04-07T07:50:06.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-07T08:00:05.476Z","to":"2026-04-07T08:10:05.975Z","count":2,"avg":4443,"min":4117,"max":4768,"p95":4768}
-{"type":"fail","from":"2026-04-07T08:20:06.331Z","to":"2026-04-07T08:30:06.266Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T08:40:05.892Z","to":"2026-04-07T10:10:03.135Z","count":10,"avg":3527,"min":1898,"max":4705,"p95":4705}
-{"type":"fail","from":"2026-04-07T10:20:06.263Z","to":"2026-04-07T10:30:06.168Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T10:40:05.628Z","to":"2026-04-07T10:50:06.049Z","count":2,"avg":4629,"min":4444,"max":4813,"p95":4813}
-{"type":"fail","from":"2026-04-07T11:00:06.513Z","to":"2026-04-07T11:00:06.513Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T11:10:06.123Z","to":"2026-04-07T11:50:05.625Z","count":5,"avg":4195,"min":3339,"max":4896,"p95":4896}
-{"type":"fail","from":"2026-04-07T12:00:06.496Z","to":"2026-04-07T12:10:06.240Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T12:20:06.084Z","to":"2026-04-07T12:20:06.084Z","count":1,"avg":4917,"min":4917,"max":4917,"p95":4917}
-{"type":"fail","from":"2026-04-07T12:30:06.288Z","to":"2026-04-07T12:40:06.203Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T12:50:05.903Z","to":"2026-04-07T13:00:06.099Z","count":2,"avg":4578,"min":4480,"max":4675,"p95":4675}
-{"type":"fail","from":"2026-04-07T13:10:06.268Z","to":"2026-04-07T13:30:06.617Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T13:40:05.898Z","to":"2026-04-07T14:00:06.388Z","count":3,"avg":4443,"min":4225,"max":4559,"p95":4559}
-{"type":"fail","from":"2026-04-07T14:10:06.565Z","to":"2026-04-07T14:10:06.565Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T14:20:03.107Z","to":"2026-04-07T14:30:06.400Z","count":2,"avg":3281,"min":1751,"max":4810,"p95":4810}
-{"type":"fail","from":"2026-04-07T14:40:06.237Z","to":"2026-04-07T14:40:06.237Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T14:50:05.685Z","to":"2026-04-07T17:10:05.598Z","count":15,"avg":3930,"min":2273,"max":4945,"p95":4945}
-{"type":"fail","from":"2026-04-07T17:20:06.206Z","to":"2026-04-07T17:30:06.362Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T17:40:05.655Z","to":"2026-04-07T17:40:05.655Z","count":1,"avg":4353,"min":4353,"max":4353,"p95":4353}
-{"type":"fail","from":"2026-04-07T17:50:06.225Z","to":"2026-04-07T17:50:06.225Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T18:00:05.788Z","to":"2026-04-07T18:10:05.362Z","count":2,"avg":4365,"min":4152,"max":4578,"p95":4578}
-{"type":"fail","from":"2026-04-07T18:20:06.347Z","to":"2026-04-07T18:20:06.347Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T18:30:05.553Z","to":"2026-04-07T19:30:03.962Z","count":7,"avg":2965,"min":1738,"max":4420,"p95":4420}
-{"type":"fail","from":"2026-04-07T19:40:06.327Z","to":"2026-04-07T19:40:06.327Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T19:50:05.354Z","to":"2026-04-07T20:40:03.833Z","count":6,"avg":3565,"min":2198,"max":4959,"p95":4959}
-{"type":"fail","from":"2026-04-07T20:50:06.170Z","to":"2026-04-07T21:00:06.300Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T21:10:05.095Z","to":"2026-04-07T22:00:04.999Z","count":6,"avg":3475,"min":2180,"max":4910,"p95":4910}
-{"type":"fail","from":"2026-04-07T22:10:06.295Z","to":"2026-04-07T22:10:06.295Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-07T22:20:02.924Z","to":"2026-04-07T22:50:05.960Z","count":4,"avg":3534,"min":1723,"max":4627,"p95":4627}
-{"type":"fail","from":"2026-04-07T23:00:06.314Z","to":"2026-04-07T23:00:06.314Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T23:10:05.065Z","to":"2026-04-07T23:50:05.421Z","count":5,"avg":3753,"min":2251,"max":4759,"p95":4759}
-{"type":"ok","from":"2026-04-08T00:00:05.264Z","to":"2026-04-08T00:50:05.652Z","count":6,"avg":4289,"min":3564,"max":4874,"p95":4874}
-{"type":"fail","from":"2026-04-08T01:00:06.330Z","to":"2026-04-08T01:00:06.330Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T01:10:05.767Z","to":"2026-04-08T01:50:06.229Z","count":5,"avg":4029,"min":2518,"max":4899,"p95":4899}
-{"type":"fail","from":"2026-04-08T02:00:06.344Z","to":"2026-04-08T02:10:06.191Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T02:20:05.833Z","to":"2026-04-08T02:30:05.835Z","count":2,"avg":4568,"min":4479,"max":4656,"p95":4656}
-{"type":"fail","from":"2026-04-08T02:40:06.236Z","to":"2026-04-08T02:40:06.236Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T02:50:04.121Z","to":"2026-04-08T02:50:04.121Z","count":1,"avg":2323,"min":2323,"max":2323,"p95":2323}
-{"type":"fail","from":"2026-04-08T03:00:06.355Z","to":"2026-04-08T03:10:06.250Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T03:20:05.511Z","to":"2026-04-08T03:50:05.344Z","count":4,"avg":3820,"min":2543,"max":4333,"p95":4333}
-{"type":"fail","from":"2026-04-08T04:00:06.317Z","to":"2026-04-08T04:00:06.317Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T04:10:03.701Z","to":"2026-04-08T05:50:05.409Z","count":11,"avg":2090,"min":495,"max":4675,"p95":4675}
-{"type":"fail","from":"2026-04-08T06:00:06.373Z","to":"2026-04-08T06:00:06.373Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T06:10:04.714Z","to":"2026-04-08T08:00:03.372Z","count":12,"avg":3890,"min":1909,"max":4907,"p95":4907}
-{"type":"fail","from":"2026-04-08T08:10:06.321Z","to":"2026-04-08T08:10:06.321Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T08:20:05.856Z","to":"2026-04-08T08:30:06.169Z","count":2,"avg":4768,"min":4557,"max":4978,"p95":4978}
-{"type":"fail","from":"2026-04-08T08:40:06.253Z","to":"2026-04-08T08:40:06.253Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T08:50:03.537Z","to":"2026-04-08T09:10:03.198Z","count":3,"avg":2408,"min":1942,"max":3001,"p95":3001}
-{"type":"fail","from":"2026-04-08T09:20:06.167Z","to":"2026-04-08T09:30:06.240Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T09:40:03.698Z","to":"2026-04-08T09:50:01.727Z","count":2,"avg":1465,"min":503,"max":2427,"p95":2427}
-{"type":"fail","from":"2026-04-08T10:00:06.346Z","to":"2026-04-08T10:00:06.346Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T10:10:01.792Z","to":"2026-04-08T10:10:01.792Z","count":1,"avg":579,"min":579,"max":579,"p95":579}
-{"type":"fail","from":"2026-04-08T10:20:06.271Z","to":"2026-04-08T10:20:06.271Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T10:30:03.422Z","to":"2026-04-08T10:30:03.422Z","count":1,"avg":2234,"min":2234,"max":2234,"p95":2234}
-{"type":"fail","from":"2026-04-08T10:40:06.246Z","to":"2026-04-08T10:40:06.246Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-08T10:50:01.802Z","to":"2026-04-08T11:30:01.837Z","count":5,"avg":946,"min":566,"max":2364,"p95":2364}
-{"type":"fail","from":"2026-04-08T11:40:06.239Z","to":"2026-04-08T11:40:06.239Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T11:50:03.328Z","to":"2026-04-08T13:20:01.941Z","count":10,"avg":1483,"min":632,"max":3706,"p95":3706}
-{"type":"fail","from":"2026-04-08T13:30:06.703Z","to":"2026-04-08T13:30:06.703Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T13:40:01.877Z","to":"2026-04-08T19:50:03.304Z","count":38,"avg":1826,"min":441,"max":4932,"p95":4829}
-{"type":"fail","from":"2026-04-08T20:00:06.326Z","to":"2026-04-08T20:00:06.326Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T20:10:02.918Z","to":"2026-04-08T20:10:02.918Z","count":1,"avg":1649,"min":1649,"max":1649,"p95":1649}
-{"type":"fail","from":"2026-04-08T20:20:06.223Z","to":"2026-04-08T20:20:06.223Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-08T20:30:03.286Z","to":"2026-04-08T21:30:03.786Z","count":7,"avg":2516,"min":477,"max":4739,"p95":4739}
-{"type":"fail","from":"2026-04-08T21:40:06.210Z","to":"2026-04-08T21:40:06.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T21:50:04.468Z","to":"2026-04-08T23:30:06.143Z","count":11,"avg":3292,"min":708,"max":4936,"p95":4936}
-{"type":"fail","from":"2026-04-08T23:40:06.215Z","to":"2026-04-08T23:40:06.215Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T23:50:03.847Z","to":"2026-04-08T23:50:03.847Z","count":1,"avg":2635,"min":2635,"max":2635,"p95":2635}
-{"type":"ok","from":"2026-04-09T00:00:04.149Z","to":"2026-04-09T00:10:01.866Z","count":2,"avg":1780,"min":627,"max":2933,"p95":2933}
-{"type":"fail","from":"2026-04-09T00:20:06.226Z","to":"2026-04-09T00:20:06.226Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T00:30:03.138Z","to":"2026-04-09T00:30:03.138Z","count":1,"avg":1862,"min":1862,"max":1862,"p95":1862}
-{"type":"fail","from":"2026-04-09T00:40:06.230Z","to":"2026-04-09T00:40:06.230Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T00:50:04.039Z","to":"2026-04-09T01:00:01.791Z","count":2,"avg":1666,"min":526,"max":2805,"p95":2805}
-{"type":"fail","from":"2026-04-09T01:10:06.331Z","to":"2026-04-09T01:10:06.331Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T01:20:06.242Z","to":"2026-04-09T02:00:03.812Z","count":5,"avg":4106,"min":2560,"max":4913,"p95":4913}
-{"type":"fail","from":"2026-04-09T02:10:06.246Z","to":"2026-04-09T02:10:06.246Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T02:20:05.456Z","to":"2026-04-09T04:10:05.894Z","count":12,"avg":2584,"min":592,"max":4549,"p95":4549}
-{"type":"fail","from":"2026-04-09T04:20:06.247Z","to":"2026-04-09T04:20:06.247Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T04:30:03.225Z","to":"2026-04-09T05:00:01.899Z","count":4,"avg":1227,"min":605,"max":1996,"p95":1996}
-{"type":"fail","from":"2026-04-09T05:10:06.319Z","to":"2026-04-09T05:10:06.319Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T05:20:05.675Z","to":"2026-04-09T06:20:01.886Z","count":7,"avg":3037,"min":628,"max":4683,"p95":4683}
-{"type":"fail","from":"2026-04-09T06:30:06.171Z","to":"2026-04-09T06:30:06.171Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T06:40:05.664Z","to":"2026-04-09T07:00:03.719Z","count":3,"avg":3641,"min":2313,"max":4320,"p95":4320}
-{"type":"fail","from":"2026-04-09T07:10:06.211Z","to":"2026-04-09T07:10:06.211Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T07:20:05.553Z","to":"2026-04-09T07:20:05.553Z","count":1,"avg":4358,"min":4358,"max":4358,"p95":4358}
-{"type":"fail","from":"2026-04-09T07:30:06.278Z","to":"2026-04-09T07:40:06.319Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T07:50:05.956Z","to":"2026-04-09T07:50:05.956Z","count":1,"avg":4598,"min":4598,"max":4598,"p95":4598}
-{"type":"fail","from":"2026-04-09T08:00:06.395Z","to":"2026-04-09T08:10:06.244Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T08:20:05.922Z","to":"2026-04-09T08:50:03.739Z","count":4,"avg":3061,"min":2262,"max":4713,"p95":4713}
-{"type":"fail","from":"2026-04-09T09:00:06.291Z","to":"2026-04-09T09:00:06.291Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T09:10:03.489Z","to":"2026-04-09T09:30:05.146Z","count":3,"avg":2949,"min":2211,"max":3792,"p95":3792}
-{"type":"fail","from":"2026-04-09T09:40:06.208Z","to":"2026-04-09T10:00:06.200Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T10:10:04.985Z","to":"2026-04-09T10:20:06.086Z","count":2,"avg":4261,"min":3621,"max":4900,"p95":4900}
-{"type":"fail","from":"2026-04-09T10:30:06.174Z","to":"2026-04-09T10:30:06.174Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T10:40:05.691Z","to":"2026-04-09T10:40:05.691Z","count":1,"avg":4507,"min":4507,"max":4507,"p95":4507}
-{"type":"fail","from":"2026-04-09T10:50:06.311Z","to":"2026-04-09T10:50:06.311Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-09T11:00:05.684Z","to":"2026-04-09T11:30:05.508Z","count":4,"avg":3939,"min":3505,"max":4314,"p95":4314}
-{"type":"fail","from":"2026-04-09T11:40:06.302Z","to":"2026-04-09T11:40:06.302Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T11:50:04.970Z","to":"2026-04-09T13:10:05.939Z","count":9,"avg":4359,"min":3737,"max":4724,"p95":4724}
-{"type":"fail","from":"2026-04-09T13:20:06.266Z","to":"2026-04-09T14:00:06.615Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T14:10:04.988Z","to":"2026-04-09T14:30:04.129Z","count":3,"avg":2889,"min":2494,"max":3583,"p95":3583}
-{"type":"fail","from":"2026-04-09T14:40:06.494Z","to":"2026-04-09T14:40:06.494Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T14:50:05.773Z","to":"2026-04-09T15:10:05.429Z","count":3,"avg":4406,"min":4163,"max":4652,"p95":4652}
-{"type":"fail","from":"2026-04-09T15:20:06.314Z","to":"2026-04-09T15:20:06.314Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-09T15:30:03.049Z","to":"2026-04-09T15:50:05.794Z","count":3,"avg":3463,"min":1532,"max":4564,"p95":4564}
-{"type":"fail","from":"2026-04-09T16:00:06.583Z","to":"2026-04-09T16:00:06.583Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T16:10:05.762Z","to":"2026-04-09T16:10:05.762Z","count":1,"avg":4424,"min":4424,"max":4424,"p95":4424}
-{"type":"fail","from":"2026-04-09T16:20:06.168Z","to":"2026-04-09T16:20:06.168Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T16:30:05.972Z","to":"2026-04-09T17:50:05.841Z","count":9,"avg":4198,"min":2891,"max":4746,"p95":4746}
-{"type":"fail","from":"2026-04-09T18:00:06.218Z","to":"2026-04-09T18:00:06.218Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T18:10:05.971Z","to":"2026-04-09T19:10:04.104Z","count":7,"avg":4409,"min":2930,"max":4931,"p95":4931}
-{"type":"fail","from":"2026-04-09T19:20:06.217Z","to":"2026-04-09T19:40:06.223Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T19:50:05.638Z","to":"2026-04-09T20:10:03.760Z","count":3,"avg":3570,"min":2525,"max":4419,"p95":4419}
-{"type":"fail","from":"2026-04-09T20:20:06.166Z","to":"2026-04-09T20:20:06.166Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T20:30:01.861Z","to":"2026-04-09T21:00:05.570Z","count":4,"avg":2847,"min":583,"max":4251,"p95":4251}
-{"type":"fail","from":"2026-04-09T21:10:06.196Z","to":"2026-04-09T21:10:06.196Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T21:20:05.481Z","to":"2026-04-09T22:00:04.239Z","count":5,"avg":3647,"min":2444,"max":4683,"p95":4683}
-{"type":"fail","from":"2026-04-09T22:10:06.301Z","to":"2026-04-09T22:10:06.301Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-09T22:20:05.883Z","to":"2026-04-09T23:50:05.370Z","count":10,"avg":4285,"min":2312,"max":4752,"p95":4752}
-{"type":"ok","from":"2026-04-10T00:00:05.936Z","to":"2026-04-10T00:30:05.505Z","count":4,"avg":4284,"min":3794,"max":4614,"p95":4614}
-{"type":"fail","from":"2026-04-10T00:40:06.238Z","to":"2026-04-10T00:40:06.238Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T00:50:05.232Z","to":"2026-04-10T01:00:05.654Z","count":2,"avg":4213,"min":4009,"max":4417,"p95":4417}
-{"type":"fail","from":"2026-04-10T01:10:06.220Z","to":"2026-04-10T01:20:06.383Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T01:30:03.559Z","to":"2026-04-10T01:50:01.887Z","count":3,"avg":1109,"min":489,"max":2257,"p95":2257}
-{"type":"fail","from":"2026-04-10T02:00:06.220Z","to":"2026-04-10T02:00:06.220Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T02:10:05.518Z","to":"2026-04-10T02:20:01.819Z","count":2,"avg":2451,"min":564,"max":4337,"p95":4337}
-{"type":"fail","from":"2026-04-10T02:30:06.175Z","to":"2026-04-10T02:30:06.175Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T02:40:01.797Z","to":"2026-04-10T02:40:01.797Z","count":1,"avg":555,"min":555,"max":555,"p95":555}
-{"type":"fail","from":"2026-04-10T02:50:06.362Z","to":"2026-04-10T02:50:06.362Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-10T02:55:53.374Z","to":"2026-04-10T03:50:01.893Z","count":6,"avg":1829,"min":448,"max":4819,"p95":4819}
-{"type":"fail","from":"2026-04-10T04:00:06.337Z","to":"2026-04-10T04:00:06.337Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T04:10:05.850Z","to":"2026-04-10T04:40:04.071Z","count":4,"avg":2458,"min":442,"max":4587,"p95":4587}
-{"type":"fail","from":"2026-04-10T04:50:06.246Z","to":"2026-04-10T04:50:06.246Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-10T05:00:05.090Z","to":"2026-04-10T05:00:05.090Z","count":1,"avg":3881,"min":3881,"max":3881,"p95":3881}
-{"type":"fail","from":"2026-04-10T05:10:06.225Z","to":"2026-04-10T05:10:06.225Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T05:20:05.394Z","to":"2026-04-10T06:10:05.649Z","count":6,"avg":3666,"min":2401,"max":4382,"p95":4382}
-{"type":"fail","from":"2026-04-10T06:20:06.184Z","to":"2026-04-10T06:20:06.184Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T06:30:05.185Z","to":"2026-04-10T06:30:05.185Z","count":1,"avg":4032,"min":4032,"max":4032,"p95":4032}
-{"type":"fail","from":"2026-04-10T06:40:06.232Z","to":"2026-04-10T06:40:06.232Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T06:50:03.761Z","to":"2026-04-10T07:00:05.638Z","count":2,"avg":3374,"min":2448,"max":4300,"p95":4300}
-{"type":"fail","from":"2026-04-10T07:10:06.223Z","to":"2026-04-10T07:10:06.223Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-10T07:20:05.287Z","to":"2026-04-10T07:20:05.287Z","count":1,"avg":3969,"min":3969,"max":3969,"p95":3969}
-{"type":"fail","from":"2026-04-10T07:30:06.264Z","to":"2026-04-10T07:30:06.264Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T07:40:05.729Z","to":"2026-04-10T07:40:05.729Z","count":1,"avg":4508,"min":4508,"max":4508,"p95":4508}
-{"type":"fail","from":"2026-04-10T07:50:06.335Z","to":"2026-04-10T07:50:06.335Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T08:00:06.006Z","to":"2026-04-10T08:00:06.006Z","count":1,"avg":4520,"min":4520,"max":4520,"p95":4520}
-{"type":"fail","from":"2026-04-10T08:10:06.238Z","to":"2026-04-10T08:10:06.238Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T08:20:04.930Z","to":"2026-04-10T09:00:05.560Z","count":5,"avg":3792,"min":2029,"max":4678,"p95":4678}
-{"type":"fail","from":"2026-04-10T09:10:06.227Z","to":"2026-04-10T09:10:06.227Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T09:20:05.444Z","to":"2026-04-10T09:30:05.701Z","count":2,"avg":4378,"min":4225,"max":4531,"p95":4531}
-{"type":"fail","from":"2026-04-10T09:40:06.328Z","to":"2026-04-10T09:50:06.245Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T10:00:03.087Z","to":"2026-04-10T10:10:03.704Z","count":2,"avg":2094,"min":1734,"max":2453,"p95":2453}
-{"type":"fail","from":"2026-04-10T10:20:06.178Z","to":"2026-04-10T10:20:06.178Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T10:30:02.599Z","to":"2026-04-10T10:40:05.489Z","count":2,"avg":2744,"min":1306,"max":4182,"p95":4182}
-{"type":"fail","from":"2026-04-10T10:50:06.170Z","to":"2026-04-10T10:50:06.170Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-10T11:00:06.211Z","to":"2026-04-10T11:10:04.640Z","count":2,"avg":4127,"min":3334,"max":4920,"p95":4920}
-{"type":"fail","from":"2026-04-10T11:20:06.216Z","to":"2026-04-10T11:30:06.207Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-10T11:40:05.498Z","to":"2026-04-10T12:00:04.221Z","count":3,"avg":4051,"min":2996,"max":4870,"p95":4870}
-{"type":"fail","from":"2026-04-10T12:10:06.384Z","to":"2026-04-10T12:20:06.234Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T12:30:06.264Z","to":"2026-04-10T12:50:05.564Z","count":3,"avg":4421,"min":4112,"max":4791,"p95":4791}
-{"type":"fail","from":"2026-04-10T13:00:06.370Z","to":"2026-04-10T13:10:06.555Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T13:20:05.350Z","to":"2026-04-10T14:50:06.143Z","count":10,"avg":3342,"min":1615,"max":4904,"p95":4904}
-{"type":"fail","from":"2026-04-10T15:00:06.577Z","to":"2026-04-10T15:00:06.577Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T15:10:05.895Z","to":"2026-04-10T15:40:05.797Z","count":4,"avg":3634,"min":2450,"max":4710,"p95":4710}
-{"type":"fail","from":"2026-04-10T15:50:06.179Z","to":"2026-04-10T17:00:06.221Z","count":8,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T17:10:05.154Z","to":"2026-04-10T17:30:05.130Z","count":3,"avg":3893,"min":3785,"max":3974,"p95":3974}
-{"type":"fail","from":"2026-04-10T17:40:06.174Z","to":"2026-04-10T17:50:06.189Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T18:00:05.590Z","to":"2026-04-10T18:30:04.638Z","count":4,"avg":3727,"min":2064,"max":4964,"p95":4964}
-{"type":"fail","from":"2026-04-10T18:40:06.319Z","to":"2026-04-10T18:40:06.319Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T18:50:04.858Z","to":"2026-04-10T19:10:03.427Z","count":3,"avg":3543,"min":2258,"max":4717,"p95":4717}
-{"type":"fail","from":"2026-04-10T19:20:06.329Z","to":"2026-04-10T19:30:06.215Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-10T19:40:05.043Z","to":"2026-04-10T20:00:02.917Z","count":3,"avg":2852,"min":1765,"max":3859,"p95":3859}
-{"type":"fail","from":"2026-04-10T20:10:06.221Z","to":"2026-04-10T20:20:06.195Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T20:30:04.491Z","to":"2026-04-10T20:30:04.491Z","count":1,"avg":3341,"min":3341,"max":3341,"p95":3341}
-{"type":"fail","from":"2026-04-10T20:40:06.232Z","to":"2026-04-10T20:50:06.229Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T21:00:05.856Z","to":"2026-04-10T21:10:06.098Z","count":2,"avg":4703,"min":4528,"max":4877,"p95":4877}
-{"type":"fail","from":"2026-04-10T21:20:06.227Z","to":"2026-04-10T21:20:06.227Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T21:30:03.874Z","to":"2026-04-10T22:00:05.432Z","count":4,"avg":3743,"min":2556,"max":4356,"p95":4356}
-{"type":"fail","from":"2026-04-10T22:10:06.316Z","to":"2026-04-10T22:30:06.179Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T22:40:06.101Z","to":"2026-04-10T22:50:05.794Z","count":2,"avg":4729,"min":4577,"max":4881,"p95":4881}
-{"type":"fail","from":"2026-04-10T23:00:06.213Z","to":"2026-04-10T23:00:06.213Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T23:10:06.110Z","to":"2026-04-10T23:50:06.116Z","count":5,"avg":4073,"min":2109,"max":4908,"p95":4908}
+{"type":"fail","from":"2026-04-01T00:00:53.312Z","to":"2026-04-01T00:00:53.312Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T00:10:52.183Z","to":"2026-04-01T00:20:52.165Z","count":2,"avg":3914,"min":3847,"max":3980,"p95":3980,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T00:30:53.175Z","to":"2026-04-01T00:30:53.175Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T00:40:52.473Z","to":"2026-04-01T01:40:51.874Z","count":7,"avg":3661,"min":2430,"max":4488,"p95":4488,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T01:50:53.242Z","to":"2026-04-01T01:50:53.242Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T02:00:50.874Z","to":"2026-04-01T03:00:53.313Z","count":7,"avg":2929,"min":478,"max":4995,"p95":4995,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T03:10:53.218Z","to":"2026-04-01T03:20:53.231Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T03:30:51.004Z","to":"2026-04-01T04:20:51.055Z","count":6,"avg":3001,"min":500,"max":4216,"p95":4216,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T04:30:53.255Z","to":"2026-04-01T04:30:53.255Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T04:40:50.506Z","to":"2026-04-01T05:30:52.299Z","count":6,"avg":4020,"min":2268,"max":4581,"p95":4581,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T05:40:53.198Z","to":"2026-04-01T05:40:53.198Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T05:50:50.182Z","to":"2026-04-01T05:50:50.182Z","count":1,"avg":1926,"min":1926,"max":1926,"p95":1926,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T06:00:53.219Z","to":"2026-04-01T06:00:53.219Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T06:10:51.210Z","to":"2026-04-01T07:30:50.429Z","count":9,"avg":3633,"min":1545,"max":4668,"p95":4668,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T07:40:53.312Z","to":"2026-04-01T07:40:53.312Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T07:50:52.567Z","to":"2026-04-01T07:50:52.567Z","count":1,"avg":4340,"min":4340,"max":4340,"p95":4340,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T08:00:53.220Z","to":"2026-04-01T08:00:53.220Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T08:10:52.912Z","to":"2026-04-01T08:10:52.912Z","count":1,"avg":4743,"min":4743,"max":4743,"p95":4743,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T08:20:53.190Z","to":"2026-04-01T08:20:53.190Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T08:30:52.734Z","to":"2026-04-01T08:30:52.734Z","count":1,"avg":4565,"min":4565,"max":4565,"p95":4565,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T08:40:53.220Z","to":"2026-04-01T08:50:53.187Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T09:00:52.346Z","to":"2026-04-01T09:10:50.243Z","count":2,"avg":3045,"min":2054,"max":4035,"p95":4035,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T09:20:53.172Z","to":"2026-04-01T09:20:53.172Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T09:30:52.234Z","to":"2026-04-01T10:30:52.304Z","count":7,"avg":3843,"min":2633,"max":4379,"p95":4379,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T10:40:53.319Z","to":"2026-04-01T10:40:53.319Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T10:50:52.704Z","to":"2026-04-01T11:00:50.079Z","count":2,"avg":3068,"min":1758,"max":4377,"p95":4377,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T11:10:53.285Z","to":"2026-04-01T11:50:53.327Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T12:00:52.728Z","to":"2026-04-01T12:10:50.364Z","count":2,"avg":3286,"min":2186,"max":4385,"p95":4385,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T12:20:53.215Z","to":"2026-04-01T12:30:53.215Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T12:40:52.638Z","to":"2026-04-01T13:00:50.131Z","count":3,"avg":3412,"min":1872,"max":4407,"p95":4407,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T13:10:53.340Z","to":"2026-04-01T13:20:53.344Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T13:30:53.002Z","to":"2026-04-01T13:40:52.019Z","count":2,"avg":4283,"min":3775,"max":4790,"p95":4790,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T13:50:53.300Z","to":"2026-04-01T13:50:53.300Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T14:00:52.406Z","to":"2026-04-01T14:30:49.937Z","count":4,"avg":3194,"min":1686,"max":4821,"p95":4821,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T14:40:53.443Z","to":"2026-04-01T14:40:53.443Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T14:50:50.699Z","to":"2026-04-01T16:20:53.258Z","count":10,"avg":3043,"min":455,"max":4637,"p95":4637,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T16:30:53.327Z","to":"2026-04-01T16:30:53.327Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T16:40:52.309Z","to":"2026-04-01T16:50:52.732Z","count":2,"avg":4331,"min":4105,"max":4557,"p95":4557,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T17:00:53.322Z","to":"2026-04-01T17:00:53.322Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T17:10:51.890Z","to":"2026-04-01T17:10:51.890Z","count":1,"avg":3685,"min":3685,"max":3685,"p95":3685,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T17:20:53.206Z","to":"2026-04-01T17:30:53.208Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T17:40:52.612Z","to":"2026-04-01T21:10:49.792Z","count":22,"avg":3416,"min":506,"max":4720,"p95":4614,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T21:20:53.200Z","to":"2026-04-01T21:20:53.200Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T21:30:53.196Z","to":"2026-04-01T23:00:50.284Z","count":10,"avg":3686,"min":1529,"max":4986,"p95":4986,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T23:10:53.207Z","to":"2026-04-01T23:10:53.207Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T23:20:52.024Z","to":"2026-04-01T23:30:50.405Z","count":2,"avg":2953,"min":2203,"max":3702,"p95":3702,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-01T23:40:53.318Z","to":"2026-04-01T23:40:53.318Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-01T23:50:50.033Z","to":"2026-04-01T23:50:50.033Z","count":1,"avg":1789,"min":1789,"max":1789,"p95":1789,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T00:00:53.197Z","to":"2026-04-02T00:10:51.709Z","count":2,"avg":4209,"min":3550,"max":4867,"p95":4867,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T00:20:53.212Z","to":"2026-04-02T00:20:53.212Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T00:30:49.936Z","to":"2026-04-02T01:20:52.998Z","count":6,"avg":2117,"min":690,"max":4851,"p95":4851,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T01:30:53.307Z","to":"2026-04-02T01:30:53.307Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T01:40:52.021Z","to":"2026-04-02T01:50:49.882Z","count":2,"avg":2738,"min":1615,"max":3860,"p95":3860,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T02:00:53.329Z","to":"2026-04-02T02:00:53.329Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T02:10:51.463Z","to":"2026-04-02T03:00:48.857Z","count":6,"avg":2436,"min":402,"max":4468,"p95":4468,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T03:10:53.316Z","to":"2026-04-02T03:10:53.316Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T03:20:51.697Z","to":"2026-04-02T03:50:48.772Z","count":4,"avg":1439,"min":562,"max":3392,"p95":3392,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T04:00:53.342Z","to":"2026-04-02T04:00:53.342Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T04:10:52.333Z","to":"2026-04-02T06:00:51.343Z","count":12,"avg":2830,"min":426,"max":4361,"p95":4361,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T06:10:53.188Z","to":"2026-04-02T06:10:53.188Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5004,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T06:20:52.733Z","to":"2026-04-02T06:40:50.199Z","count":3,"avg":3738,"min":1900,"max":4764,"p95":4764,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T06:50:53.176Z","to":"2026-04-02T06:50:53.176Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T07:00:49.049Z","to":"2026-04-02T07:00:49.049Z","count":1,"avg":707,"min":707,"max":707,"p95":707,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T07:10:53.313Z","to":"2026-04-02T07:20:53.213Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T07:30:53.050Z","to":"2026-04-02T08:10:48.962Z","count":5,"avg":3068,"min":542,"max":4878,"p95":4878,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T08:20:53.319Z","to":"2026-04-02T08:20:53.319Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T08:30:53.054Z","to":"2026-04-02T08:30:53.054Z","count":1,"avg":4709,"min":4709,"max":4709,"p95":4709,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T08:40:53.187Z","to":"2026-04-02T09:10:53.183Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T09:20:52.401Z","to":"2026-04-02T09:20:52.401Z","count":1,"avg":4030,"min":4030,"max":4030,"p95":4030,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T09:30:53.211Z","to":"2026-04-02T09:30:53.211Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T09:40:53.224Z","to":"2026-04-02T09:50:52.942Z","count":2,"avg":4751,"min":4598,"max":4903,"p95":4903,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T10:00:53.230Z","to":"2026-04-02T10:00:53.230Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T10:10:52.189Z","to":"2026-04-02T10:20:51.230Z","count":2,"avg":3502,"min":2996,"max":4008,"p95":4008,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T10:30:53.318Z","to":"2026-04-02T11:00:53.239Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T11:10:51.311Z","to":"2026-04-02T11:30:52.671Z","count":3,"avg":3930,"min":3062,"max":4463,"p95":4463,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T11:40:53.327Z","to":"2026-04-02T11:40:53.327Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T11:50:52.790Z","to":"2026-04-02T12:20:50.781Z","count":4,"avg":3390,"min":2577,"max":4481,"p95":4481,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T12:30:53.220Z","to":"2026-04-02T12:30:53.220Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T12:40:52.451Z","to":"2026-04-02T13:00:53.123Z","count":3,"avg":4505,"min":4234,"max":4911,"p95":4911,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T13:10:53.221Z","to":"2026-04-02T13:10:53.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T13:20:52.904Z","to":"2026-04-02T13:20:52.904Z","count":1,"avg":4661,"min":4661,"max":4661,"p95":4661,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T13:30:53.339Z","to":"2026-04-02T13:50:53.378Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T14:00:52.885Z","to":"2026-04-02T14:00:52.885Z","count":1,"avg":4667,"min":4667,"max":4667,"p95":4667,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T14:10:53.210Z","to":"2026-04-02T14:10:53.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T14:20:52.601Z","to":"2026-04-02T14:20:52.601Z","count":1,"avg":4308,"min":4308,"max":4308,"p95":4308,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T14:30:53.391Z","to":"2026-04-02T14:40:53.454Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T14:50:52.471Z","to":"2026-04-02T15:20:52.398Z","count":4,"avg":4277,"min":3924,"max":4793,"p95":4793,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T15:30:53.305Z","to":"2026-04-02T15:30:53.305Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T15:40:50.465Z","to":"2026-04-02T16:00:50.845Z","count":3,"avg":3112,"min":2088,"max":4584,"p95":4584,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T16:10:53.162Z","to":"2026-04-02T16:10:53.162Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T16:20:51.042Z","to":"2026-04-02T16:50:52.113Z","count":4,"avg":3822,"min":2622,"max":4458,"p95":4458,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T17:00:53.191Z","to":"2026-04-02T17:00:53.191Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T17:10:52.842Z","to":"2026-04-02T18:20:53.192Z","count":8,"avg":3848,"min":1838,"max":4994,"p95":4994,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T18:30:53.316Z","to":"2026-04-02T18:30:53.316Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T18:40:52.565Z","to":"2026-04-02T18:40:52.565Z","count":1,"avg":4261,"min":4261,"max":4261,"p95":4261,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T18:50:53.213Z","to":"2026-04-02T19:00:53.313Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T19:10:52.659Z","to":"2026-04-02T20:40:52.678Z","count":10,"avg":3434,"min":1526,"max":4899,"p95":4899,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T20:50:53.199Z","to":"2026-04-02T20:50:53.199Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T21:00:51.511Z","to":"2026-04-02T21:00:51.511Z","count":1,"avg":3315,"min":3315,"max":3315,"p95":3315,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T21:10:53.210Z","to":"2026-04-02T21:10:53.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T21:20:52.571Z","to":"2026-04-02T21:50:50.735Z","count":4,"avg":3760,"min":2417,"max":4473,"p95":4473,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T22:00:53.330Z","to":"2026-04-02T22:00:53.330Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T22:10:50.651Z","to":"2026-04-02T23:10:52.910Z","count":7,"avg":4180,"min":2480,"max":4885,"p95":4885,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T23:20:53.198Z","to":"2026-04-02T23:20:53.198Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T23:30:53.143Z","to":"2026-04-02T23:30:53.143Z","count":1,"avg":4829,"min":4829,"max":4829,"p95":4829,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-02T23:40:53.311Z","to":"2026-04-02T23:40:53.311Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-02T23:50:52.263Z","to":"2026-04-02T23:50:52.263Z","count":1,"avg":4061,"min":4061,"max":4061,"p95":4061,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T00:00:52.010Z","to":"2026-04-03T00:10:50.636Z","count":2,"avg":3152,"min":2473,"max":3830,"p95":3830,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T00:20:53.162Z","to":"2026-04-03T00:30:53.236Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T00:40:52.607Z","to":"2026-04-03T01:10:53.112Z","count":4,"avg":2837,"min":607,"max":4874,"p95":4874,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T01:20:53.338Z","to":"2026-04-03T01:20:53.338Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T01:30:51.137Z","to":"2026-04-03T03:10:49.929Z","count":11,"avg":3489,"min":1714,"max":4320,"p95":4320,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T03:20:53.214Z","to":"2026-04-03T03:20:53.214Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T03:30:53.014Z","to":"2026-04-03T03:40:52.498Z","count":2,"avg":4428,"min":4182,"max":4674,"p95":4674,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T03:50:53.374Z","to":"2026-04-03T03:50:53.374Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T04:00:52.515Z","to":"2026-04-03T04:40:52.170Z","count":5,"avg":3540,"min":1312,"max":4370,"p95":4370,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T04:50:53.212Z","to":"2026-04-03T04:50:53.212Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T05:00:52.956Z","to":"2026-04-03T05:00:52.956Z","count":1,"avg":4618,"min":4618,"max":4618,"p95":4618,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T05:10:53.256Z","to":"2026-04-03T05:10:53.256Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T05:20:52.490Z","to":"2026-04-03T06:50:52.596Z","count":10,"avg":3977,"min":2014,"max":4896,"p95":4896,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T07:00:53.211Z","to":"2026-04-03T07:10:53.336Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T07:20:53.025Z","to":"2026-04-03T08:20:52.274Z","count":7,"avg":4074,"min":2436,"max":4769,"p95":4769,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T08:30:53.325Z","to":"2026-04-03T08:30:53.325Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T08:40:52.586Z","to":"2026-04-03T08:40:52.586Z","count":1,"avg":4360,"min":4360,"max":4360,"p95":4360,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T08:50:53.318Z","to":"2026-04-03T08:50:53.318Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T09:00:52.204Z","to":"2026-04-03T09:10:52.593Z","count":2,"avg":4072,"min":3876,"max":4268,"p95":4268,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T09:20:53.201Z","to":"2026-04-03T09:31:11.371Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T09:40:52.648Z","to":"2026-04-03T09:40:52.648Z","count":1,"avg":4434,"min":4434,"max":4434,"p95":4434,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T09:50:53.325Z","to":"2026-04-03T09:50:53.325Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T10:00:52.777Z","to":"2026-04-03T10:00:52.777Z","count":1,"avg":4552,"min":4552,"max":4552,"p95":4552,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T10:10:53.178Z","to":"2026-04-03T10:10:53.178Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T10:20:52.718Z","to":"2026-04-03T10:20:52.718Z","count":1,"avg":4514,"min":4514,"max":4514,"p95":4514,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T10:30:53.315Z","to":"2026-04-03T10:30:53.315Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T10:40:51.621Z","to":"2026-04-03T10:40:51.621Z","count":1,"avg":3381,"min":3381,"max":3381,"p95":3381,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T10:50:53.316Z","to":"2026-04-03T11:00:53.349Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T11:10:52.350Z","to":"2026-04-03T11:10:52.350Z","count":1,"avg":4071,"min":4071,"max":4071,"p95":4071,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T11:20:53.231Z","to":"2026-04-03T11:30:53.268Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T11:40:50.738Z","to":"2026-04-03T11:40:50.738Z","count":1,"avg":2380,"min":2380,"max":2380,"p95":2380,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T11:50:53.310Z","to":"2026-04-03T11:50:53.310Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T12:00:52.501Z","to":"2026-04-03T12:00:52.501Z","count":1,"avg":4250,"min":4250,"max":4250,"p95":4250,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T12:10:53.156Z","to":"2026-04-03T12:30:53.253Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T12:40:52.202Z","to":"2026-04-03T12:40:52.202Z","count":1,"avg":3952,"min":3952,"max":3952,"p95":3952,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T12:50:53.323Z","to":"2026-04-03T13:10:53.177Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T13:20:53.048Z","to":"2026-04-03T13:20:53.048Z","count":1,"avg":4708,"min":4708,"max":4708,"p95":4708,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T13:30:53.230Z","to":"2026-04-03T13:30:53.230Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T13:40:52.467Z","to":"2026-04-03T13:40:52.467Z","count":1,"avg":4240,"min":4240,"max":4240,"p95":4240,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T13:50:53.383Z","to":"2026-04-03T13:50:53.383Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T14:00:51.490Z","to":"2026-04-03T15:00:51.001Z","count":7,"avg":3693,"min":2555,"max":4779,"p95":4779,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T15:10:53.322Z","to":"2026-04-03T15:10:53.322Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T15:20:52.722Z","to":"2026-04-03T16:22:05.313Z","count":7,"avg":4223,"min":2472,"max":4695,"p95":4695,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T16:31:46.766Z","to":"2026-04-03T16:31:46.766Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T16:40:52.043Z","to":"2026-04-03T16:50:50.965Z","count":2,"avg":3296,"min":2720,"max":3871,"p95":3871,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T17:00:53.204Z","to":"2026-04-03T17:00:53.204Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T17:10:53.154Z","to":"2026-04-03T17:40:53.090Z","count":4,"avg":4609,"min":4230,"max":4776,"p95":4776,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T17:50:53.347Z","to":"2026-04-03T17:50:53.347Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T18:00:52.716Z","to":"2026-04-03T18:40:52.579Z","count":5,"avg":3990,"min":2975,"max":4771,"p95":4771,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T18:50:53.226Z","to":"2026-04-03T18:50:53.226Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T19:00:52.123Z","to":"2026-04-03T19:10:50.818Z","count":2,"avg":3245,"min":2601,"max":3889,"p95":3889,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T19:20:53.233Z","to":"2026-04-03T19:20:53.233Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T19:30:50.740Z","to":"2026-04-03T19:30:50.740Z","count":1,"avg":2396,"min":2396,"max":2396,"p95":2396,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T19:40:53.236Z","to":"2026-04-03T19:40:53.236Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T19:50:52.002Z","to":"2026-04-03T20:20:50.340Z","count":4,"avg":3295,"min":2182,"max":4989,"p95":4989,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T20:30:53.322Z","to":"2026-04-03T20:30:53.322Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T20:40:53.032Z","to":"2026-04-03T21:00:53.084Z","count":3,"avg":4007,"min":2631,"max":4804,"p95":4804,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T21:10:53.337Z","to":"2026-04-03T21:10:53.337Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T21:20:52.692Z","to":"2026-04-03T21:20:52.692Z","count":1,"avg":4488,"min":4488,"max":4488,"p95":4488,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T21:30:53.336Z","to":"2026-04-03T21:30:53.336Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T21:40:52.102Z","to":"2026-04-03T21:40:52.102Z","count":1,"avg":3884,"min":3884,"max":3884,"p95":3884,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T21:50:53.344Z","to":"2026-04-03T21:50:53.344Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T22:00:51.169Z","to":"2026-04-03T22:20:52.929Z","count":3,"avg":3398,"min":2630,"max":4599,"p95":4599,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T22:30:53.211Z","to":"2026-04-03T22:30:53.211Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T22:40:51.686Z","to":"2026-04-03T23:20:52.058Z","count":5,"avg":3299,"min":2001,"max":4934,"p95":4934,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-03T23:30:53.191Z","to":"2026-04-03T23:30:53.191Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-03T23:40:51.302Z","to":"2026-04-03T23:50:50.928Z","count":2,"avg":2842,"min":2697,"max":2987,"p95":2987,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T00:00:53.334Z","to":"2026-04-04T00:00:53.334Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T00:10:51.712Z","to":"2026-04-04T01:00:51.560Z","count":6,"avg":4032,"min":3334,"max":4865,"p95":4865,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T01:10:53.196Z","to":"2026-04-04T01:10:53.196Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T01:20:49.941Z","to":"2026-04-04T03:50:05.459Z","count":10,"avg":3862,"min":1709,"max":4920,"p95":4920,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T04:00:06.708Z","to":"2026-04-04T04:00:06.708Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T04:10:06.091Z","to":"2026-04-04T04:20:06.132Z","count":2,"avg":4783,"min":4746,"max":4820,"p95":4820,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T04:30:06.256Z","to":"2026-04-04T04:30:06.256Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T04:40:03.564Z","to":"2026-04-04T04:50:05.998Z","count":2,"avg":3487,"min":2294,"max":4680,"p95":4680,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T05:00:06.353Z","to":"2026-04-04T05:00:06.353Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T05:10:04.830Z","to":"2026-04-04T05:40:05.851Z","count":4,"avg":4035,"min":3121,"max":4799,"p95":4799,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T05:50:06.343Z","to":"2026-04-04T06:00:06.324Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T06:10:05.530Z","to":"2026-04-04T06:10:05.530Z","count":1,"avg":4185,"min":4185,"max":4185,"p95":4185,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T06:20:06.332Z","to":"2026-04-04T06:20:06.332Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T06:30:06.033Z","to":"2026-04-04T06:40:04.959Z","count":2,"avg":4227,"min":3592,"max":4862,"p95":4862,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T06:50:06.191Z","to":"2026-04-04T06:50:06.191Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T07:00:04.237Z","to":"2026-04-04T07:10:03.550Z","count":2,"avg":2607,"min":2211,"max":3003,"p95":3003,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T07:20:06.340Z","to":"2026-04-04T07:20:06.340Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T07:30:04.875Z","to":"2026-04-04T08:10:05.636Z","count":5,"avg":3789,"min":1903,"max":4611,"p95":4611,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T08:20:06.341Z","to":"2026-04-04T08:20:06.341Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T08:30:06.107Z","to":"2026-04-04T08:30:06.107Z","count":1,"avg":4937,"min":4937,"max":4937,"p95":4937,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T08:40:06.241Z","to":"2026-04-04T08:50:06.238Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T09:00:06.154Z","to":"2026-04-04T09:00:06.154Z","count":1,"avg":4943,"min":4943,"max":4943,"p95":4943,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T09:10:06.197Z","to":"2026-04-04T09:10:06.197Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T09:20:04.636Z","to":"2026-04-04T09:30:05.556Z","count":2,"avg":3755,"min":3343,"max":4167,"p95":4167,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T09:40:06.221Z","to":"2026-04-04T09:40:06.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T09:50:05.377Z","to":"2026-04-04T10:00:05.837Z","count":2,"avg":4390,"min":4167,"max":4613,"p95":4613,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T10:10:06.175Z","to":"2026-04-04T10:10:06.175Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T10:20:06.049Z","to":"2026-04-04T10:50:03.941Z","count":4,"avg":3987,"min":2619,"max":4715,"p95":4715,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T11:00:35.105Z","to":"2026-04-04T11:20:06.265Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T11:30:04.039Z","to":"2026-04-04T11:30:04.039Z","count":1,"avg":2810,"min":2810,"max":2810,"p95":2810,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T11:40:06.334Z","to":"2026-04-04T11:40:06.334Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T11:50:05.821Z","to":"2026-04-04T14:10:06.023Z","count":15,"avg":3446,"min":559,"max":4774,"p95":4774,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T14:20:06.286Z","to":"2026-04-04T14:20:06.286Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T14:30:03.685Z","to":"2026-04-04T15:20:03.557Z","count":6,"avg":1880,"min":613,"max":2510,"p95":2510,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T15:30:06.220Z","to":"2026-04-04T15:30:06.220Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T15:40:02.941Z","to":"2026-04-04T16:20:01.969Z","count":5,"avg":2399,"min":662,"max":4675,"p95":4675,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T16:30:06.310Z","to":"2026-04-04T16:30:06.310Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T16:40:01.896Z","to":"2026-04-04T19:00:01.836Z","count":15,"avg":1030,"min":437,"max":2224,"p95":2224,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T19:10:06.233Z","to":"2026-04-04T19:10:06.233Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T19:20:01.857Z","to":"2026-04-04T20:30:01.767Z","count":8,"avg":1790,"min":484,"max":4587,"p95":4587,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T20:40:06.213Z","to":"2026-04-04T20:40:06.213Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T20:50:03.558Z","to":"2026-04-04T21:50:02.020Z","count":7,"avg":1101,"min":568,"max":2316,"p95":2316,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-04T22:00:06.231Z","to":"2026-04-04T22:00:06.231Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-04T22:10:03.291Z","to":"2026-04-04T23:50:01.869Z","count":11,"avg":964,"min":502,"max":2049,"p95":2049,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T00:00:01.804Z","to":"2026-04-05T01:20:01.740Z","count":9,"avg":953,"min":478,"max":2008,"p95":2008,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T01:30:06.255Z","to":"2026-04-05T01:30:06.255Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T01:40:01.674Z","to":"2026-04-05T01:50:01.957Z","count":2,"avg":620,"min":500,"max":739,"p95":739,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T02:00:06.224Z","to":"2026-04-05T02:00:06.224Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T02:10:03.822Z","to":"2026-04-05T04:00:01.893Z","count":12,"avg":1486,"min":534,"max":4220,"p95":4220,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T04:10:06.248Z","to":"2026-04-05T04:10:06.248Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T04:20:03.276Z","to":"2026-04-05T07:30:01.726Z","count":20,"avg":1058,"min":500,"max":2413,"p95":2413,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T07:40:06.247Z","to":"2026-04-05T07:40:06.247Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T07:50:03.653Z","to":"2026-04-05T11:40:05.533Z","count":24,"avg":1434,"min":460,"max":4943,"p95":4333,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T11:50:06.618Z","to":"2026-04-05T11:50:06.618Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T12:00:01.784Z","to":"2026-04-05T12:50:05.463Z","count":6,"avg":2027,"min":483,"max":4157,"p95":4157,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T13:00:10.837Z","to":"2026-04-05T13:00:10.837Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T13:10:04.101Z","to":"2026-04-05T14:50:03.302Z","count":11,"avg":2482,"min":576,"max":4703,"p95":4703,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T15:00:06.301Z","to":"2026-04-05T15:00:06.301Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T15:10:05.883Z","to":"2026-04-05T15:10:05.883Z","count":1,"avg":4516,"min":4516,"max":4516,"p95":4516,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T15:20:06.363Z","to":"2026-04-05T15:20:06.363Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T15:30:06.186Z","to":"2026-04-05T16:30:01.691Z","count":7,"avg":1945,"min":504,"max":4842,"p95":4842,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T16:40:06.332Z","to":"2026-04-05T16:40:06.332Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T16:50:01.749Z","to":"2026-04-05T18:30:01.741Z","count":11,"avg":1290,"min":492,"max":3698,"p95":3698,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-05T18:40:06.228Z","to":"2026-04-05T18:40:06.228Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-05T18:50:03.201Z","to":"2026-04-05T23:50:02.959Z","count":31,"avg":1297,"min":470,"max":3634,"p95":3208,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T00:00:01.816Z","to":"2026-04-06T00:30:04.976Z","count":4,"avg":3334,"min":637,"max":4694,"p95":4694,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T00:40:06.240Z","to":"2026-04-06T00:40:06.240Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T00:50:05.866Z","to":"2026-04-06T01:00:06.186Z","count":2,"avg":4805,"min":4621,"max":4988,"p95":4988,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T01:10:06.321Z","to":"2026-04-06T01:20:06.231Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T01:30:04.955Z","to":"2026-04-06T01:40:03.340Z","count":2,"avg":2971,"min":2164,"max":3778,"p95":3778,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T01:50:06.325Z","to":"2026-04-06T02:00:06.306Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T02:10:03.562Z","to":"2026-04-06T02:40:05.377Z","count":4,"avg":3177,"min":2332,"max":4065,"p95":4065,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T02:50:06.219Z","to":"2026-04-06T02:50:06.219Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T03:00:05.164Z","to":"2026-04-06T03:40:01.816Z","count":5,"avg":1897,"min":565,"max":3911,"p95":3911,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T03:50:06.394Z","to":"2026-04-06T03:50:06.394Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T04:00:05.631Z","to":"2026-04-06T04:30:03.338Z","count":4,"avg":2934,"min":1744,"max":4259,"p95":4259,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T04:40:06.206Z","to":"2026-04-06T04:50:06.315Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T05:00:05.439Z","to":"2026-04-06T06:10:03.273Z","count":8,"avg":2611,"min":471,"max":4428,"p95":4428,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T06:20:06.243Z","to":"2026-04-06T06:20:06.243Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T06:30:01.791Z","to":"2026-04-06T07:10:01.923Z","count":5,"avg":2441,"min":543,"max":4631,"p95":4631,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T07:20:06.212Z","to":"2026-04-06T07:20:06.212Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T07:30:03.649Z","to":"2026-04-06T11:10:03.400Z","count":23,"avg":2121,"min":557,"max":4595,"p95":4564,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T11:20:06.215Z","to":"2026-04-06T11:20:06.215Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T11:30:01.794Z","to":"2026-04-06T11:30:01.794Z","count":1,"avg":512,"min":512,"max":512,"p95":512,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T11:40:06.313Z","to":"2026-04-06T11:40:06.313Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T11:50:04.615Z","to":"2026-04-06T11:50:04.615Z","count":1,"avg":3319,"min":3319,"max":3319,"p95":3319,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T12:00:06.707Z","to":"2026-04-06T12:10:06.260Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T12:20:02.886Z","to":"2026-04-06T13:40:05.894Z","count":9,"avg":3679,"min":1547,"max":4938,"p95":4938,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T13:50:06.272Z","to":"2026-04-06T13:50:06.272Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T14:00:05.540Z","to":"2026-04-06T14:20:04.864Z","count":3,"avg":3984,"min":3257,"max":4972,"p95":4972,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T14:30:06.680Z","to":"2026-04-06T14:30:06.680Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T14:40:06.206Z","to":"2026-04-06T15:10:06.217Z","count":4,"avg":4268,"min":3130,"max":4686,"p95":4686,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T15:20:06.237Z","to":"2026-04-06T15:50:06.181Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T16:00:06.177Z","to":"2026-04-06T16:00:06.177Z","count":1,"avg":4720,"min":4720,"max":4720,"p95":4720,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T16:10:06.333Z","to":"2026-04-06T16:20:06.317Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T16:30:05.639Z","to":"2026-04-06T16:40:05.859Z","count":2,"avg":4467,"min":4408,"max":4526,"p95":4526,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T16:50:06.219Z","to":"2026-04-06T16:50:06.219Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T17:00:05.809Z","to":"2026-04-06T17:10:03.622Z","count":2,"avg":3441,"min":2406,"max":4475,"p95":4475,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T17:20:06.249Z","to":"2026-04-06T17:20:06.249Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T17:30:05.556Z","to":"2026-04-06T18:10:03.599Z","count":5,"avg":3561,"min":2406,"max":4332,"p95":4332,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T18:20:06.311Z","to":"2026-04-06T18:30:06.180Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T18:40:06.069Z","to":"2026-04-06T18:40:06.069Z","count":1,"avg":4754,"min":4754,"max":4754,"p95":4754,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T18:50:06.348Z","to":"2026-04-06T18:50:06.348Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T19:00:05.474Z","to":"2026-04-06T19:00:05.474Z","count":1,"avg":4235,"min":4235,"max":4235,"p95":4235,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T19:10:06.224Z","to":"2026-04-06T19:10:06.224Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T19:20:05.496Z","to":"2026-04-06T19:20:05.496Z","count":1,"avg":4295,"min":4295,"max":4295,"p95":4295,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T19:30:06.310Z","to":"2026-04-06T19:30:06.310Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T19:40:05.693Z","to":"2026-04-06T21:40:05.439Z","count":13,"avg":3668,"min":1794,"max":4488,"p95":4488,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-06T21:50:06.223Z","to":"2026-04-06T21:50:06.223Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-06T22:00:05.642Z","to":"2026-04-06T23:50:05.342Z","count":12,"avg":4199,"min":2349,"max":4691,"p95":4691,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T00:00:05.748Z","to":"2026-04-07T01:20:03.239Z","count":9,"avg":3951,"min":2017,"max":4788,"p95":4788,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T01:30:06.312Z","to":"2026-04-07T01:40:06.375Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T01:50:05.400Z","to":"2026-04-07T02:30:05.511Z","count":5,"avg":3996,"min":2665,"max":4699,"p95":4699,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T02:40:06.210Z","to":"2026-04-07T02:40:06.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T02:50:04.683Z","to":"2026-04-07T03:00:03.951Z","count":2,"avg":3036,"min":2605,"max":3467,"p95":3467,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T03:10:06.221Z","to":"2026-04-07T03:10:06.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T03:20:05.147Z","to":"2026-04-07T03:30:02.949Z","count":2,"avg":2786,"min":1658,"max":3914,"p95":3914,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T03:40:06.209Z","to":"2026-04-07T03:40:06.209Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T03:50:01.947Z","to":"2026-04-07T03:50:01.947Z","count":1,"avg":663,"min":663,"max":663,"p95":663,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T04:00:06.224Z","to":"2026-04-07T04:00:06.224Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T04:10:05.693Z","to":"2026-04-07T04:40:05.606Z","count":4,"avg":3721,"min":2136,"max":4312,"p95":4312,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T04:50:06.249Z","to":"2026-04-07T05:00:06.254Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T05:10:04.929Z","to":"2026-04-07T05:40:03.431Z","count":4,"avg":3448,"min":2109,"max":4351,"p95":4351,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T05:50:06.242Z","to":"2026-04-07T05:50:06.242Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T06:00:05.779Z","to":"2026-04-07T06:00:05.779Z","count":1,"avg":4414,"min":4414,"max":4414,"p95":4414,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T06:10:06.221Z","to":"2026-04-07T06:10:06.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T06:20:05.732Z","to":"2026-04-07T06:40:05.834Z","count":3,"avg":4280,"min":3685,"max":4635,"p95":4635,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T06:50:06.240Z","to":"2026-04-07T07:00:06.560Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T07:10:06.087Z","to":"2026-04-07T07:40:05.528Z","count":4,"avg":4146,"min":3227,"max":4910,"p95":4910,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T07:50:06.210Z","to":"2026-04-07T07:50:06.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T08:00:05.476Z","to":"2026-04-07T08:10:05.975Z","count":2,"avg":4443,"min":4117,"max":4768,"p95":4768,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T08:20:06.331Z","to":"2026-04-07T08:30:06.266Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T08:40:05.892Z","to":"2026-04-07T10:10:03.135Z","count":10,"avg":3527,"min":1898,"max":4705,"p95":4705,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T10:20:06.263Z","to":"2026-04-07T10:30:06.168Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T10:40:05.628Z","to":"2026-04-07T10:50:06.049Z","count":2,"avg":4629,"min":4444,"max":4813,"p95":4813,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T11:00:06.513Z","to":"2026-04-07T11:00:06.513Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T11:10:06.123Z","to":"2026-04-07T11:50:05.625Z","count":5,"avg":4195,"min":3339,"max":4896,"p95":4896,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T12:00:06.496Z","to":"2026-04-07T12:10:06.240Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T12:20:06.084Z","to":"2026-04-07T12:20:06.084Z","count":1,"avg":4917,"min":4917,"max":4917,"p95":4917,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T12:30:06.288Z","to":"2026-04-07T12:40:06.203Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T12:50:05.903Z","to":"2026-04-07T13:00:06.099Z","count":2,"avg":4578,"min":4480,"max":4675,"p95":4675,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T13:10:06.268Z","to":"2026-04-07T13:30:06.617Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T13:40:05.898Z","to":"2026-04-07T14:00:06.388Z","count":3,"avg":4443,"min":4225,"max":4559,"p95":4559,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T14:10:06.565Z","to":"2026-04-07T14:10:06.565Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T14:20:03.107Z","to":"2026-04-07T14:30:06.400Z","count":2,"avg":3281,"min":1751,"max":4810,"p95":4810,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T14:40:06.237Z","to":"2026-04-07T14:40:06.237Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T14:50:05.685Z","to":"2026-04-07T17:10:05.598Z","count":15,"avg":3930,"min":2273,"max":4945,"p95":4945,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T17:20:06.206Z","to":"2026-04-07T17:30:06.362Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T17:40:05.655Z","to":"2026-04-07T17:40:05.655Z","count":1,"avg":4353,"min":4353,"max":4353,"p95":4353,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T17:50:06.225Z","to":"2026-04-07T17:50:06.225Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T18:00:05.788Z","to":"2026-04-07T18:10:05.362Z","count":2,"avg":4365,"min":4152,"max":4578,"p95":4578,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T18:20:06.347Z","to":"2026-04-07T18:20:06.347Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T18:30:05.553Z","to":"2026-04-07T19:30:03.962Z","count":7,"avg":2965,"min":1738,"max":4420,"p95":4420,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T19:40:06.327Z","to":"2026-04-07T19:40:06.327Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T19:50:05.354Z","to":"2026-04-07T20:40:03.833Z","count":6,"avg":3565,"min":2198,"max":4959,"p95":4959,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T20:50:06.170Z","to":"2026-04-07T21:00:06.300Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T21:10:05.095Z","to":"2026-04-07T22:00:04.999Z","count":6,"avg":3475,"min":2180,"max":4910,"p95":4910,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T22:10:06.295Z","to":"2026-04-07T22:10:06.295Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T22:20:02.924Z","to":"2026-04-07T22:50:05.960Z","count":4,"avg":3534,"min":1723,"max":4627,"p95":4627,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-07T23:00:06.314Z","to":"2026-04-07T23:00:06.314Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-07T23:10:05.065Z","to":"2026-04-07T23:50:05.421Z","count":5,"avg":3753,"min":2251,"max":4759,"p95":4759,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T00:00:05.264Z","to":"2026-04-08T00:50:05.652Z","count":6,"avg":4289,"min":3564,"max":4874,"p95":4874,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T01:00:06.330Z","to":"2026-04-08T01:00:06.330Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T01:10:05.767Z","to":"2026-04-08T01:50:06.229Z","count":5,"avg":4029,"min":2518,"max":4899,"p95":4899,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T02:00:06.344Z","to":"2026-04-08T02:10:06.191Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T02:20:05.833Z","to":"2026-04-08T02:30:05.835Z","count":2,"avg":4568,"min":4479,"max":4656,"p95":4656,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T02:40:06.236Z","to":"2026-04-08T02:40:06.236Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T02:50:04.121Z","to":"2026-04-08T02:50:04.121Z","count":1,"avg":2323,"min":2323,"max":2323,"p95":2323,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T03:00:06.355Z","to":"2026-04-08T03:10:06.250Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T03:20:05.511Z","to":"2026-04-08T03:50:05.344Z","count":4,"avg":3820,"min":2543,"max":4333,"p95":4333,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T04:00:06.317Z","to":"2026-04-08T04:00:06.317Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T04:10:03.701Z","to":"2026-04-08T05:50:05.409Z","count":11,"avg":2090,"min":495,"max":4675,"p95":4675,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T06:00:06.373Z","to":"2026-04-08T06:00:06.373Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T06:10:04.714Z","to":"2026-04-08T08:00:03.372Z","count":12,"avg":3890,"min":1909,"max":4907,"p95":4907,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T08:10:06.321Z","to":"2026-04-08T08:10:06.321Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T08:20:05.856Z","to":"2026-04-08T08:30:06.169Z","count":2,"avg":4768,"min":4557,"max":4978,"p95":4978,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T08:40:06.253Z","to":"2026-04-08T08:40:06.253Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T08:50:03.537Z","to":"2026-04-08T09:10:03.198Z","count":3,"avg":2408,"min":1942,"max":3001,"p95":3001,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T09:20:06.167Z","to":"2026-04-08T09:30:06.240Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T09:40:03.698Z","to":"2026-04-08T09:50:01.727Z","count":2,"avg":1465,"min":503,"max":2427,"p95":2427,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T10:00:06.346Z","to":"2026-04-08T10:00:06.346Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T10:10:01.792Z","to":"2026-04-08T10:10:01.792Z","count":1,"avg":579,"min":579,"max":579,"p95":579,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T10:20:06.271Z","to":"2026-04-08T10:20:06.271Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T10:30:03.422Z","to":"2026-04-08T10:30:03.422Z","count":1,"avg":2234,"min":2234,"max":2234,"p95":2234,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T10:40:06.246Z","to":"2026-04-08T10:40:06.246Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T10:50:01.802Z","to":"2026-04-08T11:30:01.837Z","count":5,"avg":946,"min":566,"max":2364,"p95":2364,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T11:40:06.239Z","to":"2026-04-08T11:40:06.239Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T11:50:03.328Z","to":"2026-04-08T13:20:01.941Z","count":10,"avg":1483,"min":632,"max":3706,"p95":3706,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T13:30:06.703Z","to":"2026-04-08T13:30:06.703Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T13:40:01.877Z","to":"2026-04-08T19:50:03.304Z","count":38,"avg":1826,"min":441,"max":4932,"p95":4829,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T20:00:06.326Z","to":"2026-04-08T20:00:06.326Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T20:10:02.918Z","to":"2026-04-08T20:10:02.918Z","count":1,"avg":1649,"min":1649,"max":1649,"p95":1649,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T20:20:06.223Z","to":"2026-04-08T20:20:06.223Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T20:30:03.286Z","to":"2026-04-08T21:30:03.786Z","count":7,"avg":2516,"min":477,"max":4739,"p95":4739,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T21:40:06.210Z","to":"2026-04-08T21:40:06.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T21:50:04.468Z","to":"2026-04-08T23:30:06.143Z","count":11,"avg":3292,"min":708,"max":4936,"p95":4936,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-08T23:40:06.215Z","to":"2026-04-08T23:40:06.215Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-08T23:50:03.847Z","to":"2026-04-08T23:50:03.847Z","count":1,"avg":2635,"min":2635,"max":2635,"p95":2635,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T00:00:04.149Z","to":"2026-04-09T00:10:01.866Z","count":2,"avg":1780,"min":627,"max":2933,"p95":2933,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T00:20:06.226Z","to":"2026-04-09T00:20:06.226Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T00:30:03.138Z","to":"2026-04-09T00:30:03.138Z","count":1,"avg":1862,"min":1862,"max":1862,"p95":1862,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T00:40:06.230Z","to":"2026-04-09T00:40:06.230Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T00:50:04.039Z","to":"2026-04-09T01:00:01.791Z","count":2,"avg":1666,"min":526,"max":2805,"p95":2805,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T01:10:06.331Z","to":"2026-04-09T01:10:06.331Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T01:20:06.242Z","to":"2026-04-09T02:00:03.812Z","count":5,"avg":4106,"min":2560,"max":4913,"p95":4913,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T02:10:06.246Z","to":"2026-04-09T02:10:06.246Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T02:20:05.456Z","to":"2026-04-09T04:10:05.894Z","count":12,"avg":2584,"min":592,"max":4549,"p95":4549,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T04:20:06.247Z","to":"2026-04-09T04:20:06.247Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T04:30:03.225Z","to":"2026-04-09T05:00:01.899Z","count":4,"avg":1227,"min":605,"max":1996,"p95":1996,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T05:10:06.319Z","to":"2026-04-09T05:10:06.319Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T05:20:05.675Z","to":"2026-04-09T06:20:01.886Z","count":7,"avg":3037,"min":628,"max":4683,"p95":4683,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T06:30:06.171Z","to":"2026-04-09T06:30:06.171Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T06:40:05.664Z","to":"2026-04-09T07:00:03.719Z","count":3,"avg":3641,"min":2313,"max":4320,"p95":4320,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T07:10:06.211Z","to":"2026-04-09T07:10:06.211Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T07:20:05.553Z","to":"2026-04-09T07:20:05.553Z","count":1,"avg":4358,"min":4358,"max":4358,"p95":4358,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T07:30:06.278Z","to":"2026-04-09T07:40:06.319Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T07:50:05.956Z","to":"2026-04-09T07:50:05.956Z","count":1,"avg":4598,"min":4598,"max":4598,"p95":4598,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T08:00:06.395Z","to":"2026-04-09T08:10:06.244Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T08:20:05.922Z","to":"2026-04-09T08:50:03.739Z","count":4,"avg":3061,"min":2262,"max":4713,"p95":4713,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T09:00:06.291Z","to":"2026-04-09T09:00:06.291Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T09:10:03.489Z","to":"2026-04-09T09:30:05.146Z","count":3,"avg":2949,"min":2211,"max":3792,"p95":3792,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T09:40:06.208Z","to":"2026-04-09T10:00:06.200Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T10:10:04.985Z","to":"2026-04-09T10:20:06.086Z","count":2,"avg":4261,"min":3621,"max":4900,"p95":4900,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T10:30:06.174Z","to":"2026-04-09T10:30:06.174Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T10:40:05.691Z","to":"2026-04-09T10:40:05.691Z","count":1,"avg":4507,"min":4507,"max":4507,"p95":4507,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T10:50:06.311Z","to":"2026-04-09T10:50:06.311Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T11:00:05.684Z","to":"2026-04-09T11:30:05.508Z","count":4,"avg":3939,"min":3505,"max":4314,"p95":4314,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T11:40:06.302Z","to":"2026-04-09T11:40:06.302Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T11:50:04.970Z","to":"2026-04-09T13:10:05.939Z","count":9,"avg":4359,"min":3737,"max":4724,"p95":4724,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T13:20:06.266Z","to":"2026-04-09T14:00:06.615Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T14:10:04.988Z","to":"2026-04-09T14:30:04.129Z","count":3,"avg":2889,"min":2494,"max":3583,"p95":3583,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T14:40:06.494Z","to":"2026-04-09T14:40:06.494Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T14:50:05.773Z","to":"2026-04-09T15:10:05.429Z","count":3,"avg":4406,"min":4163,"max":4652,"p95":4652,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T15:20:06.314Z","to":"2026-04-09T15:20:06.314Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T15:30:03.049Z","to":"2026-04-09T15:50:05.794Z","count":3,"avg":3463,"min":1532,"max":4564,"p95":4564,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T16:00:06.583Z","to":"2026-04-09T16:00:06.583Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T16:10:05.762Z","to":"2026-04-09T16:10:05.762Z","count":1,"avg":4424,"min":4424,"max":4424,"p95":4424,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T16:20:06.168Z","to":"2026-04-09T16:20:06.168Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T16:30:05.972Z","to":"2026-04-09T17:50:05.841Z","count":9,"avg":4198,"min":2891,"max":4746,"p95":4746,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T18:00:06.218Z","to":"2026-04-09T18:00:06.218Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T18:10:05.971Z","to":"2026-04-09T19:10:04.104Z","count":7,"avg":4409,"min":2930,"max":4931,"p95":4931,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T19:20:06.217Z","to":"2026-04-09T19:40:06.223Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T19:50:05.638Z","to":"2026-04-09T20:10:03.760Z","count":3,"avg":3570,"min":2525,"max":4419,"p95":4419,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T20:20:06.166Z","to":"2026-04-09T20:20:06.166Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T20:30:01.861Z","to":"2026-04-09T21:00:05.570Z","count":4,"avg":2847,"min":583,"max":4251,"p95":4251,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T21:10:06.196Z","to":"2026-04-09T21:10:06.196Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T21:20:05.481Z","to":"2026-04-09T22:00:04.239Z","count":5,"avg":3647,"min":2444,"max":4683,"p95":4683,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-09T22:10:06.301Z","to":"2026-04-09T22:10:06.301Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-09T22:20:05.883Z","to":"2026-04-09T23:50:05.370Z","count":10,"avg":4285,"min":2312,"max":4752,"p95":4752,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T00:00:05.936Z","to":"2026-04-10T00:30:05.505Z","count":4,"avg":4284,"min":3794,"max":4614,"p95":4614,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T00:40:06.238Z","to":"2026-04-10T00:40:06.238Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T00:50:05.232Z","to":"2026-04-10T01:00:05.654Z","count":2,"avg":4213,"min":4009,"max":4417,"p95":4417,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T01:10:06.220Z","to":"2026-04-10T01:20:06.383Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T01:30:03.559Z","to":"2026-04-10T01:50:01.887Z","count":3,"avg":1109,"min":489,"max":2257,"p95":2257,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T02:00:06.220Z","to":"2026-04-10T02:00:06.220Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T02:10:05.518Z","to":"2026-04-10T02:20:01.819Z","count":2,"avg":2451,"min":564,"max":4337,"p95":4337,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T02:30:06.175Z","to":"2026-04-10T02:30:06.175Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T02:40:01.797Z","to":"2026-04-10T02:40:01.797Z","count":1,"avg":555,"min":555,"max":555,"p95":555,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T02:50:06.362Z","to":"2026-04-10T02:50:06.362Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T02:55:53.374Z","to":"2026-04-10T03:50:01.893Z","count":6,"avg":1829,"min":448,"max":4819,"p95":4819,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T04:00:06.337Z","to":"2026-04-10T04:00:06.337Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T04:10:05.850Z","to":"2026-04-10T04:40:04.071Z","count":4,"avg":2458,"min":442,"max":4587,"p95":4587,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T04:50:06.246Z","to":"2026-04-10T04:50:06.246Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T05:00:05.090Z","to":"2026-04-10T05:00:05.090Z","count":1,"avg":3881,"min":3881,"max":3881,"p95":3881,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T05:10:06.225Z","to":"2026-04-10T05:10:06.225Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T05:20:05.394Z","to":"2026-04-10T06:10:05.649Z","count":6,"avg":3666,"min":2401,"max":4382,"p95":4382,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T06:20:06.184Z","to":"2026-04-10T06:20:06.184Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T06:30:05.185Z","to":"2026-04-10T06:30:05.185Z","count":1,"avg":4032,"min":4032,"max":4032,"p95":4032,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T06:40:06.232Z","to":"2026-04-10T06:40:06.232Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T06:50:03.761Z","to":"2026-04-10T07:00:05.638Z","count":2,"avg":3374,"min":2448,"max":4300,"p95":4300,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T07:10:06.223Z","to":"2026-04-10T07:10:06.223Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T07:20:05.287Z","to":"2026-04-10T07:20:05.287Z","count":1,"avg":3969,"min":3969,"max":3969,"p95":3969,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T07:30:06.264Z","to":"2026-04-10T07:30:06.264Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T07:40:05.729Z","to":"2026-04-10T07:40:05.729Z","count":1,"avg":4508,"min":4508,"max":4508,"p95":4508,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T07:50:06.335Z","to":"2026-04-10T07:50:06.335Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T08:00:06.006Z","to":"2026-04-10T08:00:06.006Z","count":1,"avg":4520,"min":4520,"max":4520,"p95":4520,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T08:10:06.238Z","to":"2026-04-10T08:10:06.238Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T08:20:04.930Z","to":"2026-04-10T09:00:05.560Z","count":5,"avg":3792,"min":2029,"max":4678,"p95":4678,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T09:10:06.227Z","to":"2026-04-10T09:10:06.227Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T09:20:05.444Z","to":"2026-04-10T09:30:05.701Z","count":2,"avg":4378,"min":4225,"max":4531,"p95":4531,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T09:40:06.328Z","to":"2026-04-10T09:50:06.245Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T10:00:03.087Z","to":"2026-04-10T10:10:03.704Z","count":2,"avg":2094,"min":1734,"max":2453,"p95":2453,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T10:20:06.178Z","to":"2026-04-10T10:20:06.178Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T10:30:02.599Z","to":"2026-04-10T10:40:05.489Z","count":2,"avg":2744,"min":1306,"max":4182,"p95":4182,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T10:50:06.170Z","to":"2026-04-10T10:50:06.170Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T11:00:06.211Z","to":"2026-04-10T11:10:04.640Z","count":2,"avg":4127,"min":3334,"max":4920,"p95":4920,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T11:20:06.216Z","to":"2026-04-10T11:30:06.207Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T11:40:05.498Z","to":"2026-04-10T12:00:04.221Z","count":3,"avg":4051,"min":2996,"max":4870,"p95":4870,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T12:10:06.384Z","to":"2026-04-10T12:20:06.234Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T12:30:06.264Z","to":"2026-04-10T12:50:05.564Z","count":3,"avg":4421,"min":4112,"max":4791,"p95":4791,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T13:00:06.370Z","to":"2026-04-10T13:10:06.555Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T13:20:05.350Z","to":"2026-04-10T14:50:06.143Z","count":10,"avg":3342,"min":1615,"max":4904,"p95":4904,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T15:00:06.577Z","to":"2026-04-10T15:00:06.577Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T15:10:05.895Z","to":"2026-04-10T15:40:05.797Z","count":4,"avg":3634,"min":2450,"max":4710,"p95":4710,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T15:50:06.179Z","to":"2026-04-10T17:00:06.221Z","count":8,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T17:10:05.154Z","to":"2026-04-10T17:30:05.130Z","count":3,"avg":3893,"min":3785,"max":3974,"p95":3974,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T17:40:06.174Z","to":"2026-04-10T17:50:06.189Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T18:00:05.590Z","to":"2026-04-10T18:30:04.638Z","count":4,"avg":3727,"min":2064,"max":4964,"p95":4964,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T18:40:06.319Z","to":"2026-04-10T18:40:06.319Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T18:50:04.858Z","to":"2026-04-10T19:10:03.427Z","count":3,"avg":3543,"min":2258,"max":4717,"p95":4717,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T19:20:06.329Z","to":"2026-04-10T19:30:06.215Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T19:40:05.043Z","to":"2026-04-10T20:00:02.917Z","count":3,"avg":2852,"min":1765,"max":3859,"p95":3859,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T20:10:06.221Z","to":"2026-04-10T20:20:06.195Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T20:30:04.491Z","to":"2026-04-10T20:30:04.491Z","count":1,"avg":3341,"min":3341,"max":3341,"p95":3341,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T20:40:06.232Z","to":"2026-04-10T20:50:06.229Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T21:00:05.856Z","to":"2026-04-10T21:10:06.098Z","count":2,"avg":4703,"min":4528,"max":4877,"p95":4877,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T21:20:06.227Z","to":"2026-04-10T21:20:06.227Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T21:30:03.874Z","to":"2026-04-10T22:00:05.432Z","count":4,"avg":3743,"min":2556,"max":4356,"p95":4356,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T22:10:06.316Z","to":"2026-04-10T22:30:06.179Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T22:40:06.101Z","to":"2026-04-10T22:50:05.794Z","count":2,"avg":4729,"min":4577,"max":4881,"p95":4881,"url":"https://dashscope.aliyun.com"}
+{"type":"fail","from":"2026-04-10T23:00:06.213Z","to":"2026-04-10T23:00:06.213Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-10T23:10:06.110Z","to":"2026-04-10T23:50:06.116Z","count":5,"avg":4073,"min":2109,"max":4908,"p95":4908,"url":"https://dashscope.aliyun.com"}
+{"type":"ok","from":"2026-04-11T00:00:05.735Z","to":"2026-04-11T00:00:05.735Z","count":1,"url":"https://dashscope.aliyun.com","avg":4551,"min":4551,"max":4551,"p95":4551}
+{"type":"fail","from":"2026-04-11T00:10:06.203Z","to":"2026-04-11T00:10:06.203Z","count":1,"url":"https://dashscope.aliyun.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-11T00:20:05.197Z","to":"2026-04-11T00:40:05.610Z","count":3,"url":"https://dashscope.aliyun.com","avg":3344,"min":1737,"max":4283,"p95":4283}
+{"type":"fail","from":"2026-04-11T00:50:06.330Z","to":"2026-04-11T01:00:06.214Z","count":2,"url":"https://dashscope.aliyun.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-11T01:10:06.136Z","to":"2026-04-11T01:10:06.136Z","count":1,"url":"https://dashscope.aliyun.com","avg":4943,"min":4943,"max":4943,"p95":4943}
+{"type":"fail","from":"2026-04-11T01:20:06.173Z","to":"2026-04-11T01:20:06.173Z","count":1,"url":"https://dashscope.aliyun.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-11T01:30:06.179Z","to":"2026-04-11T01:50:05.097Z","count":3,"url":"https://dashscope.aliyun.com","avg":4572,"min":3775,"max":4971,"p95":4971}
+{"type":"fail","from":"2026-04-11T02:00:06.195Z","to":"2026-04-11T02:10:06.312Z","count":2,"url":"https://dashscope.aliyun.com","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-04-11T02:20:03.552Z","to":"2026-04-11T04:40:05.065Z","count":15,"url":"https://dashscope.aliyuncs.com","status":404,"error":"HTTP 404","avg_latency":2520}
+{"type":"fail","from":"2026-04-11T04:50:06.216Z","to":"2026-04-11T04:50:06.216Z","count":1,"url":"https://dashscope.aliyuncs.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-11T05:00:05.191Z","to":"2026-04-11T06:30:04.680Z","count":10,"url":"https://dashscope.aliyuncs.com","status":404,"error":"HTTP 404","avg_latency":3059}
+{"type":"fail","from":"2026-04-11T06:40:06.220Z","to":"2026-04-11T06:40:06.220Z","count":1,"url":"https://dashscope.aliyuncs.com","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-04-11T06:50:04.755Z","to":"2026-04-11T15:00:03.846Z","count":49,"url":"https://dashscope.aliyuncs.com","status":404,"error":"HTTP 404","avg_latency":2837}
+{"type":"fail","from":"2026-04-11T15:10:06.401Z","to":"2026-04-11T15:10:06.401Z","count":1,"url":"https://dashscope.aliyuncs.com","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"fail","from":"2026-04-11T15:20:05.939Z","to":"2026-04-11T23:50:03.221Z","count":52,"url":"https://dashscope.aliyuncs.com","status":404,"error":"HTTP 404","avg_latency":2347}
