@@ -1,13 +1,14 @@
-{"url":"https://cli-proxy-api-667.zeabur.app/v1"}
-{"type":"fail","from":"2026-04-01T00:04:23.448Z","to":"2026-04-01T23:54:21.004Z","count":144,"status":404,"error":"HTTP 404","avg_latency":410}
-{"type":"fail","from":"2026-04-02T00:04:23.913Z","to":"2026-04-02T23:54:19.116Z","count":144,"status":404,"error":"HTTP 404","avg_latency":395}
-{"type":"fail","from":"2026-04-03T00:04:25.803Z","to":"2026-04-03T23:54:23.932Z","count":142,"status":404,"error":"HTTP 404","avg_latency":402}
-{"type":"fail","from":"2026-04-04T00:04:25.684Z","to":"2026-04-04T23:54:07.691Z","count":138,"status":404,"error":"HTTP 404","avg_latency":638}
-{"type":"fail","from":"2026-04-05T00:04:30.966Z","to":"2026-04-05T23:54:37.257Z","count":143,"status":404,"error":"HTTP 404","avg_latency":705}
-{"type":"fail","from":"2026-04-06T00:04:19.201Z","to":"2026-04-06T23:53:40.161Z","count":144,"status":404,"error":"HTTP 404","avg_latency":518}
-{"type":"fail","from":"2026-04-07T00:03:41.340Z","to":"2026-04-07T23:53:23.121Z","count":144,"status":404,"error":"HTTP 404","avg_latency":415}
-{"type":"fail","from":"2026-04-08T00:03:47.008Z","to":"2026-04-08T23:54:11.023Z","count":144,"status":404,"error":"HTTP 404","avg_latency":606}
-{"type":"fail","from":"2026-04-09T00:04:03.970Z","to":"2026-04-09T23:53:28.659Z","count":144,"status":404,"error":"HTTP 404","avg_latency":475}
-{"type":"fail","from":"2026-04-10T00:03:39.371Z","to":"2026-04-10T23:53:39.907Z","count":144,"status":404,"error":"HTTP 404","avg_latency":400}
-{"type":"fail","from":"2026-04-11T00:03:35.159Z","to":"2026-04-11T23:53:55.219Z","count":143,"status":404,"error":"HTTP 404","avg_latency":181}
-{"type":"fail","from":"2026-04-12T00:03:40.877Z","to":"2026-04-12T23:53:23.561Z","count":142,"status":404,"error":"HTTP 404","avg_latency":251}
+{"type":"fail","from":"2026-04-01T00:04:23.448Z","to":"2026-04-01T23:54:21.004Z","count":144,"status":404,"error":"HTTP 404","avg_latency":410,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-02T00:04:23.913Z","to":"2026-04-02T23:54:19.116Z","count":144,"status":404,"error":"HTTP 404","avg_latency":395,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-03T00:04:25.803Z","to":"2026-04-03T23:54:23.932Z","count":142,"status":404,"error":"HTTP 404","avg_latency":402,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-04T00:04:25.684Z","to":"2026-04-04T23:54:07.691Z","count":138,"status":404,"error":"HTTP 404","avg_latency":638,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-05T00:04:30.966Z","to":"2026-04-05T23:54:37.257Z","count":143,"status":404,"error":"HTTP 404","avg_latency":705,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-06T00:04:19.201Z","to":"2026-04-06T23:53:40.161Z","count":144,"status":404,"error":"HTTP 404","avg_latency":518,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-07T00:03:41.340Z","to":"2026-04-07T23:53:23.121Z","count":144,"status":404,"error":"HTTP 404","avg_latency":415,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-08T00:03:47.008Z","to":"2026-04-08T23:54:11.023Z","count":144,"status":404,"error":"HTTP 404","avg_latency":606,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-09T00:04:03.970Z","to":"2026-04-09T23:53:28.659Z","count":144,"status":404,"error":"HTTP 404","avg_latency":475,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-10T00:03:39.371Z","to":"2026-04-10T23:53:39.907Z","count":144,"status":404,"error":"HTTP 404","avg_latency":400,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-11T00:03:35.159Z","to":"2026-04-11T23:53:55.219Z","count":143,"status":404,"error":"HTTP 404","avg_latency":181,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-12T00:03:40.877Z","to":"2026-04-12T23:53:23.561Z","count":142,"status":404,"error":"HTTP 404","avg_latency":251,"url":"https://cli-proxy-api-667.zeabur.app/v1"}
+{"type":"fail","from":"2026-04-13T00:03:31.777Z","to":"2026-04-13T08:23:39.474Z","count":47,"url":"https://cli-proxy-api-667.zeabur.app/v1","status":404,"error":"HTTP 404","avg_latency":316}
+{"type":"ok","from":"2026-04-13T08:33:51.246Z","to":"2026-04-13T15:04:03.489Z","count":36,"url":"https://zeabur.com","avg":509,"min":271,"max":1701,"p95":1605}
