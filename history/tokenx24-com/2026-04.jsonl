@@ -1,4 +1,15 @@
-{"url":"https://tokenx24.com/v1"}
-{"type":"ok","from":"2026-04-12T10:24:23.005Z","to":"2026-04-12T23:54:04.727Z","count":81,"avg":307,"min":177,"max":1893,"p95":760}
-{"type":"ok","from":"2026-04-13T00:04:15.816Z","to":"2026-04-13T15:05:02.354Z","count":83,"avg":325,"min":185,"max":2958,"p95":569}
-{"type":"ok","from":"2026-04-14T02:30:01.547Z","to":"2026-04-14T23:54:02.411Z","count":120,"avg":307,"min":193,"max":2728,"p95":580}
+{"type":"ok","from":"2026-04-12T10:24:23.005Z","to":"2026-04-12T23:54:04.727Z","count":81,"avg":307,"min":177,"max":1893,"p95":760,"url":"https://tokenx24.com/v1"}
+{"type":"ok","from":"2026-04-13T00:04:15.816Z","to":"2026-04-13T15:05:02.354Z","count":83,"avg":325,"min":185,"max":2958,"p95":569,"url":"https://tokenx24.com/v1"}
+{"type":"ok","from":"2026-04-14T02:30:01.547Z","to":"2026-04-14T23:54:02.411Z","count":120,"avg":307,"min":193,"max":2728,"p95":580,"url":"https://tokenx24.com/v1"}
+{"type":"ok","from":"2026-04-15T00:03:54.190Z","to":"2026-04-15T04:24:29.913Z","count":27,"url":"https://tokenx24.com/v1","avg":281,"min":209,"max":583,"p95":373}
+{"type":"ok","from":"2026-04-15T04:34:53.189Z","to":"2026-04-15T07:05:04.937Z","count":16,"url":"https://tokenx24.com","avg":263,"min":201,"max":367,"p95":367}
+{"type":"fail","from":"2026-04-15T07:15:05.622Z","to":"2026-04-15T07:15:05.622Z","count":1,"url":"https://tokenx24.com","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-15T07:25:15.931Z","to":"2026-04-15T08:25:08.439Z","count":6,"url":"https://tokenx24.com","avg":649,"min":219,"max":2236,"p95":2236}
+{"type":"fail","from":"2026-04-15T08:35:32.146Z","to":"2026-04-15T08:35:32.146Z","count":1,"url":"https://tokenx24.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-15T08:45:10.394Z","to":"2026-04-15T09:25:01.020Z","count":4,"url":"https://tokenx24.com","avg":227,"min":205,"max":269,"p95":269}
+{"type":"fail","from":"2026-04-15T09:35:46.902Z","to":"2026-04-15T09:35:46.902Z","count":1,"url":"https://tokenx24.com","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-15T09:45:27.592Z","to":"2026-04-15T09:56:17.389Z","count":2,"url":"https://tokenx24.com","avg":263,"min":253,"max":273,"p95":273}
+{"type":"fail","from":"2026-04-15T10:05:20.186Z","to":"2026-04-15T10:05:20.186Z","count":1,"url":"https://tokenx24.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-15T10:15:14.592Z","to":"2026-04-15T10:44:53.875Z","count":4,"url":"https://tokenx24.com","avg":352,"min":231,"max":583,"p95":583}
+{"type":"fail","from":"2026-04-15T10:54:58.975Z","to":"2026-04-15T10:54:58.975Z","count":1,"url":"https://tokenx24.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-15T11:05:11.812Z","to":"2026-04-15T23:54:24.471Z","count":76,"url":"https://tokenx24.com","avg":438,"min":187,"max":4442,"p95":618}

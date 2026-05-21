@@ -1,3 +1,6 @@
 {"type":"fail","from":"2026-04-13T08:24:37.554Z","to":"2026-04-13T15:05:04.247Z","count":37,"status":404,"error":"HTTP 404","avg_latency":500,"url":"https://api.astrdark.cyou/v1"}
 {"type":"fail","from":"2026-04-14T02:30:02.235Z","to":"2026-04-14T18:24:26.989Z","count":87,"url":"https://api.astrdark.cyou/v1","status":404,"error":"HTTP 404","avg_latency":459}
 {"type":"ok","from":"2026-04-14T18:34:09.256Z","to":"2026-04-14T23:54:03.468Z","count":33,"url":"https://api.astrdark.cyou","avg":422,"min":58,"max":686,"p95":613}
+{"type":"ok","from":"2026-04-15T00:03:55.578Z","to":"2026-04-15T15:54:39.832Z","count":92,"url":"https://api.astrdark.cyou","avg":519,"min":60,"max":1560,"p95":969}
+{"type":"fail","from":"2026-04-15T16:05:01.230Z","to":"2026-04-15T16:05:01.230Z","count":1,"url":"https://api.astrdark.cyou","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-15T16:14:46.947Z","to":"2026-04-15T23:54:25.822Z","count":47,"url":"https://api.astrdark.cyou","avg":452,"min":207,"max":1019,"p95":708}

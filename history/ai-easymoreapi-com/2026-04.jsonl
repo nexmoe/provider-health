@@ -1,3 +1,8 @@
 {"type":"fail","from":"2026-04-13T03:34:26.224Z","to":"2026-04-13T15:05:04.195Z","count":64,"status":404,"error":"HTTP 404","avg_latency":691,"url":"https://ai.easymoreapi.com/v1"}
 {"type":"fail","from":"2026-04-14T02:30:02.444Z","to":"2026-04-14T10:24:32.667Z","count":40,"url":"https://ai.easymoreapi.com/v1","status":404,"error":"HTTP 404","avg_latency":662}
 {"type":"ok","from":"2026-04-14T10:34:27.721Z","to":"2026-04-14T23:54:03.833Z","count":80,"url":"https://ai.easymoreapi.com","avg":675,"min":563,"max":949,"p95":779}
+{"type":"ok","from":"2026-04-15T00:03:55.785Z","to":"2026-04-15T02:05:04.846Z","count":13,"url":"https://ai.easymoreapi.com","avg":725,"min":600,"max":1168,"p95":1168}
+{"type":"fail","from":"2026-04-15T02:14:22.776Z","to":"2026-04-15T02:14:22.776Z","count":1,"url":"https://ai.easymoreapi.com","status":502,"error":"HTTP 502","avg_latency":602}
+{"type":"ok","from":"2026-04-15T02:24:24.818Z","to":"2026-04-15T07:45:17.131Z","count":33,"url":"https://ai.easymoreapi.com","avg":673,"min":571,"max":883,"p95":797}
+{"type":"fail","from":"2026-04-15T07:55:43.132Z","to":"2026-04-15T07:55:43.132Z","count":1,"url":"https://ai.easymoreapi.com","status":502,"error":"HTTP 502","avg_latency":746}
+{"type":"ok","from":"2026-04-15T08:15:47.334Z","to":"2026-04-15T23:54:26.082Z","count":92,"url":"https://ai.easymoreapi.com","avg":703,"min":259,"max":1672,"p95":836}

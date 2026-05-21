@@ -1,11 +1,14 @@
-{"url":"https://code.coolyeah.net/v1"}
-{"type":"fail","from":"2026-04-09T01:15:05.964Z","to":"2026-04-09T08:55:12.478Z","count":47,"status":404,"error":"HTTP 404","avg_latency":917}
-{"type":"fail","from":"2026-04-09T09:05:35.827Z","to":"2026-04-09T09:05:35.827Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-09T09:14:53.904Z","to":"2026-04-09T23:54:17.772Z","count":89,"status":404,"error":"HTTP 404","avg_latency":668}
-{"type":"fail","from":"2026-04-10T00:04:19.187Z","to":"2026-04-10T05:35:20.029Z","count":33,"status":404,"error":"HTTP 404","avg_latency":914}
-{"type":"fail","from":"2026-04-10T05:45:44.862Z","to":"2026-04-10T05:45:44.862Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-10T05:55:49.001Z","to":"2026-04-10T23:54:24.782Z","count":109,"status":404,"error":"HTTP 404","avg_latency":693}
-{"type":"fail","from":"2026-04-11T00:04:12.405Z","to":"2026-04-11T23:54:37.981Z","count":143,"status":404,"error":"HTTP 404","avg_latency":571}
-{"type":"fail","from":"2026-04-12T00:04:18.972Z","to":"2026-04-12T23:53:57.219Z","count":142,"status":404,"error":"HTTP 404","avg_latency":601}
-{"type":"fail","from":"2026-04-13T00:04:09.386Z","to":"2026-04-13T15:04:56.882Z","count":83,"status":404,"error":"HTTP 404","avg_latency":657}
-{"type":"fail","from":"2026-04-14T02:29:44.687Z","to":"2026-04-14T23:53:58.642Z","count":120,"status":404,"error":"HTTP 404","avg_latency":578}
+{"type":"fail","from":"2026-04-09T01:15:05.964Z","to":"2026-04-09T08:55:12.478Z","count":47,"status":404,"error":"HTTP 404","avg_latency":917,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-09T09:05:35.827Z","to":"2026-04-09T09:05:35.827Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-09T09:14:53.904Z","to":"2026-04-09T23:54:17.772Z","count":89,"status":404,"error":"HTTP 404","avg_latency":668,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-10T00:04:19.187Z","to":"2026-04-10T05:35:20.029Z","count":33,"status":404,"error":"HTTP 404","avg_latency":914,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-10T05:45:44.862Z","to":"2026-04-10T05:45:44.862Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-10T05:55:49.001Z","to":"2026-04-10T23:54:24.782Z","count":109,"status":404,"error":"HTTP 404","avg_latency":693,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-11T00:04:12.405Z","to":"2026-04-11T23:54:37.981Z","count":143,"status":404,"error":"HTTP 404","avg_latency":571,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-12T00:04:18.972Z","to":"2026-04-12T23:53:57.219Z","count":142,"status":404,"error":"HTTP 404","avg_latency":601,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-13T00:04:09.386Z","to":"2026-04-13T15:04:56.882Z","count":83,"status":404,"error":"HTTP 404","avg_latency":657,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-14T02:29:44.687Z","to":"2026-04-14T23:53:58.642Z","count":120,"status":404,"error":"HTTP 404","avg_latency":578,"url":"https://code.coolyeah.net/v1"}
+{"type":"fail","from":"2026-04-15T00:03:50.958Z","to":"2026-04-15T04:24:26.560Z","count":27,"url":"https://code.coolyeah.net/v1","status":404,"error":"HTTP 404","avg_latency":559}
+{"type":"ok","from":"2026-04-15T04:34:49.212Z","to":"2026-04-15T13:05:04.709Z","count":49,"url":"https://code.coolyeah.net","avg":660,"min":186,"max":1092,"p95":1004}
+{"type":"fail","from":"2026-04-15T13:15:18.726Z","to":"2026-04-15T13:15:18.726Z","count":1,"url":"https://code.coolyeah.net","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-15T13:25:28.401Z","to":"2026-04-15T23:54:20.728Z","count":63,"url":"https://code.coolyeah.net","avg":653,"min":241,"max":1094,"p95":999}

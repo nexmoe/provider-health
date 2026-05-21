@@ -111,3 +111,6 @@
 {"type":"fail","from":"2026-04-13T12:44:26.210Z","to":"2026-04-13T13:24:57.958Z","count":5,"url":"https://llm.whitedream.top","status":null,"error":"fetch failed","avg_latency":149}
 {"type":"ok","from":"2026-04-13T13:34:43.216Z","to":"2026-04-13T15:04:50.105Z","count":10,"url":"https://llm.whitedream.top","avg":30,"min":25,"max":40,"p95":40}
 {"type":"ok","from":"2026-04-14T02:29:38.309Z","to":"2026-04-14T23:53:52.272Z","count":120,"url":"https://llm.whitedream.top","avg":50,"min":22,"max":1031,"p95":85}
+{"type":"ok","from":"2026-04-15T00:03:44.608Z","to":"2026-04-15T15:04:49.337Z","count":87,"url":"https://llm.whitedream.top","avg":144,"min":25,"max":1192,"p95":936}
+{"type":"fail","from":"2026-04-15T15:14:53.724Z","to":"2026-04-15T15:14:53.724Z","count":1,"url":"https://llm.whitedream.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-15T15:24:42.145Z","to":"2026-04-15T23:54:13.889Z","count":52,"url":"https://llm.whitedream.top","avg":298,"min":35,"max":1088,"p95":699}
