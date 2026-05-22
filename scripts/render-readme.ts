@@ -1,8 +1,8 @@
 #!/usr/bin/env bun
-import postgres from 'postgres';
 import { existsSync } from 'node:fs';
 import { readFile, readdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import postgres from 'postgres';
 
 const DATABASE_URL = process.env.DATABASE_URL;
 if (!DATABASE_URL) {
@@ -367,10 +367,7 @@ const fmtRelative = (d: Date | null): string => {
 
 const fmtInt = (n: number): string => n.toString();
 
-const fmtTrend = (
-  recent: number | null,
-  baseline: number | null
-): string => {
+const fmtTrend = (recent: number | null, baseline: number | null): string => {
   if (recent === null || baseline === null || baseline === 0) return '—';
   const ratio = recent / baseline;
   const arrow = ratio >= 1.05 ? '↑' : ratio <= 0.95 ? '↓' : '→';
@@ -379,9 +376,7 @@ const fmtTrend = (
 
 const providerLink = (r: Row): string => {
   const label = r.name ?? r.slug ?? 'unknown';
-  return r.slug
-    ? `[${label}](https://lmspeed.net/provider/${r.slug})`
-    : label;
+  return r.slug ? `[${label}](https://lmspeed.net/provider/${r.slug})` : label;
 };
 
 const renderTable = (rs: Row[]): string => {

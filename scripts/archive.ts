@@ -1,8 +1,8 @@
 #!/usr/bin/env bun
-import postgres from 'postgres';
 import { existsSync } from 'node:fs';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
+import postgres from 'postgres';
 
 const DATABASE_URL = process.env.DATABASE_URL;
 if (!DATABASE_URL) {
@@ -223,10 +223,7 @@ const fetchDayRowsForProviders = async (
 type Header = { url: string };
 
 const isHeader = (obj: unknown): obj is Header =>
-  typeof obj === 'object' &&
-  obj !== null &&
-  'url' in obj &&
-  !('type' in obj);
+  typeof obj === 'object' && obj !== null && 'url' in obj && !('type' in obj);
 
 /**
  * Write/merge a month file for one provider. If all entries in the resulting
@@ -309,18 +306,11 @@ const main = async () => {
   let totalEntries = 0;
 
   for (const day of daysThisRun) {
-    const providerIds = await fetchDayProviderIds(
-      day,
-      state.last_archived_id
-    );
+    const providerIds = await fetchDayProviderIds(day, state.last_archived_id);
     if (providerIds.length === 0) continue;
 
     const batches: number[][] = [];
-    for (
-      let i = 0;
-      i < providerIds.length;
-      i += DAY_ROW_PROVIDER_BATCH_SIZE
-    ) {
+    for (let i = 0; i < providerIds.length; i += DAY_ROW_PROVIDER_BATCH_SIZE) {
       batches.push(providerIds.slice(i, i + DAY_ROW_PROVIDER_BATCH_SIZE));
     }
 

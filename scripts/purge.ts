@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
-import postgres from 'postgres';
 import { readFile } from 'node:fs/promises';
+import postgres from 'postgres';
 
 const DATABASE_URL = process.env.DATABASE_URL;
 if (!DATABASE_URL) {
@@ -26,7 +26,9 @@ const sql = postgres(DATABASE_URL, {
     ? false
     : { rejectUnauthorized: false },
 });
-console.log(`purging rows with id <= ${throughId} and checked_at < NOW() - ${RETENTION_DAYS}d`);
+console.log(
+  `purging rows with id <= ${throughId} and checked_at < NOW() - ${RETENTION_DAYS}d`
+);
 
 let total = 0;
 while (true) {
