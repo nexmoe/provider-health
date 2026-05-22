@@ -1,7 +1,10 @@
-{"url":"https://ai.32zi.com/v1"}
-{"type":"fail","from":"2026-04-14T04:04:37.683Z","to":"2026-04-14T23:54:05.128Z","count":112,"status":404,"error":"HTTP 404","avg_latency":1214}
-{"type":"fail","from":"2026-04-15T00:03:56.755Z","to":"2026-04-15T05:54:42.098Z","count":36,"status":404,"error":"HTTP 404","avg_latency":1330}
-{"type":"fail","from":"2026-04-15T06:05:32.603Z","to":"2026-04-15T06:05:32.603Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-15T06:15:28.411Z","to":"2026-04-15T13:05:13.948Z","count":39,"status":404,"error":"HTTP 404","avg_latency":1515}
-{"type":"fail","from":"2026-04-15T13:15:29.973Z","to":"2026-04-15T13:15:29.973Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-15T13:25:34.990Z","to":"2026-04-15T23:54:27.121Z","count":63,"status":404,"error":"HTTP 404","avg_latency":1814}
+{"type":"fail","from":"2026-04-14T04:04:37.683Z","to":"2026-04-14T23:54:05.128Z","count":112,"status":404,"error":"HTTP 404","avg_latency":1214,"url":"https://ai.32zi.com/v1"}
+{"type":"fail","from":"2026-04-15T00:03:56.755Z","to":"2026-04-15T05:54:42.098Z","count":36,"status":404,"error":"HTTP 404","avg_latency":1330,"url":"https://ai.32zi.com/v1"}
+{"type":"fail","from":"2026-04-15T06:05:32.603Z","to":"2026-04-15T06:05:32.603Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.32zi.com/v1"}
+{"type":"fail","from":"2026-04-15T06:15:28.411Z","to":"2026-04-15T13:05:13.948Z","count":39,"status":404,"error":"HTTP 404","avg_latency":1515,"url":"https://ai.32zi.com/v1"}
+{"type":"fail","from":"2026-04-15T13:15:29.973Z","to":"2026-04-15T13:15:29.973Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.32zi.com/v1"}
+{"type":"fail","from":"2026-04-15T13:25:34.990Z","to":"2026-04-15T23:54:27.121Z","count":63,"status":404,"error":"HTTP 404","avg_latency":1814,"url":"https://ai.32zi.com/v1"}
+{"type":"fail","from":"2026-04-16T00:04:39.294Z","to":"2026-04-16T09:35:17.142Z","count":52,"url":"https://ai.32zi.com/v1","status":404,"error":"HTTP 404","avg_latency":1984}
+{"type":"ok","from":"2026-04-16T09:44:49.187Z","to":"2026-04-16T15:15:54.433Z","count":27,"url":"https://ai.32zi.com","avg":1831,"min":1111,"max":2722,"p95":2597}
+{"type":"fail","from":"2026-04-16T15:26:26.486Z","to":"2026-04-16T15:26:26.486Z","count":1,"url":"https://ai.32zi.com","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-16T15:35:40.392Z","to":"2026-04-16T23:54:48.677Z","count":51,"url":"https://ai.32zi.com","avg":1494,"min":1072,"max":2728,"p95":2341}

@@ -1,2 +1,17 @@
-{"url":"http://ai.rehiy.wang/api/v1"}
-{"type":"fail","from":"2026-04-15T05:44:33.505Z","to":"2026-04-15T23:54:28.281Z","count":106,"status":404,"error":"HTTP 404","avg_latency":1565}
+{"type":"fail","from":"2026-04-15T05:44:33.505Z","to":"2026-04-15T23:54:28.281Z","count":106,"status":404,"error":"HTTP 404","avg_latency":1565,"url":"http://ai.rehiy.wang/api/v1"}
+{"type":"fail","from":"2026-04-16T00:04:40.180Z","to":"2026-04-16T09:35:18.434Z","count":52,"url":"http://ai.rehiy.wang/api/v1","status":404,"error":"HTTP 404","avg_latency":1291}
+{"type":"ok","from":"2026-04-16T09:44:50.808Z","to":"2026-04-16T12:55:44.658Z","count":13,"url":"http://ai.rehiy.wang","avg":2491,"min":1545,"max":3803,"p95":3803}
+{"type":"fail","from":"2026-04-16T13:05:52.234Z","to":"2026-04-16T13:05:52.234Z","count":1,"url":"http://ai.rehiy.wang","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-16T13:15:23.715Z","to":"2026-04-16T13:45:31.476Z","count":4,"url":"http://ai.rehiy.wang","avg":2887,"min":1694,"max":4444,"p95":4444}
+{"type":"fail","from":"2026-04-16T13:55:32.495Z","to":"2026-04-16T13:55:32.495Z","count":1,"url":"http://ai.rehiy.wang","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-16T14:05:43.062Z","to":"2026-04-16T14:15:51.292Z","count":2,"url":"http://ai.rehiy.wang","avg":2892,"min":2095,"max":3688,"p95":3688}
+{"type":"fail","from":"2026-04-16T14:25:30.095Z","to":"2026-04-16T14:25:30.095Z","count":1,"url":"http://ai.rehiy.wang","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-16T14:35:52.368Z","to":"2026-04-16T14:35:52.368Z","count":1,"url":"http://ai.rehiy.wang","avg":2318,"min":2318,"max":2318,"p95":2318}
+{"type":"fail","from":"2026-04-16T14:45:25.830Z","to":"2026-04-16T14:45:25.830Z","count":1,"url":"http://ai.rehiy.wang","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-16T14:55:38.157Z","to":"2026-04-16T14:55:38.157Z","count":1,"url":"http://ai.rehiy.wang","avg":2515,"min":2515,"max":2515,"p95":2515}
+{"type":"fail","from":"2026-04-16T15:05:45.013Z","to":"2026-04-16T15:05:45.013Z","count":1,"url":"http://ai.rehiy.wang","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-16T15:15:54.890Z","to":"2026-04-16T15:15:54.890Z","count":1,"url":"http://ai.rehiy.wang","avg":2230,"min":2230,"max":2230,"p95":2230}
+{"type":"fail","from":"2026-04-16T15:26:26.489Z","to":"2026-04-16T15:26:26.489Z","count":1,"url":"http://ai.rehiy.wang","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-16T15:35:42.233Z","to":"2026-04-16T16:25:14.574Z","count":6,"url":"http://ai.rehiy.wang","avg":2193,"min":1418,"max":4070,"p95":4070}
+{"type":"fail","from":"2026-04-16T16:35:56.945Z","to":"2026-04-16T16:35:56.945Z","count":1,"url":"http://ai.rehiy.wang","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-16T16:45:22.359Z","to":"2026-04-16T23:54:50.430Z","count":44,"url":"http://ai.rehiy.wang","avg":1752,"min":1282,"max":3425,"p95":2704}

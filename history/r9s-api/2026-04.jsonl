@@ -1,2 +1,5 @@
-{"url":"https://api.r9s.ai/v1"}
-{"type":"fail","from":"2026-04-15T12:15:59.493Z","to":"2026-04-15T23:54:27.709Z","count":70,"status":404,"error":"HTTP 404","avg_latency":520}
+{"type":"fail","from":"2026-04-15T12:15:59.493Z","to":"2026-04-15T23:54:27.709Z","count":70,"status":404,"error":"HTTP 404","avg_latency":520,"url":"https://api.r9s.ai/v1"}
+{"type":"fail","from":"2026-04-16T00:04:39.767Z","to":"2026-04-16T09:35:18.120Z","count":52,"url":"https://api.r9s.ai/v1","status":404,"error":"HTTP 404","avg_latency":571}
+{"type":"fail","from":"2026-04-16T09:44:49.651Z","to":"2026-04-16T15:15:55.398Z","count":27,"url":"https://api.r9s.ai","status":404,"error":"HTTP 404","avg_latency":370}
+{"type":"fail","from":"2026-04-16T15:26:31.790Z","to":"2026-04-16T15:26:31.790Z","count":1,"url":"https://api.r9s.ai","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-16T15:35:42.794Z","to":"2026-04-16T23:54:49.296Z","count":51,"url":"https://api.r9s.ai","status":404,"error":"HTTP 404","avg_latency":449}

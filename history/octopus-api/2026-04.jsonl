@@ -1,18 +1,19 @@
-{"url":"https://api.neujz.xyz/v1"}
-{"type":"fail","from":"2026-04-01T00:04:38.926Z","to":"2026-04-01T23:54:37.539Z","count":144,"status":404,"error":"HTTP 404","avg_latency":232}
-{"type":"fail","from":"2026-04-02T00:04:34.010Z","to":"2026-04-02T23:54:28.170Z","count":144,"status":404,"error":"HTTP 404","avg_latency":212}
-{"type":"fail","from":"2026-04-03T00:04:35.738Z","to":"2026-04-03T09:44:49.465Z","count":59,"status":404,"error":"HTTP 404","avg_latency":285}
-{"type":"fail","from":"2026-04-03T09:54:52.804Z","to":"2026-04-03T09:54:52.804Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-03T10:04:34.083Z","to":"2026-04-03T23:54:39.973Z","count":82,"status":404,"error":"HTTP 404","avg_latency":192}
-{"type":"fail","from":"2026-04-04T00:04:38.936Z","to":"2026-04-04T23:54:24.028Z","count":138,"status":404,"error":"HTTP 404","avg_latency":239}
-{"type":"fail","from":"2026-04-05T00:04:44.234Z","to":"2026-04-05T23:54:55.282Z","count":143,"status":404,"error":"HTTP 404","avg_latency":215}
-{"type":"fail","from":"2026-04-06T00:04:32.222Z","to":"2026-04-06T23:53:52.218Z","count":144,"status":404,"error":"HTTP 404","avg_latency":211}
-{"type":"fail","from":"2026-04-07T00:03:54.242Z","to":"2026-04-07T23:53:34.269Z","count":144,"status":404,"error":"HTTP 404","avg_latency":205}
-{"type":"fail","from":"2026-04-08T00:04:01.673Z","to":"2026-04-08T23:54:26.094Z","count":144,"status":404,"error":"HTTP 404","avg_latency":233}
-{"type":"fail","from":"2026-04-09T00:04:14.304Z","to":"2026-04-09T23:53:43.686Z","count":144,"status":404,"error":"HTTP 404","avg_latency":212}
-{"type":"fail","from":"2026-04-10T00:03:55.087Z","to":"2026-04-10T23:53:51.757Z","count":143,"status":404,"error":"HTTP 404","avg_latency":197}
-{"type":"fail","from":"2026-04-11T00:03:47.445Z","to":"2026-04-11T23:54:02.532Z","count":143,"status":404,"error":"HTTP 404","avg_latency":180}
-{"type":"fail","from":"2026-04-12T00:03:47.922Z","to":"2026-04-12T23:53:36.343Z","count":142,"status":404,"error":"HTTP 404","avg_latency":180}
-{"type":"fail","from":"2026-04-13T00:03:44.021Z","to":"2026-04-13T15:04:22.271Z","count":83,"status":404,"error":"HTTP 404","avg_latency":180}
-{"type":"fail","from":"2026-04-14T02:29:07.663Z","to":"2026-04-14T23:53:34.476Z","count":120,"status":404,"error":"HTTP 404","avg_latency":178}
-{"type":"fail","from":"2026-04-15T00:03:30.619Z","to":"2026-04-15T23:53:53.478Z","count":140,"status":404,"error":"HTTP 404","avg_latency":184}
+{"type":"fail","from":"2026-04-01T00:04:38.926Z","to":"2026-04-01T23:54:37.539Z","count":144,"status":404,"error":"HTTP 404","avg_latency":232,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-02T00:04:34.010Z","to":"2026-04-02T23:54:28.170Z","count":144,"status":404,"error":"HTTP 404","avg_latency":212,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-03T00:04:35.738Z","to":"2026-04-03T09:44:49.465Z","count":59,"status":404,"error":"HTTP 404","avg_latency":285,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-03T09:54:52.804Z","to":"2026-04-03T09:54:52.804Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-03T10:04:34.083Z","to":"2026-04-03T23:54:39.973Z","count":82,"status":404,"error":"HTTP 404","avg_latency":192,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-04T00:04:38.936Z","to":"2026-04-04T23:54:24.028Z","count":138,"status":404,"error":"HTTP 404","avg_latency":239,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-05T00:04:44.234Z","to":"2026-04-05T23:54:55.282Z","count":143,"status":404,"error":"HTTP 404","avg_latency":215,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-06T00:04:32.222Z","to":"2026-04-06T23:53:52.218Z","count":144,"status":404,"error":"HTTP 404","avg_latency":211,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-07T00:03:54.242Z","to":"2026-04-07T23:53:34.269Z","count":144,"status":404,"error":"HTTP 404","avg_latency":205,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-08T00:04:01.673Z","to":"2026-04-08T23:54:26.094Z","count":144,"status":404,"error":"HTTP 404","avg_latency":233,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-09T00:04:14.304Z","to":"2026-04-09T23:53:43.686Z","count":144,"status":404,"error":"HTTP 404","avg_latency":212,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-10T00:03:55.087Z","to":"2026-04-10T23:53:51.757Z","count":143,"status":404,"error":"HTTP 404","avg_latency":197,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-11T00:03:47.445Z","to":"2026-04-11T23:54:02.532Z","count":143,"status":404,"error":"HTTP 404","avg_latency":180,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-12T00:03:47.922Z","to":"2026-04-12T23:53:36.343Z","count":142,"status":404,"error":"HTTP 404","avg_latency":180,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-13T00:03:44.021Z","to":"2026-04-13T15:04:22.271Z","count":83,"status":404,"error":"HTTP 404","avg_latency":180,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-14T02:29:07.663Z","to":"2026-04-14T23:53:34.476Z","count":120,"status":404,"error":"HTTP 404","avg_latency":178,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-15T00:03:30.619Z","to":"2026-04-15T23:53:53.478Z","count":140,"status":404,"error":"HTTP 404","avg_latency":184,"url":"https://api.neujz.xyz/v1"}
+{"type":"fail","from":"2026-04-16T00:04:03.019Z","to":"2026-04-16T09:44:10.524Z","count":53,"url":"https://api.neujz.xyz/v1","status":404,"error":"HTTP 404","avg_latency":180}
+{"type":"ok","from":"2026-04-16T09:54:37.647Z","to":"2026-04-16T23:54:07.262Z","count":78,"url":"https://api.neujz.xyz","avg":177,"min":148,"max":273,"p95":239}

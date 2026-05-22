@@ -515,3 +515,7 @@
 {"type":"fail","from":"2026-04-15T00:00:03.286Z","to":"2026-04-15T01:50:03.275Z","count":12,"url":"https://dashscope.aliyuncs.com","status":404,"error":"HTTP 404","avg_latency":2019}
 {"type":"fail","from":"2026-04-15T02:00:06.215Z","to":"2026-04-15T02:00:06.215Z","count":1,"url":"https://dashscope.aliyuncs.com","status":null,"error":"Healthcheck timeout","avg_latency":5000}
 {"type":"fail","from":"2026-04-15T02:10:03.233Z","to":"2026-04-15T23:50:03.230Z","count":128,"url":"https://dashscope.aliyuncs.com","status":404,"error":"HTTP 404","avg_latency":2139}
+{"type":"fail","from":"2026-04-16T00:00:03.339Z","to":"2026-04-16T09:50:12.037Z","count":57,"url":"https://dashscope.aliyuncs.com","status":404,"error":"HTTP 404","avg_latency":2040}
+{"type":"ok","from":"2026-04-16T10:20:13.782Z","to":"2026-04-16T17:40:11.440Z","count":42,"url":"https://www.aliyun.com/product/bailian","avg":914,"min":181,"max":3589,"p95":3219}
+{"type":"fail","from":"2026-04-16T17:50:10.576Z","to":"2026-04-16T17:50:10.576Z","count":1,"url":"https://www.aliyun.com/product/bailian","status":413,"error":"HTTP 413","avg_latency":176}
+{"type":"ok","from":"2026-04-16T18:00:20.635Z","to":"2026-04-16T23:50:11.150Z","count":36,"url":"https://www.aliyun.com/product/bailian","avg":757,"min":183,"max":2096,"p95":1909}
