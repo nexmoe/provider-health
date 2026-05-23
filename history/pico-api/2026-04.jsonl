@@ -1,3 +1,10 @@
 {"type":"fail","from":"2026-04-15T14:07:30.317Z","to":"2026-04-15T23:54:28.999Z","count":60,"status":404,"error":"HTTP 404","avg_latency":678,"url":"https://new-api.datam.site/v1"}
 {"type":"fail","from":"2026-04-16T00:04:40.745Z","to":"2026-04-16T06:44:45.015Z","count":36,"url":"https://new-api.datam.site/v1","status":404,"error":"HTTP 404","avg_latency":561}
 {"type":"ok","from":"2026-04-16T06:54:49.001Z","to":"2026-04-16T23:54:49.670Z","count":95,"url":"https://new-api.datam.site","avg":915,"min":436,"max":2840,"p95":1840}
+{"type":"ok","from":"2026-04-17T00:05:15.250Z","to":"2026-04-17T02:35:20.535Z","count":16,"url":"https://new-api.datam.site","avg":963,"min":590,"max":2318,"p95":2318}
+{"type":"fail","from":"2026-04-17T02:45:41.762Z","to":"2026-04-17T02:45:41.762Z","count":1,"url":"https://new-api.datam.site","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T02:55:12.002Z","to":"2026-04-17T09:52:48.935Z","count":39,"url":"https://new-api.datam.site","avg":1474,"min":584,"max":3217,"p95":3069}
+{"type":"fail","from":"2026-04-17T10:02:57.555Z","to":"2026-04-17T10:02:57.555Z","count":1,"url":"https://new-api.datam.site","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T10:12:53.314Z","to":"2026-04-17T15:02:52.176Z","count":28,"url":"https://new-api.datam.site","avg":2433,"min":1400,"max":4523,"p95":4247}
+{"type":"fail","from":"2026-04-17T15:12:50.025Z","to":"2026-04-17T15:12:50.025Z","count":1,"url":"https://new-api.datam.site","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T15:22:51.205Z","to":"2026-04-17T23:52:37.286Z","count":52,"url":"https://new-api.datam.site","avg":1972,"min":1527,"max":3139,"p95":2892}

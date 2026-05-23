@@ -110,3 +110,25 @@
 {"type":"fail","from":"2026-04-15T15:14:48.641Z","to":"2026-04-15T15:14:48.641Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
 {"type":"ok","from":"2026-04-15T15:24:40.034Z","to":"2026-04-15T23:54:11.073Z","count":52,"avg":27,"min":18,"max":176,"p95":31}
 {"type":"ok","from":"2026-04-16T00:04:24.966Z","to":"2026-04-16T23:54:32.428Z","count":131,"avg":120,"min":19,"max":3851,"p95":400}
+{"type":"fail","from":"2026-04-17T00:05:01.264Z","to":"2026-04-17T00:14:42.511Z","count":2,"status":null,"error":"fetch failed","avg_latency":2151}
+{"type":"fail","from":"2026-04-17T00:25:06.909Z","to":"2026-04-17T00:25:06.909Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T00:34:37.435Z","to":"2026-04-17T00:44:51.988Z","count":2,"avg":33,"min":26,"max":40,"p95":40}
+{"type":"fail","from":"2026-04-17T00:54:58.854Z","to":"2026-04-17T00:54:58.854Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T01:05:15.971Z","to":"2026-04-17T01:25:02.789Z","count":3,"avg":29,"min":25,"max":32,"p95":32}
+{"type":"fail","from":"2026-04-17T01:35:07.599Z","to":"2026-04-17T01:35:07.599Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T01:45:19.442Z","to":"2026-04-17T01:45:19.442Z","count":1,"avg":27,"min":27,"max":27,"p95":27}
+{"type":"fail","from":"2026-04-17T01:55:03.814Z","to":"2026-04-17T01:55:03.814Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T02:05:07.158Z","to":"2026-04-17T05:14:52.306Z","count":17,"avg":204,"min":21,"max":2926,"p95":2926}
+{"type":"fail","from":"2026-04-17T05:25:20.929Z","to":"2026-04-17T05:25:20.929Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-17T05:35:16.803Z","to":"2026-04-17T05:54:52.625Z","count":3,"avg":24,"min":23,"max":26,"p95":26}
+{"type":"fail","from":"2026-04-17T06:05:13.134Z","to":"2026-04-17T06:05:13.134Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T06:14:59.087Z","to":"2026-04-17T06:24:59.026Z","count":2,"avg":1551,"min":27,"max":3075,"p95":3075}
+{"type":"fail","from":"2026-04-17T06:35:13.551Z","to":"2026-04-17T06:35:13.551Z","count":1,"status":null,"error":"fetch failed","avg_latency":3057}
+{"type":"ok","from":"2026-04-17T06:45:12.320Z","to":"2026-04-17T06:54:52.722Z","count":2,"avg":1901,"min":20,"max":3782,"p95":3782}
+{"type":"fail","from":"2026-04-17T07:05:00.304Z","to":"2026-04-17T07:05:00.304Z","count":1,"status":null,"error":"fetch failed","avg_latency":3461}
+{"type":"fail","from":"2026-04-17T07:15:11.815Z","to":"2026-04-17T07:32:44.241Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T07:42:35.703Z","to":"2026-04-17T12:12:30.732Z","count":27,"avg":195,"min":21,"max":4107,"p95":484}
+{"type":"fail","from":"2026-04-17T12:22:39.496Z","to":"2026-04-17T12:22:39.496Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T12:32:41.542Z","to":"2026-04-17T16:12:36.454Z","count":21,"avg":649,"min":25,"max":3199,"p95":2823}
+{"type":"fail","from":"2026-04-17T16:22:39.346Z","to":"2026-04-17T16:22:39.346Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T16:32:42.028Z","to":"2026-04-17T23:52:30.544Z","count":45,"avg":75,"min":19,"max":2253,"p95":44}

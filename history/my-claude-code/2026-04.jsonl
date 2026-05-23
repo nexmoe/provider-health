@@ -67,3 +67,6 @@
 {"type":"fail","from":"2026-04-16T03:04:10.875Z","to":"2026-04-16T03:04:10.875Z","count":1,"url":"https://claudeagent.com.cn/v1","status":null,"error":"Healthcheck timeout","avg_latency":4999}
 {"type":"fail","from":"2026-04-16T03:14:14.503Z","to":"2026-04-16T09:44:09.737Z","count":34,"url":"https://claudeagent.com.cn/v1","status":null,"error":"fetch failed","avg_latency":97}
 {"type":"ok","from":"2026-04-16T09:54:36.454Z","to":"2026-04-16T23:54:04.938Z","count":78,"url":"https://claudeagent.com.cn","avg":51,"min":22,"max":673,"p95":79}
+{"type":"ok","from":"2026-04-17T00:04:34.532Z","to":"2026-04-17T09:32:26.006Z","count":54,"url":"https://claudeagent.com.cn","avg":451,"min":26,"max":2390,"p95":2074}
+{"type":"fail","from":"2026-04-17T09:42:23.497Z","to":"2026-04-17T09:42:23.497Z","count":1,"url":"https://claudeagent.com.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T09:52:23.572Z","to":"2026-04-17T23:52:18.333Z","count":83,"url":"https://claudeagent.com.cn","avg":1945,"min":1125,"max":2825,"p95":2433}

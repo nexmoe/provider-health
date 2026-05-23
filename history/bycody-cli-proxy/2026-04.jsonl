@@ -2,3 +2,6 @@
 {"type":"fail","from":"2026-04-15T00:03:56.558Z","to":"2026-04-15T23:54:27.786Z","count":140,"status":404,"error":"HTTP 404","avg_latency":825,"url":"https://hy2.bycody.space:8443/v1"}
 {"type":"fail","from":"2026-04-16T00:04:39.922Z","to":"2026-04-16T09:35:17.787Z","count":52,"url":"https://hy2.bycody.space:8443/v1","status":404,"error":"HTTP 404","avg_latency":654}
 {"type":"ok","from":"2026-04-16T09:44:49.800Z","to":"2026-04-16T23:54:49.454Z","count":79,"url":"https://hy2.bycody.space:8443","avg":743,"min":450,"max":2178,"p95":1913}
+{"type":"ok","from":"2026-04-17T00:05:14.579Z","to":"2026-04-17T03:25:10.766Z","count":21,"url":"https://hy2.bycody.space:8443","avg":813,"min":503,"max":3016,"p95":1551}
+{"type":"fail","from":"2026-04-17T03:35:42.626Z","to":"2026-04-17T03:35:42.626Z","count":1,"url":"https://hy2.bycody.space:8443","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T03:45:13.266Z","to":"2026-04-17T23:52:37.110Z","count":116,"url":"https://hy2.bycody.space:8443","avg":1622,"min":497,"max":4384,"p95":3357}

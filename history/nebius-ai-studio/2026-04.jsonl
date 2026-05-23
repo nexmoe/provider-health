@@ -21,3 +21,51 @@
 {"type":"fail","from":"2026-04-15T00:01:58.322Z","to":"2026-04-15T23:52:08.817Z","count":140,"status":404,"error":"HTTP 404","avg_latency":725,"url":"https://api.studio.nebius.ai"}
 {"type":"fail","from":"2026-04-16T00:02:21.315Z","to":"2026-04-16T07:42:29.681Z","count":42,"url":"https://api.studio.nebius.ai","status":404,"error":"HTTP 404","avg_latency":767}
 {"type":"ok","from":"2026-04-16T07:52:30.224Z","to":"2026-04-16T23:52:30.747Z","count":90,"url":"https://studio.nebius.ai","avg":1788,"min":1575,"max":2489,"p95":2031}
+{"type":"ok","from":"2026-04-17T00:02:50.840Z","to":"2026-04-17T07:31:21.280Z","count":43,"url":"https://studio.nebius.ai","avg":1870,"min":1617,"max":4555,"p95":2165}
+{"type":"fail","from":"2026-04-17T07:41:16.433Z","to":"2026-04-17T07:41:16.433Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T07:51:14.748Z","to":"2026-04-17T07:51:14.748Z","count":1,"url":"https://studio.nebius.ai","avg":3329,"min":3329,"max":3329,"p95":3329}
+{"type":"fail","from":"2026-04-17T08:01:28.002Z","to":"2026-04-17T08:01:28.002Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-17T08:11:14.741Z","to":"2026-04-17T08:31:20.551Z","count":3,"url":"https://studio.nebius.ai","avg":3401,"min":2748,"max":4013,"p95":4013}
+{"type":"fail","from":"2026-04-17T08:51:20.038Z","to":"2026-04-17T08:51:20.038Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":4999}
+{"type":"ok","from":"2026-04-17T09:01:23.379Z","to":"2026-04-17T09:01:23.379Z","count":1,"url":"https://studio.nebius.ai","avg":4215,"min":4215,"max":4215,"p95":4215}
+{"type":"fail","from":"2026-04-17T09:11:18.922Z","to":"2026-04-17T09:11:18.922Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":4999}
+{"type":"ok","from":"2026-04-17T09:21:17.196Z","to":"2026-04-17T09:31:18.348Z","count":2,"url":"https://studio.nebius.ai","avg":3672,"min":3148,"max":4196,"p95":4196}
+{"type":"fail","from":"2026-04-17T09:41:16.765Z","to":"2026-04-17T09:41:16.765Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T09:51:15.302Z","to":"2026-04-17T10:11:17.302Z","count":3,"url":"https://studio.nebius.ai","avg":3018,"min":2857,"max":3197,"p95":3197}
+{"type":"fail","from":"2026-04-17T10:21:19.408Z","to":"2026-04-17T10:21:19.408Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T10:31:19.383Z","to":"2026-04-17T11:01:25.016Z","count":4,"url":"https://studio.nebius.ai","avg":4101,"min":2949,"max":4733,"p95":4733}
+{"type":"fail","from":"2026-04-17T11:11:21.964Z","to":"2026-04-17T11:14:09.539Z","count":2,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T11:21:16.915Z","to":"2026-04-17T11:31:18.463Z","count":2,"url":"https://studio.nebius.ai","avg":2955,"min":2670,"max":3240,"p95":3240}
+{"type":"fail","from":"2026-04-17T11:41:19.370Z","to":"2026-04-17T12:21:16.512Z","count":5,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-17T12:31:21.504Z","to":"2026-04-17T12:31:21.504Z","count":1,"url":"https://studio.nebius.ai","avg":3735,"min":3735,"max":3735,"p95":3735}
+{"type":"fail","from":"2026-04-17T12:41:17.347Z","to":"2026-04-17T12:41:17.347Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-17T12:51:17.522Z","to":"2026-04-17T12:51:17.522Z","count":1,"url":"https://studio.nebius.ai","avg":2768,"min":2768,"max":2768,"p95":2768}
+{"type":"fail","from":"2026-04-17T13:01:28.744Z","to":"2026-04-17T13:01:28.744Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T13:11:15.892Z","to":"2026-04-17T13:41:18.098Z","count":4,"url":"https://studio.nebius.ai","avg":3589,"min":2686,"max":4520,"p95":4520}
+{"type":"fail","from":"2026-04-17T13:51:19.128Z","to":"2026-04-17T14:01:27.781Z","count":2,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T14:11:13.433Z","to":"2026-04-17T15:01:28.678Z","count":4,"url":"https://studio.nebius.ai","avg":3568,"min":2910,"max":4281,"p95":4281}
+{"type":"fail","from":"2026-04-17T15:11:19.393Z","to":"2026-04-17T15:11:19.393Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-17T15:21:18.739Z","to":"2026-04-17T15:21:18.739Z","count":1,"url":"https://studio.nebius.ai","avg":3756,"min":3756,"max":3756,"p95":3756}
+{"type":"fail","from":"2026-04-17T15:31:23.656Z","to":"2026-04-17T15:41:18.940Z","count":2,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-17T15:51:16.657Z","to":"2026-04-17T15:51:16.657Z","count":1,"url":"https://studio.nebius.ai","avg":3145,"min":3145,"max":3145,"p95":3145}
+{"type":"fail","from":"2026-04-17T16:01:29.640Z","to":"2026-04-17T16:31:23.148Z","count":4,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-17T16:41:15.708Z","to":"2026-04-17T16:41:15.708Z","count":1,"url":"https://studio.nebius.ai","avg":2966,"min":2966,"max":2966,"p95":2966}
+{"type":"fail","from":"2026-04-17T16:51:15.497Z","to":"2026-04-17T17:31:22.956Z","count":5,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T17:41:17.855Z","to":"2026-04-17T17:41:17.855Z","count":1,"url":"https://studio.nebius.ai","avg":2576,"min":2576,"max":2576,"p95":2576}
+{"type":"fail","from":"2026-04-17T17:51:16.203Z","to":"2026-04-17T18:01:23.578Z","count":2,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T18:11:12.696Z","to":"2026-04-17T18:11:12.696Z","count":1,"url":"https://studio.nebius.ai","avg":2551,"min":2551,"max":2551,"p95":2551}
+{"type":"fail","from":"2026-04-17T18:21:15.725Z","to":"2026-04-17T18:41:14.257Z","count":3,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T18:51:15.100Z","to":"2026-04-17T19:11:11.511Z","count":3,"url":"https://studio.nebius.ai","avg":3111,"min":2594,"max":3794,"p95":3794}
+{"type":"fail","from":"2026-04-17T19:21:15.530Z","to":"2026-04-17T19:21:15.530Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T19:31:19.905Z","to":"2026-04-17T20:01:20.546Z","count":4,"url":"https://studio.nebius.ai","avg":3409,"min":2390,"max":4483,"p95":4483}
+{"type":"fail","from":"2026-04-17T20:11:14.039Z","to":"2026-04-17T20:11:14.039Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T20:21:12.849Z","to":"2026-04-17T20:21:12.849Z","count":1,"url":"https://studio.nebius.ai","avg":4559,"min":4559,"max":4559,"p95":4559}
+{"type":"fail","from":"2026-04-17T20:31:20.654Z","to":"2026-04-17T20:31:20.654Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T20:41:11.392Z","to":"2026-04-17T21:01:21.998Z","count":3,"url":"https://studio.nebius.ai","avg":2894,"min":2773,"max":2995,"p95":2995}
+{"type":"fail","from":"2026-04-17T21:11:17.734Z","to":"2026-04-17T21:31:15.284Z","count":3,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T21:41:12.297Z","to":"2026-04-17T22:11:13.173Z","count":4,"url":"https://studio.nebius.ai","avg":3164,"min":2823,"max":3638,"p95":3638}
+{"type":"fail","from":"2026-04-17T22:21:14.248Z","to":"2026-04-17T22:21:14.248Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-17T22:31:19.230Z","to":"2026-04-17T22:51:13.180Z","count":3,"url":"https://studio.nebius.ai","avg":3394,"min":2708,"max":3817,"p95":3817}
+{"type":"fail","from":"2026-04-17T23:01:24.298Z","to":"2026-04-17T23:01:24.298Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-17T23:11:14.395Z","to":"2026-04-17T23:41:12.409Z","count":4,"url":"https://studio.nebius.ai","avg":3378,"min":2906,"max":3905,"p95":3905}
+{"type":"fail","from":"2026-04-17T23:51:18.564Z","to":"2026-04-17T23:51:18.564Z","count":1,"url":"https://studio.nebius.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
