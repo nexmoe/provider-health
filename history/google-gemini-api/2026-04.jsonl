@@ -16,3 +16,8 @@
 {"type":"fail","from":"2026-04-16T00:03:17.127Z","to":"2026-04-16T07:33:54.141Z","count":41,"url":"https://generativelanguage.googleapis.com/v1beta/openai/","status":404,"error":"HTTP 404","avg_latency":278}
 {"type":"ok","from":"2026-04-16T07:43:11.371Z","to":"2026-04-16T23:53:22.347Z","count":91,"url":"https://ai.google.dev/gemini-api/docs/openai","avg":941,"min":377,"max":2476,"p95":1749}
 {"type":"ok","from":"2026-04-17T00:03:44.155Z","to":"2026-04-17T23:51:50.510Z","count":139,"url":"https://ai.google.dev/gemini-api/docs/openai","avg":1172,"min":362,"max":3975,"p95":2202}
+{"type":"ok","from":"2026-04-18T00:02:02.538Z","to":"2026-04-18T01:01:52.280Z","count":7,"url":"https://ai.google.dev/gemini-api/docs/openai","avg":1434,"min":871,"max":2163,"p95":2163}
+{"type":"fail","from":"2026-04-18T01:11:47.900Z","to":"2026-04-18T01:11:47.900Z","count":1,"url":"https://ai.google.dev/gemini-api/docs/openai","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-18T01:21:47.610Z","to":"2026-04-18T10:01:59.155Z","count":50,"url":"https://ai.google.dev/gemini-api/docs/openai","avg":1290,"min":486,"max":2851,"p95":2720}
+{"type":"fail","from":"2026-04-18T10:12:41.634Z","to":"2026-04-18T10:12:41.634Z","count":1,"url":"https://ai.google.dev/gemini-api/docs/openai","status":null,"error":"fetch failed","avg_latency":4983}
+{"type":"ok","from":"2026-04-18T10:21:48.374Z","to":"2026-04-18T23:51:40.856Z","count":82,"url":"https://ai.google.dev/gemini-api/docs/openai","avg":1112,"min":381,"max":4001,"p95":2002}

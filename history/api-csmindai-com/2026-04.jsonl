@@ -77,3 +77,14 @@
 {"type":"ok","from":"2026-04-16T00:01:42.113Z","to":"2026-04-16T23:51:56.952Z","count":132,"avg":1116,"min":727,"max":4954,"p95":1800}
 {"type":"ok","from":"2026-04-17T00:02:19.040Z","to":"2026-04-17T09:41:01.839Z","count":56,"avg":972,"min":851,"max":1524,"p95":1170}
 {"type":"fail","from":"2026-04-17T09:51:02.328Z","to":"2026-04-17T23:51:03.658Z","count":84,"status":502,"error":"HTTP 502","avg_latency":1118}
+{"type":"fail","from":"2026-04-18T00:01:12.501Z","to":"2026-04-18T02:41:03.843Z","count":17,"status":502,"error":"HTTP 502","avg_latency":1217}
+{"type":"fail","from":"2026-04-18T02:51:03.104Z","to":"2026-04-18T02:51:03.104Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-18T03:01:11.891Z","to":"2026-04-18T08:01:10.135Z","count":28,"status":502,"error":"HTTP 502","avg_latency":2522}
+{"type":"fail","from":"2026-04-18T08:11:03.297Z","to":"2026-04-18T08:11:03.297Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-18T08:21:01.874Z","to":"2026-04-18T13:11:02.236Z","count":30,"status":502,"error":"HTTP 502","avg_latency":2950}
+{"type":"fail","from":"2026-04-18T13:21:03.943Z","to":"2026-04-18T13:21:03.943Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"fail","from":"2026-04-18T13:31:05.436Z","to":"2026-04-18T17:01:08.360Z","count":22,"status":502,"error":"HTTP 502","avg_latency":2760}
+{"type":"fail","from":"2026-04-18T17:11:00.668Z","to":"2026-04-18T17:11:00.668Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-18T17:21:02.971Z","to":"2026-04-18T20:51:00.707Z","count":22,"status":502,"error":"HTTP 502","avg_latency":2639}
+{"type":"fail","from":"2026-04-18T21:01:11.491Z","to":"2026-04-18T21:01:11.491Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-18T21:11:00.117Z","to":"2026-04-18T23:50:59.624Z","count":17,"status":502,"error":"HTTP 502","avg_latency":2234}

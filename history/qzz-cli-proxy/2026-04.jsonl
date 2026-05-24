@@ -30,3 +30,8 @@
 {"type":"fail","from":"2026-04-16T00:04:15.828Z","to":"2026-04-16T09:34:53.700Z","count":52,"url":"https://mutt.qzz.io/v1","status":404,"error":"HTTP 404","avg_latency":1119}
 {"type":"ok","from":"2026-04-16T09:44:24.445Z","to":"2026-04-16T23:54:20.588Z","count":79,"url":"https://mutt.qzz.io","avg":1177,"min":582,"max":2999,"p95":2320}
 {"type":"ok","from":"2026-04-17T00:04:48.933Z","to":"2026-04-17T23:52:27.852Z","count":138,"url":"https://mutt.qzz.io","avg":1398,"min":801,"max":3798,"p95":3055}
+{"type":"ok","from":"2026-04-18T00:02:41.856Z","to":"2026-04-18T08:12:29.128Z","count":46,"url":"https://mutt.qzz.io","avg":1259,"min":702,"max":4379,"p95":3213}
+{"type":"fail","from":"2026-04-18T08:22:31.929Z","to":"2026-04-18T08:22:31.929Z","count":1,"url":"https://mutt.qzz.io","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-18T08:32:40.956Z","to":"2026-04-18T10:02:43.486Z","count":10,"url":"https://mutt.qzz.io","avg":1212,"min":685,"max":2169,"p95":2169}
+{"type":"fail","from":"2026-04-18T10:15:11.774Z","to":"2026-04-18T10:15:11.774Z","count":1,"url":"https://mutt.qzz.io","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-18T10:22:32.995Z","to":"2026-04-18T23:52:20.966Z","count":81,"url":"https://mutt.qzz.io","avg":1278,"min":747,"max":3323,"p95":2248}

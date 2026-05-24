@@ -101,3 +101,6 @@
 {"type":"fail","from":"2026-04-16T00:03:03.264Z","to":"2026-04-16T09:43:09.137Z","count":54,"url":"https://api.shiyucheng.top/v1","status":404,"error":"HTTP 404","avg_latency":903}
 {"type":"ok","from":"2026-04-16T09:53:31.916Z","to":"2026-04-16T23:53:07.211Z","count":78,"url":"https://api.shiyucheng.top","avg":862,"min":615,"max":4204,"p95":1269}
 {"type":"ok","from":"2026-04-17T00:03:30.282Z","to":"2026-04-17T23:51:45.332Z","count":139,"url":"https://api.shiyucheng.top","avg":784,"min":613,"max":1953,"p95":1081}
+{"type":"ok","from":"2026-04-18T00:01:56.377Z","to":"2026-04-18T19:41:26.940Z","count":116,"url":"https://api.shiyucheng.top","avg":1092,"min":609,"max":3271,"p95":2382}
+{"type":"fail","from":"2026-04-18T19:51:34.577Z","to":"2026-04-18T19:51:34.577Z","count":1,"url":"https://api.shiyucheng.top","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-18T20:01:36.671Z","to":"2026-04-18T23:51:30.692Z","count":24,"url":"https://api.shiyucheng.top","avg":1946,"min":1537,"max":3565,"p95":2604}

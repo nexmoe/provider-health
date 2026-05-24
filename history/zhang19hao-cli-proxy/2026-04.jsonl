@@ -47,3 +47,8 @@
 {"type":"ok","from":"2026-04-16T09:44:19.314Z","to":"2026-04-16T18:24:30.598Z","count":46,"url":"https://cpa.zhang19hao.dpdns.org","avg":755,"min":389,"max":1622,"p95":1369}
 {"type":"fail","from":"2026-04-16T18:34:12.613Z","to":"2026-04-16T23:54:13.432Z","count":33,"url":"https://cpa.zhang19hao.dpdns.org","status":503,"error":"HTTP 503","avg_latency":606}
 {"type":"fail","from":"2026-04-17T00:04:41.822Z","to":"2026-04-17T23:52:24.142Z","count":138,"url":"https://cpa.zhang19hao.dpdns.org","status":503,"error":"HTTP 503","avg_latency":1635}
+{"type":"fail","from":"2026-04-18T00:02:36.797Z","to":"2026-04-18T08:12:23.979Z","count":46,"url":"https://cpa.zhang19hao.dpdns.org","status":503,"error":"HTTP 503","avg_latency":1690}
+{"type":"fail","from":"2026-04-18T08:22:26.630Z","to":"2026-04-18T08:22:26.630Z","count":1,"url":"https://cpa.zhang19hao.dpdns.org","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-18T08:32:35.795Z","to":"2026-04-18T10:02:38.548Z","count":10,"url":"https://cpa.zhang19hao.dpdns.org","status":503,"error":"HTTP 503","avg_latency":1201}
+{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"url":"https://cpa.zhang19hao.dpdns.org","status":null,"error":"Healthcheck timeout","avg_latency":7546}
+{"type":"fail","from":"2026-04-18T10:22:26.894Z","to":"2026-04-18T23:52:16.526Z","count":81,"url":"https://cpa.zhang19hao.dpdns.org","status":503,"error":"HTTP 503","avg_latency":951}

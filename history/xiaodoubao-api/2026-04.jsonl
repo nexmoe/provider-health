@@ -20,3 +20,6 @@
 {"type":"fail","from":"2026-04-16T00:03:01.794Z","to":"2026-04-16T09:43:06.923Z","count":54,"url":"https://api.linkapi.org/v1","status":404,"error":"HTTP 404","avg_latency":859}
 {"type":"ok","from":"2026-04-16T09:53:31.142Z","to":"2026-04-16T23:53:05.874Z","count":78,"url":"https://api.linkapi.org","avg":706,"min":478,"max":2076,"p95":1088}
 {"type":"ok","from":"2026-04-17T00:03:29.014Z","to":"2026-04-17T23:51:39.749Z","count":139,"url":"https://api.linkapi.org","avg":914,"min":490,"max":3116,"p95":1466}
+{"type":"ok","from":"2026-04-18T00:01:52.106Z","to":"2026-04-18T17:21:33.605Z","count":102,"url":"https://api.linkapi.org","avg":919,"min":502,"max":2197,"p95":1752}
+{"type":"fail","from":"2026-04-18T17:31:32.694Z","to":"2026-04-18T17:31:32.694Z","count":1,"url":"https://api.linkapi.org","status":null,"error":"fetch failed","avg_latency":881}
+{"type":"ok","from":"2026-04-18T17:41:32.100Z","to":"2026-04-18T23:51:30.226Z","count":38,"url":"https://api.linkapi.org","avg":1363,"min":988,"max":1873,"p95":1866}
