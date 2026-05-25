@@ -1,35 +1,36 @@
-{"url":"https://openai.xuya.dev"}
-{"type":"ok","from":"2026-04-01T00:04:54.943Z","to":"2026-04-01T23:54:51.034Z","count":144,"avg":810,"min":606,"max":1229,"p95":1091}
-{"type":"ok","from":"2026-04-02T00:04:46.839Z","to":"2026-04-02T11:14:52.801Z","count":68,"avg":833,"min":600,"max":1129,"p95":1070}
-{"type":"fail","from":"2026-04-02T11:25:22.942Z","to":"2026-04-02T12:54:54.428Z","count":10,"status":null,"error":"fetch failed","avg_latency":118}
-{"type":"ok","from":"2026-04-02T13:05:07.805Z","to":"2026-04-02T13:35:25.370Z","count":4,"avg":786,"min":639,"max":1023,"p95":1023}
-{"type":"fail","from":"2026-04-02T13:45:44.489Z","to":"2026-04-02T13:45:44.489Z","count":1,"status":null,"error":"fetch failed","avg_latency":136}
-{"type":"ok","from":"2026-04-02T13:55:39.668Z","to":"2026-04-02T13:55:39.668Z","count":1,"avg":959,"min":959,"max":959,"p95":959}
-{"type":"fail","from":"2026-04-02T14:05:36.222Z","to":"2026-04-02T14:45:50.631Z","count":5,"status":null,"error":"fetch failed","avg_latency":438}
-{"type":"ok","from":"2026-04-02T14:55:24.584Z","to":"2026-04-02T23:54:41.607Z","count":55,"avg":818,"min":608,"max":1248,"p95":1068}
-{"type":"ok","from":"2026-04-03T00:05:01.124Z","to":"2026-04-03T23:54:56.922Z","count":142,"avg":825,"min":600,"max":1534,"p95":1117}
-{"type":"ok","from":"2026-04-04T00:04:54.115Z","to":"2026-04-04T23:54:43.169Z","count":138,"avg":978,"min":584,"max":3129,"p95":1543}
-{"type":"ok","from":"2026-04-05T00:05:02.598Z","to":"2026-04-05T21:34:31.214Z","count":129,"avg":989,"min":629,"max":1349,"p95":1220}
-{"type":"fail","from":"2026-04-05T21:44:15.913Z","to":"2026-04-05T21:44:15.913Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-05T21:54:27.029Z","to":"2026-04-05T23:55:18.979Z","count":13,"avg":1077,"min":824,"max":1379,"p95":1379}
-{"type":"ok","from":"2026-04-06T00:04:49.217Z","to":"2026-04-06T23:54:09.715Z","count":144,"avg":916,"min":582,"max":2207,"p95":1227}
-{"type":"ok","from":"2026-04-07T00:04:07.977Z","to":"2026-04-07T23:53:47.480Z","count":144,"avg":807,"min":602,"max":1123,"p95":1055}
-{"type":"ok","from":"2026-04-08T00:04:23.982Z","to":"2026-04-08T23:54:47.587Z","count":144,"avg":981,"min":620,"max":3902,"p95":1335}
-{"type":"ok","from":"2026-04-09T00:04:28.346Z","to":"2026-04-09T23:54:04.339Z","count":144,"avg":895,"min":592,"max":1812,"p95":1328}
-{"type":"ok","from":"2026-04-10T00:04:05.513Z","to":"2026-04-10T23:54:06.647Z","count":143,"avg":824,"min":594,"max":1384,"p95":1102}
-{"type":"ok","from":"2026-04-11T00:03:57.371Z","to":"2026-04-11T06:44:46.510Z","count":41,"avg":795,"min":555,"max":1340,"p95":1259}
-{"type":"fail","from":"2026-04-11T06:54:33.982Z","to":"2026-04-11T06:54:33.982Z","count":1,"status":404,"error":"HTTP 404","avg_latency":679}
-{"type":"ok","from":"2026-04-11T07:04:44.406Z","to":"2026-04-11T23:54:14.399Z","count":101,"avg":848,"min":595,"max":2434,"p95":1251}
-{"type":"ok","from":"2026-04-12T00:03:58.549Z","to":"2026-04-12T23:53:43.276Z","count":142,"avg":900,"min":605,"max":1455,"p95":1241}
-{"type":"ok","from":"2026-04-13T00:03:56.433Z","to":"2026-04-13T15:04:38.946Z","count":83,"avg":946,"min":641,"max":1905,"p95":1325}
-{"type":"ok","from":"2026-04-14T02:29:25.849Z","to":"2026-04-14T06:34:03.781Z","count":18,"avg":798,"min":613,"max":1047,"p95":1047}
-{"type":"fail","from":"2026-04-14T06:44:07.650Z","to":"2026-04-14T06:44:07.650Z","count":1,"status":404,"error":"HTTP 404","avg_latency":1218}
-{"type":"ok","from":"2026-04-14T06:54:10.013Z","to":"2026-04-14T23:53:43.867Z","count":101,"avg":938,"min":631,"max":1401,"p95":1245}
-{"type":"ok","from":"2026-04-15T00:03:38.642Z","to":"2026-04-15T18:34:28.127Z","count":108,"avg":963,"min":632,"max":1509,"p95":1351}
-{"type":"fail","from":"2026-04-15T18:44:41.617Z","to":"2026-04-15T18:44:41.617Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T18:54:13.909Z","to":"2026-04-15T23:54:04.979Z","count":31,"avg":1026,"min":650,"max":1179,"p95":1162}
-{"type":"ok","from":"2026-04-16T00:04:15.768Z","to":"2026-04-16T23:54:20.555Z","count":131,"avg":1015,"min":643,"max":1231,"p95":1189}
-{"type":"ok","from":"2026-04-17T00:04:48.163Z","to":"2026-04-17T23:52:27.595Z","count":138,"avg":1110,"min":806,"max":2176,"p95":1480}
-{"type":"ok","from":"2026-04-18T00:02:41.515Z","to":"2026-04-18T10:02:43.658Z","count":57,"avg":1048,"min":622,"max":4116,"p95":1609}
-{"type":"fail","from":"2026-04-18T10:15:11.435Z","to":"2026-04-18T10:15:11.435Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-18T10:22:31.936Z","to":"2026-04-18T23:52:20.737Z","count":81,"avg":1017,"min":708,"max":1775,"p95":1435}
+{"type":"ok","from":"2026-04-01T00:04:54.943Z","to":"2026-04-01T23:54:51.034Z","count":144,"avg":810,"min":606,"max":1229,"p95":1091,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-02T00:04:46.839Z","to":"2026-04-02T11:14:52.801Z","count":68,"avg":833,"min":600,"max":1129,"p95":1070,"url":"https://openai.xuya.dev"}
+{"type":"fail","from":"2026-04-02T11:25:22.942Z","to":"2026-04-02T12:54:54.428Z","count":10,"status":null,"error":"fetch failed","avg_latency":118,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-02T13:05:07.805Z","to":"2026-04-02T13:35:25.370Z","count":4,"avg":786,"min":639,"max":1023,"p95":1023,"url":"https://openai.xuya.dev"}
+{"type":"fail","from":"2026-04-02T13:45:44.489Z","to":"2026-04-02T13:45:44.489Z","count":1,"status":null,"error":"fetch failed","avg_latency":136,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-02T13:55:39.668Z","to":"2026-04-02T13:55:39.668Z","count":1,"avg":959,"min":959,"max":959,"p95":959,"url":"https://openai.xuya.dev"}
+{"type":"fail","from":"2026-04-02T14:05:36.222Z","to":"2026-04-02T14:45:50.631Z","count":5,"status":null,"error":"fetch failed","avg_latency":438,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-02T14:55:24.584Z","to":"2026-04-02T23:54:41.607Z","count":55,"avg":818,"min":608,"max":1248,"p95":1068,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-03T00:05:01.124Z","to":"2026-04-03T23:54:56.922Z","count":142,"avg":825,"min":600,"max":1534,"p95":1117,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-04T00:04:54.115Z","to":"2026-04-04T23:54:43.169Z","count":138,"avg":978,"min":584,"max":3129,"p95":1543,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-05T00:05:02.598Z","to":"2026-04-05T21:34:31.214Z","count":129,"avg":989,"min":629,"max":1349,"p95":1220,"url":"https://openai.xuya.dev"}
+{"type":"fail","from":"2026-04-05T21:44:15.913Z","to":"2026-04-05T21:44:15.913Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-05T21:54:27.029Z","to":"2026-04-05T23:55:18.979Z","count":13,"avg":1077,"min":824,"max":1379,"p95":1379,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-06T00:04:49.217Z","to":"2026-04-06T23:54:09.715Z","count":144,"avg":916,"min":582,"max":2207,"p95":1227,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-07T00:04:07.977Z","to":"2026-04-07T23:53:47.480Z","count":144,"avg":807,"min":602,"max":1123,"p95":1055,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-08T00:04:23.982Z","to":"2026-04-08T23:54:47.587Z","count":144,"avg":981,"min":620,"max":3902,"p95":1335,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-09T00:04:28.346Z","to":"2026-04-09T23:54:04.339Z","count":144,"avg":895,"min":592,"max":1812,"p95":1328,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-10T00:04:05.513Z","to":"2026-04-10T23:54:06.647Z","count":143,"avg":824,"min":594,"max":1384,"p95":1102,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-11T00:03:57.371Z","to":"2026-04-11T06:44:46.510Z","count":41,"avg":795,"min":555,"max":1340,"p95":1259,"url":"https://openai.xuya.dev"}
+{"type":"fail","from":"2026-04-11T06:54:33.982Z","to":"2026-04-11T06:54:33.982Z","count":1,"status":404,"error":"HTTP 404","avg_latency":679,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-11T07:04:44.406Z","to":"2026-04-11T23:54:14.399Z","count":101,"avg":848,"min":595,"max":2434,"p95":1251,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-12T00:03:58.549Z","to":"2026-04-12T23:53:43.276Z","count":142,"avg":900,"min":605,"max":1455,"p95":1241,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-13T00:03:56.433Z","to":"2026-04-13T15:04:38.946Z","count":83,"avg":946,"min":641,"max":1905,"p95":1325,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-14T02:29:25.849Z","to":"2026-04-14T06:34:03.781Z","count":18,"avg":798,"min":613,"max":1047,"p95":1047,"url":"https://openai.xuya.dev"}
+{"type":"fail","from":"2026-04-14T06:44:07.650Z","to":"2026-04-14T06:44:07.650Z","count":1,"status":404,"error":"HTTP 404","avg_latency":1218,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-14T06:54:10.013Z","to":"2026-04-14T23:53:43.867Z","count":101,"avg":938,"min":631,"max":1401,"p95":1245,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-15T00:03:38.642Z","to":"2026-04-15T18:34:28.127Z","count":108,"avg":963,"min":632,"max":1509,"p95":1351,"url":"https://openai.xuya.dev"}
+{"type":"fail","from":"2026-04-15T18:44:41.617Z","to":"2026-04-15T18:44:41.617Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-15T18:54:13.909Z","to":"2026-04-15T23:54:04.979Z","count":31,"avg":1026,"min":650,"max":1179,"p95":1162,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-16T00:04:15.768Z","to":"2026-04-16T23:54:20.555Z","count":131,"avg":1015,"min":643,"max":1231,"p95":1189,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-17T00:04:48.163Z","to":"2026-04-17T23:52:27.595Z","count":138,"avg":1110,"min":806,"max":2176,"p95":1480,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-18T00:02:41.515Z","to":"2026-04-18T10:02:43.658Z","count":57,"avg":1048,"min":622,"max":4116,"p95":1609,"url":"https://openai.xuya.dev"}
+{"type":"fail","from":"2026-04-18T10:15:11.435Z","to":"2026-04-18T10:15:11.435Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-18T10:22:31.936Z","to":"2026-04-18T23:52:20.737Z","count":81,"avg":1017,"min":708,"max":1775,"p95":1435,"url":"https://openai.xuya.dev"}
+{"type":"ok","from":"2026-04-19T00:02:32.433Z","to":"2026-04-19T07:52:23.161Z","count":45,"url":"https://openai.xuya.dev","avg":1062,"min":729,"max":1705,"p95":1559}
+{"type":"ok","from":"2026-04-19T08:15:22.884Z","to":"2026-04-19T23:52:16.577Z","count":48,"url":"https://openai.xuya.dev/v1/models","avg":712,"min":445,"max":2491,"p95":889}

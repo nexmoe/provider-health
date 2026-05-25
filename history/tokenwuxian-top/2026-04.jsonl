@@ -1,79 +1,80 @@
-{"url":"https://tokenwuxian.top"}
-{"type":"ok","from":"2026-04-01T00:04:16.222Z","to":"2026-04-01T23:54:14.339Z","count":144,"avg":197,"min":76,"max":640,"p95":358}
-{"type":"ok","from":"2026-04-02T00:04:13.597Z","to":"2026-04-02T23:54:08.776Z","count":144,"avg":186,"min":70,"max":725,"p95":317}
-{"type":"ok","from":"2026-04-03T00:04:14.499Z","to":"2026-04-03T16:25:55.732Z","count":99,"avg":226,"min":86,"max":640,"p95":443}
-{"type":"fail","from":"2026-04-03T16:35:42.154Z","to":"2026-04-03T16:35:42.154Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T16:44:33.978Z","to":"2026-04-03T23:54:13.536Z","count":42,"avg":132,"min":75,"max":377,"p95":211}
-{"type":"ok","from":"2026-04-04T00:04:18.271Z","to":"2026-04-04T15:24:23.505Z","count":87,"avg":454,"min":74,"max":4621,"p95":2214}
-{"type":"fail","from":"2026-04-04T15:34:31.134Z","to":"2026-04-04T15:44:22.467Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T15:54:13.510Z","to":"2026-04-04T19:54:11.660Z","count":25,"avg":417,"min":205,"max":1538,"p95":1155}
-{"type":"fail","from":"2026-04-04T20:03:57.169Z","to":"2026-04-04T20:03:57.169Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T20:13:43.811Z","to":"2026-04-04T23:53:56.168Z","count":23,"avg":450,"min":150,"max":2266,"p95":1507}
-{"type":"ok","from":"2026-04-05T00:04:13.371Z","to":"2026-04-05T06:14:35.739Z","count":38,"avg":318,"min":153,"max":1289,"p95":874}
-{"type":"fail","from":"2026-04-05T06:24:23.514Z","to":"2026-04-05T06:34:28.169Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T06:44:17.842Z","to":"2026-04-05T07:34:13.498Z","count":6,"avg":245,"min":212,"max":313,"p95":313}
-{"type":"fail","from":"2026-04-05T07:44:27.421Z","to":"2026-04-05T07:44:27.421Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T07:53:58.826Z","to":"2026-04-05T12:04:05.831Z","count":26,"avg":595,"min":206,"max":3646,"p95":1739}
-{"type":"fail","from":"2026-04-05T12:14:26.465Z","to":"2026-04-05T12:14:26.465Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T12:24:21.422Z","to":"2026-04-05T13:54:46.710Z","count":10,"avg":290,"min":210,"max":494,"p95":494}
-{"type":"fail","from":"2026-04-05T14:14:56.163Z","to":"2026-04-05T14:14:56.163Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T14:24:27.822Z","to":"2026-04-05T14:44:31.191Z","count":3,"avg":249,"min":219,"max":274,"p95":274}
-{"type":"fail","from":"2026-04-05T14:54:10.647Z","to":"2026-04-05T14:54:10.647Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T15:04:28.631Z","to":"2026-04-05T19:03:52.265Z","count":25,"avg":433,"min":212,"max":1873,"p95":1684}
-{"type":"fail","from":"2026-04-05T19:13:45.561Z","to":"2026-04-05T19:13:45.561Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T19:23:43.078Z","to":"2026-04-05T23:54:27.138Z","count":28,"avg":356,"min":126,"max":1276,"p95":1251}
-{"type":"ok","from":"2026-04-06T00:04:10.800Z","to":"2026-04-06T03:43:56.292Z","count":23,"avg":326,"min":185,"max":1050,"p95":609}
-{"type":"fail","from":"2026-04-06T03:54:21.154Z","to":"2026-04-06T03:54:21.154Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T04:04:01.257Z","to":"2026-04-06T04:34:19.268Z","count":4,"avg":507,"min":225,"max":1288,"p95":1288}
-{"type":"fail","from":"2026-04-06T04:44:35.707Z","to":"2026-04-06T04:44:35.707Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T04:54:16.633Z","to":"2026-04-06T09:14:27.777Z","count":27,"avg":368,"min":199,"max":1450,"p95":1159}
-{"type":"fail","from":"2026-04-06T09:24:38.201Z","to":"2026-04-06T09:24:38.201Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T09:35:06.898Z","to":"2026-04-06T10:24:28.370Z","count":6,"avg":291,"min":186,"max":598,"p95":598}
-{"type":"fail","from":"2026-04-06T10:34:22.450Z","to":"2026-04-06T10:34:22.450Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T10:43:57.037Z","to":"2026-04-06T10:43:57.037Z","count":1,"avg":308,"min":308,"max":308,"p95":308}
-{"type":"fail","from":"2026-04-06T10:54:16.437Z","to":"2026-04-06T10:54:16.437Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T11:04:12.913Z","to":"2026-04-06T23:53:29.968Z","count":78,"avg":187,"min":83,"max":935,"p95":362}
-{"type":"ok","from":"2026-04-07T00:03:30.275Z","to":"2026-04-07T12:24:01.506Z","count":75,"avg":214,"min":94,"max":632,"p95":331}
-{"type":"fail","from":"2026-04-07T12:34:16.481Z","to":"2026-04-07T12:34:16.481Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T12:43:52.357Z","to":"2026-04-07T23:53:16.822Z","count":68,"avg":237,"min":80,"max":2801,"p95":599}
-{"type":"ok","from":"2026-04-08T00:03:38.902Z","to":"2026-04-08T05:54:04.877Z","count":36,"avg":264,"min":101,"max":1346,"p95":391}
-{"type":"fail","from":"2026-04-08T06:04:20.566Z","to":"2026-04-08T06:04:20.566Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T06:14:28.046Z","to":"2026-04-08T06:24:18.673Z","count":2,"avg":309,"min":301,"max":317,"p95":317}
-{"type":"fail","from":"2026-04-08T06:34:14.939Z","to":"2026-04-08T06:34:14.939Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-08T06:43:57.289Z","to":"2026-04-08T08:34:06.031Z","count":12,"avg":296,"min":198,"max":692,"p95":692}
-{"type":"fail","from":"2026-04-08T08:44:36.169Z","to":"2026-04-08T08:44:36.169Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-08T08:54:30.984Z","to":"2026-04-08T10:24:34.845Z","count":10,"avg":333,"min":107,"max":986,"p95":986}
-{"type":"fail","from":"2026-04-08T10:34:43.618Z","to":"2026-04-08T10:44:30.217Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T10:54:41.911Z","to":"2026-04-08T15:04:26.922Z","count":26,"avg":695,"min":117,"max":3195,"p95":2268}
-{"type":"fail","from":"2026-04-08T15:14:50.770Z","to":"2026-04-08T15:14:50.770Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T15:24:24.798Z","to":"2026-04-08T17:24:17.366Z","count":13,"avg":571,"min":160,"max":3596,"p95":3596}
-{"type":"fail","from":"2026-04-08T17:34:25.675Z","to":"2026-04-08T17:34:25.675Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T17:44:01.935Z","to":"2026-04-08T18:34:16.486Z","count":6,"avg":254,"min":220,"max":379,"p95":379}
-{"type":"fail","from":"2026-04-08T18:44:01.066Z","to":"2026-04-08T19:04:21.411Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T19:14:05.185Z","to":"2026-04-08T20:13:43.166Z","count":7,"avg":449,"min":180,"max":913,"p95":913}
-{"type":"fail","from":"2026-04-08T20:24:23.521Z","to":"2026-04-08T20:24:23.521Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T20:34:21.983Z","to":"2026-04-08T23:54:04.177Z","count":21,"avg":418,"min":146,"max":1887,"p95":805}
-{"type":"ok","from":"2026-04-09T00:03:55.689Z","to":"2026-04-09T02:14:30.844Z","count":14,"avg":280,"min":153,"max":651,"p95":651}
-{"type":"fail","from":"2026-04-09T02:24:06.153Z","to":"2026-04-09T02:24:06.153Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T02:34:18.918Z","to":"2026-04-09T03:13:52.319Z","count":5,"avg":392,"min":189,"max":1084,"p95":1084}
-{"type":"fail","from":"2026-04-09T03:24:43.389Z","to":"2026-04-09T03:24:43.389Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T03:34:25.980Z","to":"2026-04-09T04:24:18.849Z","count":6,"avg":518,"min":205,"max":1288,"p95":1288}
-{"type":"fail","from":"2026-04-09T04:34:18.737Z","to":"2026-04-09T04:44:40.318Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T04:54:26.586Z","to":"2026-04-09T05:44:13.691Z","count":6,"avg":1092,"min":236,"max":2484,"p95":2484}
-{"type":"fail","from":"2026-04-09T05:55:03.907Z","to":"2026-04-09T05:55:03.907Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T06:04:30.465Z","to":"2026-04-09T23:53:23.606Z","count":108,"avg":273,"min":73,"max":2364,"p95":1142}
-{"type":"ok","from":"2026-04-10T00:03:33.457Z","to":"2026-04-10T05:04:12.337Z","count":31,"avg":401,"min":77,"max":2242,"p95":1642}
-{"type":"fail","from":"2026-04-10T05:14:00.925Z","to":"2026-04-10T05:14:00.925Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-10T05:24:17.827Z","to":"2026-04-10T05:24:17.827Z","count":1,"avg":235,"min":235,"max":235,"p95":235}
-{"type":"fail","from":"2026-04-10T05:34:10.824Z","to":"2026-04-10T05:54:33.574Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T06:04:26.425Z","to":"2026-04-10T23:53:33.019Z","count":108,"avg":219,"min":64,"max":1890,"p95":478}
-{"type":"ok","from":"2026-04-11T00:03:30.950Z","to":"2026-04-11T23:53:47.129Z","count":143,"avg":123,"min":45,"max":1158,"p95":285}
-{"type":"ok","from":"2026-04-12T00:03:31.041Z","to":"2026-04-12T23:53:17.227Z","count":142,"avg":105,"min":50,"max":1143,"p95":281}
-{"type":"ok","from":"2026-04-13T00:03:24.884Z","to":"2026-04-13T15:03:54.306Z","count":84,"avg":169,"min":58,"max":426,"p95":346}
-{"type":"ok","from":"2026-04-14T02:28:45.822Z","to":"2026-04-14T23:53:10.616Z","count":120,"avg":183,"min":71,"max":489,"p95":430}
-{"type":"ok","from":"2026-04-15T00:03:05.896Z","to":"2026-04-15T23:53:33.190Z","count":140,"avg":280,"min":89,"max":1416,"p95":765}
-{"type":"ok","from":"2026-04-16T00:03:46.716Z","to":"2026-04-16T23:53:48.321Z","count":131,"avg":323,"min":107,"max":948,"p95":688}
-{"type":"ok","from":"2026-04-17T00:04:17.717Z","to":"2026-04-17T23:52:10.917Z","count":138,"avg":338,"min":136,"max":1402,"p95":729}
-{"type":"ok","from":"2026-04-18T00:02:23.369Z","to":"2026-04-18T10:02:21.335Z","count":57,"avg":186,"min":68,"max":479,"p95":410}
-{"type":"fail","from":"2026-04-18T10:14:01.708Z","to":"2026-04-18T10:14:01.708Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5047}
-{"type":"ok","from":"2026-04-18T10:22:09.798Z","to":"2026-04-18T23:52:00.110Z","count":81,"avg":912,"min":64,"max":2315,"p95":1576}
+{"type":"ok","from":"2026-04-01T00:04:16.222Z","to":"2026-04-01T23:54:14.339Z","count":144,"avg":197,"min":76,"max":640,"p95":358,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-02T00:04:13.597Z","to":"2026-04-02T23:54:08.776Z","count":144,"avg":186,"min":70,"max":725,"p95":317,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-03T00:04:14.499Z","to":"2026-04-03T16:25:55.732Z","count":99,"avg":226,"min":86,"max":640,"p95":443,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-03T16:35:42.154Z","to":"2026-04-03T16:35:42.154Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-03T16:44:33.978Z","to":"2026-04-03T23:54:13.536Z","count":42,"avg":132,"min":75,"max":377,"p95":211,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-04T00:04:18.271Z","to":"2026-04-04T15:24:23.505Z","count":87,"avg":454,"min":74,"max":4621,"p95":2214,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-04T15:34:31.134Z","to":"2026-04-04T15:44:22.467Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-04T15:54:13.510Z","to":"2026-04-04T19:54:11.660Z","count":25,"avg":417,"min":205,"max":1538,"p95":1155,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-04T20:03:57.169Z","to":"2026-04-04T20:03:57.169Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-04T20:13:43.811Z","to":"2026-04-04T23:53:56.168Z","count":23,"avg":450,"min":150,"max":2266,"p95":1507,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-05T00:04:13.371Z","to":"2026-04-05T06:14:35.739Z","count":38,"avg":318,"min":153,"max":1289,"p95":874,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-05T06:24:23.514Z","to":"2026-04-05T06:34:28.169Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-05T06:44:17.842Z","to":"2026-04-05T07:34:13.498Z","count":6,"avg":245,"min":212,"max":313,"p95":313,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-05T07:44:27.421Z","to":"2026-04-05T07:44:27.421Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-05T07:53:58.826Z","to":"2026-04-05T12:04:05.831Z","count":26,"avg":595,"min":206,"max":3646,"p95":1739,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-05T12:14:26.465Z","to":"2026-04-05T12:14:26.465Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-05T12:24:21.422Z","to":"2026-04-05T13:54:46.710Z","count":10,"avg":290,"min":210,"max":494,"p95":494,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-05T14:14:56.163Z","to":"2026-04-05T14:14:56.163Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-05T14:24:27.822Z","to":"2026-04-05T14:44:31.191Z","count":3,"avg":249,"min":219,"max":274,"p95":274,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-05T14:54:10.647Z","to":"2026-04-05T14:54:10.647Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-05T15:04:28.631Z","to":"2026-04-05T19:03:52.265Z","count":25,"avg":433,"min":212,"max":1873,"p95":1684,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-05T19:13:45.561Z","to":"2026-04-05T19:13:45.561Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-05T19:23:43.078Z","to":"2026-04-05T23:54:27.138Z","count":28,"avg":356,"min":126,"max":1276,"p95":1251,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-06T00:04:10.800Z","to":"2026-04-06T03:43:56.292Z","count":23,"avg":326,"min":185,"max":1050,"p95":609,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-06T03:54:21.154Z","to":"2026-04-06T03:54:21.154Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-06T04:04:01.257Z","to":"2026-04-06T04:34:19.268Z","count":4,"avg":507,"min":225,"max":1288,"p95":1288,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-06T04:44:35.707Z","to":"2026-04-06T04:44:35.707Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-06T04:54:16.633Z","to":"2026-04-06T09:14:27.777Z","count":27,"avg":368,"min":199,"max":1450,"p95":1159,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-06T09:24:38.201Z","to":"2026-04-06T09:24:38.201Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-06T09:35:06.898Z","to":"2026-04-06T10:24:28.370Z","count":6,"avg":291,"min":186,"max":598,"p95":598,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-06T10:34:22.450Z","to":"2026-04-06T10:34:22.450Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-06T10:43:57.037Z","to":"2026-04-06T10:43:57.037Z","count":1,"avg":308,"min":308,"max":308,"p95":308,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-06T10:54:16.437Z","to":"2026-04-06T10:54:16.437Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-06T11:04:12.913Z","to":"2026-04-06T23:53:29.968Z","count":78,"avg":187,"min":83,"max":935,"p95":362,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-07T00:03:30.275Z","to":"2026-04-07T12:24:01.506Z","count":75,"avg":214,"min":94,"max":632,"p95":331,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-07T12:34:16.481Z","to":"2026-04-07T12:34:16.481Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-07T12:43:52.357Z","to":"2026-04-07T23:53:16.822Z","count":68,"avg":237,"min":80,"max":2801,"p95":599,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T00:03:38.902Z","to":"2026-04-08T05:54:04.877Z","count":36,"avg":264,"min":101,"max":1346,"p95":391,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-08T06:04:20.566Z","to":"2026-04-08T06:04:20.566Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T06:14:28.046Z","to":"2026-04-08T06:24:18.673Z","count":2,"avg":309,"min":301,"max":317,"p95":317,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-08T06:34:14.939Z","to":"2026-04-08T06:34:14.939Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T06:43:57.289Z","to":"2026-04-08T08:34:06.031Z","count":12,"avg":296,"min":198,"max":692,"p95":692,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-08T08:44:36.169Z","to":"2026-04-08T08:44:36.169Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T08:54:30.984Z","to":"2026-04-08T10:24:34.845Z","count":10,"avg":333,"min":107,"max":986,"p95":986,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-08T10:34:43.618Z","to":"2026-04-08T10:44:30.217Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T10:54:41.911Z","to":"2026-04-08T15:04:26.922Z","count":26,"avg":695,"min":117,"max":3195,"p95":2268,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-08T15:14:50.770Z","to":"2026-04-08T15:14:50.770Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T15:24:24.798Z","to":"2026-04-08T17:24:17.366Z","count":13,"avg":571,"min":160,"max":3596,"p95":3596,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-08T17:34:25.675Z","to":"2026-04-08T17:34:25.675Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T17:44:01.935Z","to":"2026-04-08T18:34:16.486Z","count":6,"avg":254,"min":220,"max":379,"p95":379,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-08T18:44:01.066Z","to":"2026-04-08T19:04:21.411Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T19:14:05.185Z","to":"2026-04-08T20:13:43.166Z","count":7,"avg":449,"min":180,"max":913,"p95":913,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-08T20:24:23.521Z","to":"2026-04-08T20:24:23.521Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-08T20:34:21.983Z","to":"2026-04-08T23:54:04.177Z","count":21,"avg":418,"min":146,"max":1887,"p95":805,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-09T00:03:55.689Z","to":"2026-04-09T02:14:30.844Z","count":14,"avg":280,"min":153,"max":651,"p95":651,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-09T02:24:06.153Z","to":"2026-04-09T02:24:06.153Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-09T02:34:18.918Z","to":"2026-04-09T03:13:52.319Z","count":5,"avg":392,"min":189,"max":1084,"p95":1084,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-09T03:24:43.389Z","to":"2026-04-09T03:24:43.389Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-09T03:34:25.980Z","to":"2026-04-09T04:24:18.849Z","count":6,"avg":518,"min":205,"max":1288,"p95":1288,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-09T04:34:18.737Z","to":"2026-04-09T04:44:40.318Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-09T04:54:26.586Z","to":"2026-04-09T05:44:13.691Z","count":6,"avg":1092,"min":236,"max":2484,"p95":2484,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-09T05:55:03.907Z","to":"2026-04-09T05:55:03.907Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-09T06:04:30.465Z","to":"2026-04-09T23:53:23.606Z","count":108,"avg":273,"min":73,"max":2364,"p95":1142,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-10T00:03:33.457Z","to":"2026-04-10T05:04:12.337Z","count":31,"avg":401,"min":77,"max":2242,"p95":1642,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-10T05:14:00.925Z","to":"2026-04-10T05:14:00.925Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-10T05:24:17.827Z","to":"2026-04-10T05:24:17.827Z","count":1,"avg":235,"min":235,"max":235,"p95":235,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-10T05:34:10.824Z","to":"2026-04-10T05:54:33.574Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-10T06:04:26.425Z","to":"2026-04-10T23:53:33.019Z","count":108,"avg":219,"min":64,"max":1890,"p95":478,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-11T00:03:30.950Z","to":"2026-04-11T23:53:47.129Z","count":143,"avg":123,"min":45,"max":1158,"p95":285,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-12T00:03:31.041Z","to":"2026-04-12T23:53:17.227Z","count":142,"avg":105,"min":50,"max":1143,"p95":281,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-13T00:03:24.884Z","to":"2026-04-13T15:03:54.306Z","count":84,"avg":169,"min":58,"max":426,"p95":346,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-14T02:28:45.822Z","to":"2026-04-14T23:53:10.616Z","count":120,"avg":183,"min":71,"max":489,"p95":430,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-15T00:03:05.896Z","to":"2026-04-15T23:53:33.190Z","count":140,"avg":280,"min":89,"max":1416,"p95":765,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-16T00:03:46.716Z","to":"2026-04-16T23:53:48.321Z","count":131,"avg":323,"min":107,"max":948,"p95":688,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-17T00:04:17.717Z","to":"2026-04-17T23:52:10.917Z","count":138,"avg":338,"min":136,"max":1402,"p95":729,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-18T00:02:23.369Z","to":"2026-04-18T10:02:21.335Z","count":57,"avg":186,"min":68,"max":479,"p95":410,"url":"https://tokenwuxian.top"}
+{"type":"fail","from":"2026-04-18T10:14:01.708Z","to":"2026-04-18T10:14:01.708Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5047,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-18T10:22:09.798Z","to":"2026-04-18T23:52:00.110Z","count":81,"avg":912,"min":64,"max":2315,"p95":1576,"url":"https://tokenwuxian.top"}
+{"type":"ok","from":"2026-04-19T00:02:13.692Z","to":"2026-04-19T07:52:04.509Z","count":45,"url":"https://tokenwuxian.top","avg":1114,"min":634,"max":1654,"p95":1480}
+{"type":"ok","from":"2026-04-19T08:14:16.037Z","to":"2026-04-19T23:51:08.299Z","count":48,"url":"https://tokenwuxian.top/api/status","avg":1134,"min":510,"max":1806,"p95":1510}

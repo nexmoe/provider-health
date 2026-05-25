@@ -1,51 +1,52 @@
-{"url":"https://api.lotte-library.top"}
-{"type":"ok","from":"2026-04-01T00:04:08.256Z","to":"2026-04-01T23:54:07.827Z","count":144,"avg":322,"min":196,"max":1306,"p95":565}
-{"type":"ok","from":"2026-04-02T00:04:05.647Z","to":"2026-04-02T23:54:01.433Z","count":144,"avg":343,"min":169,"max":853,"p95":680}
-{"type":"ok","from":"2026-04-03T00:04:07.732Z","to":"2026-04-03T23:54:07.077Z","count":142,"avg":350,"min":164,"max":1708,"p95":710}
-{"type":"ok","from":"2026-04-04T00:04:11.069Z","to":"2026-04-04T11:14:05.958Z","count":62,"avg":383,"min":220,"max":2323,"p95":748}
-{"type":"fail","from":"2026-04-04T11:24:23.195Z","to":"2026-04-04T11:24:23.195Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T11:34:07.911Z","to":"2026-04-04T12:54:43.671Z","count":9,"avg":1064,"min":270,"max":4458,"p95":4458}
-{"type":"fail","from":"2026-04-04T13:04:35.559Z","to":"2026-04-04T13:04:35.559Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T13:14:15.536Z","to":"2026-04-04T13:44:24.366Z","count":4,"avg":944,"min":399,"max":1507,"p95":1507}
-{"type":"fail","from":"2026-04-04T13:54:13.008Z","to":"2026-04-04T13:54:13.008Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T14:04:27.608Z","to":"2026-04-04T22:43:52.933Z","count":53,"avg":484,"min":176,"max":2509,"p95":1898}
-{"type":"fail","from":"2026-04-04T22:53:49.502Z","to":"2026-04-04T23:03:45.450Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T23:13:57.969Z","to":"2026-04-04T23:53:49.042Z","count":5,"avg":454,"min":287,"max":651,"p95":651}
-{"type":"ok","from":"2026-04-05T00:03:59.667Z","to":"2026-04-05T03:44:05.257Z","count":23,"avg":405,"min":211,"max":727,"p95":581}
-{"type":"fail","from":"2026-04-05T03:54:06.402Z","to":"2026-04-05T03:54:06.402Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T04:03:55.634Z","to":"2026-04-05T08:34:27.745Z","count":28,"avg":410,"min":262,"max":972,"p95":777}
-{"type":"fail","from":"2026-04-05T08:44:03.141Z","to":"2026-04-05T08:44:03.141Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T08:54:21.252Z","to":"2026-04-05T13:54:35.537Z","count":31,"avg":479,"min":213,"max":1363,"p95":1214}
-{"type":"fail","from":"2026-04-05T14:14:43.427Z","to":"2026-04-05T14:14:43.427Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T14:24:16.153Z","to":"2026-04-05T15:24:14.452Z","count":7,"avg":591,"min":262,"max":1838,"p95":1838}
-{"type":"fail","from":"2026-04-05T15:34:15.345Z","to":"2026-04-05T15:34:15.345Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T15:44:15.775Z","to":"2026-04-05T23:54:13.950Z","count":50,"avg":402,"min":203,"max":1096,"p95":742}
-{"type":"ok","from":"2026-04-06T00:04:03.940Z","to":"2026-04-06T03:43:48.705Z","count":23,"avg":455,"min":207,"max":2345,"p95":881}
-{"type":"fail","from":"2026-04-06T03:54:07.841Z","to":"2026-04-06T03:54:07.841Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T04:03:53.036Z","to":"2026-04-06T04:34:09.804Z","count":4,"avg":376,"min":238,"max":548,"p95":548}
-{"type":"fail","from":"2026-04-06T04:44:19.321Z","to":"2026-04-06T04:44:19.321Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-06T04:54:08.707Z","to":"2026-04-06T11:14:13.750Z","count":39,"avg":415,"min":203,"max":1344,"p95":1174}
-{"type":"fail","from":"2026-04-06T11:24:31.002Z","to":"2026-04-06T11:24:31.002Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T11:33:53.083Z","to":"2026-04-06T23:53:23.022Z","count":75,"avg":279,"min":197,"max":944,"p95":530}
-{"type":"ok","from":"2026-04-07T00:03:23.462Z","to":"2026-04-07T23:53:10.339Z","count":144,"avg":298,"min":175,"max":706,"p95":521}
-{"type":"ok","from":"2026-04-08T00:03:31.472Z","to":"2026-04-08T08:33:57.654Z","count":52,"avg":379,"min":202,"max":1725,"p95":1267}
-{"type":"fail","from":"2026-04-08T08:44:17.703Z","to":"2026-04-08T08:44:17.703Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T08:54:22.129Z","to":"2026-04-08T12:04:17.981Z","count":20,"avg":656,"min":200,"max":3731,"p95":3731}
-{"type":"fail","from":"2026-04-08T12:14:19.015Z","to":"2026-04-08T12:14:19.015Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T12:24:17.420Z","to":"2026-04-08T17:04:08.909Z","count":29,"avg":465,"min":206,"max":1166,"p95":1145}
-{"type":"fail","from":"2026-04-08T17:14:03.014Z","to":"2026-04-08T17:14:03.014Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T17:24:05.761Z","to":"2026-04-08T20:13:33.704Z","count":18,"avg":498,"min":218,"max":3696,"p95":3696}
-{"type":"fail","from":"2026-04-08T20:24:00.953Z","to":"2026-04-08T20:24:00.953Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T20:34:11.359Z","to":"2026-04-08T23:53:51.389Z","count":21,"avg":484,"min":233,"max":2065,"p95":685}
-{"type":"ok","from":"2026-04-09T00:03:49.116Z","to":"2026-04-09T23:53:14.056Z","count":144,"avg":337,"min":209,"max":1534,"p95":540}
-{"type":"ok","from":"2026-04-10T00:03:25.315Z","to":"2026-04-10T23:53:25.883Z","count":144,"avg":367,"min":202,"max":3505,"p95":743}
-{"type":"ok","from":"2026-04-11T00:03:23.719Z","to":"2026-04-11T23:53:40.097Z","count":143,"avg":319,"min":166,"max":1284,"p95":519}
-{"type":"ok","from":"2026-04-12T00:03:22.685Z","to":"2026-04-12T23:53:06.723Z","count":142,"avg":306,"min":165,"max":1300,"p95":484}
-{"type":"ok","from":"2026-04-13T00:03:13.446Z","to":"2026-04-13T15:03:46.171Z","count":84,"avg":308,"min":161,"max":809,"p95":549}
-{"type":"ok","from":"2026-04-14T02:28:35.740Z","to":"2026-04-14T23:53:00.536Z","count":120,"avg":322,"min":184,"max":1438,"p95":519}
-{"type":"ok","from":"2026-04-15T00:02:55.711Z","to":"2026-04-15T23:53:19.138Z","count":140,"avg":381,"min":195,"max":1318,"p95":856}
-{"type":"ok","from":"2026-04-16T00:03:32.137Z","to":"2026-04-16T23:53:35.823Z","count":131,"avg":397,"min":199,"max":1389,"p95":817}
-{"type":"ok","from":"2026-04-17T00:04:04.752Z","to":"2026-04-17T23:52:04.166Z","count":138,"avg":757,"min":167,"max":2411,"p95":1786}
-{"type":"ok","from":"2026-04-18T00:02:16.626Z","to":"2026-04-18T10:02:13.769Z","count":58,"avg":704,"min":236,"max":3274,"p95":1839}
-{"type":"fail","from":"2026-04-18T10:13:46.465Z","to":"2026-04-18T10:13:46.465Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5152}
-{"type":"ok","from":"2026-04-18T10:22:03.820Z","to":"2026-04-18T23:51:54.625Z","count":81,"avg":781,"min":266,"max":1642,"p95":1389}
+{"type":"ok","from":"2026-04-01T00:04:08.256Z","to":"2026-04-01T23:54:07.827Z","count":144,"avg":322,"min":196,"max":1306,"p95":565,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-02T00:04:05.647Z","to":"2026-04-02T23:54:01.433Z","count":144,"avg":343,"min":169,"max":853,"p95":680,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-03T00:04:07.732Z","to":"2026-04-03T23:54:07.077Z","count":142,"avg":350,"min":164,"max":1708,"p95":710,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-04T00:04:11.069Z","to":"2026-04-04T11:14:05.958Z","count":62,"avg":383,"min":220,"max":2323,"p95":748,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-04T11:24:23.195Z","to":"2026-04-04T11:24:23.195Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-04T11:34:07.911Z","to":"2026-04-04T12:54:43.671Z","count":9,"avg":1064,"min":270,"max":4458,"p95":4458,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-04T13:04:35.559Z","to":"2026-04-04T13:04:35.559Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-04T13:14:15.536Z","to":"2026-04-04T13:44:24.366Z","count":4,"avg":944,"min":399,"max":1507,"p95":1507,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-04T13:54:13.008Z","to":"2026-04-04T13:54:13.008Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-04T14:04:27.608Z","to":"2026-04-04T22:43:52.933Z","count":53,"avg":484,"min":176,"max":2509,"p95":1898,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-04T22:53:49.502Z","to":"2026-04-04T23:03:45.450Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-04T23:13:57.969Z","to":"2026-04-04T23:53:49.042Z","count":5,"avg":454,"min":287,"max":651,"p95":651,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-05T00:03:59.667Z","to":"2026-04-05T03:44:05.257Z","count":23,"avg":405,"min":211,"max":727,"p95":581,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-05T03:54:06.402Z","to":"2026-04-05T03:54:06.402Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-05T04:03:55.634Z","to":"2026-04-05T08:34:27.745Z","count":28,"avg":410,"min":262,"max":972,"p95":777,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-05T08:44:03.141Z","to":"2026-04-05T08:44:03.141Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-05T08:54:21.252Z","to":"2026-04-05T13:54:35.537Z","count":31,"avg":479,"min":213,"max":1363,"p95":1214,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-05T14:14:43.427Z","to":"2026-04-05T14:14:43.427Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-05T14:24:16.153Z","to":"2026-04-05T15:24:14.452Z","count":7,"avg":591,"min":262,"max":1838,"p95":1838,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-05T15:34:15.345Z","to":"2026-04-05T15:34:15.345Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-05T15:44:15.775Z","to":"2026-04-05T23:54:13.950Z","count":50,"avg":402,"min":203,"max":1096,"p95":742,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-06T00:04:03.940Z","to":"2026-04-06T03:43:48.705Z","count":23,"avg":455,"min":207,"max":2345,"p95":881,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-06T03:54:07.841Z","to":"2026-04-06T03:54:07.841Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-06T04:03:53.036Z","to":"2026-04-06T04:34:09.804Z","count":4,"avg":376,"min":238,"max":548,"p95":548,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-06T04:44:19.321Z","to":"2026-04-06T04:44:19.321Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-06T04:54:08.707Z","to":"2026-04-06T11:14:13.750Z","count":39,"avg":415,"min":203,"max":1344,"p95":1174,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-06T11:24:31.002Z","to":"2026-04-06T11:24:31.002Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-06T11:33:53.083Z","to":"2026-04-06T23:53:23.022Z","count":75,"avg":279,"min":197,"max":944,"p95":530,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-07T00:03:23.462Z","to":"2026-04-07T23:53:10.339Z","count":144,"avg":298,"min":175,"max":706,"p95":521,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-08T00:03:31.472Z","to":"2026-04-08T08:33:57.654Z","count":52,"avg":379,"min":202,"max":1725,"p95":1267,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-08T08:44:17.703Z","to":"2026-04-08T08:44:17.703Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-08T08:54:22.129Z","to":"2026-04-08T12:04:17.981Z","count":20,"avg":656,"min":200,"max":3731,"p95":3731,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-08T12:14:19.015Z","to":"2026-04-08T12:14:19.015Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-08T12:24:17.420Z","to":"2026-04-08T17:04:08.909Z","count":29,"avg":465,"min":206,"max":1166,"p95":1145,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-08T17:14:03.014Z","to":"2026-04-08T17:14:03.014Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-08T17:24:05.761Z","to":"2026-04-08T20:13:33.704Z","count":18,"avg":498,"min":218,"max":3696,"p95":3696,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-08T20:24:00.953Z","to":"2026-04-08T20:24:00.953Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-08T20:34:11.359Z","to":"2026-04-08T23:53:51.389Z","count":21,"avg":484,"min":233,"max":2065,"p95":685,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-09T00:03:49.116Z","to":"2026-04-09T23:53:14.056Z","count":144,"avg":337,"min":209,"max":1534,"p95":540,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-10T00:03:25.315Z","to":"2026-04-10T23:53:25.883Z","count":144,"avg":367,"min":202,"max":3505,"p95":743,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-11T00:03:23.719Z","to":"2026-04-11T23:53:40.097Z","count":143,"avg":319,"min":166,"max":1284,"p95":519,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-12T00:03:22.685Z","to":"2026-04-12T23:53:06.723Z","count":142,"avg":306,"min":165,"max":1300,"p95":484,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-13T00:03:13.446Z","to":"2026-04-13T15:03:46.171Z","count":84,"avg":308,"min":161,"max":809,"p95":549,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-14T02:28:35.740Z","to":"2026-04-14T23:53:00.536Z","count":120,"avg":322,"min":184,"max":1438,"p95":519,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-15T00:02:55.711Z","to":"2026-04-15T23:53:19.138Z","count":140,"avg":381,"min":195,"max":1318,"p95":856,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-16T00:03:32.137Z","to":"2026-04-16T23:53:35.823Z","count":131,"avg":397,"min":199,"max":1389,"p95":817,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-17T00:04:04.752Z","to":"2026-04-17T23:52:04.166Z","count":138,"avg":757,"min":167,"max":2411,"p95":1786,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-18T00:02:16.626Z","to":"2026-04-18T10:02:13.769Z","count":58,"avg":704,"min":236,"max":3274,"p95":1839,"url":"https://api.lotte-library.top"}
+{"type":"fail","from":"2026-04-18T10:13:46.465Z","to":"2026-04-18T10:13:46.465Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5152,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-18T10:22:03.820Z","to":"2026-04-18T23:51:54.625Z","count":81,"avg":781,"min":266,"max":1642,"p95":1389,"url":"https://api.lotte-library.top"}
+{"type":"ok","from":"2026-04-19T00:02:08.323Z","to":"2026-04-19T07:51:58.669Z","count":45,"url":"https://api.lotte-library.top","avg":835,"min":480,"max":1537,"p95":1122}
+{"type":"ok","from":"2026-04-19T08:13:50.120Z","to":"2026-04-19T23:50:43.851Z","count":48,"url":"https://api.lotte-library.top/api/status","avg":1728,"min":629,"max":3411,"p95":2485}

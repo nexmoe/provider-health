@@ -1,27 +1,28 @@
-{"url":"https://kriora.com"}
-{"type":"ok","from":"2026-04-01T00:04:16.159Z","to":"2026-04-01T12:54:31.853Z","count":78,"avg":266,"min":75,"max":915,"p95":733}
-{"type":"fail","from":"2026-04-01T13:04:50.456Z","to":"2026-04-01T13:04:50.456Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T13:14:43.678Z","to":"2026-04-01T14:04:40.386Z","count":6,"avg":205,"min":124,"max":389,"p95":389}
-{"type":"fail","from":"2026-04-01T14:14:57.874Z","to":"2026-04-01T14:14:57.874Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T14:25:09.354Z","to":"2026-04-01T23:54:14.333Z","count":58,"avg":293,"min":64,"max":4726,"p95":644}
-{"type":"ok","from":"2026-04-02T00:04:13.603Z","to":"2026-04-02T23:54:08.769Z","count":144,"avg":241,"min":76,"max":1048,"p95":504}
-{"type":"ok","from":"2026-04-03T00:04:14.564Z","to":"2026-04-03T23:54:13.475Z","count":142,"avg":239,"min":67,"max":928,"p95":514}
-{"type":"ok","from":"2026-04-04T00:04:18.265Z","to":"2026-04-04T23:53:55.855Z","count":138,"avg":258,"min":62,"max":1211,"p95":579}
-{"type":"ok","from":"2026-04-05T00:04:12.327Z","to":"2026-04-05T23:54:27.069Z","count":143,"avg":248,"min":94,"max":1141,"p95":596}
-{"type":"ok","from":"2026-04-06T00:04:10.979Z","to":"2026-04-06T23:53:29.948Z","count":144,"avg":230,"min":78,"max":823,"p95":567}
-{"type":"ok","from":"2026-04-07T00:03:30.385Z","to":"2026-04-07T23:53:16.934Z","count":144,"avg":225,"min":64,"max":896,"p95":490}
-{"type":"ok","from":"2026-04-08T00:03:38.830Z","to":"2026-04-08T23:54:03.770Z","count":144,"avg":273,"min":66,"max":1662,"p95":609}
-{"type":"ok","from":"2026-04-09T00:03:55.655Z","to":"2026-04-09T03:24:38.601Z","count":21,"avg":256,"min":113,"max":580,"p95":441}
-{"type":"fail","from":"2026-04-09T03:34:30.107Z","to":"2026-04-09T03:34:30.107Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T03:44:28.610Z","to":"2026-04-09T23:53:23.701Z","count":122,"avg":211,"min":62,"max":628,"p95":496}
-{"type":"ok","from":"2026-04-10T00:03:33.451Z","to":"2026-04-10T23:53:33.012Z","count":144,"avg":218,"min":56,"max":801,"p95":513}
-{"type":"ok","from":"2026-04-11T00:03:30.916Z","to":"2026-04-11T23:53:45.484Z","count":143,"avg":357,"min":73,"max":974,"p95":767}
-{"type":"ok","from":"2026-04-12T00:03:29.519Z","to":"2026-04-12T23:53:16.577Z","count":142,"avg":286,"min":62,"max":813,"p95":628}
-{"type":"ok","from":"2026-04-13T00:03:24.212Z","to":"2026-04-13T15:03:54.475Z","count":84,"avg":242,"min":64,"max":1213,"p95":531}
-{"type":"ok","from":"2026-04-14T02:28:46.463Z","to":"2026-04-14T23:53:10.637Z","count":120,"avg":259,"min":52,"max":4430,"p95":528}
-{"type":"ok","from":"2026-04-15T00:03:05.883Z","to":"2026-04-15T23:53:33.452Z","count":140,"avg":237,"min":61,"max":786,"p95":557}
-{"type":"ok","from":"2026-04-16T00:03:46.636Z","to":"2026-04-16T23:53:48.338Z","count":131,"avg":287,"min":99,"max":1124,"p95":663}
-{"type":"ok","from":"2026-04-17T00:04:17.788Z","to":"2026-04-17T23:52:10.830Z","count":138,"avg":261,"min":77,"max":1152,"p95":524}
-{"type":"ok","from":"2026-04-18T00:02:23.281Z","to":"2026-04-18T10:02:19.047Z","count":58,"avg":815,"min":129,"max":2084,"p95":1507}
-{"type":"fail","from":"2026-04-18T10:13:53.455Z","to":"2026-04-18T10:13:53.455Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6402}
-{"type":"ok","from":"2026-04-18T10:22:07.530Z","to":"2026-04-18T23:52:00.092Z","count":81,"avg":1151,"min":668,"max":2299,"p95":1651}
+{"type":"ok","from":"2026-04-01T00:04:16.159Z","to":"2026-04-01T12:54:31.853Z","count":78,"avg":266,"min":75,"max":915,"p95":733,"url":"https://kriora.com"}
+{"type":"fail","from":"2026-04-01T13:04:50.456Z","to":"2026-04-01T13:04:50.456Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-01T13:14:43.678Z","to":"2026-04-01T14:04:40.386Z","count":6,"avg":205,"min":124,"max":389,"p95":389,"url":"https://kriora.com"}
+{"type":"fail","from":"2026-04-01T14:14:57.874Z","to":"2026-04-01T14:14:57.874Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-01T14:25:09.354Z","to":"2026-04-01T23:54:14.333Z","count":58,"avg":293,"min":64,"max":4726,"p95":644,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-02T00:04:13.603Z","to":"2026-04-02T23:54:08.769Z","count":144,"avg":241,"min":76,"max":1048,"p95":504,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-03T00:04:14.564Z","to":"2026-04-03T23:54:13.475Z","count":142,"avg":239,"min":67,"max":928,"p95":514,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-04T00:04:18.265Z","to":"2026-04-04T23:53:55.855Z","count":138,"avg":258,"min":62,"max":1211,"p95":579,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-05T00:04:12.327Z","to":"2026-04-05T23:54:27.069Z","count":143,"avg":248,"min":94,"max":1141,"p95":596,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-06T00:04:10.979Z","to":"2026-04-06T23:53:29.948Z","count":144,"avg":230,"min":78,"max":823,"p95":567,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-07T00:03:30.385Z","to":"2026-04-07T23:53:16.934Z","count":144,"avg":225,"min":64,"max":896,"p95":490,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-08T00:03:38.830Z","to":"2026-04-08T23:54:03.770Z","count":144,"avg":273,"min":66,"max":1662,"p95":609,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-09T00:03:55.655Z","to":"2026-04-09T03:24:38.601Z","count":21,"avg":256,"min":113,"max":580,"p95":441,"url":"https://kriora.com"}
+{"type":"fail","from":"2026-04-09T03:34:30.107Z","to":"2026-04-09T03:34:30.107Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-09T03:44:28.610Z","to":"2026-04-09T23:53:23.701Z","count":122,"avg":211,"min":62,"max":628,"p95":496,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-10T00:03:33.451Z","to":"2026-04-10T23:53:33.012Z","count":144,"avg":218,"min":56,"max":801,"p95":513,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-11T00:03:30.916Z","to":"2026-04-11T23:53:45.484Z","count":143,"avg":357,"min":73,"max":974,"p95":767,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-12T00:03:29.519Z","to":"2026-04-12T23:53:16.577Z","count":142,"avg":286,"min":62,"max":813,"p95":628,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-13T00:03:24.212Z","to":"2026-04-13T15:03:54.475Z","count":84,"avg":242,"min":64,"max":1213,"p95":531,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-14T02:28:46.463Z","to":"2026-04-14T23:53:10.637Z","count":120,"avg":259,"min":52,"max":4430,"p95":528,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-15T00:03:05.883Z","to":"2026-04-15T23:53:33.452Z","count":140,"avg":237,"min":61,"max":786,"p95":557,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-16T00:03:46.636Z","to":"2026-04-16T23:53:48.338Z","count":131,"avg":287,"min":99,"max":1124,"p95":663,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-17T00:04:17.788Z","to":"2026-04-17T23:52:10.830Z","count":138,"avg":261,"min":77,"max":1152,"p95":524,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-18T00:02:23.281Z","to":"2026-04-18T10:02:19.047Z","count":58,"avg":815,"min":129,"max":2084,"p95":1507,"url":"https://kriora.com"}
+{"type":"fail","from":"2026-04-18T10:13:53.455Z","to":"2026-04-18T10:13:53.455Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6402,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-18T10:22:07.530Z","to":"2026-04-18T23:52:00.092Z","count":81,"avg":1151,"min":668,"max":2299,"p95":1651,"url":"https://kriora.com"}
+{"type":"ok","from":"2026-04-19T00:02:13.709Z","to":"2026-04-19T07:52:04.450Z","count":45,"url":"https://kriora.com","avg":1110,"min":578,"max":1875,"p95":1605}
+{"type":"ok","from":"2026-04-19T08:14:16.767Z","to":"2026-04-19T23:51:09.239Z","count":48,"url":"https://api.kriora.com/v1/models","avg":483,"min":183,"max":893,"p95":587}

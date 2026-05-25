@@ -1,27 +1,28 @@
-{"url":"https://lmproxy.de5.net"}
-{"type":"ok","from":"2026-04-01T00:03:58.162Z","to":"2026-04-01T14:34:40.551Z","count":88,"avg":238,"min":34,"max":719,"p95":500}
-{"type":"fail","from":"2026-04-01T14:45:12.369Z","to":"2026-04-01T14:45:12.369Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T14:54:40.510Z","to":"2026-04-01T23:54:02.451Z","count":55,"avg":150,"min":30,"max":497,"p95":319}
-{"type":"ok","from":"2026-04-02T00:03:59.311Z","to":"2026-04-02T23:53:51.885Z","count":144,"avg":223,"min":30,"max":763,"p95":529}
-{"type":"ok","from":"2026-04-03T00:03:57.280Z","to":"2026-04-03T23:53:54.751Z","count":142,"avg":226,"min":31,"max":577,"p95":470}
-{"type":"ok","from":"2026-04-04T00:04:02.481Z","to":"2026-04-04T23:53:38.051Z","count":138,"avg":224,"min":32,"max":624,"p95":454}
-{"type":"ok","from":"2026-04-05T00:03:48.575Z","to":"2026-04-05T23:54:05.528Z","count":143,"avg":248,"min":31,"max":587,"p95":494}
-{"type":"ok","from":"2026-04-06T00:03:56.105Z","to":"2026-04-06T23:53:16.861Z","count":144,"avg":227,"min":31,"max":577,"p95":443}
-{"type":"ok","from":"2026-04-07T00:03:15.133Z","to":"2026-04-07T23:53:03.814Z","count":144,"avg":227,"min":31,"max":718,"p95":489}
-{"type":"ok","from":"2026-04-08T00:03:23.731Z","to":"2026-04-08T06:43:37.711Z","count":41,"avg":264,"min":45,"max":842,"p95":628}
-{"type":"fail","from":"2026-04-08T06:53:45.548Z","to":"2026-04-08T06:53:45.548Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T07:04:07.557Z","to":"2026-04-08T23:53:43.539Z","count":102,"avg":283,"min":29,"max":676,"p95":545}
-{"type":"ok","from":"2026-04-09T00:03:40.116Z","to":"2026-04-09T23:53:02.889Z","count":144,"avg":222,"min":28,"max":713,"p95":524}
-{"type":"ok","from":"2026-04-10T00:03:19.486Z","to":"2026-04-10T23:53:18.726Z","count":144,"avg":152,"min":29,"max":916,"p95":349}
-{"type":"ok","from":"2026-04-11T00:03:15.770Z","to":"2026-04-11T23:53:30.616Z","count":143,"avg":148,"min":34,"max":653,"p95":328}
-{"type":"ok","from":"2026-04-12T00:03:13.559Z","to":"2026-04-12T23:53:00.079Z","count":143,"avg":168,"min":40,"max":825,"p95":359}
-{"type":"ok","from":"2026-04-13T00:03:03.849Z","to":"2026-04-13T15:03:38.328Z","count":84,"avg":172,"min":41,"max":566,"p95":340}
-{"type":"ok","from":"2026-04-14T02:23:30.275Z","to":"2026-04-14T23:52:52.790Z","count":121,"avg":181,"min":42,"max":1018,"p95":456}
-{"type":"ok","from":"2026-04-15T00:02:47.337Z","to":"2026-04-15T23:53:11.267Z","count":140,"avg":215,"min":29,"max":871,"p95":556}
-{"type":"ok","from":"2026-04-16T00:03:25.076Z","to":"2026-04-16T23:53:27.852Z","count":132,"avg":272,"min":31,"max":785,"p95":533}
-{"type":"ok","from":"2026-04-17T00:03:53.659Z","to":"2026-04-17T23:52:01.020Z","count":138,"avg":333,"min":78,"max":862,"p95":653}
-{"type":"ok","from":"2026-04-18T00:02:10.588Z","to":"2026-04-18T10:02:07.842Z","count":58,"avg":202,"min":39,"max":623,"p95":519}
-{"type":"fail","from":"2026-04-18T10:13:21.054Z","to":"2026-04-18T10:13:21.054Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":18314}
-{"type":"ok","from":"2026-04-18T10:21:58.087Z","to":"2026-04-18T11:32:02.886Z","count":7,"avg":188,"min":49,"max":292,"p95":292}
-{"type":"fail","from":"2026-04-18T11:42:03.986Z","to":"2026-04-18T11:42:03.986Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T11:51:57.604Z","to":"2026-04-18T23:51:45.119Z","count":73,"avg":450,"min":42,"max":1645,"p95":959}
+{"type":"ok","from":"2026-04-01T00:03:58.162Z","to":"2026-04-01T14:34:40.551Z","count":88,"avg":238,"min":34,"max":719,"p95":500,"url":"https://lmproxy.de5.net"}
+{"type":"fail","from":"2026-04-01T14:45:12.369Z","to":"2026-04-01T14:45:12.369Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-01T14:54:40.510Z","to":"2026-04-01T23:54:02.451Z","count":55,"avg":150,"min":30,"max":497,"p95":319,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-02T00:03:59.311Z","to":"2026-04-02T23:53:51.885Z","count":144,"avg":223,"min":30,"max":763,"p95":529,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-03T00:03:57.280Z","to":"2026-04-03T23:53:54.751Z","count":142,"avg":226,"min":31,"max":577,"p95":470,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-04T00:04:02.481Z","to":"2026-04-04T23:53:38.051Z","count":138,"avg":224,"min":32,"max":624,"p95":454,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-05T00:03:48.575Z","to":"2026-04-05T23:54:05.528Z","count":143,"avg":248,"min":31,"max":587,"p95":494,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-06T00:03:56.105Z","to":"2026-04-06T23:53:16.861Z","count":144,"avg":227,"min":31,"max":577,"p95":443,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-07T00:03:15.133Z","to":"2026-04-07T23:53:03.814Z","count":144,"avg":227,"min":31,"max":718,"p95":489,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-08T00:03:23.731Z","to":"2026-04-08T06:43:37.711Z","count":41,"avg":264,"min":45,"max":842,"p95":628,"url":"https://lmproxy.de5.net"}
+{"type":"fail","from":"2026-04-08T06:53:45.548Z","to":"2026-04-08T06:53:45.548Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-08T07:04:07.557Z","to":"2026-04-08T23:53:43.539Z","count":102,"avg":283,"min":29,"max":676,"p95":545,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-09T00:03:40.116Z","to":"2026-04-09T23:53:02.889Z","count":144,"avg":222,"min":28,"max":713,"p95":524,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-10T00:03:19.486Z","to":"2026-04-10T23:53:18.726Z","count":144,"avg":152,"min":29,"max":916,"p95":349,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-11T00:03:15.770Z","to":"2026-04-11T23:53:30.616Z","count":143,"avg":148,"min":34,"max":653,"p95":328,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-12T00:03:13.559Z","to":"2026-04-12T23:53:00.079Z","count":143,"avg":168,"min":40,"max":825,"p95":359,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-13T00:03:03.849Z","to":"2026-04-13T15:03:38.328Z","count":84,"avg":172,"min":41,"max":566,"p95":340,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-14T02:23:30.275Z","to":"2026-04-14T23:52:52.790Z","count":121,"avg":181,"min":42,"max":1018,"p95":456,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-15T00:02:47.337Z","to":"2026-04-15T23:53:11.267Z","count":140,"avg":215,"min":29,"max":871,"p95":556,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-16T00:03:25.076Z","to":"2026-04-16T23:53:27.852Z","count":132,"avg":272,"min":31,"max":785,"p95":533,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-17T00:03:53.659Z","to":"2026-04-17T23:52:01.020Z","count":138,"avg":333,"min":78,"max":862,"p95":653,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-18T00:02:10.588Z","to":"2026-04-18T10:02:07.842Z","count":58,"avg":202,"min":39,"max":623,"p95":519,"url":"https://lmproxy.de5.net"}
+{"type":"fail","from":"2026-04-18T10:13:21.054Z","to":"2026-04-18T10:13:21.054Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":18314,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-18T10:21:58.087Z","to":"2026-04-18T11:32:02.886Z","count":7,"avg":188,"min":49,"max":292,"p95":292,"url":"https://lmproxy.de5.net"}
+{"type":"fail","from":"2026-04-18T11:42:03.986Z","to":"2026-04-18T11:42:03.986Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-18T11:51:57.604Z","to":"2026-04-18T23:51:45.119Z","count":73,"avg":450,"min":42,"max":1645,"p95":959,"url":"https://lmproxy.de5.net"}
+{"type":"ok","from":"2026-04-19T00:01:58.515Z","to":"2026-04-19T07:51:47.493Z","count":45,"url":"https://lmproxy.de5.net","avg":505,"min":163,"max":1059,"p95":912}
+{"type":"ok","from":"2026-04-19T08:13:30.001Z","to":"2026-04-19T23:50:21.905Z","count":48,"url":"https://lmproxy.de5.net/api/status","avg":611,"min":139,"max":1209,"p95":1162}

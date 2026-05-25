@@ -1,25 +1,26 @@
-{"url":"https://www.packyapi.com"}
-{"type":"ok","from":"2026-04-01T00:03:44.493Z","to":"2026-04-01T16:24:11.581Z","count":99,"avg":252,"min":170,"max":4770,"p95":341}
-{"type":"fail","from":"2026-04-01T16:34:14.368Z","to":"2026-04-01T16:34:14.368Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T16:43:49.505Z","to":"2026-04-01T16:53:41.970Z","count":2,"avg":176,"min":175,"max":177,"p95":177}
-{"type":"fail","from":"2026-04-01T17:03:40.217Z","to":"2026-04-01T18:13:52.454Z","count":8,"status":502,"error":"HTTP 502","avg_latency":379}
-{"type":"ok","from":"2026-04-01T18:23:51.674Z","to":"2026-04-01T23:53:46.214Z","count":34,"avg":419,"min":170,"max":751,"p95":655}
-{"type":"ok","from":"2026-04-02T00:03:43.312Z","to":"2026-04-02T15:34:07.629Z","count":94,"avg":261,"min":167,"max":650,"p95":636}
-{"type":"fail","from":"2026-04-02T15:44:13.657Z","to":"2026-04-02T15:44:13.657Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T15:54:03.309Z","to":"2026-04-02T23:53:39.133Z","count":49,"avg":336,"min":170,"max":648,"p95":630}
-{"type":"ok","from":"2026-04-03T00:03:44.585Z","to":"2026-04-03T23:53:38.526Z","count":142,"avg":335,"min":165,"max":1921,"p95":641}
-{"type":"ok","from":"2026-04-04T00:03:49.503Z","to":"2026-04-04T23:53:16.937Z","count":138,"avg":321,"min":162,"max":1272,"p95":666}
-{"type":"ok","from":"2026-04-05T00:03:27.175Z","to":"2026-04-05T23:53:38.001Z","count":143,"avg":338,"min":161,"max":1053,"p95":769}
-{"type":"ok","from":"2026-04-06T00:03:31.133Z","to":"2026-04-06T23:53:00.958Z","count":144,"avg":316,"min":163,"max":1138,"p95":642}
-{"type":"ok","from":"2026-04-07T00:02:55.842Z","to":"2026-04-07T23:52:50.822Z","count":144,"avg":355,"min":162,"max":4187,"p95":792}
-{"type":"ok","from":"2026-04-08T00:03:08.278Z","to":"2026-04-08T23:53:24.649Z","count":144,"avg":285,"min":160,"max":1042,"p95":681}
-{"type":"ok","from":"2026-04-09T00:03:22.539Z","to":"2026-04-09T23:52:49.996Z","count":144,"avg":307,"min":161,"max":2438,"p95":650}
-{"type":"ok","from":"2026-04-10T00:03:06.113Z","to":"2026-04-10T23:53:05.105Z","count":144,"avg":265,"min":164,"max":1189,"p95":623}
-{"type":"ok","from":"2026-04-11T00:02:59.953Z","to":"2026-04-11T23:53:14.070Z","count":143,"avg":239,"min":149,"max":1177,"p95":599}
-{"type":"ok","from":"2026-04-12T00:02:56.977Z","to":"2026-04-12T23:52:41.326Z","count":143,"avg":246,"min":153,"max":916,"p95":612}
-{"type":"ok","from":"2026-04-13T00:02:44.047Z","to":"2026-04-13T15:03:19.110Z","count":84,"avg":241,"min":163,"max":911,"p95":617}
-{"type":"ok","from":"2026-04-14T02:23:12.247Z","to":"2026-04-14T23:52:34.748Z","count":121,"avg":220,"min":164,"max":654,"p95":603}
-{"type":"ok","from":"2026-04-15T00:02:34.148Z","to":"2026-04-15T23:52:55.646Z","count":140,"avg":276,"min":163,"max":741,"p95":643}
-{"type":"ok","from":"2026-04-16T00:03:11.583Z","to":"2026-04-16T23:53:14.201Z","count":132,"avg":244,"min":162,"max":804,"p95":613}
-{"type":"ok","from":"2026-04-17T00:03:37.101Z","to":"2026-04-17T23:51:45.227Z","count":139,"avg":694,"min":164,"max":1928,"p95":1456}
-{"type":"ok","from":"2026-04-18T00:01:56.417Z","to":"2026-04-18T23:51:40.462Z","count":141,"avg":524,"min":188,"max":3166,"p95":1148}
+{"type":"ok","from":"2026-04-01T00:03:44.493Z","to":"2026-04-01T16:24:11.581Z","count":99,"avg":252,"min":170,"max":4770,"p95":341,"url":"https://www.packyapi.com"}
+{"type":"fail","from":"2026-04-01T16:34:14.368Z","to":"2026-04-01T16:34:14.368Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-01T16:43:49.505Z","to":"2026-04-01T16:53:41.970Z","count":2,"avg":176,"min":175,"max":177,"p95":177,"url":"https://www.packyapi.com"}
+{"type":"fail","from":"2026-04-01T17:03:40.217Z","to":"2026-04-01T18:13:52.454Z","count":8,"status":502,"error":"HTTP 502","avg_latency":379,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-01T18:23:51.674Z","to":"2026-04-01T23:53:46.214Z","count":34,"avg":419,"min":170,"max":751,"p95":655,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-02T00:03:43.312Z","to":"2026-04-02T15:34:07.629Z","count":94,"avg":261,"min":167,"max":650,"p95":636,"url":"https://www.packyapi.com"}
+{"type":"fail","from":"2026-04-02T15:44:13.657Z","to":"2026-04-02T15:44:13.657Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-02T15:54:03.309Z","to":"2026-04-02T23:53:39.133Z","count":49,"avg":336,"min":170,"max":648,"p95":630,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-03T00:03:44.585Z","to":"2026-04-03T23:53:38.526Z","count":142,"avg":335,"min":165,"max":1921,"p95":641,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-04T00:03:49.503Z","to":"2026-04-04T23:53:16.937Z","count":138,"avg":321,"min":162,"max":1272,"p95":666,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-05T00:03:27.175Z","to":"2026-04-05T23:53:38.001Z","count":143,"avg":338,"min":161,"max":1053,"p95":769,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-06T00:03:31.133Z","to":"2026-04-06T23:53:00.958Z","count":144,"avg":316,"min":163,"max":1138,"p95":642,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-07T00:02:55.842Z","to":"2026-04-07T23:52:50.822Z","count":144,"avg":355,"min":162,"max":4187,"p95":792,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-08T00:03:08.278Z","to":"2026-04-08T23:53:24.649Z","count":144,"avg":285,"min":160,"max":1042,"p95":681,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-09T00:03:22.539Z","to":"2026-04-09T23:52:49.996Z","count":144,"avg":307,"min":161,"max":2438,"p95":650,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-10T00:03:06.113Z","to":"2026-04-10T23:53:05.105Z","count":144,"avg":265,"min":164,"max":1189,"p95":623,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-11T00:02:59.953Z","to":"2026-04-11T23:53:14.070Z","count":143,"avg":239,"min":149,"max":1177,"p95":599,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-12T00:02:56.977Z","to":"2026-04-12T23:52:41.326Z","count":143,"avg":246,"min":153,"max":916,"p95":612,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-13T00:02:44.047Z","to":"2026-04-13T15:03:19.110Z","count":84,"avg":241,"min":163,"max":911,"p95":617,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-14T02:23:12.247Z","to":"2026-04-14T23:52:34.748Z","count":121,"avg":220,"min":164,"max":654,"p95":603,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-15T00:02:34.148Z","to":"2026-04-15T23:52:55.646Z","count":140,"avg":276,"min":163,"max":741,"p95":643,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-16T00:03:11.583Z","to":"2026-04-16T23:53:14.201Z","count":132,"avg":244,"min":162,"max":804,"p95":613,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-17T00:03:37.101Z","to":"2026-04-17T23:51:45.227Z","count":139,"avg":694,"min":164,"max":1928,"p95":1456,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-18T00:01:56.417Z","to":"2026-04-18T23:51:40.462Z","count":141,"avg":524,"min":188,"max":3166,"p95":1148,"url":"https://www.packyapi.com"}
+{"type":"ok","from":"2026-04-19T00:01:53.212Z","to":"2026-04-19T07:51:42.046Z","count":45,"url":"https://www.packyapi.com","avg":215,"min":189,"max":745,"p95":242}
+{"type":"ok","from":"2026-04-19T08:12:26.537Z","to":"2026-04-19T23:49:35.032Z","count":48,"url":"https://www.packyapi.com/api/status","avg":297,"min":238,"max":718,"p95":409}

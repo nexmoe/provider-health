@@ -1,56 +1,57 @@
-{"url":"https://api.just2chat.cn"}
-{"type":"ok","from":"2026-04-01T00:01:26.727Z","to":"2026-04-01T23:51:22.893Z","count":144,"avg":680,"min":265,"max":3377,"p95":1187}
-{"type":"ok","from":"2026-04-02T00:01:23.371Z","to":"2026-04-02T10:51:27.464Z","count":66,"avg":752,"min":290,"max":3203,"p95":1371}
-{"type":"fail","from":"2026-04-02T11:01:33.156Z","to":"2026-04-02T11:01:33.156Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T11:11:22.949Z","to":"2026-04-02T21:01:23.856Z","count":60,"avg":911,"min":267,"max":3465,"p95":1814}
-{"type":"fail","from":"2026-04-02T21:11:28.873Z","to":"2026-04-02T21:11:28.873Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T21:21:25.543Z","to":"2026-04-02T23:51:23.983Z","count":16,"avg":395,"min":337,"max":634,"p95":634}
-{"type":"ok","from":"2026-04-03T00:01:26.403Z","to":"2026-04-03T23:51:22.855Z","count":143,"avg":794,"min":277,"max":4154,"p95":1663}
-{"type":"ok","from":"2026-04-04T00:01:24.202Z","to":"2026-04-04T10:30:39.627Z","count":58,"avg":865,"min":314,"max":2792,"p95":1979}
-{"type":"fail","from":"2026-04-04T10:40:46.977Z","to":"2026-04-04T10:40:46.977Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T10:50:43.337Z","to":"2026-04-04T23:50:38.043Z","count":79,"avg":695,"min":263,"max":2337,"p95":1459}
-{"type":"ok","from":"2026-04-05T00:00:40.216Z","to":"2026-04-05T23:50:33.760Z","count":144,"avg":814,"min":259,"max":4860,"p95":1781}
-{"type":"ok","from":"2026-04-06T00:00:47.337Z","to":"2026-04-06T23:50:35.727Z","count":144,"avg":639,"min":264,"max":1988,"p95":1316}
-{"type":"ok","from":"2026-04-07T00:00:42.620Z","to":"2026-04-07T23:50:37.975Z","count":144,"avg":746,"min":257,"max":3698,"p95":1507}
-{"type":"ok","from":"2026-04-08T00:00:43.889Z","to":"2026-04-08T08:10:41.836Z","count":50,"avg":1031,"min":324,"max":2471,"p95":2217}
-{"type":"fail","from":"2026-04-08T08:20:44.304Z","to":"2026-04-08T08:20:44.304Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T08:30:45.405Z","to":"2026-04-08T08:40:44.052Z","count":2,"avg":1171,"min":692,"max":1650,"p95":1650}
-{"type":"fail","from":"2026-04-08T08:50:46.337Z","to":"2026-04-08T08:50:46.337Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-08T09:00:40.900Z","to":"2026-04-08T10:50:48.338Z","count":12,"avg":1680,"min":715,"max":2590,"p95":2590}
-{"type":"fail","from":"2026-04-08T11:00:43.373Z","to":"2026-04-08T11:10:41.672Z","count":2,"status":502,"error":"HTTP 502","avg_latency":40}
-{"type":"ok","from":"2026-04-08T11:20:43.611Z","to":"2026-04-08T13:50:45.055Z","count":16,"avg":2210,"min":286,"max":4897,"p95":4897}
-{"type":"fail","from":"2026-04-08T14:00:50.866Z","to":"2026-04-08T14:00:50.866Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T14:10:51.696Z","to":"2026-04-08T14:10:51.696Z","count":1,"avg":3103,"min":3103,"max":3103,"p95":3103}
-{"type":"fail","from":"2026-04-08T14:20:47.981Z","to":"2026-04-08T14:20:47.981Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-08T14:30:48.814Z","to":"2026-04-08T14:50:45.858Z","count":3,"avg":1838,"min":315,"max":3082,"p95":3082}
-{"type":"fail","from":"2026-04-08T15:00:45.789Z","to":"2026-04-08T15:00:45.789Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T15:10:47.629Z","to":"2026-04-08T15:10:47.629Z","count":1,"avg":3211,"min":3211,"max":3211,"p95":3211}
-{"type":"fail","from":"2026-04-08T15:20:43.694Z","to":"2026-04-08T17:40:36.847Z","count":15,"status":502,"error":"HTTP 502","avg_latency":157}
-{"type":"ok","from":"2026-04-08T17:50:39.091Z","to":"2026-04-08T23:50:39.386Z","count":37,"avg":539,"min":261,"max":1885,"p95":1338}
-{"type":"ok","from":"2026-04-09T00:00:40.133Z","to":"2026-04-09T04:20:46.936Z","count":27,"avg":752,"min":186,"max":1818,"p95":1409}
-{"type":"fail","from":"2026-04-09T04:30:54.054Z","to":"2026-04-09T04:30:54.054Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T04:40:45.786Z","to":"2026-04-09T13:20:42.668Z","count":53,"avg":1233,"min":288,"max":4274,"p95":3733}
-{"type":"fail","from":"2026-04-09T13:30:47.506Z","to":"2026-04-09T13:30:47.506Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T13:40:45.222Z","to":"2026-04-09T14:30:42.696Z","count":6,"avg":1818,"min":594,"max":2965,"p95":2965}
-{"type":"fail","from":"2026-04-09T14:40:42.474Z","to":"2026-04-09T14:40:42.474Z","count":1,"status":502,"error":"HTTP 502","avg_latency":83}
-{"type":"ok","from":"2026-04-09T14:50:41.425Z","to":"2026-04-09T14:50:41.425Z","count":1,"avg":672,"min":672,"max":672,"p95":672}
-{"type":"fail","from":"2026-04-09T15:00:41.740Z","to":"2026-04-09T23:50:36.741Z","count":54,"status":502,"error":"HTTP 502","avg_latency":85}
-{"type":"fail","from":"2026-04-10T00:00:38.902Z","to":"2026-04-10T23:50:36.705Z","count":144,"status":502,"error":"HTTP 502","avg_latency":79}
-{"type":"fail","from":"2026-04-11T00:00:39.351Z","to":"2026-04-11T23:50:36.665Z","count":143,"status":502,"error":"HTTP 502","avg_latency":90}
-{"type":"fail","from":"2026-04-12T00:00:36.042Z","to":"2026-04-12T23:50:36.342Z","count":145,"status":502,"error":"HTTP 502","avg_latency":131}
-{"type":"fail","from":"2026-04-13T00:00:38.213Z","to":"2026-04-13T15:00:37.045Z","count":86,"status":502,"error":"HTTP 502","avg_latency":174}
-{"type":"fail","from":"2026-04-14T02:20:40.897Z","to":"2026-04-14T11:50:39.823Z","count":53,"status":502,"error":"HTTP 502","avg_latency":183}
-{"type":"fail","from":"2026-04-14T12:00:40.838Z","to":"2026-04-14T12:00:40.838Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-14T12:10:40.082Z","to":"2026-04-14T12:50:38.400Z","count":5,"status":502,"error":"HTTP 502","avg_latency":166}
-{"type":"fail","from":"2026-04-14T13:00:42.269Z","to":"2026-04-14T13:00:42.269Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"fail","from":"2026-04-14T13:10:36.100Z","to":"2026-04-14T14:40:38.795Z","count":9,"status":502,"error":"HTTP 502","avg_latency":158}
-{"type":"fail","from":"2026-04-14T14:50:45.425Z","to":"2026-04-14T14:50:45.425Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"fail","from":"2026-04-14T15:00:39.323Z","to":"2026-04-14T16:50:32.530Z","count":12,"status":502,"error":"HTTP 502","avg_latency":188}
-{"type":"fail","from":"2026-04-14T17:00:39.113Z","to":"2026-04-14T17:00:39.113Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-14T17:10:38.624Z","to":"2026-04-14T23:50:31.951Z","count":41,"status":502,"error":"HTTP 502","avg_latency":163}
-{"type":"fail","from":"2026-04-15T00:00:34.941Z","to":"2026-04-15T20:00:34.193Z","count":118,"status":502,"error":"HTTP 502","avg_latency":315}
-{"type":"fail","from":"2026-04-15T20:10:37.010Z","to":"2026-04-15T23:50:39.648Z","count":23,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-16T00:00:41.882Z","to":"2026-04-16T01:20:42.421Z","count":9,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-16T01:30:38.598Z","to":"2026-04-16T23:50:44.622Z","count":126,"status":502,"error":"HTTP 502","avg_latency":109}
-{"type":"fail","from":"2026-04-17T00:01:02.678Z","to":"2026-04-17T23:50:27.695Z","count":140,"status":502,"error":"HTTP 502","avg_latency":354}
-{"type":"fail","from":"2026-04-18T00:00:36.972Z","to":"2026-04-18T23:50:25.930Z","count":141,"status":502,"error":"HTTP 502","avg_latency":245}
+{"type":"ok","from":"2026-04-01T00:01:26.727Z","to":"2026-04-01T23:51:22.893Z","count":144,"avg":680,"min":265,"max":3377,"p95":1187,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-02T00:01:23.371Z","to":"2026-04-02T10:51:27.464Z","count":66,"avg":752,"min":290,"max":3203,"p95":1371,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-02T11:01:33.156Z","to":"2026-04-02T11:01:33.156Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-02T11:11:22.949Z","to":"2026-04-02T21:01:23.856Z","count":60,"avg":911,"min":267,"max":3465,"p95":1814,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-02T21:11:28.873Z","to":"2026-04-02T21:11:28.873Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-02T21:21:25.543Z","to":"2026-04-02T23:51:23.983Z","count":16,"avg":395,"min":337,"max":634,"p95":634,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-03T00:01:26.403Z","to":"2026-04-03T23:51:22.855Z","count":143,"avg":794,"min":277,"max":4154,"p95":1663,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-04T00:01:24.202Z","to":"2026-04-04T10:30:39.627Z","count":58,"avg":865,"min":314,"max":2792,"p95":1979,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-04T10:40:46.977Z","to":"2026-04-04T10:40:46.977Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-04T10:50:43.337Z","to":"2026-04-04T23:50:38.043Z","count":79,"avg":695,"min":263,"max":2337,"p95":1459,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-05T00:00:40.216Z","to":"2026-04-05T23:50:33.760Z","count":144,"avg":814,"min":259,"max":4860,"p95":1781,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-06T00:00:47.337Z","to":"2026-04-06T23:50:35.727Z","count":144,"avg":639,"min":264,"max":1988,"p95":1316,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-07T00:00:42.620Z","to":"2026-04-07T23:50:37.975Z","count":144,"avg":746,"min":257,"max":3698,"p95":1507,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-08T00:00:43.889Z","to":"2026-04-08T08:10:41.836Z","count":50,"avg":1031,"min":324,"max":2471,"p95":2217,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-08T08:20:44.304Z","to":"2026-04-08T08:20:44.304Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-08T08:30:45.405Z","to":"2026-04-08T08:40:44.052Z","count":2,"avg":1171,"min":692,"max":1650,"p95":1650,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-08T08:50:46.337Z","to":"2026-04-08T08:50:46.337Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-08T09:00:40.900Z","to":"2026-04-08T10:50:48.338Z","count":12,"avg":1680,"min":715,"max":2590,"p95":2590,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-08T11:00:43.373Z","to":"2026-04-08T11:10:41.672Z","count":2,"status":502,"error":"HTTP 502","avg_latency":40,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-08T11:20:43.611Z","to":"2026-04-08T13:50:45.055Z","count":16,"avg":2210,"min":286,"max":4897,"p95":4897,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-08T14:00:50.866Z","to":"2026-04-08T14:00:50.866Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-08T14:10:51.696Z","to":"2026-04-08T14:10:51.696Z","count":1,"avg":3103,"min":3103,"max":3103,"p95":3103,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-08T14:20:47.981Z","to":"2026-04-08T14:20:47.981Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-08T14:30:48.814Z","to":"2026-04-08T14:50:45.858Z","count":3,"avg":1838,"min":315,"max":3082,"p95":3082,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-08T15:00:45.789Z","to":"2026-04-08T15:00:45.789Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-08T15:10:47.629Z","to":"2026-04-08T15:10:47.629Z","count":1,"avg":3211,"min":3211,"max":3211,"p95":3211,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-08T15:20:43.694Z","to":"2026-04-08T17:40:36.847Z","count":15,"status":502,"error":"HTTP 502","avg_latency":157,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-08T17:50:39.091Z","to":"2026-04-08T23:50:39.386Z","count":37,"avg":539,"min":261,"max":1885,"p95":1338,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-09T00:00:40.133Z","to":"2026-04-09T04:20:46.936Z","count":27,"avg":752,"min":186,"max":1818,"p95":1409,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-09T04:30:54.054Z","to":"2026-04-09T04:30:54.054Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-09T04:40:45.786Z","to":"2026-04-09T13:20:42.668Z","count":53,"avg":1233,"min":288,"max":4274,"p95":3733,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-09T13:30:47.506Z","to":"2026-04-09T13:30:47.506Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-09T13:40:45.222Z","to":"2026-04-09T14:30:42.696Z","count":6,"avg":1818,"min":594,"max":2965,"p95":2965,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-09T14:40:42.474Z","to":"2026-04-09T14:40:42.474Z","count":1,"status":502,"error":"HTTP 502","avg_latency":83,"url":"https://api.just2chat.cn"}
+{"type":"ok","from":"2026-04-09T14:50:41.425Z","to":"2026-04-09T14:50:41.425Z","count":1,"avg":672,"min":672,"max":672,"p95":672,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-09T15:00:41.740Z","to":"2026-04-09T23:50:36.741Z","count":54,"status":502,"error":"HTTP 502","avg_latency":85,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-10T00:00:38.902Z","to":"2026-04-10T23:50:36.705Z","count":144,"status":502,"error":"HTTP 502","avg_latency":79,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-11T00:00:39.351Z","to":"2026-04-11T23:50:36.665Z","count":143,"status":502,"error":"HTTP 502","avg_latency":90,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-12T00:00:36.042Z","to":"2026-04-12T23:50:36.342Z","count":145,"status":502,"error":"HTTP 502","avg_latency":131,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-13T00:00:38.213Z","to":"2026-04-13T15:00:37.045Z","count":86,"status":502,"error":"HTTP 502","avg_latency":174,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T02:20:40.897Z","to":"2026-04-14T11:50:39.823Z","count":53,"status":502,"error":"HTTP 502","avg_latency":183,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T12:00:40.838Z","to":"2026-04-14T12:00:40.838Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T12:10:40.082Z","to":"2026-04-14T12:50:38.400Z","count":5,"status":502,"error":"HTTP 502","avg_latency":166,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T13:00:42.269Z","to":"2026-04-14T13:00:42.269Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T13:10:36.100Z","to":"2026-04-14T14:40:38.795Z","count":9,"status":502,"error":"HTTP 502","avg_latency":158,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T14:50:45.425Z","to":"2026-04-14T14:50:45.425Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T15:00:39.323Z","to":"2026-04-14T16:50:32.530Z","count":12,"status":502,"error":"HTTP 502","avg_latency":188,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T17:00:39.113Z","to":"2026-04-14T17:00:39.113Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-14T17:10:38.624Z","to":"2026-04-14T23:50:31.951Z","count":41,"status":502,"error":"HTTP 502","avg_latency":163,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-15T00:00:34.941Z","to":"2026-04-15T20:00:34.193Z","count":118,"status":502,"error":"HTTP 502","avg_latency":315,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-15T20:10:37.010Z","to":"2026-04-15T23:50:39.648Z","count":23,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-16T00:00:41.882Z","to":"2026-04-16T01:20:42.421Z","count":9,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-16T01:30:38.598Z","to":"2026-04-16T23:50:44.622Z","count":126,"status":502,"error":"HTTP 502","avg_latency":109,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-17T00:01:02.678Z","to":"2026-04-17T23:50:27.695Z","count":140,"status":502,"error":"HTTP 502","avg_latency":354,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-18T00:00:36.972Z","to":"2026-04-18T23:50:25.930Z","count":141,"status":502,"error":"HTTP 502","avg_latency":245,"url":"https://api.just2chat.cn"}
+{"type":"fail","from":"2026-04-19T00:00:37.146Z","to":"2026-04-19T07:50:23.732Z","count":45,"url":"https://api.just2chat.cn","status":502,"error":"HTTP 502","avg_latency":159}
+{"type":"fail","from":"2026-04-19T08:01:53.074Z","to":"2026-04-19T23:41:38.439Z","count":48,"url":"https://api.just2chat.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}

@@ -1,27 +1,29 @@
-{"url":"https://api.ai-wave.org"}
-{"type":"ok","from":"2026-04-01T00:03:14.820Z","to":"2026-04-01T23:53:16.860Z","count":144,"avg":653,"min":252,"max":4560,"p95":1494}
-{"type":"ok","from":"2026-04-02T00:03:19.522Z","to":"2026-04-02T23:53:17.338Z","count":144,"avg":534,"min":255,"max":2384,"p95":1296}
-{"type":"ok","from":"2026-04-03T00:03:24.514Z","to":"2026-04-03T16:24:49.972Z","count":99,"avg":655,"min":259,"max":2126,"p95":1399}
-{"type":"fail","from":"2026-04-03T16:34:28.576Z","to":"2026-04-03T16:34:28.576Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T16:43:41.476Z","to":"2026-04-03T23:53:14.954Z","count":43,"avg":444,"min":258,"max":1282,"p95":880}
-{"type":"ok","from":"2026-04-04T00:03:30.595Z","to":"2026-04-04T23:52:47.781Z","count":138,"avg":593,"min":202,"max":2026,"p95":1431}
-{"type":"ok","from":"2026-04-05T00:02:55.458Z","to":"2026-04-05T23:53:00.792Z","count":143,"avg":801,"min":212,"max":2539,"p95":1682}
-{"type":"ok","from":"2026-04-06T00:02:58.879Z","to":"2026-04-06T23:52:29.526Z","count":144,"avg":661,"min":252,"max":2567,"p95":1484}
-{"type":"ok","from":"2026-04-07T00:02:34.238Z","to":"2026-04-07T23:52:32.015Z","count":144,"avg":703,"min":255,"max":2533,"p95":1494}
-{"type":"ok","from":"2026-04-08T00:02:45.777Z","to":"2026-04-08T23:52:52.160Z","count":144,"avg":810,"min":263,"max":2199,"p95":1774}
-{"type":"ok","from":"2026-04-09T00:02:50.145Z","to":"2026-04-09T23:52:25.694Z","count":144,"avg":827,"min":258,"max":2742,"p95":1894}
-{"type":"ok","from":"2026-04-10T00:02:36.797Z","to":"2026-04-10T23:52:37.341Z","count":144,"avg":761,"min":255,"max":2684,"p95":1906}
-{"type":"ok","from":"2026-04-11T00:02:36.082Z","to":"2026-04-11T23:52:42.769Z","count":143,"avg":960,"min":271,"max":2562,"p95":2006}
-{"type":"ok","from":"2026-04-12T00:02:33.351Z","to":"2026-04-12T23:52:21.064Z","count":143,"avg":726,"min":195,"max":2961,"p95":1705}
-{"type":"ok","from":"2026-04-13T00:02:23.822Z","to":"2026-04-13T15:02:52.655Z","count":84,"avg":600,"min":189,"max":1775,"p95":1486}
-{"type":"ok","from":"2026-04-14T02:22:49.386Z","to":"2026-04-14T23:52:13.121Z","count":122,"avg":634,"min":188,"max":3824,"p95":1546}
-{"type":"ok","from":"2026-04-15T00:02:16.184Z","to":"2026-04-15T23:52:33.108Z","count":140,"avg":725,"min":201,"max":2536,"p95":1983}
-{"type":"ok","from":"2026-04-16T00:02:46.256Z","to":"2026-04-16T15:03:17.785Z","count":79,"avg":1080,"min":213,"max":2860,"p95":2482}
-{"type":"fail","from":"2026-04-16T15:13:05.390Z","to":"2026-04-16T15:13:05.390Z","count":1,"status":521,"error":"HTTP 521","avg_latency":735}
-{"type":"ok","from":"2026-04-16T15:23:39.759Z","to":"2026-04-16T23:52:46.479Z","count":52,"avg":1484,"min":328,"max":3312,"p95":2741}
-{"type":"ok","from":"2026-04-17T00:03:08.365Z","to":"2026-04-17T12:21:25.586Z","count":72,"avg":1486,"min":233,"max":3479,"p95":3091}
-{"type":"fail","from":"2026-04-17T12:31:36.391Z","to":"2026-04-17T12:31:36.391Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T12:41:27.386Z","to":"2026-04-17T23:51:29.152Z","count":66,"avg":1834,"min":475,"max":4594,"p95":3621}
-{"type":"ok","from":"2026-04-18T00:01:41.941Z","to":"2026-04-18T10:01:38.224Z","count":58,"avg":1485,"min":293,"max":3257,"p95":2860}
-{"type":"fail","from":"2026-04-18T10:12:13.018Z","to":"2026-04-18T10:12:13.018Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5115}
-{"type":"ok","from":"2026-04-18T10:21:30.110Z","to":"2026-04-18T23:51:28.188Z","count":82,"avg":1479,"min":278,"max":3166,"p95":2681}
+{"type":"ok","from":"2026-04-01T00:03:14.820Z","to":"2026-04-01T23:53:16.860Z","count":144,"avg":653,"min":252,"max":4560,"p95":1494,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-02T00:03:19.522Z","to":"2026-04-02T23:53:17.338Z","count":144,"avg":534,"min":255,"max":2384,"p95":1296,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-03T00:03:24.514Z","to":"2026-04-03T16:24:49.972Z","count":99,"avg":655,"min":259,"max":2126,"p95":1399,"url":"https://api.ai-wave.org"}
+{"type":"fail","from":"2026-04-03T16:34:28.576Z","to":"2026-04-03T16:34:28.576Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-03T16:43:41.476Z","to":"2026-04-03T23:53:14.954Z","count":43,"avg":444,"min":258,"max":1282,"p95":880,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-04T00:03:30.595Z","to":"2026-04-04T23:52:47.781Z","count":138,"avg":593,"min":202,"max":2026,"p95":1431,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-05T00:02:55.458Z","to":"2026-04-05T23:53:00.792Z","count":143,"avg":801,"min":212,"max":2539,"p95":1682,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-06T00:02:58.879Z","to":"2026-04-06T23:52:29.526Z","count":144,"avg":661,"min":252,"max":2567,"p95":1484,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-07T00:02:34.238Z","to":"2026-04-07T23:52:32.015Z","count":144,"avg":703,"min":255,"max":2533,"p95":1494,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-08T00:02:45.777Z","to":"2026-04-08T23:52:52.160Z","count":144,"avg":810,"min":263,"max":2199,"p95":1774,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-09T00:02:50.145Z","to":"2026-04-09T23:52:25.694Z","count":144,"avg":827,"min":258,"max":2742,"p95":1894,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-10T00:02:36.797Z","to":"2026-04-10T23:52:37.341Z","count":144,"avg":761,"min":255,"max":2684,"p95":1906,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-11T00:02:36.082Z","to":"2026-04-11T23:52:42.769Z","count":143,"avg":960,"min":271,"max":2562,"p95":2006,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-12T00:02:33.351Z","to":"2026-04-12T23:52:21.064Z","count":143,"avg":726,"min":195,"max":2961,"p95":1705,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-13T00:02:23.822Z","to":"2026-04-13T15:02:52.655Z","count":84,"avg":600,"min":189,"max":1775,"p95":1486,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-14T02:22:49.386Z","to":"2026-04-14T23:52:13.121Z","count":122,"avg":634,"min":188,"max":3824,"p95":1546,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-15T00:02:16.184Z","to":"2026-04-15T23:52:33.108Z","count":140,"avg":725,"min":201,"max":2536,"p95":1983,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-16T00:02:46.256Z","to":"2026-04-16T15:03:17.785Z","count":79,"avg":1080,"min":213,"max":2860,"p95":2482,"url":"https://api.ai-wave.org"}
+{"type":"fail","from":"2026-04-16T15:13:05.390Z","to":"2026-04-16T15:13:05.390Z","count":1,"status":521,"error":"HTTP 521","avg_latency":735,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-16T15:23:39.759Z","to":"2026-04-16T23:52:46.479Z","count":52,"avg":1484,"min":328,"max":3312,"p95":2741,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-17T00:03:08.365Z","to":"2026-04-17T12:21:25.586Z","count":72,"avg":1486,"min":233,"max":3479,"p95":3091,"url":"https://api.ai-wave.org"}
+{"type":"fail","from":"2026-04-17T12:31:36.391Z","to":"2026-04-17T12:31:36.391Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-17T12:41:27.386Z","to":"2026-04-17T23:51:29.152Z","count":66,"avg":1834,"min":475,"max":4594,"p95":3621,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-18T00:01:41.941Z","to":"2026-04-18T10:01:38.224Z","count":58,"avg":1485,"min":293,"max":3257,"p95":2860,"url":"https://api.ai-wave.org"}
+{"type":"fail","from":"2026-04-18T10:12:13.018Z","to":"2026-04-18T10:12:13.018Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5115,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-18T10:21:30.110Z","to":"2026-04-18T23:51:28.188Z","count":82,"avg":1479,"min":278,"max":3166,"p95":2681,"url":"https://api.ai-wave.org"}
+{"type":"ok","from":"2026-04-19T00:01:40.487Z","to":"2026-04-19T04:11:28.809Z","count":23,"url":"https://api.ai-wave.org","avg":1478,"min":365,"max":2942,"p95":2571}
+{"type":"ok","from":"2026-04-19T04:21:20.103Z","to":"2026-04-19T07:51:26.742Z","count":22,"url":"https://www.ai-wave.org","avg":1508,"min":270,"max":3095,"p95":2897}
+{"type":"ok","from":"2026-04-19T08:07:03.966Z","to":"2026-04-19T23:46:13.969Z","count":48,"url":"https://api.ai-wave.org/api/status","avg":1405,"min":196,"max":2495,"p95":2468}

@@ -1,39 +1,41 @@
-{"url":"https://api.codex-for.me"}
-{"type":"ok","from":"2026-04-01T00:04:14.571Z","to":"2026-04-01T05:54:46.289Z","count":36,"avg":547,"min":264,"max":1077,"p95":976}
-{"type":"fail","from":"2026-04-01T06:04:28.694Z","to":"2026-04-01T11:54:23.071Z","count":36,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T12:04:26.109Z","to":"2026-04-01T12:54:27.104Z","count":6,"avg":485,"min":329,"max":620,"p95":620}
-{"type":"fail","from":"2026-04-01T13:04:45.360Z","to":"2026-04-01T13:04:45.360Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T13:14:41.907Z","to":"2026-04-01T23:54:12.655Z","count":65,"avg":599,"min":279,"max":1922,"p95":1295}
-{"type":"ok","from":"2026-04-02T00:04:11.024Z","to":"2026-04-02T23:54:07.244Z","count":144,"avg":555,"min":237,"max":1338,"p95":901}
-{"type":"ok","from":"2026-04-03T00:04:12.836Z","to":"2026-04-03T23:54:11.843Z","count":142,"avg":599,"min":258,"max":1570,"p95":970}
-{"type":"ok","from":"2026-04-04T00:04:16.646Z","to":"2026-04-04T17:14:23.564Z","count":98,"avg":717,"min":291,"max":3899,"p95":1251}
-{"type":"fail","from":"2026-04-04T17:24:10.276Z","to":"2026-04-04T17:24:10.276Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T17:34:08.929Z","to":"2026-04-04T23:53:54.440Z","count":39,"avg":852,"min":254,"max":3133,"p95":1887}
-{"type":"ok","from":"2026-04-05T00:04:10.569Z","to":"2026-04-05T12:04:04.811Z","count":73,"avg":793,"min":292,"max":2599,"p95":1738}
-{"type":"fail","from":"2026-04-05T12:14:21.372Z","to":"2026-04-05T12:14:21.372Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T12:24:19.551Z","to":"2026-04-05T23:54:26.848Z","count":69,"avg":725,"min":285,"max":4907,"p95":1212}
-{"type":"ok","from":"2026-04-06T00:04:09.273Z","to":"2026-04-06T14:43:52.930Z","count":89,"avg":767,"min":272,"max":4950,"p95":1871}
-{"type":"fail","from":"2026-04-06T14:54:08.087Z","to":"2026-04-06T14:54:08.087Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-06T15:04:03.183Z","to":"2026-04-06T23:53:28.374Z","count":54,"avg":563,"min":265,"max":962,"p95":846}
-{"type":"ok","from":"2026-04-07T00:03:28.661Z","to":"2026-04-07T23:53:15.261Z","count":144,"avg":583,"min":251,"max":1627,"p95":882}
-{"type":"ok","from":"2026-04-08T00:03:37.530Z","to":"2026-04-08T23:54:01.260Z","count":144,"avg":686,"min":238,"max":2858,"p95":1302}
-{"type":"ok","from":"2026-04-09T00:03:54.331Z","to":"2026-04-09T00:24:00.802Z","count":3,"avg":1109,"min":486,"max":2348,"p95":2348}
-{"type":"fail","from":"2026-04-09T00:34:18.317Z","to":"2026-04-09T00:34:18.317Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T00:44:09.154Z","to":"2026-04-09T23:53:22.028Z","count":140,"avg":622,"min":258,"max":1968,"p95":1167}
-{"type":"ok","from":"2026-04-10T00:03:31.690Z","to":"2026-04-10T23:53:31.513Z","count":144,"avg":605,"min":261,"max":1613,"p95":950}
-{"type":"ok","from":"2026-04-11T00:03:29.103Z","to":"2026-04-11T23:53:44.302Z","count":143,"avg":621,"min":242,"max":1316,"p95":968}
-{"type":"ok","from":"2026-04-12T00:03:27.691Z","to":"2026-04-12T23:53:14.468Z","count":142,"avg":605,"min":256,"max":1615,"p95":919}
-{"type":"ok","from":"2026-04-13T00:03:22.092Z","to":"2026-04-13T14:34:13.835Z","count":81,"avg":593,"min":269,"max":1816,"p95":953}
-{"type":"fail","from":"2026-04-13T14:44:08.139Z","to":"2026-04-13T14:44:08.139Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T14:53:59.341Z","to":"2026-04-13T15:03:52.343Z","count":2,"avg":1705,"min":581,"max":2828,"p95":2828}
-{"type":"ok","from":"2026-04-14T02:28:44.299Z","to":"2026-04-14T06:33:29.096Z","count":18,"avg":611,"min":298,"max":1970,"p95":1970}
-{"type":"fail","from":"2026-04-14T06:43:36.055Z","to":"2026-04-14T06:43:36.055Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-14T06:53:36.560Z","to":"2026-04-14T12:03:48.960Z","count":31,"avg":766,"min":470,"max":3085,"p95":1663}
-{"type":"fail","from":"2026-04-14T12:13:38.751Z","to":"2026-04-14T12:13:38.751Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T12:23:37.747Z","to":"2026-04-14T23:53:08.926Z","count":69,"avg":593,"min":261,"max":1467,"p95":900}
-{"type":"ok","from":"2026-04-15T00:03:04.213Z","to":"2026-04-15T23:53:31.699Z","count":140,"avg":642,"min":333,"max":1627,"p95":1150}
-{"type":"ok","from":"2026-04-16T00:03:45.078Z","to":"2026-04-16T23:53:46.280Z","count":131,"avg":657,"min":246,"max":2207,"p95":1255}
-{"type":"ok","from":"2026-04-17T00:04:16.284Z","to":"2026-04-17T23:52:08.730Z","count":138,"avg":1103,"min":253,"max":3013,"p95":2226}
-{"type":"ok","from":"2026-04-18T00:02:21.248Z","to":"2026-04-18T10:02:19.168Z","count":58,"avg":1047,"min":654,"max":2095,"p95":1604}
-{"type":"fail","from":"2026-04-18T10:13:52.991Z","to":"2026-04-18T10:13:52.991Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5428}
-{"type":"ok","from":"2026-04-18T10:22:07.774Z","to":"2026-04-18T23:52:00.279Z","count":81,"avg":1162,"min":792,"max":2591,"p95":1627}
+{"type":"ok","from":"2026-04-01T00:04:14.571Z","to":"2026-04-01T05:54:46.289Z","count":36,"avg":547,"min":264,"max":1077,"p95":976,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-01T06:04:28.694Z","to":"2026-04-01T11:54:23.071Z","count":36,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-01T12:04:26.109Z","to":"2026-04-01T12:54:27.104Z","count":6,"avg":485,"min":329,"max":620,"p95":620,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-01T13:04:45.360Z","to":"2026-04-01T13:04:45.360Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-01T13:14:41.907Z","to":"2026-04-01T23:54:12.655Z","count":65,"avg":599,"min":279,"max":1922,"p95":1295,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-02T00:04:11.024Z","to":"2026-04-02T23:54:07.244Z","count":144,"avg":555,"min":237,"max":1338,"p95":901,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-03T00:04:12.836Z","to":"2026-04-03T23:54:11.843Z","count":142,"avg":599,"min":258,"max":1570,"p95":970,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-04T00:04:16.646Z","to":"2026-04-04T17:14:23.564Z","count":98,"avg":717,"min":291,"max":3899,"p95":1251,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-04T17:24:10.276Z","to":"2026-04-04T17:24:10.276Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-04T17:34:08.929Z","to":"2026-04-04T23:53:54.440Z","count":39,"avg":852,"min":254,"max":3133,"p95":1887,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-05T00:04:10.569Z","to":"2026-04-05T12:04:04.811Z","count":73,"avg":793,"min":292,"max":2599,"p95":1738,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-05T12:14:21.372Z","to":"2026-04-05T12:14:21.372Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-05T12:24:19.551Z","to":"2026-04-05T23:54:26.848Z","count":69,"avg":725,"min":285,"max":4907,"p95":1212,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-06T00:04:09.273Z","to":"2026-04-06T14:43:52.930Z","count":89,"avg":767,"min":272,"max":4950,"p95":1871,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-06T14:54:08.087Z","to":"2026-04-06T14:54:08.087Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-06T15:04:03.183Z","to":"2026-04-06T23:53:28.374Z","count":54,"avg":563,"min":265,"max":962,"p95":846,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-07T00:03:28.661Z","to":"2026-04-07T23:53:15.261Z","count":144,"avg":583,"min":251,"max":1627,"p95":882,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-08T00:03:37.530Z","to":"2026-04-08T23:54:01.260Z","count":144,"avg":686,"min":238,"max":2858,"p95":1302,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-09T00:03:54.331Z","to":"2026-04-09T00:24:00.802Z","count":3,"avg":1109,"min":486,"max":2348,"p95":2348,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-09T00:34:18.317Z","to":"2026-04-09T00:34:18.317Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-09T00:44:09.154Z","to":"2026-04-09T23:53:22.028Z","count":140,"avg":622,"min":258,"max":1968,"p95":1167,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-10T00:03:31.690Z","to":"2026-04-10T23:53:31.513Z","count":144,"avg":605,"min":261,"max":1613,"p95":950,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-11T00:03:29.103Z","to":"2026-04-11T23:53:44.302Z","count":143,"avg":621,"min":242,"max":1316,"p95":968,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-12T00:03:27.691Z","to":"2026-04-12T23:53:14.468Z","count":142,"avg":605,"min":256,"max":1615,"p95":919,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-13T00:03:22.092Z","to":"2026-04-13T14:34:13.835Z","count":81,"avg":593,"min":269,"max":1816,"p95":953,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-13T14:44:08.139Z","to":"2026-04-13T14:44:08.139Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-13T14:53:59.341Z","to":"2026-04-13T15:03:52.343Z","count":2,"avg":1705,"min":581,"max":2828,"p95":2828,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-14T02:28:44.299Z","to":"2026-04-14T06:33:29.096Z","count":18,"avg":611,"min":298,"max":1970,"p95":1970,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-14T06:43:36.055Z","to":"2026-04-14T06:43:36.055Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-14T06:53:36.560Z","to":"2026-04-14T12:03:48.960Z","count":31,"avg":766,"min":470,"max":3085,"p95":1663,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-14T12:13:38.751Z","to":"2026-04-14T12:13:38.751Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-14T12:23:37.747Z","to":"2026-04-14T23:53:08.926Z","count":69,"avg":593,"min":261,"max":1467,"p95":900,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-15T00:03:04.213Z","to":"2026-04-15T23:53:31.699Z","count":140,"avg":642,"min":333,"max":1627,"p95":1150,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-16T00:03:45.078Z","to":"2026-04-16T23:53:46.280Z","count":131,"avg":657,"min":246,"max":2207,"p95":1255,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-17T00:04:16.284Z","to":"2026-04-17T23:52:08.730Z","count":138,"avg":1103,"min":253,"max":3013,"p95":2226,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-18T00:02:21.248Z","to":"2026-04-18T10:02:19.168Z","count":58,"avg":1047,"min":654,"max":2095,"p95":1604,"url":"https://api.codex-for.me"}
+{"type":"fail","from":"2026-04-18T10:13:52.991Z","to":"2026-04-18T10:13:52.991Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5428,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-18T10:22:07.774Z","to":"2026-04-18T23:52:00.279Z","count":81,"avg":1162,"min":792,"max":2591,"p95":1627,"url":"https://api.codex-for.me"}
+{"type":"ok","from":"2026-04-19T00:02:14.635Z","to":"2026-04-19T04:02:08.057Z","count":22,"url":"https://api.codex-for.me","avg":1181,"min":698,"max":2062,"p95":1831}
+{"type":"ok","from":"2026-04-19T04:12:00.761Z","to":"2026-04-19T07:52:03.975Z","count":23,"url":"https://codex-for.me","avg":871,"min":535,"max":1517,"p95":1392}
+{"type":"ok","from":"2026-04-19T08:14:16.558Z","to":"2026-04-19T23:51:09.012Z","count":48,"url":"https://api.codex-for.me/v1/models","avg":639,"min":259,"max":2352,"p95":1021}

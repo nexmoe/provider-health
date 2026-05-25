@@ -1,47 +1,48 @@
-{"url":"https://github.com"}
-{"type":"ok","from":"2026-04-01T00:01:48.516Z","to":"2026-04-01T23:51:45.952Z","count":144,"avg":275,"min":113,"max":660,"p95":477}
-{"type":"ok","from":"2026-04-02T00:01:48.553Z","to":"2026-04-02T23:51:50.243Z","count":144,"avg":295,"min":128,"max":812,"p95":595}
-{"type":"ok","from":"2026-04-03T00:01:49.290Z","to":"2026-04-03T23:51:47.981Z","count":143,"avg":279,"min":126,"max":647,"p95":553}
-{"type":"ok","from":"2026-04-04T00:01:52.269Z","to":"2026-04-04T10:41:22.079Z","count":59,"avg":294,"min":125,"max":657,"p95":544}
-{"type":"fail","from":"2026-04-04T10:51:14.885Z","to":"2026-04-04T10:51:14.885Z","count":1,"status":403,"error":"HTTP 403","avg_latency":177}
-{"type":"ok","from":"2026-04-04T11:01:40.345Z","to":"2026-04-04T23:51:08.611Z","count":78,"avg":299,"min":124,"max":802,"p95":570}
-{"type":"ok","from":"2026-04-05T00:01:06.701Z","to":"2026-04-05T23:51:11.721Z","count":144,"avg":322,"min":152,"max":1341,"p95":589}
-{"type":"ok","from":"2026-04-06T00:01:17.894Z","to":"2026-04-06T09:11:24.950Z","count":56,"avg":372,"min":119,"max":1113,"p95":671}
-{"type":"fail","from":"2026-04-06T09:21:23.120Z","to":"2026-04-06T09:21:23.120Z","count":1,"status":502,"error":"HTTP 502","avg_latency":1539}
-{"type":"ok","from":"2026-04-06T09:31:28.926Z","to":"2026-04-06T23:51:00.947Z","count":87,"avg":286,"min":154,"max":1085,"p95":500}
-{"type":"ok","from":"2026-04-07T00:01:09.304Z","to":"2026-04-07T23:50:59.880Z","count":144,"avg":293,"min":122,"max":663,"p95":502}
-{"type":"ok","from":"2026-04-08T00:01:13.924Z","to":"2026-04-08T07:11:06.084Z","count":44,"avg":413,"min":162,"max":1568,"p95":671}
-{"type":"fail","from":"2026-04-08T07:21:11.329Z","to":"2026-04-08T07:21:11.329Z","count":1,"status":403,"error":"HTTP 403","avg_latency":256}
-{"type":"ok","from":"2026-04-08T07:31:04.568Z","to":"2026-04-08T23:51:09.867Z","count":99,"avg":323,"min":126,"max":733,"p95":589}
-{"type":"ok","from":"2026-04-09T00:01:06.379Z","to":"2026-04-09T14:51:07.936Z","count":90,"avg":352,"min":125,"max":1779,"p95":606}
-{"type":"fail","from":"2026-04-09T15:01:13.000Z","to":"2026-04-09T15:01:13.000Z","count":1,"status":403,"error":"HTTP 403","avg_latency":307}
-{"type":"ok","from":"2026-04-09T15:11:13.257Z","to":"2026-04-09T23:50:59.954Z","count":53,"avg":258,"min":123,"max":672,"p95":562}
-{"type":"ok","from":"2026-04-10T00:01:09.312Z","to":"2026-04-10T05:51:24.562Z","count":36,"avg":320,"min":136,"max":620,"p95":568}
-{"type":"fail","from":"2026-04-10T06:01:16.209Z","to":"2026-04-10T06:01:16.209Z","count":1,"status":403,"error":"HTTP 403","avg_latency":300}
-{"type":"ok","from":"2026-04-10T06:11:21.079Z","to":"2026-04-10T23:51:05.382Z","count":107,"avg":270,"min":118,"max":640,"p95":571}
-{"type":"ok","from":"2026-04-11T00:01:04.647Z","to":"2026-04-11T23:51:12.413Z","count":143,"avg":163,"min":116,"max":684,"p95":303}
-{"type":"ok","from":"2026-04-12T00:01:09.532Z","to":"2026-04-12T11:41:17.132Z","count":71,"avg":127,"min":114,"max":159,"p95":148}
-{"type":"fail","from":"2026-04-12T11:51:07.195Z","to":"2026-04-12T11:51:07.195Z","count":1,"status":403,"error":"HTTP 403","avg_latency":131}
-{"type":"ok","from":"2026-04-12T12:01:11.343Z","to":"2026-04-12T14:11:09.964Z","count":15,"avg":125,"min":117,"max":135,"p95":135}
-{"type":"fail","from":"2026-04-12T14:21:20.380Z","to":"2026-04-12T14:21:20.380Z","count":1,"status":403,"error":"HTTP 403","avg_latency":131}
-{"type":"ok","from":"2026-04-12T14:31:17.809Z","to":"2026-04-12T23:51:07.507Z","count":56,"avg":133,"min":119,"max":378,"p95":162}
-{"type":"ok","from":"2026-04-13T00:01:06.672Z","to":"2026-04-13T15:01:14.842Z","count":85,"avg":130,"min":116,"max":186,"p95":156}
-{"type":"ok","from":"2026-04-14T02:21:16.378Z","to":"2026-04-14T23:50:59.693Z","count":124,"avg":131,"min":117,"max":172,"p95":155}
-{"type":"ok","from":"2026-04-15T00:01:02.390Z","to":"2026-04-15T23:51:10.948Z","count":141,"avg":164,"min":113,"max":1148,"p95":602}
-{"type":"ok","from":"2026-04-16T00:01:12.751Z","to":"2026-04-16T01:51:14.954Z","count":12,"avg":217,"min":112,"max":1290,"p95":1290}
-{"type":"fail","from":"2026-04-16T02:01:15.596Z","to":"2026-04-16T02:01:15.596Z","count":1,"status":502,"error":"HTTP 502","avg_latency":142}
-{"type":"ok","from":"2026-04-16T02:11:15.484Z","to":"2026-04-16T23:51:19.081Z","count":120,"avg":281,"min":114,"max":830,"p95":638}
-{"type":"ok","from":"2026-04-17T00:01:37.597Z","to":"2026-04-17T07:30:46.595Z","count":44,"avg":459,"min":126,"max":2339,"p95":678}
-{"type":"fail","from":"2026-04-17T07:40:43.054Z","to":"2026-04-17T07:40:43.054Z","count":1,"status":502,"error":"HTTP 502","avg_latency":1662}
-{"type":"ok","from":"2026-04-17T07:50:43.149Z","to":"2026-04-17T13:20:42.095Z","count":34,"avg":2197,"min":479,"max":3893,"p95":3227}
-{"type":"fail","from":"2026-04-17T13:30:51.206Z","to":"2026-04-17T13:30:51.206Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T13:40:46.005Z","to":"2026-04-17T15:00:54.796Z","count":7,"avg":1887,"min":392,"max":3215,"p95":3215}
-{"type":"fail","from":"2026-04-17T15:10:46.187Z","to":"2026-04-17T15:20:48.228Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T15:30:48.811Z","to":"2026-04-17T17:40:43.997Z","count":14,"avg":2157,"min":441,"max":4862,"p95":4862}
-{"type":"fail","from":"2026-04-17T17:50:45.879Z","to":"2026-04-17T17:50:45.879Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T18:00:50.909Z","to":"2026-04-17T23:50:42.777Z","count":36,"avg":1466,"min":386,"max":3455,"p95":2817}
-{"type":"ok","from":"2026-04-18T00:00:52.059Z","to":"2026-04-18T02:30:48.738Z","count":16,"avg":1778,"min":378,"max":3384,"p95":3384}
-{"type":"fail","from":"2026-04-18T02:40:49.729Z","to":"2026-04-18T02:40:49.729Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T02:50:42.676Z","to":"2026-04-18T14:30:47.146Z","count":68,"avg":802,"min":230,"max":2904,"p95":2190}
-{"type":"fail","from":"2026-04-18T14:40:43.439Z","to":"2026-04-18T14:40:43.439Z","count":1,"status":504,"error":"HTTP 504","avg_latency":709}
-{"type":"ok","from":"2026-04-18T14:50:42.207Z","to":"2026-04-18T23:50:41.962Z","count":55,"avg":680,"min":378,"max":3527,"p95":921}
+{"type":"ok","from":"2026-04-01T00:01:48.516Z","to":"2026-04-01T23:51:45.952Z","count":144,"avg":275,"min":113,"max":660,"p95":477,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-02T00:01:48.553Z","to":"2026-04-02T23:51:50.243Z","count":144,"avg":295,"min":128,"max":812,"p95":595,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-03T00:01:49.290Z","to":"2026-04-03T23:51:47.981Z","count":143,"avg":279,"min":126,"max":647,"p95":553,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-04T00:01:52.269Z","to":"2026-04-04T10:41:22.079Z","count":59,"avg":294,"min":125,"max":657,"p95":544,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-04T10:51:14.885Z","to":"2026-04-04T10:51:14.885Z","count":1,"status":403,"error":"HTTP 403","avg_latency":177,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-04T11:01:40.345Z","to":"2026-04-04T23:51:08.611Z","count":78,"avg":299,"min":124,"max":802,"p95":570,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-05T00:01:06.701Z","to":"2026-04-05T23:51:11.721Z","count":144,"avg":322,"min":152,"max":1341,"p95":589,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-06T00:01:17.894Z","to":"2026-04-06T09:11:24.950Z","count":56,"avg":372,"min":119,"max":1113,"p95":671,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-06T09:21:23.120Z","to":"2026-04-06T09:21:23.120Z","count":1,"status":502,"error":"HTTP 502","avg_latency":1539,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-06T09:31:28.926Z","to":"2026-04-06T23:51:00.947Z","count":87,"avg":286,"min":154,"max":1085,"p95":500,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-07T00:01:09.304Z","to":"2026-04-07T23:50:59.880Z","count":144,"avg":293,"min":122,"max":663,"p95":502,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-08T00:01:13.924Z","to":"2026-04-08T07:11:06.084Z","count":44,"avg":413,"min":162,"max":1568,"p95":671,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-08T07:21:11.329Z","to":"2026-04-08T07:21:11.329Z","count":1,"status":403,"error":"HTTP 403","avg_latency":256,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-08T07:31:04.568Z","to":"2026-04-08T23:51:09.867Z","count":99,"avg":323,"min":126,"max":733,"p95":589,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-09T00:01:06.379Z","to":"2026-04-09T14:51:07.936Z","count":90,"avg":352,"min":125,"max":1779,"p95":606,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-09T15:01:13.000Z","to":"2026-04-09T15:01:13.000Z","count":1,"status":403,"error":"HTTP 403","avg_latency":307,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-09T15:11:13.257Z","to":"2026-04-09T23:50:59.954Z","count":53,"avg":258,"min":123,"max":672,"p95":562,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-10T00:01:09.312Z","to":"2026-04-10T05:51:24.562Z","count":36,"avg":320,"min":136,"max":620,"p95":568,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-10T06:01:16.209Z","to":"2026-04-10T06:01:16.209Z","count":1,"status":403,"error":"HTTP 403","avg_latency":300,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-10T06:11:21.079Z","to":"2026-04-10T23:51:05.382Z","count":107,"avg":270,"min":118,"max":640,"p95":571,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-11T00:01:04.647Z","to":"2026-04-11T23:51:12.413Z","count":143,"avg":163,"min":116,"max":684,"p95":303,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-12T00:01:09.532Z","to":"2026-04-12T11:41:17.132Z","count":71,"avg":127,"min":114,"max":159,"p95":148,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-12T11:51:07.195Z","to":"2026-04-12T11:51:07.195Z","count":1,"status":403,"error":"HTTP 403","avg_latency":131,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-12T12:01:11.343Z","to":"2026-04-12T14:11:09.964Z","count":15,"avg":125,"min":117,"max":135,"p95":135,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-12T14:21:20.380Z","to":"2026-04-12T14:21:20.380Z","count":1,"status":403,"error":"HTTP 403","avg_latency":131,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-12T14:31:17.809Z","to":"2026-04-12T23:51:07.507Z","count":56,"avg":133,"min":119,"max":378,"p95":162,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-13T00:01:06.672Z","to":"2026-04-13T15:01:14.842Z","count":85,"avg":130,"min":116,"max":186,"p95":156,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-14T02:21:16.378Z","to":"2026-04-14T23:50:59.693Z","count":124,"avg":131,"min":117,"max":172,"p95":155,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-15T00:01:02.390Z","to":"2026-04-15T23:51:10.948Z","count":141,"avg":164,"min":113,"max":1148,"p95":602,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-16T00:01:12.751Z","to":"2026-04-16T01:51:14.954Z","count":12,"avg":217,"min":112,"max":1290,"p95":1290,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-16T02:01:15.596Z","to":"2026-04-16T02:01:15.596Z","count":1,"status":502,"error":"HTTP 502","avg_latency":142,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-16T02:11:15.484Z","to":"2026-04-16T23:51:19.081Z","count":120,"avg":281,"min":114,"max":830,"p95":638,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-17T00:01:37.597Z","to":"2026-04-17T07:30:46.595Z","count":44,"avg":459,"min":126,"max":2339,"p95":678,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-17T07:40:43.054Z","to":"2026-04-17T07:40:43.054Z","count":1,"status":502,"error":"HTTP 502","avg_latency":1662,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-17T07:50:43.149Z","to":"2026-04-17T13:20:42.095Z","count":34,"avg":2197,"min":479,"max":3893,"p95":3227,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-17T13:30:51.206Z","to":"2026-04-17T13:30:51.206Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-17T13:40:46.005Z","to":"2026-04-17T15:00:54.796Z","count":7,"avg":1887,"min":392,"max":3215,"p95":3215,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-17T15:10:46.187Z","to":"2026-04-17T15:20:48.228Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-17T15:30:48.811Z","to":"2026-04-17T17:40:43.997Z","count":14,"avg":2157,"min":441,"max":4862,"p95":4862,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-17T17:50:45.879Z","to":"2026-04-17T17:50:45.879Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-17T18:00:50.909Z","to":"2026-04-17T23:50:42.777Z","count":36,"avg":1466,"min":386,"max":3455,"p95":2817,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-18T00:00:52.059Z","to":"2026-04-18T02:30:48.738Z","count":16,"avg":1778,"min":378,"max":3384,"p95":3384,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-18T02:40:49.729Z","to":"2026-04-18T02:40:49.729Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-18T02:50:42.676Z","to":"2026-04-18T14:30:47.146Z","count":68,"avg":802,"min":230,"max":2904,"p95":2190,"url":"https://github.com"}
+{"type":"fail","from":"2026-04-18T14:40:43.439Z","to":"2026-04-18T14:40:43.439Z","count":1,"status":504,"error":"HTTP 504","avg_latency":709,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-18T14:50:42.207Z","to":"2026-04-18T23:50:41.962Z","count":55,"avg":680,"min":378,"max":3527,"p95":921,"url":"https://github.com"}
+{"type":"ok","from":"2026-04-19T00:00:53.735Z","to":"2026-04-19T07:50:40.594Z","count":45,"url":"https://github.com","avg":631,"min":171,"max":1228,"p95":885}
+{"type":"ok","from":"2026-04-19T08:02:40.511Z","to":"2026-04-19T23:42:15.263Z","count":48,"url":"https://models.github.ai/v1/models","avg":808,"min":658,"max":2256,"p95":1008}

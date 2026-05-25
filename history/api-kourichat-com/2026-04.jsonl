@@ -1,72 +1,74 @@
-{"url":"https://api.kourichat.com"}
-{"type":"ok","from":"2026-04-01T00:02:58.487Z","to":"2026-04-01T00:13:16.435Z","count":2,"avg":1196,"min":1038,"max":1353,"p95":1353}
-{"type":"fail","from":"2026-04-01T00:23:10.962Z","to":"2026-04-01T00:23:10.962Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-01T00:32:58.594Z","to":"2026-04-01T02:13:07.384Z","count":11,"avg":1350,"min":350,"max":4013,"p95":4013}
-{"type":"fail","from":"2026-04-01T02:23:13.752Z","to":"2026-04-01T02:23:13.752Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-01T02:33:20.108Z","to":"2026-04-01T05:43:09.186Z","count":20,"avg":1281,"min":1007,"max":2272,"p95":2272}
-{"type":"fail","from":"2026-04-01T05:53:19.550Z","to":"2026-04-01T05:53:19.550Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-01T06:03:08.773Z","to":"2026-04-01T08:23:22.997Z","count":15,"avg":1344,"min":1032,"max":2349,"p95":2349}
-{"type":"fail","from":"2026-04-01T08:33:27.356Z","to":"2026-04-01T08:33:27.356Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T08:43:01.190Z","to":"2026-04-01T13:43:18.935Z","count":31,"avg":1359,"min":1032,"max":4212,"p95":1755}
-{"type":"fail","from":"2026-04-01T13:53:09.892Z","to":"2026-04-01T13:53:09.892Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T14:03:16.951Z","to":"2026-04-01T15:43:29.383Z","count":11,"avg":1230,"min":25,"max":1764,"p95":1764}
-{"type":"fail","from":"2026-04-01T15:53:33.240Z","to":"2026-04-01T15:53:33.240Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T16:03:28.758Z","to":"2026-04-01T18:33:05.851Z","count":16,"avg":1065,"min":27,"max":1678,"p95":1678}
-{"type":"fail","from":"2026-04-01T18:43:12.123Z","to":"2026-04-01T18:43:12.123Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T18:52:58.568Z","to":"2026-04-01T21:43:02.894Z","count":18,"avg":1052,"min":25,"max":1714,"p95":1714}
-{"type":"fail","from":"2026-04-01T21:52:57.983Z","to":"2026-04-01T21:52:57.983Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-01T22:02:56.137Z","to":"2026-04-01T23:52:59.454Z","count":12,"avg":1164,"min":991,"max":1709,"p95":1709}
-{"type":"ok","from":"2026-04-02T00:03:03.937Z","to":"2026-04-02T01:53:14.802Z","count":12,"avg":1232,"min":999,"max":1639,"p95":1639}
-{"type":"fail","from":"2026-04-02T02:03:12.123Z","to":"2026-04-02T02:13:11.554Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T02:23:18.102Z","to":"2026-04-02T05:33:13.202Z","count":20,"avg":1004,"min":42,"max":1780,"p95":1780}
-{"type":"fail","from":"2026-04-02T05:43:20.204Z","to":"2026-04-02T05:53:19.895Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T06:03:06.509Z","to":"2026-04-02T08:23:18.868Z","count":15,"avg":1198,"min":26,"max":2474,"p95":2474}
-{"type":"fail","from":"2026-04-02T08:33:26.040Z","to":"2026-04-02T08:33:26.040Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T08:43:18.422Z","to":"2026-04-02T13:43:32.715Z","count":31,"avg":709,"min":44,"max":1754,"p95":1687}
-{"type":"fail","from":"2026-04-02T13:53:34.249Z","to":"2026-04-02T13:53:34.249Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-02T14:03:08.625Z","to":"2026-04-02T15:43:17.577Z","count":11,"avg":655,"min":56,"max":1497,"p95":1497}
-{"type":"fail","from":"2026-04-02T15:53:24.210Z","to":"2026-04-02T15:53:24.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T16:03:16.817Z","to":"2026-04-02T22:32:57.213Z","count":40,"avg":781,"min":27,"max":2071,"p95":1776}
-{"type":"fail","from":"2026-04-02T22:43:12.787Z","to":"2026-04-02T22:43:12.787Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T22:53:13.551Z","to":"2026-04-02T23:52:59.570Z","count":7,"avg":917,"min":27,"max":1152,"p95":1152}
-{"type":"ok","from":"2026-04-03T00:03:07.581Z","to":"2026-04-03T23:52:57.602Z","count":143,"avg":1285,"min":25,"max":2699,"p95":1963}
-{"type":"fail","from":"2026-04-04T00:03:10.171Z","to":"2026-04-04T00:03:10.171Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T00:13:00.498Z","to":"2026-04-04T06:12:42.168Z","count":31,"avg":1300,"min":981,"max":2141,"p95":1765}
-{"type":"fail","from":"2026-04-04T06:22:33.559Z","to":"2026-04-04T06:22:33.559Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T06:32:17.313Z","to":"2026-04-04T09:22:22.001Z","count":18,"avg":1210,"min":1032,"max":1721,"p95":1721}
-{"type":"fail","from":"2026-04-04T09:32:31.762Z","to":"2026-04-04T09:32:31.762Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T09:42:38.111Z","to":"2026-04-04T14:22:37.885Z","count":29,"avg":1358,"min":1038,"max":1981,"p95":1958}
-{"type":"fail","from":"2026-04-04T14:32:51.930Z","to":"2026-04-04T14:32:51.930Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-04T14:42:41.454Z","to":"2026-04-04T17:42:24.373Z","count":19,"avg":1377,"min":56,"max":2202,"p95":2202}
-{"type":"fail","from":"2026-04-04T17:52:32.672Z","to":"2026-04-04T18:02:33.189Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T18:12:21.103Z","to":"2026-04-04T18:12:21.103Z","count":1,"avg":1407,"min":1407,"max":1407,"p95":1407}
-{"type":"fail","from":"2026-04-04T18:22:30.080Z","to":"2026-04-04T18:22:30.080Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T18:32:35.181Z","to":"2026-04-04T20:42:39.649Z","count":14,"avg":1216,"min":352,"max":1630,"p95":1630}
-{"type":"fail","from":"2026-04-04T20:52:39.536Z","to":"2026-04-04T20:52:39.536Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T21:02:36.339Z","to":"2026-04-04T21:02:36.339Z","count":1,"avg":1389,"min":1389,"max":1389,"p95":1389}
-{"type":"fail","from":"2026-04-04T21:12:23.289Z","to":"2026-04-04T21:12:23.289Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T21:22:25.870Z","to":"2026-04-04T23:12:42.831Z","count":12,"avg":1299,"min":1059,"max":1808,"p95":1808}
-{"type":"fail","from":"2026-04-04T23:22:30.269Z","to":"2026-04-04T23:22:30.269Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-04T23:32:28.333Z","to":"2026-04-04T23:52:25.824Z","count":3,"avg":1126,"min":1037,"max":1280,"p95":1280}
-{"type":"ok","from":"2026-04-05T00:02:28.980Z","to":"2026-04-05T01:22:47.282Z","count":9,"avg":1554,"min":1064,"max":1787,"p95":1787}
-{"type":"fail","from":"2026-04-05T01:32:45.953Z","to":"2026-04-05T01:32:45.953Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T01:42:44.111Z","to":"2026-04-05T04:02:31.459Z","count":15,"avg":1384,"min":717,"max":1937,"p95":1937}
-{"type":"fail","from":"2026-04-05T04:12:40.456Z","to":"2026-04-05T04:12:40.456Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T04:22:34.878Z","to":"2026-04-05T23:52:32.901Z","count":118,"avg":1036,"min":28,"max":4614,"p95":2241}
-{"type":"ok","from":"2026-04-06T00:02:36.673Z","to":"2026-04-06T23:52:09.896Z","count":144,"avg":1285,"min":111,"max":2163,"p95":1888}
-{"type":"ok","from":"2026-04-07T00:02:15.643Z","to":"2026-04-07T23:52:13.805Z","count":144,"avg":1282,"min":66,"max":3258,"p95":1801}
-{"type":"ok","from":"2026-04-08T00:02:24.007Z","to":"2026-04-08T23:52:29.134Z","count":144,"avg":1377,"min":80,"max":3270,"p95":2079}
-{"type":"ok","from":"2026-04-09T00:02:22.447Z","to":"2026-04-09T23:52:07.576Z","count":144,"avg":1110,"min":25,"max":2569,"p95":1797}
-{"type":"ok","from":"2026-04-10T00:02:17.559Z","to":"2026-04-10T23:52:18.523Z","count":144,"avg":1149,"min":23,"max":2594,"p95":1950}
-{"type":"ok","from":"2026-04-11T00:02:16.573Z","to":"2026-04-11T15:02:50.449Z","count":90,"avg":1403,"min":23,"max":4234,"p95":2678}
-{"type":"fail","from":"2026-04-11T15:12:42.923Z","to":"2026-04-11T15:12:42.923Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T15:22:49.216Z","to":"2026-04-11T23:52:25.317Z","count":52,"avg":1216,"min":21,"max":2335,"p95":1954}
-{"type":"ok","from":"2026-04-12T00:02:13.532Z","to":"2026-04-12T23:52:05.955Z","count":144,"avg":1157,"min":23,"max":2331,"p95":1756}
-{"type":"ok","from":"2026-04-13T00:02:09.161Z","to":"2026-04-13T15:02:31.835Z","count":84,"avg":942,"min":20,"max":2516,"p95":1715}
-{"type":"ok","from":"2026-04-14T02:22:30.623Z","to":"2026-04-14T23:51:55.453Z","count":122,"avg":1006,"min":24,"max":2194,"p95":1713}
-{"type":"ok","from":"2026-04-15T00:01:59.727Z","to":"2026-04-15T23:52:10.277Z","count":140,"avg":1326,"min":41,"max":3511,"p95":2023}
-{"type":"ok","from":"2026-04-16T00:02:22.779Z","to":"2026-04-16T23:52:32.816Z","count":132,"avg":1485,"min":493,"max":3189,"p95":2028}
-{"type":"ok","from":"2026-04-17T00:02:52.634Z","to":"2026-04-17T23:51:19.047Z","count":139,"avg":1272,"min":32,"max":3370,"p95":2431}
-{"type":"ok","from":"2026-04-18T00:01:28.035Z","to":"2026-04-18T10:01:29.168Z","count":58,"avg":1151,"min":55,"max":2631,"p95":2052}
-{"type":"fail","from":"2026-04-18T10:11:43.881Z","to":"2026-04-18T10:11:43.881Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5303}
-{"type":"ok","from":"2026-04-18T10:21:21.767Z","to":"2026-04-18T23:51:19.935Z","count":82,"avg":1213,"min":34,"max":2625,"p95":1850}
+{"type":"ok","from":"2026-04-01T00:02:58.487Z","to":"2026-04-01T00:13:16.435Z","count":2,"avg":1196,"min":1038,"max":1353,"p95":1353,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-01T00:23:10.962Z","to":"2026-04-01T00:23:10.962Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-01T00:32:58.594Z","to":"2026-04-01T02:13:07.384Z","count":11,"avg":1350,"min":350,"max":4013,"p95":4013,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-01T02:23:13.752Z","to":"2026-04-01T02:23:13.752Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-01T02:33:20.108Z","to":"2026-04-01T05:43:09.186Z","count":20,"avg":1281,"min":1007,"max":2272,"p95":2272,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-01T05:53:19.550Z","to":"2026-04-01T05:53:19.550Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-01T06:03:08.773Z","to":"2026-04-01T08:23:22.997Z","count":15,"avg":1344,"min":1032,"max":2349,"p95":2349,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-01T08:33:27.356Z","to":"2026-04-01T08:33:27.356Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-01T08:43:01.190Z","to":"2026-04-01T13:43:18.935Z","count":31,"avg":1359,"min":1032,"max":4212,"p95":1755,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-01T13:53:09.892Z","to":"2026-04-01T13:53:09.892Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-01T14:03:16.951Z","to":"2026-04-01T15:43:29.383Z","count":11,"avg":1230,"min":25,"max":1764,"p95":1764,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-01T15:53:33.240Z","to":"2026-04-01T15:53:33.240Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-01T16:03:28.758Z","to":"2026-04-01T18:33:05.851Z","count":16,"avg":1065,"min":27,"max":1678,"p95":1678,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-01T18:43:12.123Z","to":"2026-04-01T18:43:12.123Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-01T18:52:58.568Z","to":"2026-04-01T21:43:02.894Z","count":18,"avg":1052,"min":25,"max":1714,"p95":1714,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-01T21:52:57.983Z","to":"2026-04-01T21:52:57.983Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-01T22:02:56.137Z","to":"2026-04-01T23:52:59.454Z","count":12,"avg":1164,"min":991,"max":1709,"p95":1709,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-02T00:03:03.937Z","to":"2026-04-02T01:53:14.802Z","count":12,"avg":1232,"min":999,"max":1639,"p95":1639,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-02T02:03:12.123Z","to":"2026-04-02T02:13:11.554Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-02T02:23:18.102Z","to":"2026-04-02T05:33:13.202Z","count":20,"avg":1004,"min":42,"max":1780,"p95":1780,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-02T05:43:20.204Z","to":"2026-04-02T05:53:19.895Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-02T06:03:06.509Z","to":"2026-04-02T08:23:18.868Z","count":15,"avg":1198,"min":26,"max":2474,"p95":2474,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-02T08:33:26.040Z","to":"2026-04-02T08:33:26.040Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-02T08:43:18.422Z","to":"2026-04-02T13:43:32.715Z","count":31,"avg":709,"min":44,"max":1754,"p95":1687,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-02T13:53:34.249Z","to":"2026-04-02T13:53:34.249Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-02T14:03:08.625Z","to":"2026-04-02T15:43:17.577Z","count":11,"avg":655,"min":56,"max":1497,"p95":1497,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-02T15:53:24.210Z","to":"2026-04-02T15:53:24.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-02T16:03:16.817Z","to":"2026-04-02T22:32:57.213Z","count":40,"avg":781,"min":27,"max":2071,"p95":1776,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-02T22:43:12.787Z","to":"2026-04-02T22:43:12.787Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-02T22:53:13.551Z","to":"2026-04-02T23:52:59.570Z","count":7,"avg":917,"min":27,"max":1152,"p95":1152,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-03T00:03:07.581Z","to":"2026-04-03T23:52:57.602Z","count":143,"avg":1285,"min":25,"max":2699,"p95":1963,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T00:03:10.171Z","to":"2026-04-04T00:03:10.171Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T00:13:00.498Z","to":"2026-04-04T06:12:42.168Z","count":31,"avg":1300,"min":981,"max":2141,"p95":1765,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T06:22:33.559Z","to":"2026-04-04T06:22:33.559Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T06:32:17.313Z","to":"2026-04-04T09:22:22.001Z","count":18,"avg":1210,"min":1032,"max":1721,"p95":1721,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T09:32:31.762Z","to":"2026-04-04T09:32:31.762Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T09:42:38.111Z","to":"2026-04-04T14:22:37.885Z","count":29,"avg":1358,"min":1038,"max":1981,"p95":1958,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T14:32:51.930Z","to":"2026-04-04T14:32:51.930Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T14:42:41.454Z","to":"2026-04-04T17:42:24.373Z","count":19,"avg":1377,"min":56,"max":2202,"p95":2202,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T17:52:32.672Z","to":"2026-04-04T18:02:33.189Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T18:12:21.103Z","to":"2026-04-04T18:12:21.103Z","count":1,"avg":1407,"min":1407,"max":1407,"p95":1407,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T18:22:30.080Z","to":"2026-04-04T18:22:30.080Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T18:32:35.181Z","to":"2026-04-04T20:42:39.649Z","count":14,"avg":1216,"min":352,"max":1630,"p95":1630,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T20:52:39.536Z","to":"2026-04-04T20:52:39.536Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T21:02:36.339Z","to":"2026-04-04T21:02:36.339Z","count":1,"avg":1389,"min":1389,"max":1389,"p95":1389,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T21:12:23.289Z","to":"2026-04-04T21:12:23.289Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T21:22:25.870Z","to":"2026-04-04T23:12:42.831Z","count":12,"avg":1299,"min":1059,"max":1808,"p95":1808,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-04T23:22:30.269Z","to":"2026-04-04T23:22:30.269Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-04T23:32:28.333Z","to":"2026-04-04T23:52:25.824Z","count":3,"avg":1126,"min":1037,"max":1280,"p95":1280,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-05T00:02:28.980Z","to":"2026-04-05T01:22:47.282Z","count":9,"avg":1554,"min":1064,"max":1787,"p95":1787,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-05T01:32:45.953Z","to":"2026-04-05T01:32:45.953Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-05T01:42:44.111Z","to":"2026-04-05T04:02:31.459Z","count":15,"avg":1384,"min":717,"max":1937,"p95":1937,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-05T04:12:40.456Z","to":"2026-04-05T04:12:40.456Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-05T04:22:34.878Z","to":"2026-04-05T23:52:32.901Z","count":118,"avg":1036,"min":28,"max":4614,"p95":2241,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-06T00:02:36.673Z","to":"2026-04-06T23:52:09.896Z","count":144,"avg":1285,"min":111,"max":2163,"p95":1888,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-07T00:02:15.643Z","to":"2026-04-07T23:52:13.805Z","count":144,"avg":1282,"min":66,"max":3258,"p95":1801,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-08T00:02:24.007Z","to":"2026-04-08T23:52:29.134Z","count":144,"avg":1377,"min":80,"max":3270,"p95":2079,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-09T00:02:22.447Z","to":"2026-04-09T23:52:07.576Z","count":144,"avg":1110,"min":25,"max":2569,"p95":1797,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-10T00:02:17.559Z","to":"2026-04-10T23:52:18.523Z","count":144,"avg":1149,"min":23,"max":2594,"p95":1950,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-11T00:02:16.573Z","to":"2026-04-11T15:02:50.449Z","count":90,"avg":1403,"min":23,"max":4234,"p95":2678,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-11T15:12:42.923Z","to":"2026-04-11T15:12:42.923Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-11T15:22:49.216Z","to":"2026-04-11T23:52:25.317Z","count":52,"avg":1216,"min":21,"max":2335,"p95":1954,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-12T00:02:13.532Z","to":"2026-04-12T23:52:05.955Z","count":144,"avg":1157,"min":23,"max":2331,"p95":1756,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-13T00:02:09.161Z","to":"2026-04-13T15:02:31.835Z","count":84,"avg":942,"min":20,"max":2516,"p95":1715,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-14T02:22:30.623Z","to":"2026-04-14T23:51:55.453Z","count":122,"avg":1006,"min":24,"max":2194,"p95":1713,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-15T00:01:59.727Z","to":"2026-04-15T23:52:10.277Z","count":140,"avg":1326,"min":41,"max":3511,"p95":2023,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-16T00:02:22.779Z","to":"2026-04-16T23:52:32.816Z","count":132,"avg":1485,"min":493,"max":3189,"p95":2028,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-17T00:02:52.634Z","to":"2026-04-17T23:51:19.047Z","count":139,"avg":1272,"min":32,"max":3370,"p95":2431,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-18T00:01:28.035Z","to":"2026-04-18T10:01:29.168Z","count":58,"avg":1151,"min":55,"max":2631,"p95":2052,"url":"https://api.kourichat.com"}
+{"type":"fail","from":"2026-04-18T10:11:43.881Z","to":"2026-04-18T10:11:43.881Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5303,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-18T10:21:21.767Z","to":"2026-04-18T23:51:19.935Z","count":82,"avg":1213,"min":34,"max":2625,"p95":1850,"url":"https://api.kourichat.com"}
+{"type":"ok","from":"2026-04-19T00:01:32.139Z","to":"2026-04-19T04:01:30.417Z","count":22,"url":"https://api.kourichat.com","avg":1077,"min":991,"max":1438,"p95":1328}
+{"type":"ok","from":"2026-04-19T04:11:19.776Z","to":"2026-04-19T07:51:17.714Z","count":23,"url":"https://kourichat.com","avg":193,"min":33,"max":783,"p95":694}
+{"type":"ok","from":"2026-04-19T08:06:21.663Z","to":"2026-04-19T23:45:29.704Z","count":48,"url":"https://api.kourichat.com/v1/models","avg":47,"min":14,"max":252,"p95":165}

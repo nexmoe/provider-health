@@ -17,3 +17,5 @@
 {"type":"ok","from":"2026-04-18T00:02:42.431Z","to":"2026-04-18T10:02:43.633Z","count":57,"url":"https://supabase.com","avg":1408,"min":587,"max":4654,"p95":2943}
 {"type":"fail","from":"2026-04-18T10:15:14.420Z","to":"2026-04-18T10:15:14.420Z","count":1,"url":"https://supabase.com","status":null,"error":"Healthcheck timeout","avg_latency":5003}
 {"type":"ok","from":"2026-04-18T10:22:32.376Z","to":"2026-04-18T23:52:20.720Z","count":81,"url":"https://supabase.com","avg":1181,"min":380,"max":2705,"p95":1767}
+{"type":"ok","from":"2026-04-19T00:02:32.559Z","to":"2026-04-19T07:52:23.244Z","count":45,"url":"https://supabase.com","avg":1366,"min":778,"max":2793,"p95":2237}
+{"type":"fail","from":"2026-04-19T08:15:34.724Z","to":"2026-04-19T23:52:27.905Z","count":48,"url":"https://ttknrllwjndwdtycqqfv.supabase.co/api/status","status":404,"error":"HTTP 404","avg_latency":null}

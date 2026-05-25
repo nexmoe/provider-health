@@ -1,26 +1,27 @@
-{"url":"https://mistral.ai"}
-{"type":"ok","from":"2026-04-01T00:03:23.619Z","to":"2026-04-01T23:53:25.676Z","count":144,"avg":729,"min":439,"max":2433,"p95":1165}
-{"type":"ok","from":"2026-04-02T00:03:24.848Z","to":"2026-04-02T12:53:36.561Z","count":78,"avg":670,"min":448,"max":2314,"p95":1197}
-{"type":"fail","from":"2026-04-02T13:03:39.505Z","to":"2026-04-02T13:03:39.505Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T13:13:39.733Z","to":"2026-04-02T23:53:21.668Z","count":65,"avg":809,"min":545,"max":4399,"p95":1218}
-{"type":"ok","from":"2026-04-03T00:03:30.061Z","to":"2026-04-03T23:53:20.130Z","count":143,"avg":729,"min":394,"max":2048,"p95":1300}
-{"type":"ok","from":"2026-04-04T00:03:34.846Z","to":"2026-04-04T23:52:56.728Z","count":138,"avg":739,"min":471,"max":1884,"p95":1283}
-{"type":"ok","from":"2026-04-05T00:03:00.281Z","to":"2026-04-05T23:53:08.289Z","count":143,"avg":730,"min":479,"max":1496,"p95":1139}
-{"type":"ok","from":"2026-04-06T00:03:03.159Z","to":"2026-04-06T23:52:34.962Z","count":144,"avg":691,"min":451,"max":1612,"p95":1071}
-{"type":"ok","from":"2026-04-07T00:02:39.506Z","to":"2026-04-07T13:42:54.880Z","count":83,"avg":668,"min":437,"max":1281,"p95":946}
-{"type":"fail","from":"2026-04-07T13:53:00.458Z","to":"2026-04-07T13:53:00.458Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T14:03:04.039Z","to":"2026-04-07T23:52:36.542Z","count":60,"avg":783,"min":467,"max":2491,"p95":1608}
-{"type":"ok","from":"2026-04-08T00:02:50.266Z","to":"2026-04-08T23:53:04.997Z","count":144,"avg":707,"min":491,"max":1800,"p95":1119}
-{"type":"ok","from":"2026-04-09T00:03:02.444Z","to":"2026-04-09T23:52:31.544Z","count":144,"avg":731,"min":492,"max":1795,"p95":1169}
-{"type":"ok","from":"2026-04-10T00:02:49.025Z","to":"2026-04-10T23:52:43.939Z","count":144,"avg":737,"min":468,"max":1797,"p95":1125}
-{"type":"ok","from":"2026-04-11T00:02:40.654Z","to":"2026-04-11T23:52:50.899Z","count":143,"avg":818,"min":480,"max":1802,"p95":1222}
-{"type":"ok","from":"2026-04-12T00:02:40.940Z","to":"2026-04-12T07:03:03.309Z","count":43,"avg":896,"min":554,"max":2208,"p95":1860}
-{"type":"fail","from":"2026-04-12T07:13:05.821Z","to":"2026-04-12T07:13:05.821Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T07:22:59.241Z","to":"2026-04-12T23:52:26.305Z","count":99,"avg":733,"min":473,"max":1856,"p95":1198}
-{"type":"ok","from":"2026-04-13T00:02:29.271Z","to":"2026-04-13T15:02:59.693Z","count":84,"avg":709,"min":492,"max":1634,"p95":1057}
-{"type":"ok","from":"2026-04-14T02:22:52.798Z","to":"2026-04-14T23:52:15.442Z","count":122,"avg":717,"min":463,"max":1331,"p95":1122}
-{"type":"ok","from":"2026-04-15T00:02:18.554Z","to":"2026-04-15T23:52:35.819Z","count":140,"avg":732,"min":527,"max":2180,"p95":1139}
-{"type":"ok","from":"2026-04-16T00:02:49.269Z","to":"2026-04-16T23:52:51.660Z","count":132,"avg":750,"min":425,"max":3081,"p95":1171}
-{"type":"ok","from":"2026-04-17T00:03:14.186Z","to":"2026-04-17T23:51:34.835Z","count":139,"avg":1223,"min":497,"max":4771,"p95":3500}
-{"type":"fail","from":"2026-04-18T00:01:49.000Z","to":"2026-04-18T00:01:49.000Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5004}
-{"type":"ok","from":"2026-04-18T00:11:30.938Z","to":"2026-04-18T23:51:27.968Z","count":140,"avg":1262,"min":459,"max":3870,"p95":2778}
+{"type":"ok","from":"2026-04-01T00:03:23.619Z","to":"2026-04-01T23:53:25.676Z","count":144,"avg":729,"min":439,"max":2433,"p95":1165,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-02T00:03:24.848Z","to":"2026-04-02T12:53:36.561Z","count":78,"avg":670,"min":448,"max":2314,"p95":1197,"url":"https://mistral.ai"}
+{"type":"fail","from":"2026-04-02T13:03:39.505Z","to":"2026-04-02T13:03:39.505Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-02T13:13:39.733Z","to":"2026-04-02T23:53:21.668Z","count":65,"avg":809,"min":545,"max":4399,"p95":1218,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-03T00:03:30.061Z","to":"2026-04-03T23:53:20.130Z","count":143,"avg":729,"min":394,"max":2048,"p95":1300,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-04T00:03:34.846Z","to":"2026-04-04T23:52:56.728Z","count":138,"avg":739,"min":471,"max":1884,"p95":1283,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-05T00:03:00.281Z","to":"2026-04-05T23:53:08.289Z","count":143,"avg":730,"min":479,"max":1496,"p95":1139,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-06T00:03:03.159Z","to":"2026-04-06T23:52:34.962Z","count":144,"avg":691,"min":451,"max":1612,"p95":1071,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-07T00:02:39.506Z","to":"2026-04-07T13:42:54.880Z","count":83,"avg":668,"min":437,"max":1281,"p95":946,"url":"https://mistral.ai"}
+{"type":"fail","from":"2026-04-07T13:53:00.458Z","to":"2026-04-07T13:53:00.458Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-07T14:03:04.039Z","to":"2026-04-07T23:52:36.542Z","count":60,"avg":783,"min":467,"max":2491,"p95":1608,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-08T00:02:50.266Z","to":"2026-04-08T23:53:04.997Z","count":144,"avg":707,"min":491,"max":1800,"p95":1119,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-09T00:03:02.444Z","to":"2026-04-09T23:52:31.544Z","count":144,"avg":731,"min":492,"max":1795,"p95":1169,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-10T00:02:49.025Z","to":"2026-04-10T23:52:43.939Z","count":144,"avg":737,"min":468,"max":1797,"p95":1125,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-11T00:02:40.654Z","to":"2026-04-11T23:52:50.899Z","count":143,"avg":818,"min":480,"max":1802,"p95":1222,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-12T00:02:40.940Z","to":"2026-04-12T07:03:03.309Z","count":43,"avg":896,"min":554,"max":2208,"p95":1860,"url":"https://mistral.ai"}
+{"type":"fail","from":"2026-04-12T07:13:05.821Z","to":"2026-04-12T07:13:05.821Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-12T07:22:59.241Z","to":"2026-04-12T23:52:26.305Z","count":99,"avg":733,"min":473,"max":1856,"p95":1198,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-13T00:02:29.271Z","to":"2026-04-13T15:02:59.693Z","count":84,"avg":709,"min":492,"max":1634,"p95":1057,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-14T02:22:52.798Z","to":"2026-04-14T23:52:15.442Z","count":122,"avg":717,"min":463,"max":1331,"p95":1122,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-15T00:02:18.554Z","to":"2026-04-15T23:52:35.819Z","count":140,"avg":732,"min":527,"max":2180,"p95":1139,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-16T00:02:49.269Z","to":"2026-04-16T23:52:51.660Z","count":132,"avg":750,"min":425,"max":3081,"p95":1171,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-17T00:03:14.186Z","to":"2026-04-17T23:51:34.835Z","count":139,"avg":1223,"min":497,"max":4771,"p95":3500,"url":"https://mistral.ai"}
+{"type":"fail","from":"2026-04-18T00:01:49.000Z","to":"2026-04-18T00:01:49.000Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5004,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-18T00:11:30.938Z","to":"2026-04-18T23:51:27.968Z","count":140,"avg":1262,"min":459,"max":3870,"p95":2778,"url":"https://mistral.ai"}
+{"type":"ok","from":"2026-04-19T00:01:39.807Z","to":"2026-04-19T07:51:28.319Z","count":45,"url":"https://mistral.ai","avg":1800,"min":1230,"max":2716,"p95":2694}
+{"type":"ok","from":"2026-04-19T08:12:00.405Z","to":"2026-04-19T23:48:45.855Z","count":48,"url":"https://api.mistral.ai/v1/models","avg":1189,"min":617,"max":2193,"p95":1945}

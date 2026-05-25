@@ -1,29 +1,30 @@
-{"url":"https://cto.ntbsd.eu.org"}
-{"type":"ok","from":"2026-04-01T00:04:49.505Z","to":"2026-04-01T01:15:11.225Z","count":8,"avg":748,"min":609,"max":1002,"p95":1002}
-{"type":"fail","from":"2026-04-01T01:24:59.981Z","to":"2026-04-01T01:24:59.981Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T01:35:14.046Z","to":"2026-04-01T14:05:23.670Z","count":76,"avg":834,"min":600,"max":1219,"p95":1073}
-{"type":"fail","from":"2026-04-01T14:15:37.859Z","to":"2026-04-01T14:15:37.859Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T14:25:57.133Z","to":"2026-04-01T23:54:47.009Z","count":58,"avg":732,"min":599,"max":971,"p95":927}
-{"type":"ok","from":"2026-04-02T00:04:41.332Z","to":"2026-04-02T23:54:37.986Z","count":144,"avg":866,"min":594,"max":3976,"p95":1168}
-{"type":"ok","from":"2026-04-03T00:04:51.112Z","to":"2026-04-03T23:54:51.602Z","count":142,"avg":821,"min":590,"max":1749,"p95":1105}
-{"type":"ok","from":"2026-04-04T00:04:49.545Z","to":"2026-04-04T23:54:37.047Z","count":138,"avg":870,"min":597,"max":2042,"p95":1194}
-{"type":"ok","from":"2026-04-05T00:04:55.011Z","to":"2026-04-05T23:55:08.730Z","count":143,"avg":1150,"min":690,"max":3727,"p95":1612}
-{"type":"ok","from":"2026-04-06T00:04:42.258Z","to":"2026-04-06T09:25:22.296Z","count":57,"avg":1693,"min":998,"max":4739,"p95":2332}
-{"type":"fail","from":"2026-04-06T09:35:41.265Z","to":"2026-04-06T09:35:41.265Z","count":1,"status":502,"error":"HTTP 502","avg_latency":721}
-{"type":"ok","from":"2026-04-06T09:45:07.176Z","to":"2026-04-06T23:54:01.441Z","count":86,"avg":1651,"min":1294,"max":3219,"p95":1935}
-{"type":"ok","from":"2026-04-07T00:04:01.965Z","to":"2026-04-07T23:53:44.117Z","count":144,"avg":1663,"min":1202,"max":3461,"p95":1978}
-{"type":"ok","from":"2026-04-08T00:04:14.359Z","to":"2026-04-08T23:54:41.330Z","count":144,"avg":1796,"min":1483,"max":2824,"p95":2109}
-{"type":"ok","from":"2026-04-09T00:04:25.222Z","to":"2026-04-09T23:53:56.673Z","count":144,"avg":1681,"min":1277,"max":2812,"p95":2051}
-{"type":"ok","from":"2026-04-10T00:04:02.098Z","to":"2026-04-10T16:04:54.662Z","count":96,"avg":1640,"min":1173,"max":2369,"p95":2096}
-{"type":"fail","from":"2026-04-10T16:14:53.459Z","to":"2026-04-10T23:53:59.252Z","count":47,"status":502,"error":"HTTP 502","avg_latency":750}
-{"type":"fail","from":"2026-04-11T00:03:54.226Z","to":"2026-04-11T23:54:12.566Z","count":143,"status":502,"error":"HTTP 502","avg_latency":709}
-{"type":"fail","from":"2026-04-12T00:03:56.558Z","to":"2026-04-12T07:44:26.274Z","count":47,"status":502,"error":"HTTP 502","avg_latency":667}
-{"type":"ok","from":"2026-04-12T07:54:25.426Z","to":"2026-04-12T23:53:41.312Z","count":95,"avg":833,"min":641,"max":2688,"p95":1087}
-{"type":"ok","from":"2026-04-13T00:03:53.225Z","to":"2026-04-13T15:04:34.877Z","count":83,"avg":851,"min":437,"max":1815,"p95":1070}
-{"type":"ok","from":"2026-04-14T02:29:20.686Z","to":"2026-04-14T23:53:40.243Z","count":120,"avg":808,"min":365,"max":1081,"p95":1006}
-{"type":"ok","from":"2026-04-15T00:03:35.794Z","to":"2026-04-15T23:54:02.303Z","count":140,"avg":820,"min":665,"max":1722,"p95":1014}
-{"type":"ok","from":"2026-04-16T00:04:11.383Z","to":"2026-04-16T23:54:15.174Z","count":131,"avg":837,"min":478,"max":1063,"p95":976}
-{"type":"ok","from":"2026-04-17T00:04:43.468Z","to":"2026-04-17T23:52:24.835Z","count":138,"avg":2294,"min":724,"max":4755,"p95":3929}
-{"type":"ok","from":"2026-04-18T00:02:37.586Z","to":"2026-04-18T10:02:39.056Z","count":57,"avg":2281,"min":1562,"max":4590,"p95":3665}
-{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6633}
-{"type":"ok","from":"2026-04-18T10:22:27.453Z","to":"2026-04-18T23:52:17.165Z","count":81,"avg":1707,"min":1000,"max":3609,"p95":2739}
+{"type":"ok","from":"2026-04-01T00:04:49.505Z","to":"2026-04-01T01:15:11.225Z","count":8,"avg":748,"min":609,"max":1002,"p95":1002,"url":"https://cto.ntbsd.eu.org"}
+{"type":"fail","from":"2026-04-01T01:24:59.981Z","to":"2026-04-01T01:24:59.981Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-01T01:35:14.046Z","to":"2026-04-01T14:05:23.670Z","count":76,"avg":834,"min":600,"max":1219,"p95":1073,"url":"https://cto.ntbsd.eu.org"}
+{"type":"fail","from":"2026-04-01T14:15:37.859Z","to":"2026-04-01T14:15:37.859Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-01T14:25:57.133Z","to":"2026-04-01T23:54:47.009Z","count":58,"avg":732,"min":599,"max":971,"p95":927,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-02T00:04:41.332Z","to":"2026-04-02T23:54:37.986Z","count":144,"avg":866,"min":594,"max":3976,"p95":1168,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-03T00:04:51.112Z","to":"2026-04-03T23:54:51.602Z","count":142,"avg":821,"min":590,"max":1749,"p95":1105,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-04T00:04:49.545Z","to":"2026-04-04T23:54:37.047Z","count":138,"avg":870,"min":597,"max":2042,"p95":1194,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-05T00:04:55.011Z","to":"2026-04-05T23:55:08.730Z","count":143,"avg":1150,"min":690,"max":3727,"p95":1612,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-06T00:04:42.258Z","to":"2026-04-06T09:25:22.296Z","count":57,"avg":1693,"min":998,"max":4739,"p95":2332,"url":"https://cto.ntbsd.eu.org"}
+{"type":"fail","from":"2026-04-06T09:35:41.265Z","to":"2026-04-06T09:35:41.265Z","count":1,"status":502,"error":"HTTP 502","avg_latency":721,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-06T09:45:07.176Z","to":"2026-04-06T23:54:01.441Z","count":86,"avg":1651,"min":1294,"max":3219,"p95":1935,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-07T00:04:01.965Z","to":"2026-04-07T23:53:44.117Z","count":144,"avg":1663,"min":1202,"max":3461,"p95":1978,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-08T00:04:14.359Z","to":"2026-04-08T23:54:41.330Z","count":144,"avg":1796,"min":1483,"max":2824,"p95":2109,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-09T00:04:25.222Z","to":"2026-04-09T23:53:56.673Z","count":144,"avg":1681,"min":1277,"max":2812,"p95":2051,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-10T00:04:02.098Z","to":"2026-04-10T16:04:54.662Z","count":96,"avg":1640,"min":1173,"max":2369,"p95":2096,"url":"https://cto.ntbsd.eu.org"}
+{"type":"fail","from":"2026-04-10T16:14:53.459Z","to":"2026-04-10T23:53:59.252Z","count":47,"status":502,"error":"HTTP 502","avg_latency":750,"url":"https://cto.ntbsd.eu.org"}
+{"type":"fail","from":"2026-04-11T00:03:54.226Z","to":"2026-04-11T23:54:12.566Z","count":143,"status":502,"error":"HTTP 502","avg_latency":709,"url":"https://cto.ntbsd.eu.org"}
+{"type":"fail","from":"2026-04-12T00:03:56.558Z","to":"2026-04-12T07:44:26.274Z","count":47,"status":502,"error":"HTTP 502","avg_latency":667,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-12T07:54:25.426Z","to":"2026-04-12T23:53:41.312Z","count":95,"avg":833,"min":641,"max":2688,"p95":1087,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-13T00:03:53.225Z","to":"2026-04-13T15:04:34.877Z","count":83,"avg":851,"min":437,"max":1815,"p95":1070,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-14T02:29:20.686Z","to":"2026-04-14T23:53:40.243Z","count":120,"avg":808,"min":365,"max":1081,"p95":1006,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-15T00:03:35.794Z","to":"2026-04-15T23:54:02.303Z","count":140,"avg":820,"min":665,"max":1722,"p95":1014,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-16T00:04:11.383Z","to":"2026-04-16T23:54:15.174Z","count":131,"avg":837,"min":478,"max":1063,"p95":976,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-17T00:04:43.468Z","to":"2026-04-17T23:52:24.835Z","count":138,"avg":2294,"min":724,"max":4755,"p95":3929,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-18T00:02:37.586Z","to":"2026-04-18T10:02:39.056Z","count":57,"avg":2281,"min":1562,"max":4590,"p95":3665,"url":"https://cto.ntbsd.eu.org"}
+{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6633,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-18T10:22:27.453Z","to":"2026-04-18T23:52:17.165Z","count":81,"avg":1707,"min":1000,"max":3609,"p95":2739,"url":"https://cto.ntbsd.eu.org"}
+{"type":"ok","from":"2026-04-19T00:02:29.969Z","to":"2026-04-19T07:52:21.409Z","count":45,"url":"https://cto.ntbsd.eu.org","avg":1466,"min":998,"max":2481,"p95":2107}
+{"type":"ok","from":"2026-04-19T08:15:21.737Z","to":"2026-04-19T23:52:14.770Z","count":48,"url":"https://cto.ntbsd.eu.org/api/status","avg":1690,"min":1117,"max":2641,"p95":2410}

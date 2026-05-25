@@ -1,33 +1,34 @@
-{"url":"https://www.codexeasy.com"}
-{"type":"ok","from":"2026-04-01T00:04:49.016Z","to":"2026-04-01T13:55:08.380Z","count":84,"avg":182,"min":16,"max":459,"p95":359}
-{"type":"fail","from":"2026-04-01T14:05:23.125Z","to":"2026-04-01T14:15:33.275Z","count":2,"status":403,"error":"HTTP 403","avg_latency":284}
-{"type":"ok","from":"2026-04-01T14:25:56.380Z","to":"2026-04-01T14:36:03.240Z","count":2,"avg":295,"min":219,"max":371,"p95":371}
-{"type":"fail","from":"2026-04-01T14:46:25.432Z","to":"2026-04-01T14:46:25.432Z","count":1,"status":403,"error":"HTTP 403","avg_latency":20}
-{"type":"ok","from":"2026-04-01T14:55:44.309Z","to":"2026-04-01T23:54:46.439Z","count":55,"avg":278,"min":16,"max":3980,"p95":443}
-{"type":"ok","from":"2026-04-02T00:04:40.484Z","to":"2026-04-02T09:54:43.481Z","count":60,"avg":225,"min":16,"max":471,"p95":391}
-{"type":"fail","from":"2026-04-02T10:05:20.369Z","to":"2026-04-02T10:05:20.369Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T10:14:50.941Z","to":"2026-04-02T19:24:28.775Z","count":56,"avg":240,"min":16,"max":1122,"p95":463}
-{"type":"fail","from":"2026-04-02T19:34:46.562Z","to":"2026-04-02T19:34:46.562Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T19:44:44.830Z","to":"2026-04-02T23:54:37.556Z","count":26,"avg":246,"min":20,"max":420,"p95":409}
-{"type":"ok","from":"2026-04-03T00:04:50.696Z","to":"2026-04-03T23:54:51.149Z","count":142,"avg":278,"min":16,"max":1681,"p95":455}
-{"type":"ok","from":"2026-04-04T00:04:49.239Z","to":"2026-04-04T23:54:36.700Z","count":138,"avg":328,"min":18,"max":2114,"p95":459}
-{"type":"ok","from":"2026-04-05T00:04:54.331Z","to":"2026-04-05T23:55:08.077Z","count":143,"avg":394,"min":17,"max":2499,"p95":647}
-{"type":"ok","from":"2026-04-06T00:04:41.604Z","to":"2026-04-06T23:54:00.212Z","count":144,"avg":313,"min":17,"max":2664,"p95":433}
-{"type":"ok","from":"2026-04-07T00:04:00.619Z","to":"2026-04-07T23:53:42.716Z","count":144,"avg":289,"min":16,"max":3061,"p95":417}
-{"type":"ok","from":"2026-04-08T00:04:13.148Z","to":"2026-04-08T23:54:40.036Z","count":144,"avg":307,"min":25,"max":2211,"p95":460}
-{"type":"ok","from":"2026-04-09T00:04:23.959Z","to":"2026-04-09T23:53:55.364Z","count":144,"avg":231,"min":15,"max":608,"p95":410}
-{"type":"ok","from":"2026-04-10T00:04:00.921Z","to":"2026-04-10T23:53:59.009Z","count":143,"avg":220,"min":16,"max":1255,"p95":411}
-{"type":"ok","from":"2026-04-11T00:03:53.737Z","to":"2026-04-11T23:54:11.173Z","count":143,"avg":353,"min":21,"max":1629,"p95":777}
-{"type":"ok","from":"2026-04-12T00:03:55.431Z","to":"2026-04-12T23:53:40.754Z","count":142,"avg":325,"min":17,"max":1421,"p95":664}
-{"type":"ok","from":"2026-04-13T00:03:52.805Z","to":"2026-04-13T15:04:34.005Z","count":83,"avg":569,"min":16,"max":3715,"p95":1016}
-{"type":"ok","from":"2026-04-14T02:29:18.959Z","to":"2026-04-14T23:53:38.867Z","count":120,"avg":626,"min":34,"max":1551,"p95":1028}
-{"type":"ok","from":"2026-04-15T00:03:34.994Z","to":"2026-04-15T23:54:01.445Z","count":140,"avg":674,"min":261,"max":1618,"p95":1022}
-{"type":"ok","from":"2026-04-16T00:04:09.952Z","to":"2026-04-16T23:54:13.591Z","count":131,"avg":591,"min":19,"max":1132,"p95":903}
-{"type":"ok","from":"2026-04-17T00:04:42.074Z","to":"2026-04-17T11:32:30.900Z","count":66,"avg":1200,"min":210,"max":4542,"p95":2606}
-{"type":"fail","from":"2026-04-17T11:42:36.336Z","to":"2026-04-17T11:42:36.336Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T11:52:23.738Z","to":"2026-04-17T20:52:12.303Z","count":53,"avg":2258,"min":1338,"max":3768,"p95":3120}
-{"type":"fail","from":"2026-04-17T21:02:35.812Z","to":"2026-04-17T21:02:35.812Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T21:12:21.660Z","to":"2026-04-17T23:52:24.073Z","count":17,"avg":1966,"min":1362,"max":4182,"p95":4182}
-{"type":"ok","from":"2026-04-18T00:02:37.090Z","to":"2026-04-18T10:02:38.434Z","count":57,"avg":1617,"min":890,"max":4399,"p95":3257}
-{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":7044}
-{"type":"ok","from":"2026-04-18T10:22:26.999Z","to":"2026-04-18T23:52:16.650Z","count":81,"avg":1012,"min":394,"max":2804,"p95":2152}
+{"type":"ok","from":"2026-04-01T00:04:49.016Z","to":"2026-04-01T13:55:08.380Z","count":84,"avg":182,"min":16,"max":459,"p95":359,"url":"https://www.codexeasy.com"}
+{"type":"fail","from":"2026-04-01T14:05:23.125Z","to":"2026-04-01T14:15:33.275Z","count":2,"status":403,"error":"HTTP 403","avg_latency":284,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-01T14:25:56.380Z","to":"2026-04-01T14:36:03.240Z","count":2,"avg":295,"min":219,"max":371,"p95":371,"url":"https://www.codexeasy.com"}
+{"type":"fail","from":"2026-04-01T14:46:25.432Z","to":"2026-04-01T14:46:25.432Z","count":1,"status":403,"error":"HTTP 403","avg_latency":20,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-01T14:55:44.309Z","to":"2026-04-01T23:54:46.439Z","count":55,"avg":278,"min":16,"max":3980,"p95":443,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-02T00:04:40.484Z","to":"2026-04-02T09:54:43.481Z","count":60,"avg":225,"min":16,"max":471,"p95":391,"url":"https://www.codexeasy.com"}
+{"type":"fail","from":"2026-04-02T10:05:20.369Z","to":"2026-04-02T10:05:20.369Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-02T10:14:50.941Z","to":"2026-04-02T19:24:28.775Z","count":56,"avg":240,"min":16,"max":1122,"p95":463,"url":"https://www.codexeasy.com"}
+{"type":"fail","from":"2026-04-02T19:34:46.562Z","to":"2026-04-02T19:34:46.562Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-02T19:44:44.830Z","to":"2026-04-02T23:54:37.556Z","count":26,"avg":246,"min":20,"max":420,"p95":409,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-03T00:04:50.696Z","to":"2026-04-03T23:54:51.149Z","count":142,"avg":278,"min":16,"max":1681,"p95":455,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-04T00:04:49.239Z","to":"2026-04-04T23:54:36.700Z","count":138,"avg":328,"min":18,"max":2114,"p95":459,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-05T00:04:54.331Z","to":"2026-04-05T23:55:08.077Z","count":143,"avg":394,"min":17,"max":2499,"p95":647,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-06T00:04:41.604Z","to":"2026-04-06T23:54:00.212Z","count":144,"avg":313,"min":17,"max":2664,"p95":433,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-07T00:04:00.619Z","to":"2026-04-07T23:53:42.716Z","count":144,"avg":289,"min":16,"max":3061,"p95":417,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-08T00:04:13.148Z","to":"2026-04-08T23:54:40.036Z","count":144,"avg":307,"min":25,"max":2211,"p95":460,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-09T00:04:23.959Z","to":"2026-04-09T23:53:55.364Z","count":144,"avg":231,"min":15,"max":608,"p95":410,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-10T00:04:00.921Z","to":"2026-04-10T23:53:59.009Z","count":143,"avg":220,"min":16,"max":1255,"p95":411,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-11T00:03:53.737Z","to":"2026-04-11T23:54:11.173Z","count":143,"avg":353,"min":21,"max":1629,"p95":777,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-12T00:03:55.431Z","to":"2026-04-12T23:53:40.754Z","count":142,"avg":325,"min":17,"max":1421,"p95":664,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-13T00:03:52.805Z","to":"2026-04-13T15:04:34.005Z","count":83,"avg":569,"min":16,"max":3715,"p95":1016,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-14T02:29:18.959Z","to":"2026-04-14T23:53:38.867Z","count":120,"avg":626,"min":34,"max":1551,"p95":1028,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-15T00:03:34.994Z","to":"2026-04-15T23:54:01.445Z","count":140,"avg":674,"min":261,"max":1618,"p95":1022,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-16T00:04:09.952Z","to":"2026-04-16T23:54:13.591Z","count":131,"avg":591,"min":19,"max":1132,"p95":903,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-17T00:04:42.074Z","to":"2026-04-17T11:32:30.900Z","count":66,"avg":1200,"min":210,"max":4542,"p95":2606,"url":"https://www.codexeasy.com"}
+{"type":"fail","from":"2026-04-17T11:42:36.336Z","to":"2026-04-17T11:42:36.336Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-17T11:52:23.738Z","to":"2026-04-17T20:52:12.303Z","count":53,"avg":2258,"min":1338,"max":3768,"p95":3120,"url":"https://www.codexeasy.com"}
+{"type":"fail","from":"2026-04-17T21:02:35.812Z","to":"2026-04-17T21:02:35.812Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-17T21:12:21.660Z","to":"2026-04-17T23:52:24.073Z","count":17,"avg":1966,"min":1362,"max":4182,"p95":4182,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-18T00:02:37.090Z","to":"2026-04-18T10:02:38.434Z","count":57,"avg":1617,"min":890,"max":4399,"p95":3257,"url":"https://www.codexeasy.com"}
+{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":7044,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-18T10:22:26.999Z","to":"2026-04-18T23:52:16.650Z","count":81,"avg":1012,"min":394,"max":2804,"p95":2152,"url":"https://www.codexeasy.com"}
+{"type":"ok","from":"2026-04-19T00:02:29.302Z","to":"2026-04-19T07:52:20.682Z","count":45,"url":"https://www.codexeasy.com","avg":704,"min":274,"max":1508,"p95":1241}
+{"type":"ok","from":"2026-04-19T08:15:21.042Z","to":"2026-04-19T23:52:14.391Z","count":48,"url":"https://www.codexeasy.com/api/status","avg":893,"min":399,"max":1638,"p95":1454}

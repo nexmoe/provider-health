@@ -1,28 +1,31 @@
-{"url":"https://api.laozhang.ai"}
-{"type":"ok","from":"2026-04-01T00:01:26.952Z","to":"2026-04-01T23:51:23.400Z","count":144,"avg":672,"min":518,"max":1039,"p95":832}
-{"type":"ok","from":"2026-04-02T00:01:23.638Z","to":"2026-04-02T23:51:24.407Z","count":144,"avg":689,"min":517,"max":873,"p95":820}
-{"type":"ok","from":"2026-04-03T00:01:26.698Z","to":"2026-04-03T22:51:21.207Z","count":137,"avg":685,"min":518,"max":1004,"p95":846}
-{"type":"fail","from":"2026-04-03T23:01:27.623Z","to":"2026-04-03T23:21:24.357Z","count":3,"status":502,"error":"HTTP 502","avg_latency":497}
-{"type":"ok","from":"2026-04-03T23:31:23.880Z","to":"2026-04-03T23:51:23.068Z","count":3,"avg":522,"min":518,"max":529,"p95":529}
-{"type":"ok","from":"2026-04-04T00:01:24.206Z","to":"2026-04-04T23:50:38.532Z","count":138,"avg":690,"min":518,"max":1158,"p95":900}
-{"type":"ok","from":"2026-04-05T00:00:40.315Z","to":"2026-04-05T23:50:34.113Z","count":144,"avg":703,"min":514,"max":1327,"p95":814}
-{"type":"ok","from":"2026-04-06T00:00:47.805Z","to":"2026-04-06T23:50:36.204Z","count":144,"avg":828,"min":776,"max":4357,"p95":874}
-{"type":"ok","from":"2026-04-07T00:00:43.194Z","to":"2026-04-07T08:50:41.026Z","count":54,"avg":811,"min":775,"max":955,"p95":896}
-{"type":"fail","from":"2026-04-07T09:00:43.815Z","to":"2026-04-07T09:00:43.815Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-07T09:10:38.978Z","to":"2026-04-07T23:50:38.254Z","count":89,"avg":793,"min":775,"max":921,"p95":841}
-{"type":"ok","from":"2026-04-08T00:00:44.124Z","to":"2026-04-08T23:50:39.807Z","count":144,"avg":802,"min":772,"max":1201,"p95":869}
-{"type":"ok","from":"2026-04-09T00:00:40.189Z","to":"2026-04-09T23:50:37.484Z","count":144,"avg":802,"min":773,"max":1135,"p95":876}
-{"type":"ok","from":"2026-04-10T00:00:39.655Z","to":"2026-04-10T14:10:37.359Z","count":86,"avg":803,"min":773,"max":1885,"p95":850}
-{"type":"fail","from":"2026-04-10T14:20:39.931Z","to":"2026-04-10T14:20:39.931Z","count":1,"status":null,"error":"fetch failed","avg_latency":495}
-{"type":"ok","from":"2026-04-10T14:30:36.384Z","to":"2026-04-10T23:50:37.294Z","count":57,"avg":797,"min":775,"max":1155,"p95":878}
-{"type":"ok","from":"2026-04-11T00:00:40.103Z","to":"2026-04-11T23:50:37.418Z","count":143,"avg":811,"min":777,"max":1078,"p95":877}
-{"type":"ok","from":"2026-04-12T00:00:36.783Z","to":"2026-04-12T19:30:33.845Z","count":119,"avg":647,"min":475,"max":4363,"p95":840}
-{"type":"fail","from":"2026-04-12T19:40:35.218Z","to":"2026-04-12T19:40:35.218Z","count":1,"status":null,"error":"fetch failed","avg_latency":290}
-{"type":"ok","from":"2026-04-12T19:50:38.774Z","to":"2026-04-12T19:50:38.774Z","count":1,"avg":495,"min":495,"max":495,"p95":495}
-{"type":"fail","from":"2026-04-12T20:00:38.244Z","to":"2026-04-12T23:50:41.517Z","count":24,"status":null,"error":"fetch failed","avg_latency":298}
-{"type":"ok","from":"2026-04-13T00:00:43.600Z","to":"2026-04-13T15:00:42.598Z","count":86,"avg":497,"min":477,"max":546,"p95":513}
-{"type":"ok","from":"2026-04-14T02:20:46.308Z","to":"2026-04-14T23:50:35.588Z","count":124,"avg":691,"min":476,"max":1029,"p95":791}
-{"type":"ok","from":"2026-04-15T00:00:37.806Z","to":"2026-04-15T23:50:40.314Z","count":141,"avg":693,"min":474,"max":957,"p95":814}
-{"type":"ok","from":"2026-04-16T00:00:42.543Z","to":"2026-04-16T23:50:45.372Z","count":135,"avg":760,"min":476,"max":1487,"p95":956}
-{"type":"ok","from":"2026-04-17T00:01:03.495Z","to":"2026-04-17T23:50:28.443Z","count":140,"avg":1110,"min":786,"max":2685,"p95":1886}
-{"type":"ok","from":"2026-04-18T00:00:37.801Z","to":"2026-04-18T23:50:26.674Z","count":141,"avg":953,"min":797,"max":1884,"p95":1168}
+{"type":"ok","from":"2026-04-01T00:01:26.952Z","to":"2026-04-01T23:51:23.400Z","count":144,"avg":672,"min":518,"max":1039,"p95":832,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-02T00:01:23.638Z","to":"2026-04-02T23:51:24.407Z","count":144,"avg":689,"min":517,"max":873,"p95":820,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-03T00:01:26.698Z","to":"2026-04-03T22:51:21.207Z","count":137,"avg":685,"min":518,"max":1004,"p95":846,"url":"https://api.laozhang.ai"}
+{"type":"fail","from":"2026-04-03T23:01:27.623Z","to":"2026-04-03T23:21:24.357Z","count":3,"status":502,"error":"HTTP 502","avg_latency":497,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-03T23:31:23.880Z","to":"2026-04-03T23:51:23.068Z","count":3,"avg":522,"min":518,"max":529,"p95":529,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-04T00:01:24.206Z","to":"2026-04-04T23:50:38.532Z","count":138,"avg":690,"min":518,"max":1158,"p95":900,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-05T00:00:40.315Z","to":"2026-04-05T23:50:34.113Z","count":144,"avg":703,"min":514,"max":1327,"p95":814,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-06T00:00:47.805Z","to":"2026-04-06T23:50:36.204Z","count":144,"avg":828,"min":776,"max":4357,"p95":874,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-07T00:00:43.194Z","to":"2026-04-07T08:50:41.026Z","count":54,"avg":811,"min":775,"max":955,"p95":896,"url":"https://api.laozhang.ai"}
+{"type":"fail","from":"2026-04-07T09:00:43.815Z","to":"2026-04-07T09:00:43.815Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-07T09:10:38.978Z","to":"2026-04-07T23:50:38.254Z","count":89,"avg":793,"min":775,"max":921,"p95":841,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-08T00:00:44.124Z","to":"2026-04-08T23:50:39.807Z","count":144,"avg":802,"min":772,"max":1201,"p95":869,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-09T00:00:40.189Z","to":"2026-04-09T23:50:37.484Z","count":144,"avg":802,"min":773,"max":1135,"p95":876,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-10T00:00:39.655Z","to":"2026-04-10T14:10:37.359Z","count":86,"avg":803,"min":773,"max":1885,"p95":850,"url":"https://api.laozhang.ai"}
+{"type":"fail","from":"2026-04-10T14:20:39.931Z","to":"2026-04-10T14:20:39.931Z","count":1,"status":null,"error":"fetch failed","avg_latency":495,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-10T14:30:36.384Z","to":"2026-04-10T23:50:37.294Z","count":57,"avg":797,"min":775,"max":1155,"p95":878,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-11T00:00:40.103Z","to":"2026-04-11T23:50:37.418Z","count":143,"avg":811,"min":777,"max":1078,"p95":877,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-12T00:00:36.783Z","to":"2026-04-12T19:30:33.845Z","count":119,"avg":647,"min":475,"max":4363,"p95":840,"url":"https://api.laozhang.ai"}
+{"type":"fail","from":"2026-04-12T19:40:35.218Z","to":"2026-04-12T19:40:35.218Z","count":1,"status":null,"error":"fetch failed","avg_latency":290,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-12T19:50:38.774Z","to":"2026-04-12T19:50:38.774Z","count":1,"avg":495,"min":495,"max":495,"p95":495,"url":"https://api.laozhang.ai"}
+{"type":"fail","from":"2026-04-12T20:00:38.244Z","to":"2026-04-12T23:50:41.517Z","count":24,"status":null,"error":"fetch failed","avg_latency":298,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-13T00:00:43.600Z","to":"2026-04-13T15:00:42.598Z","count":86,"avg":497,"min":477,"max":546,"p95":513,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-14T02:20:46.308Z","to":"2026-04-14T23:50:35.588Z","count":124,"avg":691,"min":476,"max":1029,"p95":791,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-15T00:00:37.806Z","to":"2026-04-15T23:50:40.314Z","count":141,"avg":693,"min":474,"max":957,"p95":814,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-16T00:00:42.543Z","to":"2026-04-16T23:50:45.372Z","count":135,"avg":760,"min":476,"max":1487,"p95":956,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-17T00:01:03.495Z","to":"2026-04-17T23:50:28.443Z","count":140,"avg":1110,"min":786,"max":2685,"p95":1886,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-18T00:00:37.801Z","to":"2026-04-18T23:50:26.674Z","count":141,"avg":953,"min":797,"max":1884,"p95":1168,"url":"https://api.laozhang.ai"}
+{"type":"ok","from":"2026-04-19T00:00:37.887Z","to":"2026-04-19T04:10:26.520Z","count":23,"url":"https://api.laozhang.ai","avg":881,"min":795,"max":1217,"p95":1019}
+{"type":"ok","from":"2026-04-19T04:20:23.116Z","to":"2026-04-19T07:50:24.481Z","count":22,"url":"https://laozhang.ai","avg":950,"min":820,"max":1234,"p95":1122}
+{"type":"ok","from":"2026-04-19T08:01:53.233Z","to":"2026-04-19T15:41:43.891Z","count":24,"url":"https://api.laozhang.ai/api/status","avg":873,"min":796,"max":1044,"p95":995}
+{"type":"ok","from":"2026-04-19T16:01:56.150Z","to":"2026-04-19T23:41:38.644Z","count":24,"url":"https://laozhang.ai/api/status","avg":1004,"min":840,"max":1226,"p95":1214}

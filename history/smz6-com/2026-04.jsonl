@@ -1,101 +1,102 @@
-{"url":"https://smz6.com"}
-{"type":"ok","from":"2026-04-01T00:04:51.938Z","to":"2026-04-01T16:25:16.780Z","count":99,"avg":469,"min":216,"max":1916,"p95":797}
-{"type":"fail","from":"2026-04-01T16:35:33.756Z","to":"2026-04-01T16:54:50.240Z","count":3,"status":502,"error":"HTTP 502","avg_latency":2690}
-{"type":"fail","from":"2026-04-01T17:04:55.846Z","to":"2026-04-01T17:34:54.778Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"fail","from":"2026-04-01T17:45:03.529Z","to":"2026-04-01T18:04:35.526Z","count":3,"status":502,"error":"HTTP 502","avg_latency":354}
-{"type":"ok","from":"2026-04-01T18:14:53.548Z","to":"2026-04-01T19:25:13.355Z","count":8,"avg":383,"min":209,"max":648,"p95":648}
-{"type":"fail","from":"2026-04-01T19:34:37.814Z","to":"2026-04-01T19:34:37.814Z","count":1,"status":502,"error":"HTTP 502","avg_latency":846}
-{"type":"ok","from":"2026-04-01T19:44:47.266Z","to":"2026-04-01T23:54:47.855Z","count":26,"avg":386,"min":187,"max":767,"p95":696}
-{"type":"ok","from":"2026-04-02T00:04:43.707Z","to":"2026-04-02T23:54:39.432Z","count":144,"avg":445,"min":204,"max":872,"p95":725}
-{"type":"ok","from":"2026-04-03T00:04:55.656Z","to":"2026-04-03T23:54:53.814Z","count":142,"avg":514,"min":214,"max":2071,"p95":974}
-{"type":"ok","from":"2026-04-04T00:04:51.308Z","to":"2026-04-04T12:15:49.426Z","count":68,"avg":688,"min":206,"max":4579,"p95":1328}
-{"type":"fail","from":"2026-04-04T12:25:38.934Z","to":"2026-04-04T13:05:50.268Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T13:15:15.499Z","to":"2026-04-04T13:15:15.499Z","count":1,"avg":726,"min":726,"max":726,"p95":726}
-{"type":"fail","from":"2026-04-04T13:25:31.159Z","to":"2026-04-04T13:25:31.159Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T13:35:20.617Z","to":"2026-04-04T13:55:11.243Z","count":3,"avg":1731,"min":763,"max":3480,"p95":3480}
-{"type":"fail","from":"2026-04-04T14:05:47.334Z","to":"2026-04-04T14:25:13.358Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T14:35:13.025Z","to":"2026-04-04T15:05:28.765Z","count":4,"avg":2051,"min":1129,"max":4548,"p95":4548}
-{"type":"fail","from":"2026-04-04T15:15:34.252Z","to":"2026-04-04T15:15:34.252Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T15:25:06.585Z","to":"2026-04-04T16:05:15.114Z","count":5,"avg":1041,"min":628,"max":1421,"p95":1421}
-{"type":"fail","from":"2026-04-04T16:15:01.094Z","to":"2026-04-04T16:25:07.742Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T16:35:18.294Z","to":"2026-04-04T16:35:18.294Z","count":1,"avg":1973,"min":1973,"max":1973,"p95":1973}
-{"type":"fail","from":"2026-04-04T16:45:03.579Z","to":"2026-04-04T16:45:03.579Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T16:54:52.428Z","to":"2026-04-04T17:54:51.774Z","count":7,"avg":1292,"min":663,"max":3367,"p95":3367}
-{"type":"fail","from":"2026-04-04T18:04:44.597Z","to":"2026-04-04T18:04:44.597Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T18:14:20.374Z","to":"2026-04-04T18:34:52.213Z","count":3,"avg":1007,"min":784,"max":1377,"p95":1377}
-{"type":"fail","from":"2026-04-04T18:44:34.642Z","to":"2026-04-04T18:44:34.642Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T18:54:45.019Z","to":"2026-04-04T19:14:33.929Z","count":3,"avg":720,"min":638,"max":867,"p95":867}
-{"type":"fail","from":"2026-04-04T19:24:38.581Z","to":"2026-04-04T19:24:38.581Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T19:34:25.159Z","to":"2026-04-04T19:44:30.055Z","count":2,"avg":649,"min":642,"max":656,"p95":656}
-{"type":"fail","from":"2026-04-04T19:54:53.673Z","to":"2026-04-04T19:54:53.673Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T20:04:35.895Z","to":"2026-04-04T20:04:35.895Z","count":1,"avg":610,"min":610,"max":610,"p95":610}
-{"type":"fail","from":"2026-04-04T20:14:27.637Z","to":"2026-04-04T20:14:27.637Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T20:25:01.348Z","to":"2026-04-04T21:24:22.403Z","count":7,"avg":1424,"min":324,"max":2793,"p95":2793}
-{"type":"fail","from":"2026-04-04T21:34:27.152Z","to":"2026-04-04T21:34:27.152Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T21:44:24.167Z","to":"2026-04-04T22:04:42.421Z","count":3,"avg":675,"min":592,"max":808,"p95":808}
-{"type":"fail","from":"2026-04-04T22:14:27.130Z","to":"2026-04-04T22:14:27.130Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T22:24:45.176Z","to":"2026-04-04T22:34:17.384Z","count":2,"avg":745,"min":738,"max":751,"p95":751}
-{"type":"fail","from":"2026-04-04T22:44:44.578Z","to":"2026-04-04T22:44:44.578Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T22:54:42.923Z","to":"2026-04-04T23:24:28.090Z","count":4,"avg":779,"min":616,"max":1051,"p95":1051}
-{"type":"fail","from":"2026-04-04T23:34:29.382Z","to":"2026-04-04T23:34:29.382Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T23:44:30.982Z","to":"2026-04-04T23:54:40.174Z","count":2,"avg":766,"min":730,"max":801,"p95":801}
-{"type":"ok","from":"2026-04-05T00:04:57.016Z","to":"2026-04-05T01:45:12.943Z","count":11,"avg":976,"min":660,"max":2976,"p95":2976}
-{"type":"fail","from":"2026-04-05T01:55:01.010Z","to":"2026-04-05T01:55:01.010Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T02:04:54.858Z","to":"2026-04-05T03:24:50.488Z","count":9,"avg":798,"min":630,"max":926,"p95":926}
-{"type":"fail","from":"2026-04-05T03:34:49.276Z","to":"2026-04-05T03:34:49.276Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T03:44:53.655Z","to":"2026-04-05T04:44:45.980Z","count":7,"avg":841,"min":707,"max":1023,"p95":1023}
-{"type":"fail","from":"2026-04-05T04:55:06.497Z","to":"2026-04-05T04:55:06.497Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T05:04:37.766Z","to":"2026-04-05T11:24:22.658Z","count":39,"avg":934,"min":307,"max":2282,"p95":1863}
-{"type":"fail","from":"2026-04-05T11:38:02.064Z","to":"2026-04-05T11:38:02.064Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T11:45:37.941Z","to":"2026-04-05T12:25:15.390Z","count":5,"avg":1276,"min":887,"max":1873,"p95":1873}
-{"type":"fail","from":"2026-04-05T12:35:55.372Z","to":"2026-04-05T12:35:55.372Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T12:45:53.624Z","to":"2026-04-05T16:14:59.009Z","count":21,"avg":863,"min":382,"max":1461,"p95":1235}
-{"type":"fail","from":"2026-04-05T16:25:04.358Z","to":"2026-04-05T16:25:04.358Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T16:35:30.683Z","to":"2026-04-05T17:54:17.129Z","count":9,"avg":760,"min":634,"max":1010,"p95":1010}
-{"type":"fail","from":"2026-04-05T18:04:47.659Z","to":"2026-04-05T18:04:47.659Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T18:15:01.460Z","to":"2026-04-05T19:14:26.715Z","count":7,"avg":734,"min":636,"max":807,"p95":807}
-{"type":"fail","from":"2026-04-05T19:24:25.727Z","to":"2026-04-05T19:24:25.727Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T19:34:28.884Z","to":"2026-04-05T20:04:25.732Z","count":4,"avg":670,"min":558,"max":768,"p95":768}
-{"type":"fail","from":"2026-04-05T20:14:37.136Z","to":"2026-04-05T20:14:37.136Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T20:24:15.866Z","to":"2026-04-05T20:44:11.531Z","count":3,"avg":576,"min":339,"max":718,"p95":718}
-{"type":"fail","from":"2026-04-05T20:54:18.965Z","to":"2026-04-05T20:54:18.965Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T21:04:31.567Z","to":"2026-04-05T21:04:31.567Z","count":1,"avg":637,"min":637,"max":637,"p95":637}
-{"type":"fail","from":"2026-04-05T21:14:19.079Z","to":"2026-04-05T21:44:10.823Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T21:54:21.741Z","to":"2026-04-05T22:34:25.918Z","count":5,"avg":1080,"min":658,"max":2345,"p95":2345}
-{"type":"fail","from":"2026-04-05T22:44:37.561Z","to":"2026-04-05T22:54:34.166Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T23:04:28.552Z","to":"2026-04-05T23:34:32.557Z","count":4,"avg":1406,"min":568,"max":3645,"p95":3645}
-{"type":"fail","from":"2026-04-05T23:44:36.035Z","to":"2026-04-05T23:44:36.035Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T23:55:13.951Z","to":"2026-04-05T23:55:13.951Z","count":1,"avg":1146,"min":1146,"max":1146,"p95":1146}
-{"type":"ok","from":"2026-04-06T00:04:43.807Z","to":"2026-04-06T23:54:04.219Z","count":144,"avg":652,"min":75,"max":4958,"p95":1652}
-{"type":"ok","from":"2026-04-07T00:04:02.119Z","to":"2026-04-07T23:53:44.311Z","count":144,"avg":362,"min":42,"max":1211,"p95":750}
-{"type":"ok","from":"2026-04-08T00:04:18.341Z","to":"2026-04-08T08:15:07.553Z","count":50,"avg":499,"min":58,"max":2534,"p95":1051}
-{"type":"fail","from":"2026-04-08T08:24:40.903Z","to":"2026-04-08T08:24:40.903Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-08T08:34:49.022Z","to":"2026-04-08T09:44:51.759Z","count":8,"avg":815,"min":291,"max":1213,"p95":1213}
-{"type":"fail","from":"2026-04-08T09:55:08.229Z","to":"2026-04-08T09:55:08.229Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T10:04:53.578Z","to":"2026-04-08T14:05:24.835Z","count":25,"avg":1173,"min":438,"max":3664,"p95":3424}
-{"type":"fail","from":"2026-04-08T14:15:33.453Z","to":"2026-04-08T14:15:33.453Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T14:25:44.898Z","to":"2026-04-08T15:05:13.461Z","count":5,"avg":1066,"min":558,"max":2074,"p95":2074}
-{"type":"fail","from":"2026-04-08T15:15:38.580Z","to":"2026-04-08T15:15:38.580Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T15:25:09.236Z","to":"2026-04-08T18:05:03.660Z","count":17,"avg":799,"min":102,"max":1854,"p95":1854}
-{"type":"fail","from":"2026-04-08T18:15:19.609Z","to":"2026-04-08T18:15:19.609Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T18:24:32.593Z","to":"2026-04-08T20:25:00.703Z","count":13,"avg":1235,"min":403,"max":4624,"p95":4624}
-{"type":"fail","from":"2026-04-08T20:35:00.694Z","to":"2026-04-08T20:35:00.694Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T20:44:07.099Z","to":"2026-04-08T23:54:44.551Z","count":20,"avg":1059,"min":381,"max":4074,"p95":4074}
-{"type":"ok","from":"2026-04-09T00:04:25.802Z","to":"2026-04-09T02:04:53.334Z","count":13,"avg":717,"min":408,"max":1466,"p95":1466}
-{"type":"fail","from":"2026-04-09T02:15:13.076Z","to":"2026-04-09T02:15:13.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T02:24:55.312Z","to":"2026-04-09T06:25:03.420Z","count":25,"avg":801,"min":208,"max":1863,"p95":1391}
-{"type":"fail","from":"2026-04-09T06:35:03.944Z","to":"2026-04-09T06:35:03.944Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T06:44:44.366Z","to":"2026-04-09T23:53:59.042Z","count":104,"avg":437,"min":39,"max":4430,"p95":849}
-{"type":"ok","from":"2026-04-10T00:04:02.767Z","to":"2026-04-10T23:54:01.276Z","count":143,"avg":424,"min":39,"max":1900,"p95":894}
-{"type":"ok","from":"2026-04-11T00:03:55.012Z","to":"2026-04-11T23:54:13.730Z","count":143,"avg":126,"min":21,"max":838,"p95":341}
-{"type":"ok","from":"2026-04-12T00:03:57.942Z","to":"2026-04-12T23:53:42.455Z","count":142,"avg":131,"min":21,"max":2117,"p95":322}
-{"type":"ok","from":"2026-04-13T00:03:55.406Z","to":"2026-04-13T15:04:37.878Z","count":83,"avg":133,"min":23,"max":991,"p95":342}
-{"type":"ok","from":"2026-04-14T02:29:25.240Z","to":"2026-04-14T23:53:43.040Z","count":120,"avg":100,"min":22,"max":349,"p95":174}
-{"type":"ok","from":"2026-04-15T00:03:37.872Z","to":"2026-04-15T23:54:03.976Z","count":140,"avg":143,"min":20,"max":1322,"p95":261}
-{"type":"ok","from":"2026-04-16T00:04:15.005Z","to":"2026-04-16T07:54:22.514Z","count":43,"avg":149,"min":59,"max":383,"p95":254}
-{"type":"fail","from":"2026-04-16T08:05:00.355Z","to":"2026-04-16T08:14:50.495Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T08:24:31.318Z","to":"2026-04-16T23:54:19.630Z","count":86,"avg":221,"min":55,"max":1013,"p95":563}
-{"type":"ok","from":"2026-04-17T00:04:47.198Z","to":"2026-04-17T23:52:26.635Z","count":138,"avg":148,"min":28,"max":2697,"p95":265}
-{"type":"ok","from":"2026-04-18T00:02:40.570Z","to":"2026-04-18T10:02:38.877Z","count":57,"avg":1372,"min":93,"max":3502,"p95":2639}
-{"type":"fail","from":"2026-04-18T10:15:05.047Z","to":"2026-04-18T10:15:05.047Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5949}
-{"type":"ok","from":"2026-04-18T10:22:27.055Z","to":"2026-04-18T23:52:19.813Z","count":81,"avg":601,"min":32,"max":3861,"p95":2510}
+{"type":"ok","from":"2026-04-01T00:04:51.938Z","to":"2026-04-01T16:25:16.780Z","count":99,"avg":469,"min":216,"max":1916,"p95":797,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-01T16:35:33.756Z","to":"2026-04-01T16:54:50.240Z","count":3,"status":502,"error":"HTTP 502","avg_latency":2690,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-01T17:04:55.846Z","to":"2026-04-01T17:34:54.778Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-01T17:45:03.529Z","to":"2026-04-01T18:04:35.526Z","count":3,"status":502,"error":"HTTP 502","avg_latency":354,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-01T18:14:53.548Z","to":"2026-04-01T19:25:13.355Z","count":8,"avg":383,"min":209,"max":648,"p95":648,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-01T19:34:37.814Z","to":"2026-04-01T19:34:37.814Z","count":1,"status":502,"error":"HTTP 502","avg_latency":846,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-01T19:44:47.266Z","to":"2026-04-01T23:54:47.855Z","count":26,"avg":386,"min":187,"max":767,"p95":696,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-02T00:04:43.707Z","to":"2026-04-02T23:54:39.432Z","count":144,"avg":445,"min":204,"max":872,"p95":725,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-03T00:04:55.656Z","to":"2026-04-03T23:54:53.814Z","count":142,"avg":514,"min":214,"max":2071,"p95":974,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T00:04:51.308Z","to":"2026-04-04T12:15:49.426Z","count":68,"avg":688,"min":206,"max":4579,"p95":1328,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T12:25:38.934Z","to":"2026-04-04T13:05:50.268Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T13:15:15.499Z","to":"2026-04-04T13:15:15.499Z","count":1,"avg":726,"min":726,"max":726,"p95":726,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T13:25:31.159Z","to":"2026-04-04T13:25:31.159Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T13:35:20.617Z","to":"2026-04-04T13:55:11.243Z","count":3,"avg":1731,"min":763,"max":3480,"p95":3480,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T14:05:47.334Z","to":"2026-04-04T14:25:13.358Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T14:35:13.025Z","to":"2026-04-04T15:05:28.765Z","count":4,"avg":2051,"min":1129,"max":4548,"p95":4548,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T15:15:34.252Z","to":"2026-04-04T15:15:34.252Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T15:25:06.585Z","to":"2026-04-04T16:05:15.114Z","count":5,"avg":1041,"min":628,"max":1421,"p95":1421,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T16:15:01.094Z","to":"2026-04-04T16:25:07.742Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T16:35:18.294Z","to":"2026-04-04T16:35:18.294Z","count":1,"avg":1973,"min":1973,"max":1973,"p95":1973,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T16:45:03.579Z","to":"2026-04-04T16:45:03.579Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T16:54:52.428Z","to":"2026-04-04T17:54:51.774Z","count":7,"avg":1292,"min":663,"max":3367,"p95":3367,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T18:04:44.597Z","to":"2026-04-04T18:04:44.597Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T18:14:20.374Z","to":"2026-04-04T18:34:52.213Z","count":3,"avg":1007,"min":784,"max":1377,"p95":1377,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T18:44:34.642Z","to":"2026-04-04T18:44:34.642Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T18:54:45.019Z","to":"2026-04-04T19:14:33.929Z","count":3,"avg":720,"min":638,"max":867,"p95":867,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T19:24:38.581Z","to":"2026-04-04T19:24:38.581Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T19:34:25.159Z","to":"2026-04-04T19:44:30.055Z","count":2,"avg":649,"min":642,"max":656,"p95":656,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T19:54:53.673Z","to":"2026-04-04T19:54:53.673Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T20:04:35.895Z","to":"2026-04-04T20:04:35.895Z","count":1,"avg":610,"min":610,"max":610,"p95":610,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T20:14:27.637Z","to":"2026-04-04T20:14:27.637Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T20:25:01.348Z","to":"2026-04-04T21:24:22.403Z","count":7,"avg":1424,"min":324,"max":2793,"p95":2793,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T21:34:27.152Z","to":"2026-04-04T21:34:27.152Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T21:44:24.167Z","to":"2026-04-04T22:04:42.421Z","count":3,"avg":675,"min":592,"max":808,"p95":808,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T22:14:27.130Z","to":"2026-04-04T22:14:27.130Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T22:24:45.176Z","to":"2026-04-04T22:34:17.384Z","count":2,"avg":745,"min":738,"max":751,"p95":751,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T22:44:44.578Z","to":"2026-04-04T22:44:44.578Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T22:54:42.923Z","to":"2026-04-04T23:24:28.090Z","count":4,"avg":779,"min":616,"max":1051,"p95":1051,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-04T23:34:29.382Z","to":"2026-04-04T23:34:29.382Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-04T23:44:30.982Z","to":"2026-04-04T23:54:40.174Z","count":2,"avg":766,"min":730,"max":801,"p95":801,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T00:04:57.016Z","to":"2026-04-05T01:45:12.943Z","count":11,"avg":976,"min":660,"max":2976,"p95":2976,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T01:55:01.010Z","to":"2026-04-05T01:55:01.010Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T02:04:54.858Z","to":"2026-04-05T03:24:50.488Z","count":9,"avg":798,"min":630,"max":926,"p95":926,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T03:34:49.276Z","to":"2026-04-05T03:34:49.276Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T03:44:53.655Z","to":"2026-04-05T04:44:45.980Z","count":7,"avg":841,"min":707,"max":1023,"p95":1023,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T04:55:06.497Z","to":"2026-04-05T04:55:06.497Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T05:04:37.766Z","to":"2026-04-05T11:24:22.658Z","count":39,"avg":934,"min":307,"max":2282,"p95":1863,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T11:38:02.064Z","to":"2026-04-05T11:38:02.064Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T11:45:37.941Z","to":"2026-04-05T12:25:15.390Z","count":5,"avg":1276,"min":887,"max":1873,"p95":1873,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T12:35:55.372Z","to":"2026-04-05T12:35:55.372Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T12:45:53.624Z","to":"2026-04-05T16:14:59.009Z","count":21,"avg":863,"min":382,"max":1461,"p95":1235,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T16:25:04.358Z","to":"2026-04-05T16:25:04.358Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T16:35:30.683Z","to":"2026-04-05T17:54:17.129Z","count":9,"avg":760,"min":634,"max":1010,"p95":1010,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T18:04:47.659Z","to":"2026-04-05T18:04:47.659Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T18:15:01.460Z","to":"2026-04-05T19:14:26.715Z","count":7,"avg":734,"min":636,"max":807,"p95":807,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T19:24:25.727Z","to":"2026-04-05T19:24:25.727Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T19:34:28.884Z","to":"2026-04-05T20:04:25.732Z","count":4,"avg":670,"min":558,"max":768,"p95":768,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T20:14:37.136Z","to":"2026-04-05T20:14:37.136Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T20:24:15.866Z","to":"2026-04-05T20:44:11.531Z","count":3,"avg":576,"min":339,"max":718,"p95":718,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T20:54:18.965Z","to":"2026-04-05T20:54:18.965Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T21:04:31.567Z","to":"2026-04-05T21:04:31.567Z","count":1,"avg":637,"min":637,"max":637,"p95":637,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T21:14:19.079Z","to":"2026-04-05T21:44:10.823Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T21:54:21.741Z","to":"2026-04-05T22:34:25.918Z","count":5,"avg":1080,"min":658,"max":2345,"p95":2345,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T22:44:37.561Z","to":"2026-04-05T22:54:34.166Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T23:04:28.552Z","to":"2026-04-05T23:34:32.557Z","count":4,"avg":1406,"min":568,"max":3645,"p95":3645,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-05T23:44:36.035Z","to":"2026-04-05T23:44:36.035Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-05T23:55:13.951Z","to":"2026-04-05T23:55:13.951Z","count":1,"avg":1146,"min":1146,"max":1146,"p95":1146,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-06T00:04:43.807Z","to":"2026-04-06T23:54:04.219Z","count":144,"avg":652,"min":75,"max":4958,"p95":1652,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-07T00:04:02.119Z","to":"2026-04-07T23:53:44.311Z","count":144,"avg":362,"min":42,"max":1211,"p95":750,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-08T00:04:18.341Z","to":"2026-04-08T08:15:07.553Z","count":50,"avg":499,"min":58,"max":2534,"p95":1051,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-08T08:24:40.903Z","to":"2026-04-08T08:24:40.903Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-08T08:34:49.022Z","to":"2026-04-08T09:44:51.759Z","count":8,"avg":815,"min":291,"max":1213,"p95":1213,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-08T09:55:08.229Z","to":"2026-04-08T09:55:08.229Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-08T10:04:53.578Z","to":"2026-04-08T14:05:24.835Z","count":25,"avg":1173,"min":438,"max":3664,"p95":3424,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-08T14:15:33.453Z","to":"2026-04-08T14:15:33.453Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-08T14:25:44.898Z","to":"2026-04-08T15:05:13.461Z","count":5,"avg":1066,"min":558,"max":2074,"p95":2074,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-08T15:15:38.580Z","to":"2026-04-08T15:15:38.580Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-08T15:25:09.236Z","to":"2026-04-08T18:05:03.660Z","count":17,"avg":799,"min":102,"max":1854,"p95":1854,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-08T18:15:19.609Z","to":"2026-04-08T18:15:19.609Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-08T18:24:32.593Z","to":"2026-04-08T20:25:00.703Z","count":13,"avg":1235,"min":403,"max":4624,"p95":4624,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-08T20:35:00.694Z","to":"2026-04-08T20:35:00.694Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-08T20:44:07.099Z","to":"2026-04-08T23:54:44.551Z","count":20,"avg":1059,"min":381,"max":4074,"p95":4074,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-09T00:04:25.802Z","to":"2026-04-09T02:04:53.334Z","count":13,"avg":717,"min":408,"max":1466,"p95":1466,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-09T02:15:13.076Z","to":"2026-04-09T02:15:13.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-09T02:24:55.312Z","to":"2026-04-09T06:25:03.420Z","count":25,"avg":801,"min":208,"max":1863,"p95":1391,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-09T06:35:03.944Z","to":"2026-04-09T06:35:03.944Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-09T06:44:44.366Z","to":"2026-04-09T23:53:59.042Z","count":104,"avg":437,"min":39,"max":4430,"p95":849,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-10T00:04:02.767Z","to":"2026-04-10T23:54:01.276Z","count":143,"avg":424,"min":39,"max":1900,"p95":894,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-11T00:03:55.012Z","to":"2026-04-11T23:54:13.730Z","count":143,"avg":126,"min":21,"max":838,"p95":341,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-12T00:03:57.942Z","to":"2026-04-12T23:53:42.455Z","count":142,"avg":131,"min":21,"max":2117,"p95":322,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-13T00:03:55.406Z","to":"2026-04-13T15:04:37.878Z","count":83,"avg":133,"min":23,"max":991,"p95":342,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-14T02:29:25.240Z","to":"2026-04-14T23:53:43.040Z","count":120,"avg":100,"min":22,"max":349,"p95":174,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-15T00:03:37.872Z","to":"2026-04-15T23:54:03.976Z","count":140,"avg":143,"min":20,"max":1322,"p95":261,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-16T00:04:15.005Z","to":"2026-04-16T07:54:22.514Z","count":43,"avg":149,"min":59,"max":383,"p95":254,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-16T08:05:00.355Z","to":"2026-04-16T08:14:50.495Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-16T08:24:31.318Z","to":"2026-04-16T23:54:19.630Z","count":86,"avg":221,"min":55,"max":1013,"p95":563,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-17T00:04:47.198Z","to":"2026-04-17T23:52:26.635Z","count":138,"avg":148,"min":28,"max":2697,"p95":265,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-18T00:02:40.570Z","to":"2026-04-18T10:02:38.877Z","count":57,"avg":1372,"min":93,"max":3502,"p95":2639,"url":"https://smz6.com"}
+{"type":"fail","from":"2026-04-18T10:15:05.047Z","to":"2026-04-18T10:15:05.047Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5949,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-18T10:22:27.055Z","to":"2026-04-18T23:52:19.813Z","count":81,"avg":601,"min":32,"max":3861,"p95":2510,"url":"https://smz6.com"}
+{"type":"ok","from":"2026-04-19T00:02:31.599Z","to":"2026-04-19T07:52:22.312Z","count":45,"url":"https://smz6.com","avg":162,"min":33,"max":670,"p95":516}
+{"type":"ok","from":"2026-04-19T08:15:21.780Z","to":"2026-04-19T23:52:15.486Z","count":48,"url":"https://smz6.com/v1/models","avg":604,"min":234,"max":2740,"p95":941}

@@ -119,3 +119,9 @@
 {"type":"fail","from":"2026-04-18T10:22:07.797Z","to":"2026-04-18T15:42:02.275Z","count":32,"url":"https://api.edgefn.net","status":404,"error":"HTTP 404","avg_latency":1474}
 {"type":"fail","from":"2026-04-18T15:52:05.947Z","to":"2026-04-18T15:52:05.947Z","count":1,"url":"https://api.edgefn.net","status":null,"error":"Healthcheck timeout","avg_latency":4999}
 {"type":"fail","from":"2026-04-18T16:02:13.928Z","to":"2026-04-18T23:52:00.316Z","count":48,"url":"https://api.edgefn.net","status":404,"error":"HTTP 404","avg_latency":1515}
+{"type":"fail","from":"2026-04-19T00:02:13.840Z","to":"2026-04-19T04:41:59.939Z","count":26,"url":"https://api.edgefn.net","status":404,"error":"HTTP 404","avg_latency":1336}
+{"type":"fail","from":"2026-04-19T04:52:00.804Z","to":"2026-04-19T04:52:00.804Z","count":1,"url":"https://api.edgefn.net","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"fail","from":"2026-04-19T05:02:10.332Z","to":"2026-04-19T07:52:05.219Z","count":18,"url":"https://api.edgefn.net","status":404,"error":"HTTP 404","avg_latency":1465}
+{"type":"fail","from":"2026-04-19T08:14:17.243Z","to":"2026-04-19T20:30:09.781Z","count":38,"url":"https://api.edgefn.net/v1/models","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"fail","from":"2026-04-19T20:52:24.180Z","to":"2026-04-19T20:52:24.180Z","count":1,"url":"https://api.edgefn.net/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-19T21:10:31.063Z","to":"2026-04-19T23:51:09.795Z","count":9,"url":"https://api.edgefn.net/v1/models","status":403,"error":"HTTP 403","avg_latency":null}

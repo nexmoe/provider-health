@@ -244,3 +244,17 @@
 {"type":"ok","from":"2026-04-18T21:02:36.206Z","to":"2026-04-18T23:02:36.198Z","count":13,"url":"http://iqgeai.abrdns.com:25838","avg":2166,"min":1293,"max":3137,"p95":3137}
 {"type":"fail","from":"2026-04-18T23:12:33.426Z","to":"2026-04-18T23:12:33.426Z","count":1,"url":"http://iqgeai.abrdns.com:25838","status":null,"error":"Healthcheck timeout","avg_latency":5000}
 {"type":"ok","from":"2026-04-18T23:22:21.159Z","to":"2026-04-18T23:52:27.368Z","count":4,"url":"http://iqgeai.abrdns.com:25838","avg":2833,"min":1521,"max":4728,"p95":4728}
+{"type":"ok","from":"2026-04-19T00:02:37.925Z","to":"2026-04-19T03:02:44.073Z","count":19,"url":"http://iqgeai.abrdns.com:25838","avg":2412,"min":1244,"max":4770,"p95":4770}
+{"type":"fail","from":"2026-04-19T03:12:33.480Z","to":"2026-04-19T03:12:33.480Z","count":1,"url":"http://iqgeai.abrdns.com:25838","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-19T03:22:32.876Z","to":"2026-04-19T05:52:27.486Z","count":13,"url":"http://iqgeai.abrdns.com:25838","avg":2409,"min":1413,"max":4364,"p95":4364}
+{"type":"fail","from":"2026-04-19T06:02:37.594Z","to":"2026-04-19T06:12:25.419Z","count":2,"url":"http://iqgeai.abrdns.com:25838","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T06:22:29.301Z","to":"2026-04-19T07:02:34.577Z","count":5,"url":"http://iqgeai.abrdns.com:25838","avg":3135,"min":1727,"max":4628,"p95":4628}
+{"type":"fail","from":"2026-04-19T07:12:36.072Z","to":"2026-04-19T07:22:32.142Z","count":2,"url":"http://iqgeai.abrdns.com:25838","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-19T07:32:29.727Z","to":"2026-04-19T07:52:29.860Z","count":3,"url":"http://iqgeai.abrdns.com:25838","avg":2600,"min":1343,"max":4125,"p95":4125}
+{"type":"ok","from":"2026-04-19T08:15:49.029Z","to":"2026-04-19T08:15:49.029Z","count":1,"url":"http://iqgeai.abrdns.com:25838/api/status","avg":4665,"min":4665,"max":4665,"p95":4665}
+{"type":"fail","from":"2026-04-19T08:36:45.691Z","to":"2026-04-19T08:36:45.691Z","count":1,"url":"https://iqgeai.abrdns.com:25838/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-19T08:58:06.685Z","to":"2026-04-19T08:58:06.685Z","count":1,"url":"http://iqgeai.abrdns.com:25838/health","avg":978,"min":978,"max":978,"p95":978}
+{"type":"ok","from":"2026-04-19T09:14:15.397Z","to":"2026-04-19T09:14:15.397Z","count":1,"url":"http://iqgeai.abrdns.com:25838/api/status","avg":3141,"min":3141,"max":3141,"p95":3141}
+{"type":"ok","from":"2026-04-19T09:35:14.497Z","to":"2026-04-19T09:35:14.497Z","count":1,"url":"http://iqgeai.abrdns.com:25838/v1/models","avg":1590,"min":1590,"max":1590,"p95":1590}
+{"type":"ok","from":"2026-04-19T09:56:12.812Z","to":"2026-04-19T11:35:10.484Z","count":6,"url":"http://iqgeai.abrdns.com:25838/api/status","avg":2820,"min":526,"max":4601,"p95":4601}
+{"type":"fail","from":"2026-04-19T11:54:22.580Z","to":"2026-04-19T23:53:07.524Z","count":37,"url":"https://iqgeai.abrdns.com:25838/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

@@ -1,41 +1,42 @@
-{"url":"https://proxy.pieixan.icu"}
-{"type":"ok","from":"2026-04-01T00:04:13.942Z","to":"2026-04-01T23:54:12.064Z","count":144,"avg":567,"min":124,"max":2493,"p95":957}
-{"type":"ok","from":"2026-04-02T00:04:10.361Z","to":"2026-04-02T23:54:06.419Z","count":144,"avg":613,"min":128,"max":2543,"p95":1334}
-{"type":"ok","from":"2026-04-03T00:04:12.285Z","to":"2026-04-03T23:54:11.268Z","count":142,"avg":641,"min":157,"max":2475,"p95":1252}
-{"type":"ok","from":"2026-04-04T00:04:16.059Z","to":"2026-04-04T08:43:49.265Z","count":47,"avg":555,"min":265,"max":1541,"p95":903}
-{"type":"fail","from":"2026-04-04T08:53:53.052Z","to":"2026-04-04T08:53:53.052Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T09:03:43.541Z","to":"2026-04-04T23:53:53.806Z","count":90,"avg":659,"min":112,"max":1824,"p95":1210}
-{"type":"ok","from":"2026-04-05T00:04:08.377Z","to":"2026-04-05T14:44:28.407Z","count":88,"avg":729,"min":110,"max":1855,"p95":1342}
-{"type":"fail","from":"2026-04-05T14:54:01.142Z","to":"2026-04-05T14:54:01.142Z","count":1,"status":404,"error":"HTTP 404","avg_latency":742}
-{"type":"ok","from":"2026-04-05T15:04:26.483Z","to":"2026-04-05T19:03:49.732Z","count":25,"avg":626,"min":468,"max":942,"p95":932}
-{"type":"fail","from":"2026-04-05T19:13:38.465Z","to":"2026-04-05T19:13:38.465Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T19:23:40.891Z","to":"2026-04-05T23:54:21.599Z","count":28,"avg":528,"min":443,"max":738,"p95":718}
-{"type":"ok","from":"2026-04-06T00:04:08.618Z","to":"2026-04-06T23:53:27.338Z","count":144,"avg":618,"min":125,"max":2185,"p95":953}
-{"type":"ok","from":"2026-04-07T00:03:27.760Z","to":"2026-04-07T09:33:49.029Z","count":58,"avg":619,"min":263,"max":2977,"p95":908}
-{"type":"fail","from":"2026-04-07T09:43:43.794Z","to":"2026-04-07T09:43:43.794Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T09:53:38.368Z","to":"2026-04-07T23:53:14.650Z","count":85,"avg":627,"min":319,"max":4228,"p95":902}
-{"type":"ok","from":"2026-04-08T00:03:36.943Z","to":"2026-04-08T23:54:00.160Z","count":144,"avg":674,"min":140,"max":4614,"p95":982}
-{"type":"ok","from":"2026-04-09T00:03:53.762Z","to":"2026-04-09T23:53:21.455Z","count":144,"avg":601,"min":112,"max":1982,"p95":1079}
-{"type":"ok","from":"2026-04-10T00:03:31.131Z","to":"2026-04-10T23:53:30.273Z","count":144,"avg":546,"min":118,"max":1193,"p95":840}
-{"type":"ok","from":"2026-04-11T00:03:28.488Z","to":"2026-04-11T23:53:43.222Z","count":143,"avg":589,"min":143,"max":1089,"p95":901}
-{"type":"ok","from":"2026-04-12T00:03:26.487Z","to":"2026-04-12T23:53:13.789Z","count":142,"avg":573,"min":138,"max":998,"p95":773}
-{"type":"ok","from":"2026-04-13T00:03:21.323Z","to":"2026-04-13T10:53:37.142Z","count":59,"avg":541,"min":116,"max":965,"p95":707}
-{"type":"fail","from":"2026-04-13T11:03:36.073Z","to":"2026-04-13T11:03:36.073Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-13T11:13:44.480Z","to":"2026-04-13T15:03:51.674Z","count":24,"avg":705,"min":124,"max":3003,"p95":1107}
-{"type":"ok","from":"2026-04-14T02:28:39.023Z","to":"2026-04-14T13:33:55.063Z","count":59,"avg":516,"min":120,"max":1058,"p95":941}
-{"type":"fail","from":"2026-04-14T13:43:59.203Z","to":"2026-04-14T13:43:59.203Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T13:53:30.901Z","to":"2026-04-14T23:53:03.864Z","count":60,"avg":625,"min":331,"max":3702,"p95":1291}
-{"type":"ok","from":"2026-04-15T00:02:58.743Z","to":"2026-04-15T11:13:46.458Z","count":66,"avg":592,"min":177,"max":2640,"p95":911}
-{"type":"fail","from":"2026-04-15T11:23:41.482Z","to":"2026-04-15T11:23:41.482Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003}
-{"type":"ok","from":"2026-04-15T11:34:02.540Z","to":"2026-04-15T17:23:47.826Z","count":34,"avg":676,"min":302,"max":1811,"p95":1458}
-{"type":"fail","from":"2026-04-15T17:33:46.207Z","to":"2026-04-15T17:43:46.400Z","count":2,"status":404,"error":"HTTP 404","avg_latency":457}
-{"type":"ok","from":"2026-04-15T17:53:49.545Z","to":"2026-04-15T20:03:25.493Z","count":14,"avg":582,"min":502,"max":799,"p95":799}
-{"type":"fail","from":"2026-04-15T20:13:19.264Z","to":"2026-04-15T23:53:31.141Z","count":23,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-16T00:03:44.527Z","to":"2026-04-16T01:23:41.520Z","count":9,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-16T01:33:32.160Z","to":"2026-04-16T23:53:41.010Z","count":122,"avg":657,"min":105,"max":2431,"p95":1058}
-{"type":"ok","from":"2026-04-17T00:04:10.309Z","to":"2026-04-17T07:42:07.314Z","count":44,"avg":554,"min":115,"max":967,"p95":796}
-{"type":"fail","from":"2026-04-17T07:52:13.664Z","to":"2026-04-17T08:22:13.483Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-17T08:32:14.001Z","to":"2026-04-17T23:52:08.311Z","count":90,"avg":643,"min":453,"max":1550,"p95":1134}
-{"type":"ok","from":"2026-04-18T00:02:20.861Z","to":"2026-04-18T10:02:18.738Z","count":58,"avg":565,"min":314,"max":1505,"p95":893}
-{"type":"fail","from":"2026-04-18T10:13:51.843Z","to":"2026-04-18T10:13:51.843Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5035}
-{"type":"ok","from":"2026-04-18T10:22:07.255Z","to":"2026-04-18T23:51:59.836Z","count":81,"avg":629,"min":420,"max":1513,"p95":1086}
+{"type":"ok","from":"2026-04-01T00:04:13.942Z","to":"2026-04-01T23:54:12.064Z","count":144,"avg":567,"min":124,"max":2493,"p95":957,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-02T00:04:10.361Z","to":"2026-04-02T23:54:06.419Z","count":144,"avg":613,"min":128,"max":2543,"p95":1334,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-03T00:04:12.285Z","to":"2026-04-03T23:54:11.268Z","count":142,"avg":641,"min":157,"max":2475,"p95":1252,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-04T00:04:16.059Z","to":"2026-04-04T08:43:49.265Z","count":47,"avg":555,"min":265,"max":1541,"p95":903,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-04T08:53:53.052Z","to":"2026-04-04T08:53:53.052Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-04T09:03:43.541Z","to":"2026-04-04T23:53:53.806Z","count":90,"avg":659,"min":112,"max":1824,"p95":1210,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-05T00:04:08.377Z","to":"2026-04-05T14:44:28.407Z","count":88,"avg":729,"min":110,"max":1855,"p95":1342,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-05T14:54:01.142Z","to":"2026-04-05T14:54:01.142Z","count":1,"status":404,"error":"HTTP 404","avg_latency":742,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-05T15:04:26.483Z","to":"2026-04-05T19:03:49.732Z","count":25,"avg":626,"min":468,"max":942,"p95":932,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-05T19:13:38.465Z","to":"2026-04-05T19:13:38.465Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-05T19:23:40.891Z","to":"2026-04-05T23:54:21.599Z","count":28,"avg":528,"min":443,"max":738,"p95":718,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-06T00:04:08.618Z","to":"2026-04-06T23:53:27.338Z","count":144,"avg":618,"min":125,"max":2185,"p95":953,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-07T00:03:27.760Z","to":"2026-04-07T09:33:49.029Z","count":58,"avg":619,"min":263,"max":2977,"p95":908,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-07T09:43:43.794Z","to":"2026-04-07T09:43:43.794Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-07T09:53:38.368Z","to":"2026-04-07T23:53:14.650Z","count":85,"avg":627,"min":319,"max":4228,"p95":902,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-08T00:03:36.943Z","to":"2026-04-08T23:54:00.160Z","count":144,"avg":674,"min":140,"max":4614,"p95":982,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-09T00:03:53.762Z","to":"2026-04-09T23:53:21.455Z","count":144,"avg":601,"min":112,"max":1982,"p95":1079,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-10T00:03:31.131Z","to":"2026-04-10T23:53:30.273Z","count":144,"avg":546,"min":118,"max":1193,"p95":840,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-11T00:03:28.488Z","to":"2026-04-11T23:53:43.222Z","count":143,"avg":589,"min":143,"max":1089,"p95":901,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-12T00:03:26.487Z","to":"2026-04-12T23:53:13.789Z","count":142,"avg":573,"min":138,"max":998,"p95":773,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-13T00:03:21.323Z","to":"2026-04-13T10:53:37.142Z","count":59,"avg":541,"min":116,"max":965,"p95":707,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-13T11:03:36.073Z","to":"2026-04-13T11:03:36.073Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-13T11:13:44.480Z","to":"2026-04-13T15:03:51.674Z","count":24,"avg":705,"min":124,"max":3003,"p95":1107,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-14T02:28:39.023Z","to":"2026-04-14T13:33:55.063Z","count":59,"avg":516,"min":120,"max":1058,"p95":941,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-14T13:43:59.203Z","to":"2026-04-14T13:43:59.203Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-14T13:53:30.901Z","to":"2026-04-14T23:53:03.864Z","count":60,"avg":625,"min":331,"max":3702,"p95":1291,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-15T00:02:58.743Z","to":"2026-04-15T11:13:46.458Z","count":66,"avg":592,"min":177,"max":2640,"p95":911,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-15T11:23:41.482Z","to":"2026-04-15T11:23:41.482Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-15T11:34:02.540Z","to":"2026-04-15T17:23:47.826Z","count":34,"avg":676,"min":302,"max":1811,"p95":1458,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-15T17:33:46.207Z","to":"2026-04-15T17:43:46.400Z","count":2,"status":404,"error":"HTTP 404","avg_latency":457,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-15T17:53:49.545Z","to":"2026-04-15T20:03:25.493Z","count":14,"avg":582,"min":502,"max":799,"p95":799,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-15T20:13:19.264Z","to":"2026-04-15T23:53:31.141Z","count":23,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-16T00:03:44.527Z","to":"2026-04-16T01:23:41.520Z","count":9,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-16T01:33:32.160Z","to":"2026-04-16T23:53:41.010Z","count":122,"avg":657,"min":105,"max":2431,"p95":1058,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-17T00:04:10.309Z","to":"2026-04-17T07:42:07.314Z","count":44,"avg":554,"min":115,"max":967,"p95":796,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-17T07:52:13.664Z","to":"2026-04-17T08:22:13.483Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-17T08:32:14.001Z","to":"2026-04-17T23:52:08.311Z","count":90,"avg":643,"min":453,"max":1550,"p95":1134,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-18T00:02:20.861Z","to":"2026-04-18T10:02:18.738Z","count":58,"avg":565,"min":314,"max":1505,"p95":893,"url":"https://proxy.pieixan.icu"}
+{"type":"fail","from":"2026-04-18T10:13:51.843Z","to":"2026-04-18T10:13:51.843Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5035,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-18T10:22:07.255Z","to":"2026-04-18T23:51:59.836Z","count":81,"avg":629,"min":420,"max":1513,"p95":1086,"url":"https://proxy.pieixan.icu"}
+{"type":"ok","from":"2026-04-19T00:02:13.761Z","to":"2026-04-19T07:52:03.795Z","count":45,"url":"https://proxy.pieixan.icu","avg":597,"min":195,"max":1096,"p95":864}
+{"type":"ok","from":"2026-04-19T08:14:15.249Z","to":"2026-04-19T23:51:07.758Z","count":48,"url":"https://proxy.pieixan.icu/api/status","avg":583,"min":167,"max":1598,"p95":794}

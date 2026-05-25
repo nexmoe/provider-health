@@ -1,32 +1,33 @@
-{"url":"https://yunwu.ai"}
-{"type":"ok","from":"2026-04-01T00:02:08.984Z","to":"2026-04-01T02:22:14.443Z","count":15,"avg":619,"min":453,"max":1600,"p95":1600}
-{"type":"fail","from":"2026-04-01T02:32:21.239Z","to":"2026-04-01T02:32:21.239Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T02:42:10.595Z","to":"2026-04-01T23:52:02.152Z","count":128,"avg":600,"min":450,"max":1216,"p95":892}
-{"type":"ok","from":"2026-04-02T00:02:08.099Z","to":"2026-04-02T23:52:05.100Z","count":144,"avg":570,"min":451,"max":1420,"p95":975}
-{"type":"ok","from":"2026-04-03T00:02:08.982Z","to":"2026-04-03T23:52:05.958Z","count":143,"avg":627,"min":449,"max":1757,"p95":901}
-{"type":"ok","from":"2026-04-04T00:02:08.473Z","to":"2026-04-04T23:51:26.152Z","count":138,"avg":680,"min":452,"max":1824,"p95":1281}
-{"type":"ok","from":"2026-04-05T00:01:29.293Z","to":"2026-04-05T23:51:35.055Z","count":144,"avg":799,"min":454,"max":3968,"p95":1399}
-{"type":"ok","from":"2026-04-06T00:01:41.131Z","to":"2026-04-06T23:51:16.652Z","count":144,"avg":686,"min":522,"max":1384,"p95":978}
-{"type":"ok","from":"2026-04-07T00:01:27.455Z","to":"2026-04-07T23:51:20.709Z","count":144,"avg":695,"min":515,"max":1733,"p95":955}
-{"type":"ok","from":"2026-04-08T00:01:31.859Z","to":"2026-04-08T23:51:32.548Z","count":144,"avg":733,"min":537,"max":1307,"p95":1034}
-{"type":"ok","from":"2026-04-09T00:01:23.744Z","to":"2026-04-09T23:51:13.617Z","count":144,"avg":697,"min":513,"max":1815,"p95":1118}
-{"type":"ok","from":"2026-04-10T00:01:26.088Z","to":"2026-04-10T23:51:23.271Z","count":144,"avg":749,"min":510,"max":2784,"p95":1348}
-{"type":"ok","from":"2026-04-11T00:01:22.520Z","to":"2026-04-11T23:51:32.073Z","count":143,"avg":633,"min":533,"max":1320,"p95":1010}
-{"type":"ok","from":"2026-04-12T00:01:24.598Z","to":"2026-04-12T08:41:25.324Z","count":54,"avg":628,"min":536,"max":1574,"p95":936}
-{"type":"fail","from":"2026-04-12T08:51:28.936Z","to":"2026-04-12T08:51:28.936Z","count":1,"status":500,"error":"HTTP 500","avg_latency":661}
-{"type":"fail","from":"2026-04-12T09:01:34.076Z","to":"2026-04-12T09:01:34.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-12T09:21:35.226Z","to":"2026-04-12T23:51:21.777Z","count":88,"avg":649,"min":559,"max":1215,"p95":980}
-{"type":"ok","from":"2026-04-13T00:01:20.624Z","to":"2026-04-13T15:01:34.869Z","count":84,"avg":660,"min":544,"max":3107,"p95":967}
-{"type":"ok","from":"2026-04-14T02:21:38.605Z","to":"2026-04-14T03:01:32.773Z","count":4,"avg":606,"min":603,"max":607,"p95":607}
-{"type":"fail","from":"2026-04-14T03:11:31.121Z","to":"2026-04-14T03:11:31.121Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T03:21:29.062Z","to":"2026-04-14T23:51:13.304Z","count":118,"avg":602,"min":542,"max":1031,"p95":748}
-{"type":"ok","from":"2026-04-15T00:01:15.358Z","to":"2026-04-15T00:01:15.358Z","count":1,"avg":625,"min":625,"max":625,"p95":625}
-{"type":"fail","from":"2026-04-15T00:11:28.016Z","to":"2026-04-15T01:11:17.807Z","count":7,"status":null,"error":"fetch failed","avg_latency":49}
-{"type":"ok","from":"2026-04-15T01:21:27.478Z","to":"2026-04-15T01:21:27.478Z","count":1,"avg":863,"min":863,"max":863,"p95":863}
-{"type":"fail","from":"2026-04-15T01:31:24.453Z","to":"2026-04-15T01:31:24.453Z","count":1,"status":null,"error":"fetch failed","avg_latency":19}
-{"type":"ok","from":"2026-04-15T01:41:28.485Z","to":"2026-04-15T23:51:24.033Z","count":131,"avg":606,"min":535,"max":1235,"p95":740}
-{"type":"ok","from":"2026-04-16T00:01:30.785Z","to":"2026-04-16T02:31:30.223Z","count":16,"avg":590,"min":535,"max":735,"p95":735}
-{"type":"fail","from":"2026-04-16T02:41:40.671Z","to":"2026-04-16T02:41:40.671Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T02:51:39.628Z","to":"2026-04-16T23:51:44.549Z","count":115,"avg":608,"min":530,"max":3689,"p95":666}
-{"type":"ok","from":"2026-04-17T00:02:04.743Z","to":"2026-04-17T23:50:58.413Z","count":140,"avg":1040,"min":527,"max":2601,"p95":1684}
-{"type":"ok","from":"2026-04-18T00:01:07.131Z","to":"2026-04-18T23:50:58.009Z","count":141,"avg":714,"min":546,"max":1588,"p95":1160}
+{"type":"ok","from":"2026-04-01T00:02:08.984Z","to":"2026-04-01T02:22:14.443Z","count":15,"avg":619,"min":453,"max":1600,"p95":1600,"url":"https://yunwu.ai"}
+{"type":"fail","from":"2026-04-01T02:32:21.239Z","to":"2026-04-01T02:32:21.239Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-01T02:42:10.595Z","to":"2026-04-01T23:52:02.152Z","count":128,"avg":600,"min":450,"max":1216,"p95":892,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-02T00:02:08.099Z","to":"2026-04-02T23:52:05.100Z","count":144,"avg":570,"min":451,"max":1420,"p95":975,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-03T00:02:08.982Z","to":"2026-04-03T23:52:05.958Z","count":143,"avg":627,"min":449,"max":1757,"p95":901,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-04T00:02:08.473Z","to":"2026-04-04T23:51:26.152Z","count":138,"avg":680,"min":452,"max":1824,"p95":1281,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-05T00:01:29.293Z","to":"2026-04-05T23:51:35.055Z","count":144,"avg":799,"min":454,"max":3968,"p95":1399,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-06T00:01:41.131Z","to":"2026-04-06T23:51:16.652Z","count":144,"avg":686,"min":522,"max":1384,"p95":978,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-07T00:01:27.455Z","to":"2026-04-07T23:51:20.709Z","count":144,"avg":695,"min":515,"max":1733,"p95":955,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-08T00:01:31.859Z","to":"2026-04-08T23:51:32.548Z","count":144,"avg":733,"min":537,"max":1307,"p95":1034,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-09T00:01:23.744Z","to":"2026-04-09T23:51:13.617Z","count":144,"avg":697,"min":513,"max":1815,"p95":1118,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-10T00:01:26.088Z","to":"2026-04-10T23:51:23.271Z","count":144,"avg":749,"min":510,"max":2784,"p95":1348,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-11T00:01:22.520Z","to":"2026-04-11T23:51:32.073Z","count":143,"avg":633,"min":533,"max":1320,"p95":1010,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-12T00:01:24.598Z","to":"2026-04-12T08:41:25.324Z","count":54,"avg":628,"min":536,"max":1574,"p95":936,"url":"https://yunwu.ai"}
+{"type":"fail","from":"2026-04-12T08:51:28.936Z","to":"2026-04-12T08:51:28.936Z","count":1,"status":500,"error":"HTTP 500","avg_latency":661,"url":"https://yunwu.ai"}
+{"type":"fail","from":"2026-04-12T09:01:34.076Z","to":"2026-04-12T09:01:34.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-12T09:21:35.226Z","to":"2026-04-12T23:51:21.777Z","count":88,"avg":649,"min":559,"max":1215,"p95":980,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-13T00:01:20.624Z","to":"2026-04-13T15:01:34.869Z","count":84,"avg":660,"min":544,"max":3107,"p95":967,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-14T02:21:38.605Z","to":"2026-04-14T03:01:32.773Z","count":4,"avg":606,"min":603,"max":607,"p95":607,"url":"https://yunwu.ai"}
+{"type":"fail","from":"2026-04-14T03:11:31.121Z","to":"2026-04-14T03:11:31.121Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-14T03:21:29.062Z","to":"2026-04-14T23:51:13.304Z","count":118,"avg":602,"min":542,"max":1031,"p95":748,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-15T00:01:15.358Z","to":"2026-04-15T00:01:15.358Z","count":1,"avg":625,"min":625,"max":625,"p95":625,"url":"https://yunwu.ai"}
+{"type":"fail","from":"2026-04-15T00:11:28.016Z","to":"2026-04-15T01:11:17.807Z","count":7,"status":null,"error":"fetch failed","avg_latency":49,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-15T01:21:27.478Z","to":"2026-04-15T01:21:27.478Z","count":1,"avg":863,"min":863,"max":863,"p95":863,"url":"https://yunwu.ai"}
+{"type":"fail","from":"2026-04-15T01:31:24.453Z","to":"2026-04-15T01:31:24.453Z","count":1,"status":null,"error":"fetch failed","avg_latency":19,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-15T01:41:28.485Z","to":"2026-04-15T23:51:24.033Z","count":131,"avg":606,"min":535,"max":1235,"p95":740,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-16T00:01:30.785Z","to":"2026-04-16T02:31:30.223Z","count":16,"avg":590,"min":535,"max":735,"p95":735,"url":"https://yunwu.ai"}
+{"type":"fail","from":"2026-04-16T02:41:40.671Z","to":"2026-04-16T02:41:40.671Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-16T02:51:39.628Z","to":"2026-04-16T23:51:44.549Z","count":115,"avg":608,"min":530,"max":3689,"p95":666,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-17T00:02:04.743Z","to":"2026-04-17T23:50:58.413Z","count":140,"avg":1040,"min":527,"max":2601,"p95":1684,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-18T00:01:07.131Z","to":"2026-04-18T23:50:58.009Z","count":141,"avg":714,"min":546,"max":1588,"p95":1160,"url":"https://yunwu.ai"}
+{"type":"ok","from":"2026-04-19T00:01:09.959Z","to":"2026-04-19T07:50:56.704Z","count":45,"url":"https://yunwu.ai","avg":662,"min":547,"max":1284,"p95":967}
+{"type":"ok","from":"2026-04-19T08:04:02.243Z","to":"2026-04-19T23:43:36.736Z","count":48,"url":"https://yunwu.ai/api/status","avg":593,"min":539,"max":772,"p95":764}

@@ -1,80 +1,81 @@
-{"url":"http://www.api.puzhehei.top"}
-{"type":"ok","from":"2026-04-01T00:01:30.035Z","to":"2026-04-01T23:51:27.532Z","count":144,"avg":354,"min":55,"max":4180,"p95":680}
-{"type":"ok","from":"2026-04-02T00:01:29.241Z","to":"2026-04-02T23:51:28.141Z","count":144,"avg":322,"min":57,"max":1232,"p95":750}
-{"type":"ok","from":"2026-04-03T00:01:30.305Z","to":"2026-04-03T23:51:29.176Z","count":143,"avg":267,"min":30,"max":782,"p95":561}
-{"type":"ok","from":"2026-04-04T00:01:30.142Z","to":"2026-04-04T12:20:53.041Z","count":69,"avg":557,"min":96,"max":4715,"p95":1987}
-{"type":"fail","from":"2026-04-04T12:30:56.578Z","to":"2026-04-04T12:30:56.578Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T12:40:55.984Z","to":"2026-04-04T14:30:55.809Z","count":12,"avg":710,"min":180,"max":2852,"p95":2852}
-{"type":"fail","from":"2026-04-04T14:40:51.925Z","to":"2026-04-04T14:40:51.925Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T14:50:49.941Z","to":"2026-04-04T15:50:45.622Z","count":7,"avg":643,"min":191,"max":2438,"p95":2438}
-{"type":"fail","from":"2026-04-04T16:00:55.580Z","to":"2026-04-04T16:00:55.580Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T16:10:46.376Z","to":"2026-04-04T20:00:39.112Z","count":24,"avg":483,"min":102,"max":3309,"p95":1178}
-{"type":"fail","from":"2026-04-04T20:10:52.324Z","to":"2026-04-04T20:10:52.324Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T20:20:45.258Z","to":"2026-04-04T23:50:44.195Z","count":22,"avg":570,"min":161,"max":2673,"p95":1402}
-{"type":"ok","from":"2026-04-05T00:00:45.958Z","to":"2026-04-05T00:40:48.278Z","count":5,"avg":418,"min":141,"max":832,"p95":832}
-{"type":"fail","from":"2026-04-05T00:50:52.147Z","to":"2026-04-05T00:50:52.147Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T01:00:44.690Z","to":"2026-04-05T07:30:54.744Z","count":40,"avg":611,"min":143,"max":4140,"p95":2222}
-{"type":"fail","from":"2026-04-05T07:40:53.887Z","to":"2026-04-05T07:40:53.887Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T07:50:50.294Z","to":"2026-04-05T16:40:48.877Z","count":54,"avg":506,"min":140,"max":1435,"p95":1184}
-{"type":"fail","from":"2026-04-05T16:50:54.081Z","to":"2026-04-05T16:50:54.081Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T17:00:48.575Z","to":"2026-04-05T19:40:43.327Z","count":17,"avg":439,"min":171,"max":1375,"p95":1375}
-{"type":"fail","from":"2026-04-05T19:50:45.473Z","to":"2026-04-05T19:50:45.473Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T20:00:44.974Z","to":"2026-04-05T21:40:44.177Z","count":11,"avg":767,"min":248,"max":3308,"p95":3308}
-{"type":"fail","from":"2026-04-05T21:50:44.409Z","to":"2026-04-05T21:50:44.409Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T22:00:45.050Z","to":"2026-04-05T23:40:47.053Z","count":11,"avg":473,"min":186,"max":1505,"p95":1505}
-{"type":"fail","from":"2026-04-05T23:50:44.663Z","to":"2026-04-05T23:50:44.663Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T00:00:50.702Z","to":"2026-04-06T00:20:50.749Z","count":3,"avg":568,"min":332,"max":734,"p95":734}
-{"type":"fail","from":"2026-04-06T00:30:54.006Z","to":"2026-04-06T00:30:54.006Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T00:40:45.000Z","to":"2026-04-06T02:10:40.821Z","count":10,"avg":1133,"min":275,"max":3626,"p95":3626}
-{"type":"fail","from":"2026-04-06T02:20:56.837Z","to":"2026-04-06T02:20:56.837Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T02:30:49.739Z","to":"2026-04-06T03:00:45.366Z","count":4,"avg":858,"min":168,"max":2577,"p95":2577}
-{"type":"fail","from":"2026-04-06T03:10:57.119Z","to":"2026-04-06T03:10:57.119Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T03:20:49.213Z","to":"2026-04-06T03:40:44.181Z","count":3,"avg":352,"min":178,"max":462,"p95":462}
-{"type":"fail","from":"2026-04-06T03:50:53.760Z","to":"2026-04-06T03:50:53.760Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T04:00:44.631Z","to":"2026-04-06T04:10:45.853Z","count":2,"avg":457,"min":248,"max":665,"p95":665}
-{"type":"fail","from":"2026-04-06T04:20:53.720Z","to":"2026-04-06T04:20:53.720Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T04:30:51.233Z","to":"2026-04-06T05:50:49.044Z","count":9,"avg":535,"min":168,"max":1795,"p95":1795}
-{"type":"fail","from":"2026-04-06T06:00:54.325Z","to":"2026-04-06T06:00:54.325Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T06:10:44.096Z","to":"2026-04-06T06:30:47.650Z","count":3,"avg":253,"min":223,"max":276,"p95":276}
-{"type":"fail","from":"2026-04-06T06:40:53.862Z","to":"2026-04-06T06:40:53.862Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T06:50:48.366Z","to":"2026-04-06T07:50:50.220Z","count":7,"avg":478,"min":181,"max":970,"p95":970}
-{"type":"fail","from":"2026-04-06T08:00:51.878Z","to":"2026-04-06T08:00:51.878Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T08:10:46.319Z","to":"2026-04-06T08:30:47.669Z","count":3,"avg":359,"min":339,"max":382,"p95":382}
-{"type":"fail","from":"2026-04-06T08:41:56.453Z","to":"2026-04-06T08:41:56.453Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T08:50:47.491Z","to":"2026-04-06T23:50:41.934Z","count":91,"avg":280,"min":56,"max":1374,"p95":721}
-{"type":"ok","from":"2026-04-07T00:00:47.165Z","to":"2026-04-07T23:50:41.102Z","count":144,"avg":326,"min":56,"max":1466,"p95":835}
-{"type":"ok","from":"2026-04-08T00:00:49.578Z","to":"2026-04-08T08:40:47.369Z","count":53,"avg":461,"min":71,"max":2255,"p95":1280}
-{"type":"fail","from":"2026-04-08T08:50:52.842Z","to":"2026-04-08T08:50:52.842Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T09:00:43.766Z","to":"2026-04-08T09:30:47.430Z","count":4,"avg":1413,"min":216,"max":3993,"p95":3993}
-{"type":"fail","from":"2026-04-08T09:40:51.610Z","to":"2026-04-08T09:40:51.610Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T09:50:41.289Z","to":"2026-04-08T10:00:52.665Z","count":2,"avg":407,"min":229,"max":584,"p95":584}
-{"type":"fail","from":"2026-04-08T10:10:52.641Z","to":"2026-04-08T10:10:52.641Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T10:20:47.908Z","to":"2026-04-08T10:20:47.908Z","count":1,"avg":645,"min":645,"max":645,"p95":645}
-{"type":"fail","from":"2026-04-08T10:30:52.186Z","to":"2026-04-08T10:30:52.186Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T10:40:47.818Z","to":"2026-04-08T11:10:46.743Z","count":4,"avg":919,"min":546,"max":1238,"p95":1238}
-{"type":"fail","from":"2026-04-08T11:20:52.816Z","to":"2026-04-08T11:20:52.816Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T11:30:47.120Z","to":"2026-04-08T15:30:44.527Z","count":25,"avg":799,"min":120,"max":2854,"p95":1985}
-{"type":"fail","from":"2026-04-08T15:40:52.495Z","to":"2026-04-08T15:40:52.495Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T15:50:43.971Z","to":"2026-04-08T17:10:45.704Z","count":9,"avg":541,"min":180,"max":2023,"p95":2023}
-{"type":"fail","from":"2026-04-08T17:20:49.474Z","to":"2026-04-08T17:20:49.474Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T17:30:42.872Z","to":"2026-04-08T18:50:42.552Z","count":9,"avg":543,"min":214,"max":1327,"p95":1327}
-{"type":"fail","from":"2026-04-08T19:00:55.468Z","to":"2026-04-08T19:00:55.468Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T19:10:43.895Z","to":"2026-04-08T19:20:43.948Z","count":2,"avg":339,"min":176,"max":501,"p95":501}
-{"type":"fail","from":"2026-04-08T19:30:45.420Z","to":"2026-04-08T19:30:45.420Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T19:40:47.541Z","to":"2026-04-08T23:30:49.719Z","count":24,"avg":861,"min":133,"max":4330,"p95":3245}
-{"type":"fail","from":"2026-04-08T23:40:50.128Z","to":"2026-04-08T23:40:50.128Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T23:50:44.041Z","to":"2026-04-08T23:50:44.041Z","count":1,"avg":1144,"min":1144,"max":1144,"p95":1144}
-{"type":"ok","from":"2026-04-09T00:00:45.077Z","to":"2026-04-09T06:00:58.798Z","count":37,"avg":919,"min":136,"max":3093,"p95":2660}
-{"type":"fail","from":"2026-04-09T06:10:51.980Z","to":"2026-04-09T06:10:51.980Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T06:20:39.954Z","to":"2026-04-09T07:20:49.066Z","count":7,"avg":740,"min":170,"max":1860,"p95":1860}
-{"type":"fail","from":"2026-04-09T07:30:58.282Z","to":"2026-04-09T07:30:58.282Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T07:40:49.125Z","to":"2026-04-09T23:50:40.883Z","count":98,"avg":344,"min":57,"max":2281,"p95":1203}
-{"type":"ok","from":"2026-04-10T00:00:42.723Z","to":"2026-04-10T23:50:40.123Z","count":144,"avg":435,"min":27,"max":4668,"p95":1443}
-{"type":"ok","from":"2026-04-11T00:00:43.864Z","to":"2026-04-11T23:50:44.908Z","count":143,"avg":85,"min":11,"max":1056,"p95":380}
-{"type":"ok","from":"2026-04-12T00:00:45.273Z","to":"2026-04-12T23:50:44.973Z","count":145,"avg":64,"min":10,"max":1013,"p95":353}
-{"type":"ok","from":"2026-04-13T00:00:46.249Z","to":"2026-04-13T15:00:45.806Z","count":86,"avg":68,"min":11,"max":399,"p95":311}
-{"type":"ok","from":"2026-04-14T02:20:53.025Z","to":"2026-04-14T23:50:37.866Z","count":124,"avg":71,"min":12,"max":1367,"p95":324}
-{"type":"ok","from":"2026-04-15T00:00:40.127Z","to":"2026-04-15T23:50:44.941Z","count":141,"avg":268,"min":13,"max":2439,"p95":972}
-{"type":"ok","from":"2026-04-16T00:00:45.222Z","to":"2026-04-16T23:50:51.497Z","count":134,"avg":256,"min":18,"max":1329,"p95":830}
-{"type":"ok","from":"2026-04-17T00:01:12.274Z","to":"2026-04-17T23:50:32.423Z","count":140,"avg":204,"min":48,"max":1049,"p95":577}
-{"type":"ok","from":"2026-04-18T00:00:41.990Z","to":"2026-04-18T23:50:30.633Z","count":141,"avg":78,"min":14,"max":525,"p95":280}
+{"type":"ok","from":"2026-04-01T00:01:30.035Z","to":"2026-04-01T23:51:27.532Z","count":144,"avg":354,"min":55,"max":4180,"p95":680,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-02T00:01:29.241Z","to":"2026-04-02T23:51:28.141Z","count":144,"avg":322,"min":57,"max":1232,"p95":750,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-03T00:01:30.305Z","to":"2026-04-03T23:51:29.176Z","count":143,"avg":267,"min":30,"max":782,"p95":561,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-04T00:01:30.142Z","to":"2026-04-04T12:20:53.041Z","count":69,"avg":557,"min":96,"max":4715,"p95":1987,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-04T12:30:56.578Z","to":"2026-04-04T12:30:56.578Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-04T12:40:55.984Z","to":"2026-04-04T14:30:55.809Z","count":12,"avg":710,"min":180,"max":2852,"p95":2852,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-04T14:40:51.925Z","to":"2026-04-04T14:40:51.925Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-04T14:50:49.941Z","to":"2026-04-04T15:50:45.622Z","count":7,"avg":643,"min":191,"max":2438,"p95":2438,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-04T16:00:55.580Z","to":"2026-04-04T16:00:55.580Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-04T16:10:46.376Z","to":"2026-04-04T20:00:39.112Z","count":24,"avg":483,"min":102,"max":3309,"p95":1178,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-04T20:10:52.324Z","to":"2026-04-04T20:10:52.324Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-04T20:20:45.258Z","to":"2026-04-04T23:50:44.195Z","count":22,"avg":570,"min":161,"max":2673,"p95":1402,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-05T00:00:45.958Z","to":"2026-04-05T00:40:48.278Z","count":5,"avg":418,"min":141,"max":832,"p95":832,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-05T00:50:52.147Z","to":"2026-04-05T00:50:52.147Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-05T01:00:44.690Z","to":"2026-04-05T07:30:54.744Z","count":40,"avg":611,"min":143,"max":4140,"p95":2222,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-05T07:40:53.887Z","to":"2026-04-05T07:40:53.887Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-05T07:50:50.294Z","to":"2026-04-05T16:40:48.877Z","count":54,"avg":506,"min":140,"max":1435,"p95":1184,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-05T16:50:54.081Z","to":"2026-04-05T16:50:54.081Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-05T17:00:48.575Z","to":"2026-04-05T19:40:43.327Z","count":17,"avg":439,"min":171,"max":1375,"p95":1375,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-05T19:50:45.473Z","to":"2026-04-05T19:50:45.473Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-05T20:00:44.974Z","to":"2026-04-05T21:40:44.177Z","count":11,"avg":767,"min":248,"max":3308,"p95":3308,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-05T21:50:44.409Z","to":"2026-04-05T21:50:44.409Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-05T22:00:45.050Z","to":"2026-04-05T23:40:47.053Z","count":11,"avg":473,"min":186,"max":1505,"p95":1505,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-05T23:50:44.663Z","to":"2026-04-05T23:50:44.663Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T00:00:50.702Z","to":"2026-04-06T00:20:50.749Z","count":3,"avg":568,"min":332,"max":734,"p95":734,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T00:30:54.006Z","to":"2026-04-06T00:30:54.006Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T00:40:45.000Z","to":"2026-04-06T02:10:40.821Z","count":10,"avg":1133,"min":275,"max":3626,"p95":3626,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T02:20:56.837Z","to":"2026-04-06T02:20:56.837Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T02:30:49.739Z","to":"2026-04-06T03:00:45.366Z","count":4,"avg":858,"min":168,"max":2577,"p95":2577,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T03:10:57.119Z","to":"2026-04-06T03:10:57.119Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T03:20:49.213Z","to":"2026-04-06T03:40:44.181Z","count":3,"avg":352,"min":178,"max":462,"p95":462,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T03:50:53.760Z","to":"2026-04-06T03:50:53.760Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T04:00:44.631Z","to":"2026-04-06T04:10:45.853Z","count":2,"avg":457,"min":248,"max":665,"p95":665,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T04:20:53.720Z","to":"2026-04-06T04:20:53.720Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T04:30:51.233Z","to":"2026-04-06T05:50:49.044Z","count":9,"avg":535,"min":168,"max":1795,"p95":1795,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T06:00:54.325Z","to":"2026-04-06T06:00:54.325Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T06:10:44.096Z","to":"2026-04-06T06:30:47.650Z","count":3,"avg":253,"min":223,"max":276,"p95":276,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T06:40:53.862Z","to":"2026-04-06T06:40:53.862Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T06:50:48.366Z","to":"2026-04-06T07:50:50.220Z","count":7,"avg":478,"min":181,"max":970,"p95":970,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T08:00:51.878Z","to":"2026-04-06T08:00:51.878Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T08:10:46.319Z","to":"2026-04-06T08:30:47.669Z","count":3,"avg":359,"min":339,"max":382,"p95":382,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-06T08:41:56.453Z","to":"2026-04-06T08:41:56.453Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-06T08:50:47.491Z","to":"2026-04-06T23:50:41.934Z","count":91,"avg":280,"min":56,"max":1374,"p95":721,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-07T00:00:47.165Z","to":"2026-04-07T23:50:41.102Z","count":144,"avg":326,"min":56,"max":1466,"p95":835,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T00:00:49.578Z","to":"2026-04-08T08:40:47.369Z","count":53,"avg":461,"min":71,"max":2255,"p95":1280,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T08:50:52.842Z","to":"2026-04-08T08:50:52.842Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T09:00:43.766Z","to":"2026-04-08T09:30:47.430Z","count":4,"avg":1413,"min":216,"max":3993,"p95":3993,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T09:40:51.610Z","to":"2026-04-08T09:40:51.610Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T09:50:41.289Z","to":"2026-04-08T10:00:52.665Z","count":2,"avg":407,"min":229,"max":584,"p95":584,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T10:10:52.641Z","to":"2026-04-08T10:10:52.641Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T10:20:47.908Z","to":"2026-04-08T10:20:47.908Z","count":1,"avg":645,"min":645,"max":645,"p95":645,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T10:30:52.186Z","to":"2026-04-08T10:30:52.186Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T10:40:47.818Z","to":"2026-04-08T11:10:46.743Z","count":4,"avg":919,"min":546,"max":1238,"p95":1238,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T11:20:52.816Z","to":"2026-04-08T11:20:52.816Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T11:30:47.120Z","to":"2026-04-08T15:30:44.527Z","count":25,"avg":799,"min":120,"max":2854,"p95":1985,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T15:40:52.495Z","to":"2026-04-08T15:40:52.495Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T15:50:43.971Z","to":"2026-04-08T17:10:45.704Z","count":9,"avg":541,"min":180,"max":2023,"p95":2023,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T17:20:49.474Z","to":"2026-04-08T17:20:49.474Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T17:30:42.872Z","to":"2026-04-08T18:50:42.552Z","count":9,"avg":543,"min":214,"max":1327,"p95":1327,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T19:00:55.468Z","to":"2026-04-08T19:00:55.468Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T19:10:43.895Z","to":"2026-04-08T19:20:43.948Z","count":2,"avg":339,"min":176,"max":501,"p95":501,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T19:30:45.420Z","to":"2026-04-08T19:30:45.420Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T19:40:47.541Z","to":"2026-04-08T23:30:49.719Z","count":24,"avg":861,"min":133,"max":4330,"p95":3245,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-08T23:40:50.128Z","to":"2026-04-08T23:40:50.128Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-08T23:50:44.041Z","to":"2026-04-08T23:50:44.041Z","count":1,"avg":1144,"min":1144,"max":1144,"p95":1144,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-09T00:00:45.077Z","to":"2026-04-09T06:00:58.798Z","count":37,"avg":919,"min":136,"max":3093,"p95":2660,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-09T06:10:51.980Z","to":"2026-04-09T06:10:51.980Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-09T06:20:39.954Z","to":"2026-04-09T07:20:49.066Z","count":7,"avg":740,"min":170,"max":1860,"p95":1860,"url":"http://www.api.puzhehei.top"}
+{"type":"fail","from":"2026-04-09T07:30:58.282Z","to":"2026-04-09T07:30:58.282Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-09T07:40:49.125Z","to":"2026-04-09T23:50:40.883Z","count":98,"avg":344,"min":57,"max":2281,"p95":1203,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-10T00:00:42.723Z","to":"2026-04-10T23:50:40.123Z","count":144,"avg":435,"min":27,"max":4668,"p95":1443,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-11T00:00:43.864Z","to":"2026-04-11T23:50:44.908Z","count":143,"avg":85,"min":11,"max":1056,"p95":380,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-12T00:00:45.273Z","to":"2026-04-12T23:50:44.973Z","count":145,"avg":64,"min":10,"max":1013,"p95":353,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-13T00:00:46.249Z","to":"2026-04-13T15:00:45.806Z","count":86,"avg":68,"min":11,"max":399,"p95":311,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-14T02:20:53.025Z","to":"2026-04-14T23:50:37.866Z","count":124,"avg":71,"min":12,"max":1367,"p95":324,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-15T00:00:40.127Z","to":"2026-04-15T23:50:44.941Z","count":141,"avg":268,"min":13,"max":2439,"p95":972,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-16T00:00:45.222Z","to":"2026-04-16T23:50:51.497Z","count":134,"avg":256,"min":18,"max":1329,"p95":830,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-17T00:01:12.274Z","to":"2026-04-17T23:50:32.423Z","count":140,"avg":204,"min":48,"max":1049,"p95":577,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-18T00:00:41.990Z","to":"2026-04-18T23:50:30.633Z","count":141,"avg":78,"min":14,"max":525,"p95":280,"url":"http://www.api.puzhehei.top"}
+{"type":"ok","from":"2026-04-19T00:00:42.227Z","to":"2026-04-19T07:50:28.987Z","count":45,"url":"http://www.api.puzhehei.top","avg":107,"min":12,"max":2335,"p95":362}
+{"type":"fail","from":"2026-04-19T08:02:12.158Z","to":"2026-04-19T23:41:45.539Z","count":48,"url":"https://api.puzhehei.top/api/status","status":502,"error":"HTTP 502","avg_latency":null}

@@ -1,68 +1,71 @@
-{"url":"https://aicnn.cn"}
-{"type":"ok","from":"2026-04-01T00:01:08.542Z","to":"2026-04-01T14:41:13.128Z","count":89,"avg":1628,"min":922,"max":3229,"p95":2840}
-{"type":"fail","from":"2026-04-01T14:51:15.353Z","to":"2026-04-01T14:51:15.353Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T15:01:11.772Z","to":"2026-04-01T23:51:06.395Z","count":54,"avg":1393,"min":822,"max":2834,"p95":2606}
-{"type":"ok","from":"2026-04-02T00:01:09.466Z","to":"2026-04-02T23:51:10.792Z","count":144,"avg":1617,"min":872,"max":4530,"p95":2787}
-{"type":"ok","from":"2026-04-03T00:01:11.160Z","to":"2026-04-03T10:21:11.839Z","count":63,"avg":1735,"min":949,"max":4042,"p95":2929}
-{"type":"fail","from":"2026-04-03T10:31:18.726Z","to":"2026-04-03T10:31:18.726Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T10:41:07.712Z","to":"2026-04-03T23:51:09.976Z","count":79,"avg":1620,"min":738,"max":4027,"p95":2795}
-{"type":"ok","from":"2026-04-04T00:01:12.400Z","to":"2026-04-04T23:50:22.715Z","count":138,"avg":1864,"min":807,"max":4550,"p95":3838}
-{"type":"ok","from":"2026-04-05T00:00:24.645Z","to":"2026-04-05T01:50:24.852Z","count":12,"avg":1556,"min":774,"max":2658,"p95":2658}
-{"type":"fail","from":"2026-04-05T02:00:28.859Z","to":"2026-04-05T02:00:28.859Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T02:10:21.255Z","to":"2026-04-05T17:50:22.264Z","count":95,"avg":1715,"min":803,"max":4642,"p95":3784}
-{"type":"fail","from":"2026-04-05T18:00:26.076Z","to":"2026-04-05T18:00:26.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T18:10:24.059Z","to":"2026-04-05T23:50:21.402Z","count":35,"avg":1466,"min":896,"max":3906,"p95":3208}
-{"type":"ok","from":"2026-04-06T00:00:28.432Z","to":"2026-04-06T01:00:30.334Z","count":7,"avg":2448,"min":1573,"max":3434,"p95":3434}
-{"type":"fail","from":"2026-04-06T01:10:28.633Z","to":"2026-04-06T01:10:28.633Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T01:20:26.309Z","to":"2026-04-06T03:00:24.271Z","count":11,"avg":1939,"min":1007,"max":3546,"p95":3546}
-{"type":"fail","from":"2026-04-06T03:10:29.514Z","to":"2026-04-06T03:10:29.514Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T03:20:25.243Z","to":"2026-04-06T23:50:22.709Z","count":124,"avg":1638,"min":731,"max":4777,"p95":3107}
-{"type":"ok","from":"2026-04-07T00:00:25.006Z","to":"2026-04-07T00:50:22.698Z","count":6,"avg":1477,"min":916,"max":1979,"p95":1979}
-{"type":"fail","from":"2026-04-07T01:00:28.537Z","to":"2026-04-07T01:00:28.537Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-07T01:10:24.598Z","to":"2026-04-07T03:10:24.871Z","count":13,"avg":1733,"min":1003,"max":2346,"p95":2346}
-{"type":"fail","from":"2026-04-07T03:20:27.823Z","to":"2026-04-07T03:20:27.823Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T03:30:26.363Z","to":"2026-04-07T23:50:22.403Z","count":123,"avg":1804,"min":898,"max":4625,"p95":3323}
-{"type":"ok","from":"2026-04-08T00:00:26.382Z","to":"2026-04-08T11:50:25.166Z","count":72,"avg":1990,"min":763,"max":4919,"p95":3902}
-{"type":"fail","from":"2026-04-08T12:00:29.743Z","to":"2026-04-08T12:00:29.743Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T12:10:25.402Z","to":"2026-04-08T15:20:26.304Z","count":20,"avg":2050,"min":946,"max":4287,"p95":4287}
-{"type":"fail","from":"2026-04-08T15:30:28.475Z","to":"2026-04-08T15:30:28.475Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T15:40:26.318Z","to":"2026-04-08T20:10:18.337Z","count":28,"avg":1843,"min":895,"max":3859,"p95":3104}
-{"type":"fail","from":"2026-04-08T20:20:27.054Z","to":"2026-04-08T20:20:27.054Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T20:30:24.005Z","to":"2026-04-08T23:20:26.462Z","count":18,"avg":1445,"min":870,"max":3164,"p95":3164}
-{"type":"fail","from":"2026-04-08T23:30:31.590Z","to":"2026-04-08T23:30:31.590Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T23:40:22.699Z","to":"2026-04-08T23:50:22.456Z","count":2,"avg":1346,"min":1213,"max":1478,"p95":1478}
-{"type":"ok","from":"2026-04-09T00:00:23.161Z","to":"2026-04-09T03:50:22.248Z","count":24,"avg":2091,"min":924,"max":4582,"p95":4360}
-{"type":"fail","from":"2026-04-09T04:00:26.962Z","to":"2026-04-09T04:00:26.962Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T04:10:26.506Z","to":"2026-04-09T23:50:21.836Z","count":119,"avg":1755,"min":875,"max":4084,"p95":2858}
-{"type":"ok","from":"2026-04-10T00:00:23.845Z","to":"2026-04-10T05:00:26.308Z","count":31,"avg":1615,"min":926,"max":3161,"p95":2916}
-{"type":"fail","from":"2026-04-10T05:10:28.401Z","to":"2026-04-10T05:10:28.401Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T05:20:25.071Z","to":"2026-04-10T23:50:21.033Z","count":112,"avg":1825,"min":771,"max":4040,"p95":3182}
-{"type":"ok","from":"2026-04-11T00:00:26.796Z","to":"2026-04-11T23:50:29.334Z","count":143,"avg":1131,"min":513,"max":3564,"p95":2214}
-{"type":"ok","from":"2026-04-12T00:00:28.839Z","to":"2026-04-12T23:50:29.766Z","count":146,"avg":956,"min":512,"max":1974,"p95":1328}
-{"type":"ok","from":"2026-04-13T00:00:31.949Z","to":"2026-04-13T15:00:30.828Z","count":86,"avg":990,"min":734,"max":2941,"p95":1267}
-{"type":"ok","from":"2026-04-14T02:20:33.390Z","to":"2026-04-14T23:50:25.942Z","count":124,"avg":1029,"min":518,"max":2941,"p95":1917}
-{"type":"ok","from":"2026-04-15T00:00:28.596Z","to":"2026-04-15T23:50:27.093Z","count":141,"avg":1102,"min":690,"max":3907,"p95":1989}
-{"type":"ok","from":"2026-04-16T00:00:28.617Z","to":"2026-04-16T23:50:36.101Z","count":135,"avg":1013,"min":563,"max":2429,"p95":1725}
-{"type":"ok","from":"2026-04-17T00:00:52.542Z","to":"2026-04-17T07:30:21.819Z","count":44,"avg":1060,"min":604,"max":2579,"p95":1750}
-{"type":"fail","from":"2026-04-17T07:40:20.583Z","to":"2026-04-17T07:40:20.583Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T07:50:17.200Z","to":"2026-04-17T08:20:17.170Z","count":4,"avg":2221,"min":2030,"max":2455,"p95":2455}
-{"type":"fail","from":"2026-04-17T08:30:25.500Z","to":"2026-04-17T08:30:25.500Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T08:50:17.386Z","to":"2026-04-17T11:20:18.524Z","count":17,"avg":2284,"min":2002,"max":2651,"p95":2651}
-{"type":"fail","from":"2026-04-17T11:30:25.631Z","to":"2026-04-17T11:30:25.631Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T11:40:18.540Z","to":"2026-04-17T13:50:18.357Z","count":14,"avg":2898,"min":2180,"max":3943,"p95":3943}
-{"type":"fail","from":"2026-04-17T14:00:31.785Z","to":"2026-04-17T14:00:31.785Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T14:10:18.077Z","to":"2026-04-17T15:00:28.876Z","count":4,"avg":2641,"min":1820,"max":3040,"p95":3040}
-{"type":"fail","from":"2026-04-17T15:10:21.397Z","to":"2026-04-17T15:10:21.397Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T15:20:18.311Z","to":"2026-04-17T23:40:17.199Z","count":51,"avg":2365,"min":1939,"max":3928,"p95":3066}
-{"type":"fail","from":"2026-04-17T23:50:20.639Z","to":"2026-04-17T23:50:20.639Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T00:00:27.909Z","to":"2026-04-18T02:30:21.726Z","count":16,"avg":2311,"min":1862,"max":4567,"p95":4567}
-{"type":"fail","from":"2026-04-18T02:40:21.132Z","to":"2026-04-18T02:40:21.132Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T02:50:16.922Z","to":"2026-04-18T04:53:18.497Z","count":10,"avg":2325,"min":2021,"max":3006,"p95":3006}
-{"type":"fail","from":"2026-04-18T05:00:29.204Z","to":"2026-04-18T05:00:29.204Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T05:10:19.034Z","to":"2026-04-18T10:20:19.639Z","count":32,"avg":2652,"min":1841,"max":4819,"p95":4755}
-{"type":"fail","from":"2026-04-18T10:50:20.873Z","to":"2026-04-18T10:50:20.873Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T11:00:28.401Z","to":"2026-04-18T12:20:16.713Z","count":11,"avg":2606,"min":1056,"max":3704,"p95":3704}
-{"type":"fail","from":"2026-04-18T12:30:24.632Z","to":"2026-04-18T12:30:24.632Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T12:40:17.310Z","to":"2026-04-18T17:30:21.449Z","count":30,"avg":2614,"min":2039,"max":4051,"p95":3638}
-{"type":"fail","from":"2026-04-18T17:40:20.344Z","to":"2026-04-18T17:40:20.344Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T17:50:17.238Z","to":"2026-04-18T23:50:16.857Z","count":37,"avg":2584,"min":1645,"max":4671,"p95":4509}
+{"type":"ok","from":"2026-04-01T00:01:08.542Z","to":"2026-04-01T14:41:13.128Z","count":89,"avg":1628,"min":922,"max":3229,"p95":2840,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-01T14:51:15.353Z","to":"2026-04-01T14:51:15.353Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-01T15:01:11.772Z","to":"2026-04-01T23:51:06.395Z","count":54,"avg":1393,"min":822,"max":2834,"p95":2606,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-02T00:01:09.466Z","to":"2026-04-02T23:51:10.792Z","count":144,"avg":1617,"min":872,"max":4530,"p95":2787,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-03T00:01:11.160Z","to":"2026-04-03T10:21:11.839Z","count":63,"avg":1735,"min":949,"max":4042,"p95":2929,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-03T10:31:18.726Z","to":"2026-04-03T10:31:18.726Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-03T10:41:07.712Z","to":"2026-04-03T23:51:09.976Z","count":79,"avg":1620,"min":738,"max":4027,"p95":2795,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-04T00:01:12.400Z","to":"2026-04-04T23:50:22.715Z","count":138,"avg":1864,"min":807,"max":4550,"p95":3838,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-05T00:00:24.645Z","to":"2026-04-05T01:50:24.852Z","count":12,"avg":1556,"min":774,"max":2658,"p95":2658,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-05T02:00:28.859Z","to":"2026-04-05T02:00:28.859Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-05T02:10:21.255Z","to":"2026-04-05T17:50:22.264Z","count":95,"avg":1715,"min":803,"max":4642,"p95":3784,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-05T18:00:26.076Z","to":"2026-04-05T18:00:26.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-05T18:10:24.059Z","to":"2026-04-05T23:50:21.402Z","count":35,"avg":1466,"min":896,"max":3906,"p95":3208,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-06T00:00:28.432Z","to":"2026-04-06T01:00:30.334Z","count":7,"avg":2448,"min":1573,"max":3434,"p95":3434,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-06T01:10:28.633Z","to":"2026-04-06T01:10:28.633Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-06T01:20:26.309Z","to":"2026-04-06T03:00:24.271Z","count":11,"avg":1939,"min":1007,"max":3546,"p95":3546,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-06T03:10:29.514Z","to":"2026-04-06T03:10:29.514Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-06T03:20:25.243Z","to":"2026-04-06T23:50:22.709Z","count":124,"avg":1638,"min":731,"max":4777,"p95":3107,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-07T00:00:25.006Z","to":"2026-04-07T00:50:22.698Z","count":6,"avg":1477,"min":916,"max":1979,"p95":1979,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-07T01:00:28.537Z","to":"2026-04-07T01:00:28.537Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-07T01:10:24.598Z","to":"2026-04-07T03:10:24.871Z","count":13,"avg":1733,"min":1003,"max":2346,"p95":2346,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-07T03:20:27.823Z","to":"2026-04-07T03:20:27.823Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-07T03:30:26.363Z","to":"2026-04-07T23:50:22.403Z","count":123,"avg":1804,"min":898,"max":4625,"p95":3323,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-08T00:00:26.382Z","to":"2026-04-08T11:50:25.166Z","count":72,"avg":1990,"min":763,"max":4919,"p95":3902,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-08T12:00:29.743Z","to":"2026-04-08T12:00:29.743Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-08T12:10:25.402Z","to":"2026-04-08T15:20:26.304Z","count":20,"avg":2050,"min":946,"max":4287,"p95":4287,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-08T15:30:28.475Z","to":"2026-04-08T15:30:28.475Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-08T15:40:26.318Z","to":"2026-04-08T20:10:18.337Z","count":28,"avg":1843,"min":895,"max":3859,"p95":3104,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-08T20:20:27.054Z","to":"2026-04-08T20:20:27.054Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-08T20:30:24.005Z","to":"2026-04-08T23:20:26.462Z","count":18,"avg":1445,"min":870,"max":3164,"p95":3164,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-08T23:30:31.590Z","to":"2026-04-08T23:30:31.590Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-08T23:40:22.699Z","to":"2026-04-08T23:50:22.456Z","count":2,"avg":1346,"min":1213,"max":1478,"p95":1478,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-09T00:00:23.161Z","to":"2026-04-09T03:50:22.248Z","count":24,"avg":2091,"min":924,"max":4582,"p95":4360,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-09T04:00:26.962Z","to":"2026-04-09T04:00:26.962Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-09T04:10:26.506Z","to":"2026-04-09T23:50:21.836Z","count":119,"avg":1755,"min":875,"max":4084,"p95":2858,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-10T00:00:23.845Z","to":"2026-04-10T05:00:26.308Z","count":31,"avg":1615,"min":926,"max":3161,"p95":2916,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-10T05:10:28.401Z","to":"2026-04-10T05:10:28.401Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-10T05:20:25.071Z","to":"2026-04-10T23:50:21.033Z","count":112,"avg":1825,"min":771,"max":4040,"p95":3182,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-11T00:00:26.796Z","to":"2026-04-11T23:50:29.334Z","count":143,"avg":1131,"min":513,"max":3564,"p95":2214,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-12T00:00:28.839Z","to":"2026-04-12T23:50:29.766Z","count":146,"avg":956,"min":512,"max":1974,"p95":1328,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-13T00:00:31.949Z","to":"2026-04-13T15:00:30.828Z","count":86,"avg":990,"min":734,"max":2941,"p95":1267,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-14T02:20:33.390Z","to":"2026-04-14T23:50:25.942Z","count":124,"avg":1029,"min":518,"max":2941,"p95":1917,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-15T00:00:28.596Z","to":"2026-04-15T23:50:27.093Z","count":141,"avg":1102,"min":690,"max":3907,"p95":1989,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-16T00:00:28.617Z","to":"2026-04-16T23:50:36.101Z","count":135,"avg":1013,"min":563,"max":2429,"p95":1725,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-17T00:00:52.542Z","to":"2026-04-17T07:30:21.819Z","count":44,"avg":1060,"min":604,"max":2579,"p95":1750,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-17T07:40:20.583Z","to":"2026-04-17T07:40:20.583Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-17T07:50:17.200Z","to":"2026-04-17T08:20:17.170Z","count":4,"avg":2221,"min":2030,"max":2455,"p95":2455,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-17T08:30:25.500Z","to":"2026-04-17T08:30:25.500Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-17T08:50:17.386Z","to":"2026-04-17T11:20:18.524Z","count":17,"avg":2284,"min":2002,"max":2651,"p95":2651,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-17T11:30:25.631Z","to":"2026-04-17T11:30:25.631Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-17T11:40:18.540Z","to":"2026-04-17T13:50:18.357Z","count":14,"avg":2898,"min":2180,"max":3943,"p95":3943,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-17T14:00:31.785Z","to":"2026-04-17T14:00:31.785Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-17T14:10:18.077Z","to":"2026-04-17T15:00:28.876Z","count":4,"avg":2641,"min":1820,"max":3040,"p95":3040,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-17T15:10:21.397Z","to":"2026-04-17T15:10:21.397Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-17T15:20:18.311Z","to":"2026-04-17T23:40:17.199Z","count":51,"avg":2365,"min":1939,"max":3928,"p95":3066,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-17T23:50:20.639Z","to":"2026-04-17T23:50:20.639Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-18T00:00:27.909Z","to":"2026-04-18T02:30:21.726Z","count":16,"avg":2311,"min":1862,"max":4567,"p95":4567,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-18T02:40:21.132Z","to":"2026-04-18T02:40:21.132Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-18T02:50:16.922Z","to":"2026-04-18T04:53:18.497Z","count":10,"avg":2325,"min":2021,"max":3006,"p95":3006,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-18T05:00:29.204Z","to":"2026-04-18T05:00:29.204Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-18T05:10:19.034Z","to":"2026-04-18T10:20:19.639Z","count":32,"avg":2652,"min":1841,"max":4819,"p95":4755,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-18T10:50:20.873Z","to":"2026-04-18T10:50:20.873Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-18T11:00:28.401Z","to":"2026-04-18T12:20:16.713Z","count":11,"avg":2606,"min":1056,"max":3704,"p95":3704,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-18T12:30:24.632Z","to":"2026-04-18T12:30:24.632Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-18T12:40:17.310Z","to":"2026-04-18T17:30:21.449Z","count":30,"avg":2614,"min":2039,"max":4051,"p95":3638,"url":"https://aicnn.cn"}
+{"type":"fail","from":"2026-04-18T17:40:20.344Z","to":"2026-04-18T17:40:20.344Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-18T17:50:17.238Z","to":"2026-04-18T23:50:16.857Z","count":37,"avg":2584,"min":1645,"max":4671,"p95":4509,"url":"https://aicnn.cn"}
+{"type":"ok","from":"2026-04-19T00:00:28.042Z","to":"2026-04-19T05:40:19.287Z","count":32,"url":"https://aicnn.cn","avg":2508,"min":1715,"max":4878,"p95":4279}
+{"type":"fail","from":"2026-04-19T05:50:20.772Z","to":"2026-04-19T05:50:20.772Z","count":1,"url":"https://aicnn.cn","status":null,"error":"Healthcheck timeout","avg_latency":5000}
+{"type":"ok","from":"2026-04-19T06:00:26.787Z","to":"2026-04-19T07:50:18.166Z","count":12,"url":"https://aicnn.cn","avg":2493,"min":1730,"max":3472,"p95":3472}
+{"type":"ok","from":"2026-04-19T08:01:17.976Z","to":"2026-04-19T23:40:59.614Z","count":48,"url":"https://api.aicnn.cn/api/status","avg":1791,"min":732,"max":3101,"p95":2860}

@@ -1,27 +1,28 @@
-{"url":"https://api.zyai.online"}
-{"type":"ok","from":"2026-04-01T00:03:54.495Z","to":"2026-04-01T23:53:56.405Z","count":144,"avg":800,"min":682,"max":2266,"p95":1142}
-{"type":"ok","from":"2026-04-02T00:03:53.030Z","to":"2026-04-02T23:53:49.131Z","count":144,"avg":787,"min":684,"max":1952,"p95":1103}
-{"type":"ok","from":"2026-04-03T00:03:54.414Z","to":"2026-04-03T23:53:48.920Z","count":142,"avg":835,"min":682,"max":2116,"p95":1281}
-{"type":"ok","from":"2026-04-04T00:03:59.459Z","to":"2026-04-04T23:53:31.351Z","count":138,"avg":837,"min":685,"max":3184,"p95":1352}
-{"type":"ok","from":"2026-04-05T00:03:42.314Z","to":"2026-04-05T23:53:55.094Z","count":143,"avg":901,"min":689,"max":2520,"p95":1741}
-{"type":"ok","from":"2026-04-06T00:03:45.545Z","to":"2026-04-06T08:03:58.455Z","count":49,"avg":951,"min":686,"max":1840,"p95":1705}
-{"type":"fail","from":"2026-04-06T08:13:56.876Z","to":"2026-04-06T08:13:56.876Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T08:23:40.401Z","to":"2026-04-06T12:53:34.412Z","count":28,"avg":1050,"min":692,"max":2258,"p95":2083}
-{"type":"fail","from":"2026-04-06T13:03:46.000Z","to":"2026-04-06T13:03:46.000Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-06T13:13:35.089Z","to":"2026-04-06T23:53:10.868Z","count":65,"avg":767,"min":680,"max":1430,"p95":1118}
-{"type":"ok","from":"2026-04-07T00:03:06.518Z","to":"2026-04-07T09:43:15.618Z","count":59,"avg":848,"min":687,"max":1761,"p95":1389}
-{"type":"fail","from":"2026-04-07T09:53:15.612Z","to":"2026-04-07T09:53:15.612Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-07T10:03:21.963Z","to":"2026-04-07T23:53:00.948Z","count":84,"avg":774,"min":690,"max":1733,"p95":1125}
-{"type":"ok","from":"2026-04-08T00:03:17.734Z","to":"2026-04-08T23:53:36.115Z","count":144,"avg":1179,"min":688,"max":4634,"p95":2427}
-{"type":"ok","from":"2026-04-09T00:03:32.818Z","to":"2026-04-09T23:52:59.581Z","count":144,"avg":948,"min":677,"max":4149,"p95":2019}
-{"type":"ok","from":"2026-04-10T00:03:16.366Z","to":"2026-04-10T23:53:15.235Z","count":144,"avg":819,"min":682,"max":2593,"p95":1433}
-{"type":"ok","from":"2026-04-11T00:03:10.934Z","to":"2026-04-11T23:53:24.580Z","count":143,"avg":792,"min":684,"max":1814,"p95":1133}
-{"type":"ok","from":"2026-04-12T00:03:09.119Z","to":"2026-04-12T23:52:51.844Z","count":143,"avg":833,"min":692,"max":2270,"p95":1140}
-{"type":"ok","from":"2026-04-13T00:02:53.938Z","to":"2026-04-13T15:03:33.379Z","count":84,"avg":816,"min":698,"max":1711,"p95":1145}
-{"type":"ok","from":"2026-04-14T02:23:26.438Z","to":"2026-04-14T23:52:46.907Z","count":121,"avg":775,"min":689,"max":1721,"p95":1117}
-{"type":"ok","from":"2026-04-15T00:02:44.762Z","to":"2026-04-15T23:53:06.673Z","count":140,"avg":1051,"min":689,"max":4784,"p95":2019}
-{"type":"ok","from":"2026-04-16T00:03:21.531Z","to":"2026-04-16T23:53:23.780Z","count":132,"avg":1049,"min":685,"max":2741,"p95":1887}
-{"type":"ok","from":"2026-04-17T00:03:46.626Z","to":"2026-04-17T23:51:51.255Z","count":139,"avg":1773,"min":701,"max":4659,"p95":2992}
-{"type":"ok","from":"2026-04-18T00:02:02.515Z","to":"2026-04-18T10:01:58.370Z","count":58,"avg":1760,"min":1161,"max":4764,"p95":3025}
-{"type":"fail","from":"2026-04-18T10:12:42.547Z","to":"2026-04-18T10:12:42.547Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6087}
-{"type":"ok","from":"2026-04-18T10:21:48.358Z","to":"2026-04-18T23:51:45.733Z","count":82,"avg":937,"min":687,"max":1709,"p95":1597}
+{"type":"ok","from":"2026-04-01T00:03:54.495Z","to":"2026-04-01T23:53:56.405Z","count":144,"avg":800,"min":682,"max":2266,"p95":1142,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-02T00:03:53.030Z","to":"2026-04-02T23:53:49.131Z","count":144,"avg":787,"min":684,"max":1952,"p95":1103,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-03T00:03:54.414Z","to":"2026-04-03T23:53:48.920Z","count":142,"avg":835,"min":682,"max":2116,"p95":1281,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-04T00:03:59.459Z","to":"2026-04-04T23:53:31.351Z","count":138,"avg":837,"min":685,"max":3184,"p95":1352,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-05T00:03:42.314Z","to":"2026-04-05T23:53:55.094Z","count":143,"avg":901,"min":689,"max":2520,"p95":1741,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-06T00:03:45.545Z","to":"2026-04-06T08:03:58.455Z","count":49,"avg":951,"min":686,"max":1840,"p95":1705,"url":"https://api.zyai.online"}
+{"type":"fail","from":"2026-04-06T08:13:56.876Z","to":"2026-04-06T08:13:56.876Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-06T08:23:40.401Z","to":"2026-04-06T12:53:34.412Z","count":28,"avg":1050,"min":692,"max":2258,"p95":2083,"url":"https://api.zyai.online"}
+{"type":"fail","from":"2026-04-06T13:03:46.000Z","to":"2026-04-06T13:03:46.000Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-06T13:13:35.089Z","to":"2026-04-06T23:53:10.868Z","count":65,"avg":767,"min":680,"max":1430,"p95":1118,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-07T00:03:06.518Z","to":"2026-04-07T09:43:15.618Z","count":59,"avg":848,"min":687,"max":1761,"p95":1389,"url":"https://api.zyai.online"}
+{"type":"fail","from":"2026-04-07T09:53:15.612Z","to":"2026-04-07T09:53:15.612Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-07T10:03:21.963Z","to":"2026-04-07T23:53:00.948Z","count":84,"avg":774,"min":690,"max":1733,"p95":1125,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-08T00:03:17.734Z","to":"2026-04-08T23:53:36.115Z","count":144,"avg":1179,"min":688,"max":4634,"p95":2427,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-09T00:03:32.818Z","to":"2026-04-09T23:52:59.581Z","count":144,"avg":948,"min":677,"max":4149,"p95":2019,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-10T00:03:16.366Z","to":"2026-04-10T23:53:15.235Z","count":144,"avg":819,"min":682,"max":2593,"p95":1433,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-11T00:03:10.934Z","to":"2026-04-11T23:53:24.580Z","count":143,"avg":792,"min":684,"max":1814,"p95":1133,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-12T00:03:09.119Z","to":"2026-04-12T23:52:51.844Z","count":143,"avg":833,"min":692,"max":2270,"p95":1140,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-13T00:02:53.938Z","to":"2026-04-13T15:03:33.379Z","count":84,"avg":816,"min":698,"max":1711,"p95":1145,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-14T02:23:26.438Z","to":"2026-04-14T23:52:46.907Z","count":121,"avg":775,"min":689,"max":1721,"p95":1117,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-15T00:02:44.762Z","to":"2026-04-15T23:53:06.673Z","count":140,"avg":1051,"min":689,"max":4784,"p95":2019,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-16T00:03:21.531Z","to":"2026-04-16T23:53:23.780Z","count":132,"avg":1049,"min":685,"max":2741,"p95":1887,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-17T00:03:46.626Z","to":"2026-04-17T23:51:51.255Z","count":139,"avg":1773,"min":701,"max":4659,"p95":2992,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-18T00:02:02.515Z","to":"2026-04-18T10:01:58.370Z","count":58,"avg":1760,"min":1161,"max":4764,"p95":3025,"url":"https://api.zyai.online"}
+{"type":"fail","from":"2026-04-18T10:12:42.547Z","to":"2026-04-18T10:12:42.547Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6087,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-18T10:21:48.358Z","to":"2026-04-18T23:51:45.733Z","count":82,"avg":937,"min":687,"max":1709,"p95":1597,"url":"https://api.zyai.online"}
+{"type":"ok","from":"2026-04-19T00:01:59.031Z","to":"2026-04-19T07:51:47.895Z","count":45,"url":"https://api.zyai.online","avg":783,"min":686,"max":1771,"p95":1072}
+{"type":"ok","from":"2026-04-19T08:13:29.460Z","to":"2026-04-19T23:50:21.642Z","count":48,"url":"https://api.zyai.online/api/status","avg":737,"min":691,"max":1106,"p95":915}

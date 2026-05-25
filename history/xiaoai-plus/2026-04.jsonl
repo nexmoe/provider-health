@@ -1,33 +1,34 @@
-{"url":"https://xiaoai.plus"}
-{"type":"ok","from":"2026-04-01T00:02:09.221Z","to":"2026-04-01T08:52:17.687Z","count":54,"avg":868,"min":197,"max":5000,"p95":2085}
-{"type":"fail","from":"2026-04-01T09:02:21.120Z","to":"2026-04-01T09:02:21.120Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-01T09:12:18.579Z","to":"2026-04-01T09:22:15.733Z","count":2,"avg":637,"min":611,"max":662,"p95":662}
-{"type":"fail","from":"2026-04-01T09:32:20.470Z","to":"2026-04-01T09:32:20.470Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T09:42:16.186Z","to":"2026-04-01T23:52:02.564Z","count":86,"avg":753,"min":386,"max":4151,"p95":1600}
-{"type":"ok","from":"2026-04-02T00:02:08.521Z","to":"2026-04-02T02:12:11.612Z","count":14,"avg":809,"min":543,"max":1415,"p95":1415}
-{"type":"fail","from":"2026-04-02T02:22:22.226Z","to":"2026-04-02T02:22:22.226Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T02:32:24.810Z","to":"2026-04-02T23:52:05.210Z","count":129,"avg":754,"min":197,"max":4441,"p95":1616}
-{"type":"ok","from":"2026-04-03T00:02:09.146Z","to":"2026-04-03T23:52:06.029Z","count":143,"avg":658,"min":193,"max":2559,"p95":1147}
-{"type":"ok","from":"2026-04-04T00:02:08.540Z","to":"2026-04-04T20:31:23.984Z","count":118,"avg":740,"min":196,"max":3618,"p95":1305}
-{"type":"fail","from":"2026-04-04T20:41:36.657Z","to":"2026-04-04T20:41:36.657Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T20:51:27.417Z","to":"2026-04-04T23:51:26.507Z","count":19,"avg":896,"min":523,"max":3302,"p95":3302}
-{"type":"ok","from":"2026-04-05T00:01:29.663Z","to":"2026-04-05T23:51:35.357Z","count":144,"avg":771,"min":197,"max":4329,"p95":1259}
-{"type":"ok","from":"2026-04-06T00:01:41.228Z","to":"2026-04-06T03:41:29.323Z","count":23,"avg":936,"min":529,"max":1743,"p95":1489}
-{"type":"fail","from":"2026-04-06T03:51:46.040Z","to":"2026-04-06T03:51:46.040Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-06T04:01:24.372Z","to":"2026-04-06T04:21:40.909Z","count":3,"avg":937,"min":853,"max":1009,"p95":1009}
-{"type":"fail","from":"2026-04-06T04:31:40.347Z","to":"2026-04-06T04:31:40.347Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T04:41:42.462Z","to":"2026-04-06T23:51:16.321Z","count":116,"avg":606,"min":186,"max":1378,"p95":1054}
-{"type":"ok","from":"2026-04-07T00:01:27.467Z","to":"2026-04-07T23:51:20.141Z","count":144,"avg":600,"min":187,"max":1574,"p95":894}
-{"type":"ok","from":"2026-04-08T00:01:31.516Z","to":"2026-04-08T23:51:32.336Z","count":144,"avg":697,"min":186,"max":3493,"p95":1111}
-{"type":"ok","from":"2026-04-09T00:01:24.170Z","to":"2026-04-09T23:51:13.724Z","count":144,"avg":606,"min":175,"max":1569,"p95":993}
-{"type":"ok","from":"2026-04-10T00:01:25.800Z","to":"2026-04-10T20:11:20.560Z","count":122,"avg":572,"min":180,"max":1629,"p95":925}
-{"type":"fail","from":"2026-04-10T20:21:10.919Z","to":"2026-04-10T21:01:24.409Z","count":5,"status":502,"error":"HTTP 502","avg_latency":845}
-{"type":"ok","from":"2026-04-10T21:11:11.719Z","to":"2026-04-10T23:51:23.800Z","count":17,"avg":989,"min":697,"max":1119,"p95":1119}
-{"type":"ok","from":"2026-04-11T00:01:22.577Z","to":"2026-04-11T23:51:32.123Z","count":143,"avg":665,"min":229,"max":1592,"p95":1051}
-{"type":"ok","from":"2026-04-12T00:01:24.585Z","to":"2026-04-12T23:51:21.819Z","count":144,"avg":609,"min":226,"max":1121,"p95":905}
-{"type":"ok","from":"2026-04-13T00:01:20.646Z","to":"2026-04-13T15:01:34.907Z","count":84,"avg":602,"min":224,"max":1355,"p95":741}
-{"type":"ok","from":"2026-04-14T02:21:38.612Z","to":"2026-04-14T23:51:13.378Z","count":123,"avg":687,"min":236,"max":1595,"p95":1075}
-{"type":"ok","from":"2026-04-15T00:01:15.287Z","to":"2026-04-15T23:51:23.891Z","count":141,"avg":636,"min":235,"max":1205,"p95":1079}
-{"type":"ok","from":"2026-04-16T00:01:30.834Z","to":"2026-04-16T23:51:42.756Z","count":132,"avg":700,"min":236,"max":1340,"p95":1187}
-{"type":"ok","from":"2026-04-17T00:02:02.857Z","to":"2026-04-17T23:50:58.012Z","count":140,"avg":880,"min":278,"max":2285,"p95":1472}
-{"type":"ok","from":"2026-04-18T00:01:07.215Z","to":"2026-04-18T23:50:58.385Z","count":141,"avg":702,"min":246,"max":2027,"p95":1164}
+{"type":"ok","from":"2026-04-01T00:02:09.221Z","to":"2026-04-01T08:52:17.687Z","count":54,"avg":868,"min":197,"max":5000,"p95":2085,"url":"https://xiaoai.plus"}
+{"type":"fail","from":"2026-04-01T09:02:21.120Z","to":"2026-04-01T09:02:21.120Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-01T09:12:18.579Z","to":"2026-04-01T09:22:15.733Z","count":2,"avg":637,"min":611,"max":662,"p95":662,"url":"https://xiaoai.plus"}
+{"type":"fail","from":"2026-04-01T09:32:20.470Z","to":"2026-04-01T09:32:20.470Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-01T09:42:16.186Z","to":"2026-04-01T23:52:02.564Z","count":86,"avg":753,"min":386,"max":4151,"p95":1600,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-02T00:02:08.521Z","to":"2026-04-02T02:12:11.612Z","count":14,"avg":809,"min":543,"max":1415,"p95":1415,"url":"https://xiaoai.plus"}
+{"type":"fail","from":"2026-04-02T02:22:22.226Z","to":"2026-04-02T02:22:22.226Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-02T02:32:24.810Z","to":"2026-04-02T23:52:05.210Z","count":129,"avg":754,"min":197,"max":4441,"p95":1616,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-03T00:02:09.146Z","to":"2026-04-03T23:52:06.029Z","count":143,"avg":658,"min":193,"max":2559,"p95":1147,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-04T00:02:08.540Z","to":"2026-04-04T20:31:23.984Z","count":118,"avg":740,"min":196,"max":3618,"p95":1305,"url":"https://xiaoai.plus"}
+{"type":"fail","from":"2026-04-04T20:41:36.657Z","to":"2026-04-04T20:41:36.657Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-04T20:51:27.417Z","to":"2026-04-04T23:51:26.507Z","count":19,"avg":896,"min":523,"max":3302,"p95":3302,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-05T00:01:29.663Z","to":"2026-04-05T23:51:35.357Z","count":144,"avg":771,"min":197,"max":4329,"p95":1259,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-06T00:01:41.228Z","to":"2026-04-06T03:41:29.323Z","count":23,"avg":936,"min":529,"max":1743,"p95":1489,"url":"https://xiaoai.plus"}
+{"type":"fail","from":"2026-04-06T03:51:46.040Z","to":"2026-04-06T03:51:46.040Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-06T04:01:24.372Z","to":"2026-04-06T04:21:40.909Z","count":3,"avg":937,"min":853,"max":1009,"p95":1009,"url":"https://xiaoai.plus"}
+{"type":"fail","from":"2026-04-06T04:31:40.347Z","to":"2026-04-06T04:31:40.347Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-06T04:41:42.462Z","to":"2026-04-06T23:51:16.321Z","count":116,"avg":606,"min":186,"max":1378,"p95":1054,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-07T00:01:27.467Z","to":"2026-04-07T23:51:20.141Z","count":144,"avg":600,"min":187,"max":1574,"p95":894,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-08T00:01:31.516Z","to":"2026-04-08T23:51:32.336Z","count":144,"avg":697,"min":186,"max":3493,"p95":1111,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-09T00:01:24.170Z","to":"2026-04-09T23:51:13.724Z","count":144,"avg":606,"min":175,"max":1569,"p95":993,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-10T00:01:25.800Z","to":"2026-04-10T20:11:20.560Z","count":122,"avg":572,"min":180,"max":1629,"p95":925,"url":"https://xiaoai.plus"}
+{"type":"fail","from":"2026-04-10T20:21:10.919Z","to":"2026-04-10T21:01:24.409Z","count":5,"status":502,"error":"HTTP 502","avg_latency":845,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-10T21:11:11.719Z","to":"2026-04-10T23:51:23.800Z","count":17,"avg":989,"min":697,"max":1119,"p95":1119,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-11T00:01:22.577Z","to":"2026-04-11T23:51:32.123Z","count":143,"avg":665,"min":229,"max":1592,"p95":1051,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-12T00:01:24.585Z","to":"2026-04-12T23:51:21.819Z","count":144,"avg":609,"min":226,"max":1121,"p95":905,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-13T00:01:20.646Z","to":"2026-04-13T15:01:34.907Z","count":84,"avg":602,"min":224,"max":1355,"p95":741,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-14T02:21:38.612Z","to":"2026-04-14T23:51:13.378Z","count":123,"avg":687,"min":236,"max":1595,"p95":1075,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-15T00:01:15.287Z","to":"2026-04-15T23:51:23.891Z","count":141,"avg":636,"min":235,"max":1205,"p95":1079,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-16T00:01:30.834Z","to":"2026-04-16T23:51:42.756Z","count":132,"avg":700,"min":236,"max":1340,"p95":1187,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-17T00:02:02.857Z","to":"2026-04-17T23:50:58.012Z","count":140,"avg":880,"min":278,"max":2285,"p95":1472,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-18T00:01:07.215Z","to":"2026-04-18T23:50:58.385Z","count":141,"avg":702,"min":246,"max":2027,"p95":1164,"url":"https://xiaoai.plus"}
+{"type":"ok","from":"2026-04-19T00:01:09.887Z","to":"2026-04-19T07:50:56.377Z","count":45,"url":"https://xiaoai.plus","avg":624,"min":261,"max":1284,"p95":1066}
+{"type":"ok","from":"2026-04-19T08:03:41.694Z","to":"2026-04-19T23:43:16.753Z","count":48,"url":"https://xiaoai.plus/api/status","avg":1324,"min":944,"max":4017,"p95":1957}

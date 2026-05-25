@@ -1,51 +1,53 @@
-{"url":"https://api.zhizengzeng.com"}
-{"type":"ok","from":"2026-04-01T00:03:11.696Z","to":"2026-04-01T23:53:11.104Z","count":144,"avg":1650,"min":1412,"max":2651,"p95":1823}
-{"type":"ok","from":"2026-04-02T00:03:17.062Z","to":"2026-04-02T23:53:13.514Z","count":144,"avg":1696,"min":1415,"max":2924,"p95":2572}
-{"type":"ok","from":"2026-04-03T00:03:21.832Z","to":"2026-04-03T23:53:08.553Z","count":143,"avg":1747,"min":1394,"max":3689,"p95":2609}
-{"type":"ok","from":"2026-04-04T00:03:23.444Z","to":"2026-04-04T17:22:50.500Z","count":99,"avg":1764,"min":1452,"max":2748,"p95":2571}
-{"type":"fail","from":"2026-04-04T17:33:01.668Z","to":"2026-04-04T17:33:01.668Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T17:42:41.794Z","to":"2026-04-04T23:52:41.433Z","count":38,"avg":1641,"min":1430,"max":1895,"p95":1825}
-{"type":"ok","from":"2026-04-05T00:02:48.959Z","to":"2026-04-05T12:22:58.941Z","count":75,"avg":1757,"min":1406,"max":3966,"p95":2151}
-{"type":"fail","from":"2026-04-05T12:33:00.173Z","to":"2026-04-05T12:33:00.173Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-05T12:43:02.365Z","to":"2026-04-05T14:33:17.649Z","count":11,"avg":1911,"min":1611,"max":2329,"p95":2329}
-{"type":"fail","from":"2026-04-05T14:43:06.005Z","to":"2026-04-05T14:43:06.005Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T14:52:48.844Z","to":"2026-04-05T23:52:52.645Z","count":55,"avg":1707,"min":1231,"max":3595,"p95":2196}
-{"type":"ok","from":"2026-04-06T00:02:52.468Z","to":"2026-04-06T17:42:33.495Z","count":107,"avg":1703,"min":1416,"max":2626,"p95":2035}
-{"type":"fail","from":"2026-04-06T17:52:31.192Z","to":"2026-04-06T17:52:31.192Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T18:02:28.407Z","to":"2026-04-06T23:52:22.784Z","count":36,"avg":1581,"min":1401,"max":1784,"p95":1700}
-{"type":"ok","from":"2026-04-07T00:02:27.409Z","to":"2026-04-07T23:52:25.806Z","count":144,"avg":1655,"min":1404,"max":2644,"p95":1976}
-{"type":"ok","from":"2026-04-08T00:02:38.461Z","to":"2026-04-08T14:23:16.890Z","count":87,"avg":1750,"min":1429,"max":2803,"p95":2164}
-{"type":"fail","from":"2026-04-08T14:33:13.022Z","to":"2026-04-08T14:33:13.022Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T14:43:02.529Z","to":"2026-04-08T23:52:44.416Z","count":56,"avg":1653,"min":1426,"max":2155,"p95":1873}
-{"type":"ok","from":"2026-04-09T00:02:40.859Z","to":"2026-04-09T23:52:18.817Z","count":144,"avg":1692,"min":1249,"max":3597,"p95":1974}
-{"type":"ok","from":"2026-04-10T00:02:30.343Z","to":"2026-04-10T13:02:38.610Z","count":79,"avg":1696,"min":1423,"max":2534,"p95":1950}
-{"type":"fail","from":"2026-04-10T13:12:58.585Z","to":"2026-04-10T13:12:58.585Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T13:22:44.807Z","to":"2026-04-10T23:52:30.630Z","count":64,"avg":1822,"min":1355,"max":3538,"p95":2749}
-{"type":"ok","from":"2026-04-11T00:02:29.161Z","to":"2026-04-11T05:42:52.668Z","count":35,"avg":2264,"min":1560,"max":4830,"p95":3591}
-{"type":"fail","from":"2026-04-11T05:53:06.083Z","to":"2026-04-11T05:53:06.083Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-11T06:03:03.670Z","to":"2026-04-11T13:22:59.897Z","count":44,"avg":2362,"min":1638,"max":4422,"p95":4152}
-{"type":"fail","from":"2026-04-11T13:33:02.320Z","to":"2026-04-11T13:33:02.320Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-11T13:43:01.512Z","to":"2026-04-11T23:52:37.471Z","count":62,"avg":2056,"min":1403,"max":4813,"p95":3455}
-{"type":"ok","from":"2026-04-12T00:02:27.323Z","to":"2026-04-12T13:22:26.280Z","count":80,"avg":2101,"min":1339,"max":4841,"p95":3089}
-{"type":"fail","from":"2026-04-12T13:32:30.172Z","to":"2026-04-12T13:32:30.172Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T13:36:50.294Z","to":"2026-04-12T14:32:37.485Z","count":7,"avg":3154,"min":2079,"max":4329,"p95":4329}
-{"type":"fail","from":"2026-04-12T14:42:36.839Z","to":"2026-04-12T14:52:49.924Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T15:13:37.205Z","to":"2026-04-12T23:52:16.661Z","count":53,"avg":1817,"min":1398,"max":4915,"p95":2680}
-{"type":"ok","from":"2026-04-13T00:02:19.457Z","to":"2026-04-13T13:32:46.455Z","count":75,"avg":2185,"min":1585,"max":3849,"p95":3438}
-{"type":"fail","from":"2026-04-13T13:42:43.083Z","to":"2026-04-13T13:42:43.083Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-13T13:52:46.380Z","to":"2026-04-13T14:42:53.333Z","count":6,"avg":2826,"min":2260,"max":3491,"p95":3491}
-{"type":"fail","from":"2026-04-13T14:52:46.447Z","to":"2026-04-13T14:52:46.447Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-13T15:02:45.950Z","to":"2026-04-13T15:02:45.950Z","count":1,"avg":2399,"min":2399,"max":2399,"p95":2399}
-{"type":"ok","from":"2026-04-14T02:22:42.560Z","to":"2026-04-14T23:52:06.468Z","count":122,"avg":1675,"min":1223,"max":2921,"p95":1952}
-{"type":"ok","from":"2026-04-15T00:02:09.757Z","to":"2026-04-15T14:42:36.606Z","count":85,"avg":1769,"min":1413,"max":2495,"p95":2193}
-{"type":"fail","from":"2026-04-15T14:53:39.764Z","to":"2026-04-15T14:53:39.764Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T15:02:39.950Z","to":"2026-04-15T23:52:24.727Z","count":54,"avg":1759,"min":1440,"max":2476,"p95":2215}
-{"type":"ok","from":"2026-04-16T00:02:39.851Z","to":"2026-04-16T23:52:43.720Z","count":132,"avg":1735,"min":1364,"max":2882,"p95":2479}
-{"type":"ok","from":"2026-04-17T00:03:03.739Z","to":"2026-04-17T11:01:33.020Z","count":63,"avg":1712,"min":1381,"max":2326,"p95":2268}
-{"type":"fail","from":"2026-04-17T11:11:32.588Z","to":"2026-04-17T11:11:32.588Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T11:14:18.978Z","to":"2026-04-17T23:51:26.143Z","count":75,"avg":2080,"min":1540,"max":3819,"p95":3245}
-{"type":"ok","from":"2026-04-18T00:01:35.172Z","to":"2026-04-18T03:21:27.496Z","count":21,"avg":1971,"min":1451,"max":2745,"p95":2442}
-{"type":"fail","from":"2026-04-18T03:31:35.017Z","to":"2026-04-18T03:31:35.017Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T03:41:26.516Z","to":"2026-04-18T10:01:34.993Z","count":36,"avg":1717,"min":1414,"max":2563,"p95":2282}
-{"type":"fail","from":"2026-04-18T10:12:06.809Z","to":"2026-04-18T10:12:06.809Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":19615}
-{"type":"ok","from":"2026-04-18T10:21:27.591Z","to":"2026-04-18T23:51:25.829Z","count":82,"avg":1654,"min":1416,"max":2727,"p95":1825}
+{"type":"ok","from":"2026-04-01T00:03:11.696Z","to":"2026-04-01T23:53:11.104Z","count":144,"avg":1650,"min":1412,"max":2651,"p95":1823,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-02T00:03:17.062Z","to":"2026-04-02T23:53:13.514Z","count":144,"avg":1696,"min":1415,"max":2924,"p95":2572,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-03T00:03:21.832Z","to":"2026-04-03T23:53:08.553Z","count":143,"avg":1747,"min":1394,"max":3689,"p95":2609,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-04T00:03:23.444Z","to":"2026-04-04T17:22:50.500Z","count":99,"avg":1764,"min":1452,"max":2748,"p95":2571,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-04T17:33:01.668Z","to":"2026-04-04T17:33:01.668Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-04T17:42:41.794Z","to":"2026-04-04T23:52:41.433Z","count":38,"avg":1641,"min":1430,"max":1895,"p95":1825,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-05T00:02:48.959Z","to":"2026-04-05T12:22:58.941Z","count":75,"avg":1757,"min":1406,"max":3966,"p95":2151,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-05T12:33:00.173Z","to":"2026-04-05T12:33:00.173Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-05T12:43:02.365Z","to":"2026-04-05T14:33:17.649Z","count":11,"avg":1911,"min":1611,"max":2329,"p95":2329,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-05T14:43:06.005Z","to":"2026-04-05T14:43:06.005Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-05T14:52:48.844Z","to":"2026-04-05T23:52:52.645Z","count":55,"avg":1707,"min":1231,"max":3595,"p95":2196,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-06T00:02:52.468Z","to":"2026-04-06T17:42:33.495Z","count":107,"avg":1703,"min":1416,"max":2626,"p95":2035,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-06T17:52:31.192Z","to":"2026-04-06T17:52:31.192Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-06T18:02:28.407Z","to":"2026-04-06T23:52:22.784Z","count":36,"avg":1581,"min":1401,"max":1784,"p95":1700,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-07T00:02:27.409Z","to":"2026-04-07T23:52:25.806Z","count":144,"avg":1655,"min":1404,"max":2644,"p95":1976,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-08T00:02:38.461Z","to":"2026-04-08T14:23:16.890Z","count":87,"avg":1750,"min":1429,"max":2803,"p95":2164,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-08T14:33:13.022Z","to":"2026-04-08T14:33:13.022Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-08T14:43:02.529Z","to":"2026-04-08T23:52:44.416Z","count":56,"avg":1653,"min":1426,"max":2155,"p95":1873,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-09T00:02:40.859Z","to":"2026-04-09T23:52:18.817Z","count":144,"avg":1692,"min":1249,"max":3597,"p95":1974,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-10T00:02:30.343Z","to":"2026-04-10T13:02:38.610Z","count":79,"avg":1696,"min":1423,"max":2534,"p95":1950,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-10T13:12:58.585Z","to":"2026-04-10T13:12:58.585Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-10T13:22:44.807Z","to":"2026-04-10T23:52:30.630Z","count":64,"avg":1822,"min":1355,"max":3538,"p95":2749,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-11T00:02:29.161Z","to":"2026-04-11T05:42:52.668Z","count":35,"avg":2264,"min":1560,"max":4830,"p95":3591,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-11T05:53:06.083Z","to":"2026-04-11T05:53:06.083Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-11T06:03:03.670Z","to":"2026-04-11T13:22:59.897Z","count":44,"avg":2362,"min":1638,"max":4422,"p95":4152,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-11T13:33:02.320Z","to":"2026-04-11T13:33:02.320Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-11T13:43:01.512Z","to":"2026-04-11T23:52:37.471Z","count":62,"avg":2056,"min":1403,"max":4813,"p95":3455,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-12T00:02:27.323Z","to":"2026-04-12T13:22:26.280Z","count":80,"avg":2101,"min":1339,"max":4841,"p95":3089,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-12T13:32:30.172Z","to":"2026-04-12T13:32:30.172Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-12T13:36:50.294Z","to":"2026-04-12T14:32:37.485Z","count":7,"avg":3154,"min":2079,"max":4329,"p95":4329,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-12T14:42:36.839Z","to":"2026-04-12T14:52:49.924Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-12T15:13:37.205Z","to":"2026-04-12T23:52:16.661Z","count":53,"avg":1817,"min":1398,"max":4915,"p95":2680,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-13T00:02:19.457Z","to":"2026-04-13T13:32:46.455Z","count":75,"avg":2185,"min":1585,"max":3849,"p95":3438,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-13T13:42:43.083Z","to":"2026-04-13T13:42:43.083Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-13T13:52:46.380Z","to":"2026-04-13T14:42:53.333Z","count":6,"avg":2826,"min":2260,"max":3491,"p95":3491,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-13T14:52:46.447Z","to":"2026-04-13T14:52:46.447Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-13T15:02:45.950Z","to":"2026-04-13T15:02:45.950Z","count":1,"avg":2399,"min":2399,"max":2399,"p95":2399,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-14T02:22:42.560Z","to":"2026-04-14T23:52:06.468Z","count":122,"avg":1675,"min":1223,"max":2921,"p95":1952,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-15T00:02:09.757Z","to":"2026-04-15T14:42:36.606Z","count":85,"avg":1769,"min":1413,"max":2495,"p95":2193,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-15T14:53:39.764Z","to":"2026-04-15T14:53:39.764Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-15T15:02:39.950Z","to":"2026-04-15T23:52:24.727Z","count":54,"avg":1759,"min":1440,"max":2476,"p95":2215,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-16T00:02:39.851Z","to":"2026-04-16T23:52:43.720Z","count":132,"avg":1735,"min":1364,"max":2882,"p95":2479,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-17T00:03:03.739Z","to":"2026-04-17T11:01:33.020Z","count":63,"avg":1712,"min":1381,"max":2326,"p95":2268,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-17T11:11:32.588Z","to":"2026-04-17T11:11:32.588Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-17T11:14:18.978Z","to":"2026-04-17T23:51:26.143Z","count":75,"avg":2080,"min":1540,"max":3819,"p95":3245,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-18T00:01:35.172Z","to":"2026-04-18T03:21:27.496Z","count":21,"avg":1971,"min":1451,"max":2745,"p95":2442,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-18T03:31:35.017Z","to":"2026-04-18T03:31:35.017Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-18T03:41:26.516Z","to":"2026-04-18T10:01:34.993Z","count":36,"avg":1717,"min":1414,"max":2563,"p95":2282,"url":"https://api.zhizengzeng.com"}
+{"type":"fail","from":"2026-04-18T10:12:06.809Z","to":"2026-04-18T10:12:06.809Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":19615,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-18T10:21:27.591Z","to":"2026-04-18T23:51:25.829Z","count":82,"avg":1654,"min":1416,"max":2727,"p95":1825,"url":"https://api.zhizengzeng.com"}
+{"type":"ok","from":"2026-04-19T00:01:37.656Z","to":"2026-04-19T04:01:36.203Z","count":22,"url":"https://api.zhizengzeng.com","avg":1587,"min":1423,"max":1764,"p95":1709}
+{"type":"ok","from":"2026-04-19T04:11:25.998Z","to":"2026-04-19T07:51:24.604Z","count":23,"url":"https://zhizengzeng.com","avg":1610,"min":1407,"max":1778,"p95":1733}
+{"type":"ok","from":"2026-04-19T08:06:46.712Z","to":"2026-04-19T23:45:54.829Z","count":48,"url":"https://api.zhizengzeng.com/v1/models","avg":1932,"min":1277,"max":3031,"p95":2501}

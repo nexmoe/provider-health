@@ -1,11 +1,12 @@
-{"url":"http://us.jianxiaoru.sbs:5005"}
-{"type":"fail","from":"2026-04-16T10:23:01.282Z","to":"2026-04-16T23:52:58.675Z","count":77,"status":null,"error":"fetch failed","avg_latency":572}
-{"type":"fail","from":"2026-04-17T00:03:22.028Z","to":"2026-04-17T11:14:25.458Z","count":65,"status":null,"error":"fetch failed","avg_latency":1149}
-{"type":"fail","from":"2026-04-17T11:21:40.966Z","to":"2026-04-17T11:21:40.966Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-17T11:31:32.851Z","to":"2026-04-17T11:51:30.330Z","count":3,"status":null,"error":"fetch failed","avg_latency":1481}
-{"type":"fail","from":"2026-04-17T12:01:47.375Z","to":"2026-04-17T12:01:47.375Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-17T12:11:28.996Z","to":"2026-04-17T23:51:35.166Z","count":69,"status":null,"error":"fetch failed","avg_latency":1588}
-{"type":"fail","from":"2026-04-18T00:01:49.766Z","to":"2026-04-18T00:01:49.766Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003}
-{"type":"fail","from":"2026-04-18T00:11:31.528Z","to":"2026-04-18T02:21:37.038Z","count":14,"status":null,"error":"fetch failed","avg_latency":1662}
-{"type":"fail","from":"2026-04-18T02:31:41.952Z","to":"2026-04-18T02:31:41.952Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-18T02:41:38.194Z","to":"2026-04-18T23:51:29.230Z","count":125,"status":null,"error":"fetch failed","avg_latency":649}
+{"type":"fail","from":"2026-04-16T10:23:01.282Z","to":"2026-04-16T23:52:58.675Z","count":77,"status":null,"error":"fetch failed","avg_latency":572,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-17T00:03:22.028Z","to":"2026-04-17T11:14:25.458Z","count":65,"status":null,"error":"fetch failed","avg_latency":1149,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-17T11:21:40.966Z","to":"2026-04-17T11:21:40.966Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-17T11:31:32.851Z","to":"2026-04-17T11:51:30.330Z","count":3,"status":null,"error":"fetch failed","avg_latency":1481,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-17T12:01:47.375Z","to":"2026-04-17T12:01:47.375Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-17T12:11:28.996Z","to":"2026-04-17T23:51:35.166Z","count":69,"status":null,"error":"fetch failed","avg_latency":1588,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-18T00:01:49.766Z","to":"2026-04-18T00:01:49.766Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-18T00:11:31.528Z","to":"2026-04-18T02:21:37.038Z","count":14,"status":null,"error":"fetch failed","avg_latency":1662,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-18T02:31:41.952Z","to":"2026-04-18T02:31:41.952Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-18T02:41:38.194Z","to":"2026-04-18T23:51:29.230Z","count":125,"status":null,"error":"fetch failed","avg_latency":649,"url":"http://us.jianxiaoru.sbs:5005"}
+{"type":"fail","from":"2026-04-19T00:01:42.502Z","to":"2026-04-19T07:51:31.253Z","count":45,"url":"http://us.jianxiaoru.sbs:5005","status":null,"error":"fetch failed","avg_latency":380}
+{"type":"fail","from":"2026-04-19T08:12:01.440Z","to":"2026-04-19T23:48:47.911Z","count":48,"url":"https://us.jianxiaoru.sbs:5005/api/status","status":null,"error":"fetch failed","avg_latency":null}

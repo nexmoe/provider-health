@@ -1,88 +1,89 @@
-{"url":"https://ai.nahcrof.com"}
-{"type":"ok","from":"2026-04-01T00:01:06.854Z","to":"2026-04-01T23:51:04.823Z","count":144,"avg":1011,"min":900,"max":1191,"p95":1109}
-{"type":"ok","from":"2026-04-02T00:01:07.194Z","to":"2026-04-02T23:51:08.558Z","count":144,"avg":1013,"min":889,"max":3607,"p95":1093}
-{"type":"ok","from":"2026-04-03T00:01:07.881Z","to":"2026-04-03T23:51:08.546Z","count":143,"avg":1025,"min":888,"max":2148,"p95":1111}
-{"type":"ok","from":"2026-04-04T00:01:08.279Z","to":"2026-04-04T07:10:21.311Z","count":38,"avg":1145,"min":918,"max":4617,"p95":1696}
-{"type":"fail","from":"2026-04-04T07:20:24.604Z","to":"2026-04-04T07:20:24.604Z","count":1,"status":523,"error":"HTTP 523","avg_latency":2932}
-{"type":"fail","from":"2026-04-04T07:30:26.656Z","to":"2026-04-04T07:30:26.656Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-04T07:40:20.351Z","to":"2026-04-04T07:50:22.195Z","count":2,"status":523,"error":"HTTP 523","avg_latency":1544}
-{"type":"ok","from":"2026-04-04T08:00:22.938Z","to":"2026-04-04T23:50:20.409Z","count":96,"avg":1170,"min":949,"max":2546,"p95":2043}
-{"type":"ok","from":"2026-04-05T00:00:22.307Z","to":"2026-04-05T08:20:20.699Z","count":51,"avg":1297,"min":926,"max":3579,"p95":2730}
-{"type":"fail","from":"2026-04-05T08:30:25.755Z","to":"2026-04-05T08:30:25.755Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T08:40:21.215Z","to":"2026-04-05T16:50:22.482Z","count":50,"avg":1127,"min":948,"max":2170,"p95":1930}
-{"type":"fail","from":"2026-04-05T17:00:24.769Z","to":"2026-04-05T17:00:24.769Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-05T17:10:22.453Z","to":"2026-04-05T23:50:19.330Z","count":41,"avg":1074,"min":925,"max":2748,"p95":1233}
-{"type":"ok","from":"2026-04-06T00:00:24.700Z","to":"2026-04-06T23:50:20.484Z","count":144,"avg":1164,"min":909,"max":3480,"p95":1919}
-{"type":"ok","from":"2026-04-07T00:00:23.668Z","to":"2026-04-07T09:20:18.022Z","count":57,"avg":1169,"min":937,"max":4596,"p95":1507}
-{"type":"fail","from":"2026-04-07T09:30:26.601Z","to":"2026-04-07T09:30:26.601Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T09:40:22.772Z","to":"2026-04-07T23:50:19.608Z","count":86,"avg":1038,"min":893,"max":2801,"p95":1114}
-{"type":"ok","from":"2026-04-08T00:00:21.529Z","to":"2026-04-08T05:20:22.578Z","count":33,"avg":1110,"min":934,"max":2512,"p95":1367}
-{"type":"fail","from":"2026-04-08T05:30:23.166Z","to":"2026-04-08T05:30:23.166Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T05:40:21.065Z","to":"2026-04-08T06:50:22.742Z","count":8,"avg":994,"min":946,"max":1057,"p95":1057}
-{"type":"fail","from":"2026-04-08T07:00:26.514Z","to":"2026-04-08T07:00:26.514Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T07:10:19.495Z","to":"2026-04-08T23:50:20.512Z","count":101,"avg":1264,"min":904,"max":4551,"p95":2836}
-{"type":"ok","from":"2026-04-09T00:00:18.407Z","to":"2026-04-09T00:50:21.087Z","count":6,"avg":1126,"min":915,"max":1539,"p95":1539}
-{"type":"fail","from":"2026-04-09T01:00:23.409Z","to":"2026-04-09T01:00:23.409Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T01:10:21.683Z","to":"2026-04-09T05:30:22.839Z","count":27,"avg":1164,"min":955,"max":2712,"p95":1876}
-{"type":"fail","from":"2026-04-09T05:40:26.655Z","to":"2026-04-09T05:40:26.655Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-09T05:50:21.241Z","to":"2026-04-09T06:20:20.142Z","count":4,"avg":1236,"min":963,"max":1929,"p95":1929}
-{"type":"fail","from":"2026-04-09T06:30:21.997Z","to":"2026-04-09T06:40:22.093Z","count":2,"status":523,"error":"HTTP 523","avg_latency":1367}
-{"type":"ok","from":"2026-04-09T06:50:22.765Z","to":"2026-04-09T08:00:22.746Z","count":8,"avg":1173,"min":988,"max":1625,"p95":1625}
-{"type":"fail","from":"2026-04-09T08:10:26.564Z","to":"2026-04-09T08:10:26.564Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T08:20:22.330Z","to":"2026-04-09T09:20:21.526Z","count":7,"avg":1743,"min":989,"max":4901,"p95":4901}
-{"type":"fail","from":"2026-04-09T09:30:26.677Z","to":"2026-04-09T10:00:26.556Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T10:10:20.663Z","to":"2026-04-09T11:10:19.369Z","count":7,"avg":1051,"min":962,"max":1087,"p95":1087}
-{"type":"fail","from":"2026-04-09T11:20:23.067Z","to":"2026-04-09T11:20:23.067Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-09T11:30:20.097Z","to":"2026-04-09T12:20:22.594Z","count":6,"avg":999,"min":946,"max":1101,"p95":1101}
-{"type":"fail","from":"2026-04-09T12:30:25.543Z","to":"2026-04-09T12:30:25.543Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T12:40:22.748Z","to":"2026-04-09T23:50:18.983Z","count":68,"avg":1010,"min":926,"max":1113,"p95":1090}
-{"type":"ok","from":"2026-04-10T00:00:20.403Z","to":"2026-04-10T17:30:15.381Z","count":106,"avg":1086,"min":910,"max":2865,"p95":1496}
-{"type":"fail","from":"2026-04-10T17:40:24.387Z","to":"2026-04-10T18:00:20.129Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"fail","from":"2026-04-10T18:10:16.850Z","to":"2026-04-10T21:10:11.347Z","count":19,"status":523,"error":"HTTP 523","avg_latency":2560}
-{"type":"fail","from":"2026-04-10T21:20:17.890Z","to":"2026-04-10T21:30:12.708Z","count":2,"status":502,"error":"HTTP 502","avg_latency":537}
-{"type":"ok","from":"2026-04-10T21:40:16.970Z","to":"2026-04-10T23:50:16.772Z","count":14,"avg":1013,"min":938,"max":1287,"p95":1287}
-{"type":"ok","from":"2026-04-11T00:00:20.762Z","to":"2026-04-11T23:50:22.646Z","count":143,"avg":1027,"min":901,"max":1294,"p95":1115}
-{"type":"ok","from":"2026-04-12T00:00:21.542Z","to":"2026-04-12T23:50:22.608Z","count":146,"avg":1046,"min":913,"max":1557,"p95":1156}
-{"type":"ok","from":"2026-04-13T00:00:22.515Z","to":"2026-04-13T15:00:20.889Z","count":86,"avg":1044,"min":892,"max":1508,"p95":1198}
-{"type":"ok","from":"2026-04-14T02:20:23.292Z","to":"2026-04-14T23:50:19.166Z","count":124,"avg":1020,"min":901,"max":1152,"p95":1130}
-{"type":"ok","from":"2026-04-15T00:00:21.908Z","to":"2026-04-15T10:50:22.688Z","count":64,"avg":1345,"min":952,"max":3910,"p95":2427}
-{"type":"fail","from":"2026-04-15T11:00:26.662Z","to":"2026-04-15T11:00:26.662Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T11:10:20.626Z","to":"2026-04-15T20:30:19.642Z","count":56,"avg":1325,"min":969,"max":2356,"p95":2277}
-{"type":"fail","from":"2026-04-15T20:40:21.978Z","to":"2026-04-15T20:40:21.978Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T20:50:19.356Z","to":"2026-04-15T23:50:20.376Z","count":19,"avg":1133,"min":927,"max":1407,"p95":1407}
-{"type":"ok","from":"2026-04-16T00:00:21.644Z","to":"2026-04-16T23:50:27.772Z","count":136,"avg":1243,"min":949,"max":3643,"p95":1912}
-{"type":"ok","from":"2026-04-17T00:00:38.131Z","to":"2026-04-17T07:30:22.127Z","count":44,"avg":1258,"min":1014,"max":2906,"p95":2225}
-{"type":"fail","from":"2026-04-17T07:40:19.821Z","to":"2026-04-17T07:40:19.821Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-17T07:50:18.657Z","to":"2026-04-17T08:20:17.390Z","count":4,"avg":2977,"min":2259,"max":3736,"p95":3736}
-{"type":"fail","from":"2026-04-17T08:30:24.690Z","to":"2026-04-17T08:30:24.690Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T08:50:17.389Z","to":"2026-04-17T11:20:18.976Z","count":17,"avg":2784,"min":2251,"max":3987,"p95":3987}
-{"type":"fail","from":"2026-04-17T11:30:25.620Z","to":"2026-04-17T11:30:25.620Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T11:40:18.794Z","to":"2026-04-17T13:50:18.513Z","count":14,"avg":3110,"min":2477,"max":4911,"p95":4911}
-{"type":"fail","from":"2026-04-17T14:00:31.025Z","to":"2026-04-17T14:00:31.025Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-17T14:10:18.491Z","to":"2026-04-17T15:00:29.073Z","count":4,"avg":2841,"min":2061,"max":3265,"p95":3265}
-{"type":"fail","from":"2026-04-17T15:10:21.387Z","to":"2026-04-17T15:10:21.387Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-17T15:20:18.246Z","to":"2026-04-17T23:40:17.313Z","count":51,"avg":2681,"min":2077,"max":3873,"p95":3416}
-{"type":"fail","from":"2026-04-17T23:50:19.861Z","to":"2026-04-17T23:50:19.861Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T00:00:28.104Z","to":"2026-04-18T02:30:22.759Z","count":16,"avg":2808,"min":2180,"max":4498,"p95":4498}
-{"type":"fail","from":"2026-04-18T02:40:21.126Z","to":"2026-04-18T02:40:21.126Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T02:50:17.937Z","to":"2026-04-18T03:00:27.625Z","count":2,"avg":3037,"min":2968,"max":3105,"p95":3105}
-{"type":"fail","from":"2026-04-18T03:10:19.523Z","to":"2026-04-18T03:10:19.523Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T03:20:18.078Z","to":"2026-04-18T03:20:18.078Z","count":1,"avg":3497,"min":3497,"max":3497,"p95":3497}
-{"type":"fail","from":"2026-04-18T03:30:24.123Z","to":"2026-04-18T03:50:19.503Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T04:00:27.357Z","to":"2026-04-18T04:50:18.568Z","count":2,"avg":3652,"min":3241,"max":4063,"p95":4063}
-{"type":"fail","from":"2026-04-18T04:53:21.136Z","to":"2026-04-18T05:00:29.187Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T05:10:19.114Z","to":"2026-04-18T05:10:19.114Z","count":1,"avg":2807,"min":2807,"max":2807,"p95":2807}
-{"type":"fail","from":"2026-04-18T05:20:20.946Z","to":"2026-04-18T05:20:20.946Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T05:30:24.722Z","to":"2026-04-18T05:50:19.579Z","count":3,"avg":3888,"min":3143,"max":4748,"p95":4748}
-{"type":"fail","from":"2026-04-18T06:00:29.157Z","to":"2026-04-18T06:10:20.748Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-18T06:20:17.650Z","to":"2026-04-18T06:50:20.139Z","count":4,"avg":3250,"min":2456,"max":4048,"p95":4048}
-{"type":"fail","from":"2026-04-18T07:00:28.966Z","to":"2026-04-18T07:20:20.793Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T07:30:24.068Z","to":"2026-04-18T07:30:24.068Z","count":1,"avg":4402,"min":4402,"max":4402,"p95":4402}
-{"type":"fail","from":"2026-04-18T07:40:19.894Z","to":"2026-04-18T07:40:19.894Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T07:50:17.563Z","to":"2026-04-18T08:10:17.587Z","count":3,"avg":2563,"min":2292,"max":2795,"p95":2795}
-{"type":"fail","from":"2026-04-18T08:20:19.830Z","to":"2026-04-18T08:20:19.830Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T08:30:21.048Z","to":"2026-04-18T12:20:16.734Z","count":24,"avg":2803,"min":1700,"max":4297,"p95":3816}
-{"type":"fail","from":"2026-04-18T12:30:23.904Z","to":"2026-04-18T12:30:23.904Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T12:40:17.402Z","to":"2026-04-18T17:30:21.472Z","count":30,"avg":2894,"min":2060,"max":4205,"p95":4182}
-{"type":"fail","from":"2026-04-18T17:40:20.336Z","to":"2026-04-18T17:40:20.336Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T17:50:17.442Z","to":"2026-04-18T23:50:17.046Z","count":37,"avg":2688,"min":1676,"max":4702,"p95":4505}
+{"type":"ok","from":"2026-04-01T00:01:06.854Z","to":"2026-04-01T23:51:04.823Z","count":144,"avg":1011,"min":900,"max":1191,"p95":1109,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-02T00:01:07.194Z","to":"2026-04-02T23:51:08.558Z","count":144,"avg":1013,"min":889,"max":3607,"p95":1093,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-03T00:01:07.881Z","to":"2026-04-03T23:51:08.546Z","count":143,"avg":1025,"min":888,"max":2148,"p95":1111,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-04T00:01:08.279Z","to":"2026-04-04T07:10:21.311Z","count":38,"avg":1145,"min":918,"max":4617,"p95":1696,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-04T07:20:24.604Z","to":"2026-04-04T07:20:24.604Z","count":1,"status":523,"error":"HTTP 523","avg_latency":2932,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-04T07:30:26.656Z","to":"2026-04-04T07:30:26.656Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-04T07:40:20.351Z","to":"2026-04-04T07:50:22.195Z","count":2,"status":523,"error":"HTTP 523","avg_latency":1544,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-04T08:00:22.938Z","to":"2026-04-04T23:50:20.409Z","count":96,"avg":1170,"min":949,"max":2546,"p95":2043,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-05T00:00:22.307Z","to":"2026-04-05T08:20:20.699Z","count":51,"avg":1297,"min":926,"max":3579,"p95":2730,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-05T08:30:25.755Z","to":"2026-04-05T08:30:25.755Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-05T08:40:21.215Z","to":"2026-04-05T16:50:22.482Z","count":50,"avg":1127,"min":948,"max":2170,"p95":1930,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-05T17:00:24.769Z","to":"2026-04-05T17:00:24.769Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-05T17:10:22.453Z","to":"2026-04-05T23:50:19.330Z","count":41,"avg":1074,"min":925,"max":2748,"p95":1233,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-06T00:00:24.700Z","to":"2026-04-06T23:50:20.484Z","count":144,"avg":1164,"min":909,"max":3480,"p95":1919,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-07T00:00:23.668Z","to":"2026-04-07T09:20:18.022Z","count":57,"avg":1169,"min":937,"max":4596,"p95":1507,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-07T09:30:26.601Z","to":"2026-04-07T09:30:26.601Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-07T09:40:22.772Z","to":"2026-04-07T23:50:19.608Z","count":86,"avg":1038,"min":893,"max":2801,"p95":1114,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-08T00:00:21.529Z","to":"2026-04-08T05:20:22.578Z","count":33,"avg":1110,"min":934,"max":2512,"p95":1367,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-08T05:30:23.166Z","to":"2026-04-08T05:30:23.166Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-08T05:40:21.065Z","to":"2026-04-08T06:50:22.742Z","count":8,"avg":994,"min":946,"max":1057,"p95":1057,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-08T07:00:26.514Z","to":"2026-04-08T07:00:26.514Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-08T07:10:19.495Z","to":"2026-04-08T23:50:20.512Z","count":101,"avg":1264,"min":904,"max":4551,"p95":2836,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-09T00:00:18.407Z","to":"2026-04-09T00:50:21.087Z","count":6,"avg":1126,"min":915,"max":1539,"p95":1539,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-09T01:00:23.409Z","to":"2026-04-09T01:00:23.409Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-09T01:10:21.683Z","to":"2026-04-09T05:30:22.839Z","count":27,"avg":1164,"min":955,"max":2712,"p95":1876,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-09T05:40:26.655Z","to":"2026-04-09T05:40:26.655Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-09T05:50:21.241Z","to":"2026-04-09T06:20:20.142Z","count":4,"avg":1236,"min":963,"max":1929,"p95":1929,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-09T06:30:21.997Z","to":"2026-04-09T06:40:22.093Z","count":2,"status":523,"error":"HTTP 523","avg_latency":1367,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-09T06:50:22.765Z","to":"2026-04-09T08:00:22.746Z","count":8,"avg":1173,"min":988,"max":1625,"p95":1625,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-09T08:10:26.564Z","to":"2026-04-09T08:10:26.564Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-09T08:20:22.330Z","to":"2026-04-09T09:20:21.526Z","count":7,"avg":1743,"min":989,"max":4901,"p95":4901,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-09T09:30:26.677Z","to":"2026-04-09T10:00:26.556Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-09T10:10:20.663Z","to":"2026-04-09T11:10:19.369Z","count":7,"avg":1051,"min":962,"max":1087,"p95":1087,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-09T11:20:23.067Z","to":"2026-04-09T11:20:23.067Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-09T11:30:20.097Z","to":"2026-04-09T12:20:22.594Z","count":6,"avg":999,"min":946,"max":1101,"p95":1101,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-09T12:30:25.543Z","to":"2026-04-09T12:30:25.543Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-09T12:40:22.748Z","to":"2026-04-09T23:50:18.983Z","count":68,"avg":1010,"min":926,"max":1113,"p95":1090,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-10T00:00:20.403Z","to":"2026-04-10T17:30:15.381Z","count":106,"avg":1086,"min":910,"max":2865,"p95":1496,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-10T17:40:24.387Z","to":"2026-04-10T18:00:20.129Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-10T18:10:16.850Z","to":"2026-04-10T21:10:11.347Z","count":19,"status":523,"error":"HTTP 523","avg_latency":2560,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-10T21:20:17.890Z","to":"2026-04-10T21:30:12.708Z","count":2,"status":502,"error":"HTTP 502","avg_latency":537,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-10T21:40:16.970Z","to":"2026-04-10T23:50:16.772Z","count":14,"avg":1013,"min":938,"max":1287,"p95":1287,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-11T00:00:20.762Z","to":"2026-04-11T23:50:22.646Z","count":143,"avg":1027,"min":901,"max":1294,"p95":1115,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-12T00:00:21.542Z","to":"2026-04-12T23:50:22.608Z","count":146,"avg":1046,"min":913,"max":1557,"p95":1156,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-13T00:00:22.515Z","to":"2026-04-13T15:00:20.889Z","count":86,"avg":1044,"min":892,"max":1508,"p95":1198,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-14T02:20:23.292Z","to":"2026-04-14T23:50:19.166Z","count":124,"avg":1020,"min":901,"max":1152,"p95":1130,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-15T00:00:21.908Z","to":"2026-04-15T10:50:22.688Z","count":64,"avg":1345,"min":952,"max":3910,"p95":2427,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-15T11:00:26.662Z","to":"2026-04-15T11:00:26.662Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-15T11:10:20.626Z","to":"2026-04-15T20:30:19.642Z","count":56,"avg":1325,"min":969,"max":2356,"p95":2277,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-15T20:40:21.978Z","to":"2026-04-15T20:40:21.978Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-15T20:50:19.356Z","to":"2026-04-15T23:50:20.376Z","count":19,"avg":1133,"min":927,"max":1407,"p95":1407,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-16T00:00:21.644Z","to":"2026-04-16T23:50:27.772Z","count":136,"avg":1243,"min":949,"max":3643,"p95":1912,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-17T00:00:38.131Z","to":"2026-04-17T07:30:22.127Z","count":44,"avg":1258,"min":1014,"max":2906,"p95":2225,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-17T07:40:19.821Z","to":"2026-04-17T07:40:19.821Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-17T07:50:18.657Z","to":"2026-04-17T08:20:17.390Z","count":4,"avg":2977,"min":2259,"max":3736,"p95":3736,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-17T08:30:24.690Z","to":"2026-04-17T08:30:24.690Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-17T08:50:17.389Z","to":"2026-04-17T11:20:18.976Z","count":17,"avg":2784,"min":2251,"max":3987,"p95":3987,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-17T11:30:25.620Z","to":"2026-04-17T11:30:25.620Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-17T11:40:18.794Z","to":"2026-04-17T13:50:18.513Z","count":14,"avg":3110,"min":2477,"max":4911,"p95":4911,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-17T14:00:31.025Z","to":"2026-04-17T14:00:31.025Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-17T14:10:18.491Z","to":"2026-04-17T15:00:29.073Z","count":4,"avg":2841,"min":2061,"max":3265,"p95":3265,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-17T15:10:21.387Z","to":"2026-04-17T15:10:21.387Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-17T15:20:18.246Z","to":"2026-04-17T23:40:17.313Z","count":51,"avg":2681,"min":2077,"max":3873,"p95":3416,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-17T23:50:19.861Z","to":"2026-04-17T23:50:19.861Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T00:00:28.104Z","to":"2026-04-18T02:30:22.759Z","count":16,"avg":2808,"min":2180,"max":4498,"p95":4498,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T02:40:21.126Z","to":"2026-04-18T02:40:21.126Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T02:50:17.937Z","to":"2026-04-18T03:00:27.625Z","count":2,"avg":3037,"min":2968,"max":3105,"p95":3105,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T03:10:19.523Z","to":"2026-04-18T03:10:19.523Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T03:20:18.078Z","to":"2026-04-18T03:20:18.078Z","count":1,"avg":3497,"min":3497,"max":3497,"p95":3497,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T03:30:24.123Z","to":"2026-04-18T03:50:19.503Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T04:00:27.357Z","to":"2026-04-18T04:50:18.568Z","count":2,"avg":3652,"min":3241,"max":4063,"p95":4063,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T04:53:21.136Z","to":"2026-04-18T05:00:29.187Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T05:10:19.114Z","to":"2026-04-18T05:10:19.114Z","count":1,"avg":2807,"min":2807,"max":2807,"p95":2807,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T05:20:20.946Z","to":"2026-04-18T05:20:20.946Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T05:30:24.722Z","to":"2026-04-18T05:50:19.579Z","count":3,"avg":3888,"min":3143,"max":4748,"p95":4748,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T06:00:29.157Z","to":"2026-04-18T06:10:20.748Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T06:20:17.650Z","to":"2026-04-18T06:50:20.139Z","count":4,"avg":3250,"min":2456,"max":4048,"p95":4048,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T07:00:28.966Z","to":"2026-04-18T07:20:20.793Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T07:30:24.068Z","to":"2026-04-18T07:30:24.068Z","count":1,"avg":4402,"min":4402,"max":4402,"p95":4402,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T07:40:19.894Z","to":"2026-04-18T07:40:19.894Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T07:50:17.563Z","to":"2026-04-18T08:10:17.587Z","count":3,"avg":2563,"min":2292,"max":2795,"p95":2795,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T08:20:19.830Z","to":"2026-04-18T08:20:19.830Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T08:30:21.048Z","to":"2026-04-18T12:20:16.734Z","count":24,"avg":2803,"min":1700,"max":4297,"p95":3816,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T12:30:23.904Z","to":"2026-04-18T12:30:23.904Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T12:40:17.402Z","to":"2026-04-18T17:30:21.472Z","count":30,"avg":2894,"min":2060,"max":4205,"p95":4182,"url":"https://ai.nahcrof.com"}
+{"type":"fail","from":"2026-04-18T17:40:20.336Z","to":"2026-04-18T17:40:20.336Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-18T17:50:17.442Z","to":"2026-04-18T23:50:17.046Z","count":37,"avg":2688,"min":1676,"max":4702,"p95":4505,"url":"https://ai.nahcrof.com"}
+{"type":"ok","from":"2026-04-19T00:00:28.335Z","to":"2026-04-19T07:50:18.502Z","count":45,"url":"https://ai.nahcrof.com","avg":2828,"min":1658,"max":4809,"p95":4034}
+{"type":"ok","from":"2026-04-19T08:01:18.237Z","to":"2026-04-19T23:41:00.202Z","count":48,"url":"https://ai.nahcrof.com/v1/models","avg":1680,"min":597,"max":3137,"p95":2604}

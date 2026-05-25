@@ -1,27 +1,28 @@
-{"url":"https://iai.iisbo.com"}
-{"type":"ok","from":"2026-04-01T00:01:46.764Z","to":"2026-04-01T23:51:44.496Z","count":144,"avg":88,"min":19,"max":1055,"p95":375}
-{"type":"ok","from":"2026-04-02T00:01:46.262Z","to":"2026-04-02T23:51:48.238Z","count":144,"avg":93,"min":20,"max":1743,"p95":351}
-{"type":"ok","from":"2026-04-03T00:01:46.334Z","to":"2026-04-03T23:51:45.756Z","count":143,"avg":87,"min":20,"max":1084,"p95":260}
-{"type":"ok","from":"2026-04-04T00:01:49.546Z","to":"2026-04-04T06:31:01.205Z","count":34,"avg":105,"min":19,"max":433,"p95":381}
-{"type":"fail","from":"2026-04-04T06:41:12.490Z","to":"2026-04-04T06:41:12.490Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T06:51:09.499Z","to":"2026-04-04T15:01:07.568Z","count":50,"avg":88,"min":19,"max":404,"p95":306}
-{"type":"fail","from":"2026-04-04T15:11:22.308Z","to":"2026-04-04T15:11:22.308Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T15:21:15.572Z","to":"2026-04-04T23:51:06.736Z","count":52,"avg":103,"min":19,"max":1063,"p95":454}
-{"type":"ok","from":"2026-04-05T00:01:03.643Z","to":"2026-04-05T23:51:04.422Z","count":144,"avg":96,"min":18,"max":2499,"p95":310}
-{"type":"ok","from":"2026-04-06T00:01:08.914Z","to":"2026-04-06T23:50:58.045Z","count":144,"avg":131,"min":18,"max":1025,"p95":461}
-{"type":"ok","from":"2026-04-07T00:01:07.224Z","to":"2026-04-07T23:50:58.055Z","count":144,"avg":82,"min":21,"max":410,"p95":330}
-{"type":"ok","from":"2026-04-08T00:01:10.695Z","to":"2026-04-08T11:21:16.406Z","count":69,"avg":158,"min":18,"max":717,"p95":476}
-{"type":"fail","from":"2026-04-08T11:31:12.348Z","to":"2026-04-08T11:31:12.348Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T11:41:06.048Z","to":"2026-04-08T23:51:05.067Z","count":74,"avg":172,"min":18,"max":1344,"p95":546}
-{"type":"ok","from":"2026-04-09T00:01:02.666Z","to":"2026-04-09T23:50:57.127Z","count":144,"avg":107,"min":20,"max":629,"p95":385}
-{"type":"ok","from":"2026-04-10T00:01:03.016Z","to":"2026-04-10T23:50:58.959Z","count":144,"avg":88,"min":18,"max":509,"p95":395}
-{"type":"ok","from":"2026-04-11T00:01:01.468Z","to":"2026-04-11T23:51:05.091Z","count":143,"avg":60,"min":13,"max":447,"p95":207}
-{"type":"ok","from":"2026-04-12T00:01:02.229Z","to":"2026-04-12T23:50:59.093Z","count":144,"avg":86,"min":15,"max":425,"p95":279}
-{"type":"ok","from":"2026-04-13T00:01:02.370Z","to":"2026-04-13T15:01:04.123Z","count":86,"avg":168,"min":29,"max":4691,"p95":372}
-{"type":"ok","from":"2026-04-14T02:21:07.929Z","to":"2026-04-14T12:21:01.069Z","count":56,"avg":120,"min":30,"max":630,"p95":475}
-{"type":"fail","from":"2026-04-14T12:31:09.152Z","to":"2026-04-14T12:31:09.152Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-14T12:41:01.667Z","to":"2026-04-14T23:50:51.305Z","count":67,"avg":95,"min":28,"max":466,"p95":269}
-{"type":"ok","from":"2026-04-15T00:00:53.989Z","to":"2026-04-15T23:50:58.758Z","count":141,"avg":262,"min":28,"max":2337,"p95":1045}
-{"type":"ok","from":"2026-04-16T00:00:59.450Z","to":"2026-04-16T23:51:12.230Z","count":133,"avg":215,"min":23,"max":1044,"p95":588}
-{"type":"ok","from":"2026-04-17T00:01:30.915Z","to":"2026-04-17T23:50:41.188Z","count":140,"avg":170,"min":27,"max":1203,"p95":501}
-{"type":"ok","from":"2026-04-18T00:00:50.419Z","to":"2026-04-18T23:50:41.238Z","count":141,"avg":84,"min":21,"max":598,"p95":297}
+{"type":"ok","from":"2026-04-01T00:01:46.764Z","to":"2026-04-01T23:51:44.496Z","count":144,"avg":88,"min":19,"max":1055,"p95":375,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-02T00:01:46.262Z","to":"2026-04-02T23:51:48.238Z","count":144,"avg":93,"min":20,"max":1743,"p95":351,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-03T00:01:46.334Z","to":"2026-04-03T23:51:45.756Z","count":143,"avg":87,"min":20,"max":1084,"p95":260,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-04T00:01:49.546Z","to":"2026-04-04T06:31:01.205Z","count":34,"avg":105,"min":19,"max":433,"p95":381,"url":"https://iai.iisbo.com"}
+{"type":"fail","from":"2026-04-04T06:41:12.490Z","to":"2026-04-04T06:41:12.490Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-04T06:51:09.499Z","to":"2026-04-04T15:01:07.568Z","count":50,"avg":88,"min":19,"max":404,"p95":306,"url":"https://iai.iisbo.com"}
+{"type":"fail","from":"2026-04-04T15:11:22.308Z","to":"2026-04-04T15:11:22.308Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-04T15:21:15.572Z","to":"2026-04-04T23:51:06.736Z","count":52,"avg":103,"min":19,"max":1063,"p95":454,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-05T00:01:03.643Z","to":"2026-04-05T23:51:04.422Z","count":144,"avg":96,"min":18,"max":2499,"p95":310,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-06T00:01:08.914Z","to":"2026-04-06T23:50:58.045Z","count":144,"avg":131,"min":18,"max":1025,"p95":461,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-07T00:01:07.224Z","to":"2026-04-07T23:50:58.055Z","count":144,"avg":82,"min":21,"max":410,"p95":330,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-08T00:01:10.695Z","to":"2026-04-08T11:21:16.406Z","count":69,"avg":158,"min":18,"max":717,"p95":476,"url":"https://iai.iisbo.com"}
+{"type":"fail","from":"2026-04-08T11:31:12.348Z","to":"2026-04-08T11:31:12.348Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-08T11:41:06.048Z","to":"2026-04-08T23:51:05.067Z","count":74,"avg":172,"min":18,"max":1344,"p95":546,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-09T00:01:02.666Z","to":"2026-04-09T23:50:57.127Z","count":144,"avg":107,"min":20,"max":629,"p95":385,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-10T00:01:03.016Z","to":"2026-04-10T23:50:58.959Z","count":144,"avg":88,"min":18,"max":509,"p95":395,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-11T00:01:01.468Z","to":"2026-04-11T23:51:05.091Z","count":143,"avg":60,"min":13,"max":447,"p95":207,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-12T00:01:02.229Z","to":"2026-04-12T23:50:59.093Z","count":144,"avg":86,"min":15,"max":425,"p95":279,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-13T00:01:02.370Z","to":"2026-04-13T15:01:04.123Z","count":86,"avg":168,"min":29,"max":4691,"p95":372,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-14T02:21:07.929Z","to":"2026-04-14T12:21:01.069Z","count":56,"avg":120,"min":30,"max":630,"p95":475,"url":"https://iai.iisbo.com"}
+{"type":"fail","from":"2026-04-14T12:31:09.152Z","to":"2026-04-14T12:31:09.152Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-14T12:41:01.667Z","to":"2026-04-14T23:50:51.305Z","count":67,"avg":95,"min":28,"max":466,"p95":269,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-15T00:00:53.989Z","to":"2026-04-15T23:50:58.758Z","count":141,"avg":262,"min":28,"max":2337,"p95":1045,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-16T00:00:59.450Z","to":"2026-04-16T23:51:12.230Z","count":133,"avg":215,"min":23,"max":1044,"p95":588,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-17T00:01:30.915Z","to":"2026-04-17T23:50:41.188Z","count":140,"avg":170,"min":27,"max":1203,"p95":501,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-18T00:00:50.419Z","to":"2026-04-18T23:50:41.238Z","count":141,"avg":84,"min":21,"max":598,"p95":297,"url":"https://iai.iisbo.com"}
+{"type":"ok","from":"2026-04-19T00:00:53.139Z","to":"2026-04-19T07:50:39.913Z","count":45,"url":"https://iai.iisbo.com","avg":81,"min":23,"max":536,"p95":337}
+{"type":"ok","from":"2026-04-19T08:02:38.522Z","to":"2026-04-19T23:42:13.275Z","count":48,"url":"https://iai.iisbo.com/api/status","avg":74,"min":20,"max":553,"p95":328}

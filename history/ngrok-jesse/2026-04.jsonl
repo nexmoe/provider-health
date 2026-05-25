@@ -1,28 +1,29 @@
-{"url":"https://ngrok.com"}
-{"type":"ok","from":"2026-04-01T00:03:24.623Z","to":"2026-04-01T23:53:26.596Z","count":144,"avg":361,"min":198,"max":632,"p95":494}
-{"type":"ok","from":"2026-04-02T00:03:26.198Z","to":"2026-04-02T23:53:22.635Z","count":144,"avg":362,"min":236,"max":1606,"p95":466}
-{"type":"ok","from":"2026-04-03T00:03:31.139Z","to":"2026-04-03T23:53:21.084Z","count":143,"avg":351,"min":194,"max":598,"p95":472}
-{"type":"ok","from":"2026-04-04T00:03:36.059Z","to":"2026-04-04T23:52:57.936Z","count":138,"avg":364,"min":238,"max":741,"p95":500}
-{"type":"ok","from":"2026-04-05T00:03:01.223Z","to":"2026-04-05T23:53:09.698Z","count":143,"avg":372,"min":233,"max":1186,"p95":549}
-{"type":"ok","from":"2026-04-06T00:03:04.166Z","to":"2026-04-06T23:52:36.184Z","count":144,"avg":354,"min":235,"max":1194,"p95":454}
-{"type":"ok","from":"2026-04-07T00:02:40.578Z","to":"2026-04-07T23:52:37.439Z","count":144,"avg":358,"min":194,"max":1258,"p95":475}
-{"type":"ok","from":"2026-04-08T00:02:51.343Z","to":"2026-04-08T23:53:06.846Z","count":144,"avg":357,"min":229,"max":732,"p95":451}
-{"type":"ok","from":"2026-04-09T00:03:04.106Z","to":"2026-04-09T23:52:32.629Z","count":144,"avg":369,"min":208,"max":1506,"p95":521}
-{"type":"ok","from":"2026-04-10T00:02:50.614Z","to":"2026-04-10T23:52:44.993Z","count":144,"avg":363,"min":192,"max":739,"p95":483}
-{"type":"ok","from":"2026-04-11T00:02:42.138Z","to":"2026-04-11T23:52:53.121Z","count":143,"avg":380,"min":235,"max":735,"p95":445}
-{"type":"ok","from":"2026-04-12T00:02:42.531Z","to":"2026-04-12T23:52:26.774Z","count":143,"avg":412,"min":234,"max":2870,"p95":587}
-{"type":"ok","from":"2026-04-13T00:02:29.758Z","to":"2026-04-13T15:03:01.528Z","count":84,"avg":398,"min":228,"max":748,"p95":499}
-{"type":"ok","from":"2026-04-14T02:22:56.323Z","to":"2026-04-14T23:52:20.508Z","count":121,"avg":388,"min":229,"max":750,"p95":573}
-{"type":"ok","from":"2026-04-15T00:02:20.342Z","to":"2026-04-15T11:53:00.290Z","count":70,"avg":381,"min":235,"max":650,"p95":493}
-{"type":"fail","from":"2026-04-15T12:13:34.041Z","to":"2026-04-15T12:13:34.041Z","count":1,"status":null,"error":"fetch failed","avg_latency":1700}
-{"type":"ok","from":"2026-04-15T12:22:59.268Z","to":"2026-04-15T23:52:40.326Z","count":69,"avg":379,"min":234,"max":1087,"p95":476}
-{"type":"ok","from":"2026-04-16T00:02:55.220Z","to":"2026-04-16T15:13:29.643Z","count":80,"avg":448,"min":232,"max":1680,"p95":706}
-{"type":"fail","from":"2026-04-16T15:23:55.288Z","to":"2026-04-16T15:23:55.288Z","count":1,"status":null,"error":"fetch failed","avg_latency":1260}
-{"type":"ok","from":"2026-04-16T15:33:25.252Z","to":"2026-04-16T23:52:58.619Z","count":51,"avg":408,"min":203,"max":702,"p95":639}
-{"type":"ok","from":"2026-04-17T00:03:21.736Z","to":"2026-04-17T11:51:30.096Z","count":69,"avg":1096,"min":196,"max":4986,"p95":3826}
-{"type":"fail","from":"2026-04-17T12:01:47.380Z","to":"2026-04-17T12:01:47.380Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-17T12:11:28.816Z","to":"2026-04-17T23:51:35.085Z","count":69,"avg":1520,"min":647,"max":4475,"p95":3899}
-{"type":"fail","from":"2026-04-18T00:01:49.725Z","to":"2026-04-18T00:01:49.725Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5005}
-{"type":"ok","from":"2026-04-18T00:11:31.548Z","to":"2026-04-18T02:21:37.051Z","count":14,"avg":1626,"min":521,"max":4003,"p95":4003}
-{"type":"fail","from":"2026-04-18T02:31:41.950Z","to":"2026-04-18T02:31:41.950Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T02:41:38.168Z","to":"2026-04-18T23:51:27.885Z","count":125,"avg":1190,"min":236,"max":3245,"p95":2165}
+{"type":"ok","from":"2026-04-01T00:03:24.623Z","to":"2026-04-01T23:53:26.596Z","count":144,"avg":361,"min":198,"max":632,"p95":494,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-02T00:03:26.198Z","to":"2026-04-02T23:53:22.635Z","count":144,"avg":362,"min":236,"max":1606,"p95":466,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-03T00:03:31.139Z","to":"2026-04-03T23:53:21.084Z","count":143,"avg":351,"min":194,"max":598,"p95":472,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-04T00:03:36.059Z","to":"2026-04-04T23:52:57.936Z","count":138,"avg":364,"min":238,"max":741,"p95":500,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-05T00:03:01.223Z","to":"2026-04-05T23:53:09.698Z","count":143,"avg":372,"min":233,"max":1186,"p95":549,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-06T00:03:04.166Z","to":"2026-04-06T23:52:36.184Z","count":144,"avg":354,"min":235,"max":1194,"p95":454,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-07T00:02:40.578Z","to":"2026-04-07T23:52:37.439Z","count":144,"avg":358,"min":194,"max":1258,"p95":475,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-08T00:02:51.343Z","to":"2026-04-08T23:53:06.846Z","count":144,"avg":357,"min":229,"max":732,"p95":451,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-09T00:03:04.106Z","to":"2026-04-09T23:52:32.629Z","count":144,"avg":369,"min":208,"max":1506,"p95":521,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-10T00:02:50.614Z","to":"2026-04-10T23:52:44.993Z","count":144,"avg":363,"min":192,"max":739,"p95":483,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-11T00:02:42.138Z","to":"2026-04-11T23:52:53.121Z","count":143,"avg":380,"min":235,"max":735,"p95":445,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-12T00:02:42.531Z","to":"2026-04-12T23:52:26.774Z","count":143,"avg":412,"min":234,"max":2870,"p95":587,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-13T00:02:29.758Z","to":"2026-04-13T15:03:01.528Z","count":84,"avg":398,"min":228,"max":748,"p95":499,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-14T02:22:56.323Z","to":"2026-04-14T23:52:20.508Z","count":121,"avg":388,"min":229,"max":750,"p95":573,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-15T00:02:20.342Z","to":"2026-04-15T11:53:00.290Z","count":70,"avg":381,"min":235,"max":650,"p95":493,"url":"https://ngrok.com"}
+{"type":"fail","from":"2026-04-15T12:13:34.041Z","to":"2026-04-15T12:13:34.041Z","count":1,"status":null,"error":"fetch failed","avg_latency":1700,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-15T12:22:59.268Z","to":"2026-04-15T23:52:40.326Z","count":69,"avg":379,"min":234,"max":1087,"p95":476,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-16T00:02:55.220Z","to":"2026-04-16T15:13:29.643Z","count":80,"avg":448,"min":232,"max":1680,"p95":706,"url":"https://ngrok.com"}
+{"type":"fail","from":"2026-04-16T15:23:55.288Z","to":"2026-04-16T15:23:55.288Z","count":1,"status":null,"error":"fetch failed","avg_latency":1260,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-16T15:33:25.252Z","to":"2026-04-16T23:52:58.619Z","count":51,"avg":408,"min":203,"max":702,"p95":639,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-17T00:03:21.736Z","to":"2026-04-17T11:51:30.096Z","count":69,"avg":1096,"min":196,"max":4986,"p95":3826,"url":"https://ngrok.com"}
+{"type":"fail","from":"2026-04-17T12:01:47.380Z","to":"2026-04-17T12:01:47.380Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-17T12:11:28.816Z","to":"2026-04-17T23:51:35.085Z","count":69,"avg":1520,"min":647,"max":4475,"p95":3899,"url":"https://ngrok.com"}
+{"type":"fail","from":"2026-04-18T00:01:49.725Z","to":"2026-04-18T00:01:49.725Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5005,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-18T00:11:31.548Z","to":"2026-04-18T02:21:37.051Z","count":14,"avg":1626,"min":521,"max":4003,"p95":4003,"url":"https://ngrok.com"}
+{"type":"fail","from":"2026-04-18T02:31:41.950Z","to":"2026-04-18T02:31:41.950Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-18T02:41:38.168Z","to":"2026-04-18T23:51:27.885Z","count":125,"avg":1190,"min":236,"max":3245,"p95":2165,"url":"https://ngrok.com"}
+{"type":"ok","from":"2026-04-19T00:01:39.552Z","to":"2026-04-19T07:51:26.886Z","count":45,"url":"https://ngrok.com","avg":1578,"min":1126,"max":2621,"p95":2481}
+{"type":"fail","from":"2026-04-19T08:12:00.976Z","to":"2026-04-19T23:48:46.010Z","count":48,"url":"https://incontrovertible-unattempting-jesse.ngrok-free.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}

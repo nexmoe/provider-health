@@ -1,51 +1,52 @@
-{"url":"https://www.catclawai.top"}
-{"type":"ok","from":"2026-04-01T00:03:54.908Z","to":"2026-04-01T23:53:56.858Z","count":144,"avg":369,"min":191,"max":1096,"p95":445}
-{"type":"ok","from":"2026-04-02T00:03:53.458Z","to":"2026-04-02T23:53:49.568Z","count":144,"avg":367,"min":192,"max":974,"p95":440}
-{"type":"ok","from":"2026-04-03T00:03:54.889Z","to":"2026-04-03T23:53:49.354Z","count":142,"avg":385,"min":192,"max":1349,"p95":461}
-{"type":"ok","from":"2026-04-04T00:03:59.853Z","to":"2026-04-04T10:43:59.537Z","count":59,"avg":352,"min":192,"max":435,"p95":409}
-{"type":"fail","from":"2026-04-04T10:53:51.097Z","to":"2026-04-04T10:53:51.097Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T11:04:21.114Z","to":"2026-04-04T12:34:19.235Z","count":10,"avg":948,"min":213,"max":4475,"p95":4475}
-{"type":"fail","from":"2026-04-04T12:44:27.864Z","to":"2026-04-04T12:54:20.856Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-04T13:04:16.598Z","to":"2026-04-04T13:53:48.701Z","count":6,"avg":390,"min":348,"max":420,"p95":420}
-{"type":"fail","from":"2026-04-04T14:04:07.070Z","to":"2026-04-04T14:04:07.070Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T14:14:01.099Z","to":"2026-04-04T17:03:52.519Z","count":18,"avg":522,"min":362,"max":1833,"p95":1833}
-{"type":"fail","from":"2026-04-04T17:14:04.120Z","to":"2026-04-04T17:14:04.120Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T17:23:40.012Z","to":"2026-04-04T22:53:24.938Z","count":34,"avg":734,"min":331,"max":3376,"p95":2676}
-{"type":"fail","from":"2026-04-04T23:03:31.830Z","to":"2026-04-04T23:03:31.830Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T23:13:45.934Z","to":"2026-04-04T23:53:31.834Z","count":5,"avg":401,"min":355,"max":445,"p95":445}
-{"type":"ok","from":"2026-04-05T00:03:42.826Z","to":"2026-04-05T02:03:49.105Z","count":13,"avg":405,"min":188,"max":445,"p95":445}
-{"type":"fail","from":"2026-04-05T02:13:54.706Z","to":"2026-04-05T02:13:54.706Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T02:23:46.817Z","to":"2026-04-05T06:03:44.927Z","count":23,"avg":407,"min":324,"max":614,"p95":551}
-{"type":"fail","from":"2026-04-05T06:13:59.172Z","to":"2026-04-05T06:13:59.172Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T06:23:53.965Z","to":"2026-04-05T06:53:55.660Z","count":4,"avg":626,"min":261,"max":1417,"p95":1417}
-{"type":"fail","from":"2026-04-05T07:03:50.626Z","to":"2026-04-05T07:03:50.626Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T07:13:42.425Z","to":"2026-04-05T16:43:51.024Z","count":57,"avg":571,"min":341,"max":3470,"p95":2062}
-{"type":"fail","from":"2026-04-05T16:53:53.996Z","to":"2026-04-05T16:53:53.996Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T17:03:36.697Z","to":"2026-04-05T21:53:31.221Z","count":30,"avg":472,"min":331,"max":1244,"p95":873}
-{"type":"fail","from":"2026-04-05T22:03:41.668Z","to":"2026-04-05T22:03:41.668Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T22:13:32.355Z","to":"2026-04-05T23:53:55.584Z","count":11,"avg":555,"min":340,"max":1546,"p95":1546}
-{"type":"ok","from":"2026-04-06T00:03:45.973Z","to":"2026-04-06T23:53:11.307Z","count":144,"avg":444,"min":185,"max":2414,"p95":827}
-{"type":"ok","from":"2026-04-07T00:03:06.987Z","to":"2026-04-07T23:53:01.456Z","count":144,"avg":418,"min":195,"max":2946,"p95":488}
-{"type":"ok","from":"2026-04-08T00:03:18.191Z","to":"2026-04-08T14:14:12.102Z","count":86,"avg":558,"min":180,"max":4482,"p95":1523}
-{"type":"fail","from":"2026-04-08T14:24:27.977Z","to":"2026-04-08T14:24:27.977Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-08T14:34:09.076Z","to":"2026-04-08T15:44:01.137Z","count":8,"avg":532,"min":363,"max":1211,"p95":1211}
-{"type":"fail","from":"2026-04-08T15:53:54.778Z","to":"2026-04-08T15:53:54.778Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-08T16:03:37.818Z","to":"2026-04-08T23:53:36.584Z","count":48,"avg":676,"min":339,"max":3597,"p95":2143}
-{"type":"ok","from":"2026-04-09T00:03:34.080Z","to":"2026-04-09T01:03:57.071Z","count":7,"avg":427,"min":340,"max":585,"p95":585}
-{"type":"fail","from":"2026-04-09T01:13:45.904Z","to":"2026-04-09T01:13:45.904Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T01:23:47.306Z","to":"2026-04-09T02:33:58.879Z","count":8,"avg":701,"min":351,"max":1496,"p95":1496}
-{"type":"fail","from":"2026-04-09T02:43:53.165Z","to":"2026-04-09T02:53:53.125Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-09T03:03:51.449Z","to":"2026-04-09T23:53:00.029Z","count":126,"avg":474,"min":196,"max":4377,"p95":826}
-{"type":"ok","from":"2026-04-10T00:03:16.837Z","to":"2026-04-10T23:53:15.671Z","count":144,"avg":410,"min":183,"max":1493,"p95":686}
-{"type":"ok","from":"2026-04-11T00:03:11.346Z","to":"2026-04-11T23:53:25.758Z","count":143,"avg":369,"min":189,"max":786,"p95":413}
-{"type":"ok","from":"2026-04-12T00:03:10.410Z","to":"2026-04-12T23:52:56.574Z","count":143,"avg":382,"min":224,"max":627,"p95":478}
-{"type":"ok","from":"2026-04-13T00:02:58.575Z","to":"2026-04-13T15:03:34.310Z","count":84,"avg":387,"min":221,"max":837,"p95":437}
-{"type":"ok","from":"2026-04-14T02:23:26.890Z","to":"2026-04-14T23:52:47.371Z","count":121,"avg":389,"min":196,"max":1382,"p95":447}
-{"type":"ok","from":"2026-04-15T00:02:45.203Z","to":"2026-04-15T08:23:40.817Z","count":50,"avg":428,"min":216,"max":1463,"p95":615}
-{"type":"fail","from":"2026-04-15T08:33:57.463Z","to":"2026-04-15T08:43:38.318Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T08:53:38.665Z","to":"2026-04-15T23:53:07.169Z","count":88,"avg":498,"min":269,"max":1440,"p95":970}
-{"type":"ok","from":"2026-04-16T00:03:22.052Z","to":"2026-04-16T23:53:24.693Z","count":132,"avg":500,"min":200,"max":4042,"p95":719}
-{"type":"ok","from":"2026-04-17T00:03:47.464Z","to":"2026-04-17T01:44:00.305Z","count":11,"avg":478,"min":407,"max":629,"p95":629}
-{"type":"fail","from":"2026-04-17T01:53:37.895Z","to":"2026-04-17T02:03:48.980Z","count":2,"status":502,"error":"HTTP 502","avg_latency":553}
-{"type":"ok","from":"2026-04-17T02:17:22.544Z","to":"2026-04-17T23:51:55.436Z","count":126,"avg":451,"min":275,"max":1017,"p95":609}
-{"type":"ok","from":"2026-04-18T00:02:05.150Z","to":"2026-04-18T23:51:45.037Z","count":141,"avg":429,"min":216,"max":4587,"p95":524}
+{"type":"ok","from":"2026-04-01T00:03:54.908Z","to":"2026-04-01T23:53:56.858Z","count":144,"avg":369,"min":191,"max":1096,"p95":445,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-02T00:03:53.458Z","to":"2026-04-02T23:53:49.568Z","count":144,"avg":367,"min":192,"max":974,"p95":440,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-03T00:03:54.889Z","to":"2026-04-03T23:53:49.354Z","count":142,"avg":385,"min":192,"max":1349,"p95":461,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-04T00:03:59.853Z","to":"2026-04-04T10:43:59.537Z","count":59,"avg":352,"min":192,"max":435,"p95":409,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-04T10:53:51.097Z","to":"2026-04-04T10:53:51.097Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-04T11:04:21.114Z","to":"2026-04-04T12:34:19.235Z","count":10,"avg":948,"min":213,"max":4475,"p95":4475,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-04T12:44:27.864Z","to":"2026-04-04T12:54:20.856Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-04T13:04:16.598Z","to":"2026-04-04T13:53:48.701Z","count":6,"avg":390,"min":348,"max":420,"p95":420,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-04T14:04:07.070Z","to":"2026-04-04T14:04:07.070Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-04T14:14:01.099Z","to":"2026-04-04T17:03:52.519Z","count":18,"avg":522,"min":362,"max":1833,"p95":1833,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-04T17:14:04.120Z","to":"2026-04-04T17:14:04.120Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-04T17:23:40.012Z","to":"2026-04-04T22:53:24.938Z","count":34,"avg":734,"min":331,"max":3376,"p95":2676,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-04T23:03:31.830Z","to":"2026-04-04T23:03:31.830Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-04T23:13:45.934Z","to":"2026-04-04T23:53:31.834Z","count":5,"avg":401,"min":355,"max":445,"p95":445,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-05T00:03:42.826Z","to":"2026-04-05T02:03:49.105Z","count":13,"avg":405,"min":188,"max":445,"p95":445,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-05T02:13:54.706Z","to":"2026-04-05T02:13:54.706Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-05T02:23:46.817Z","to":"2026-04-05T06:03:44.927Z","count":23,"avg":407,"min":324,"max":614,"p95":551,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-05T06:13:59.172Z","to":"2026-04-05T06:13:59.172Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-05T06:23:53.965Z","to":"2026-04-05T06:53:55.660Z","count":4,"avg":626,"min":261,"max":1417,"p95":1417,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-05T07:03:50.626Z","to":"2026-04-05T07:03:50.626Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-05T07:13:42.425Z","to":"2026-04-05T16:43:51.024Z","count":57,"avg":571,"min":341,"max":3470,"p95":2062,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-05T16:53:53.996Z","to":"2026-04-05T16:53:53.996Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-05T17:03:36.697Z","to":"2026-04-05T21:53:31.221Z","count":30,"avg":472,"min":331,"max":1244,"p95":873,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-05T22:03:41.668Z","to":"2026-04-05T22:03:41.668Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-05T22:13:32.355Z","to":"2026-04-05T23:53:55.584Z","count":11,"avg":555,"min":340,"max":1546,"p95":1546,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-06T00:03:45.973Z","to":"2026-04-06T23:53:11.307Z","count":144,"avg":444,"min":185,"max":2414,"p95":827,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-07T00:03:06.987Z","to":"2026-04-07T23:53:01.456Z","count":144,"avg":418,"min":195,"max":2946,"p95":488,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-08T00:03:18.191Z","to":"2026-04-08T14:14:12.102Z","count":86,"avg":558,"min":180,"max":4482,"p95":1523,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-08T14:24:27.977Z","to":"2026-04-08T14:24:27.977Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-08T14:34:09.076Z","to":"2026-04-08T15:44:01.137Z","count":8,"avg":532,"min":363,"max":1211,"p95":1211,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-08T15:53:54.778Z","to":"2026-04-08T15:53:54.778Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-08T16:03:37.818Z","to":"2026-04-08T23:53:36.584Z","count":48,"avg":676,"min":339,"max":3597,"p95":2143,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-09T00:03:34.080Z","to":"2026-04-09T01:03:57.071Z","count":7,"avg":427,"min":340,"max":585,"p95":585,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-09T01:13:45.904Z","to":"2026-04-09T01:13:45.904Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-09T01:23:47.306Z","to":"2026-04-09T02:33:58.879Z","count":8,"avg":701,"min":351,"max":1496,"p95":1496,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-09T02:43:53.165Z","to":"2026-04-09T02:53:53.125Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-09T03:03:51.449Z","to":"2026-04-09T23:53:00.029Z","count":126,"avg":474,"min":196,"max":4377,"p95":826,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-10T00:03:16.837Z","to":"2026-04-10T23:53:15.671Z","count":144,"avg":410,"min":183,"max":1493,"p95":686,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-11T00:03:11.346Z","to":"2026-04-11T23:53:25.758Z","count":143,"avg":369,"min":189,"max":786,"p95":413,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-12T00:03:10.410Z","to":"2026-04-12T23:52:56.574Z","count":143,"avg":382,"min":224,"max":627,"p95":478,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-13T00:02:58.575Z","to":"2026-04-13T15:03:34.310Z","count":84,"avg":387,"min":221,"max":837,"p95":437,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-14T02:23:26.890Z","to":"2026-04-14T23:52:47.371Z","count":121,"avg":389,"min":196,"max":1382,"p95":447,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-15T00:02:45.203Z","to":"2026-04-15T08:23:40.817Z","count":50,"avg":428,"min":216,"max":1463,"p95":615,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-15T08:33:57.463Z","to":"2026-04-15T08:43:38.318Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-15T08:53:38.665Z","to":"2026-04-15T23:53:07.169Z","count":88,"avg":498,"min":269,"max":1440,"p95":970,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-16T00:03:22.052Z","to":"2026-04-16T23:53:24.693Z","count":132,"avg":500,"min":200,"max":4042,"p95":719,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-17T00:03:47.464Z","to":"2026-04-17T01:44:00.305Z","count":11,"avg":478,"min":407,"max":629,"p95":629,"url":"https://www.catclawai.top"}
+{"type":"fail","from":"2026-04-17T01:53:37.895Z","to":"2026-04-17T02:03:48.980Z","count":2,"status":502,"error":"HTTP 502","avg_latency":553,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-17T02:17:22.544Z","to":"2026-04-17T23:51:55.436Z","count":126,"avg":451,"min":275,"max":1017,"p95":609,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-18T00:02:05.150Z","to":"2026-04-18T23:51:45.037Z","count":141,"avg":429,"min":216,"max":4587,"p95":524,"url":"https://www.catclawai.top"}
+{"type":"ok","from":"2026-04-19T00:01:59.468Z","to":"2026-04-19T07:51:47.581Z","count":45,"url":"https://www.catclawai.top","avg":414,"min":339,"max":700,"p95":540}
+{"type":"ok","from":"2026-04-19T08:13:29.218Z","to":"2026-04-19T23:50:21.358Z","count":48,"url":"https://www.catclawai.top/api/status","avg":458,"min":382,"max":706,"p95":636}

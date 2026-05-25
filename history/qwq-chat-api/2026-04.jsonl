@@ -1,4 +1,6 @@
-{"url":"https://api.qwq.chat"}
-{"type":"fail","from":"2026-04-16T08:11:03.588Z","to":"2026-04-16T23:50:51.165Z","count":89,"status":403,"error":"HTTP 403","avg_latency":111}
-{"type":"fail","from":"2026-04-17T00:01:12.257Z","to":"2026-04-17T23:50:32.457Z","count":140,"status":403,"error":"HTTP 403","avg_latency":103}
-{"type":"fail","from":"2026-04-18T00:00:41.927Z","to":"2026-04-18T23:50:30.752Z","count":141,"status":403,"error":"HTTP 403","avg_latency":169}
+{"type":"fail","from":"2026-04-16T08:11:03.588Z","to":"2026-04-16T23:50:51.165Z","count":89,"status":403,"error":"HTTP 403","avg_latency":111,"url":"https://api.qwq.chat"}
+{"type":"fail","from":"2026-04-17T00:01:12.257Z","to":"2026-04-17T23:50:32.457Z","count":140,"status":403,"error":"HTTP 403","avg_latency":103,"url":"https://api.qwq.chat"}
+{"type":"fail","from":"2026-04-18T00:00:41.927Z","to":"2026-04-18T23:50:30.752Z","count":141,"status":403,"error":"HTTP 403","avg_latency":169,"url":"https://api.qwq.chat"}
+{"type":"fail","from":"2026-04-19T00:00:42.681Z","to":"2026-04-19T04:10:31.036Z","count":23,"url":"https://api.qwq.chat","status":403,"error":"HTTP 403","avg_latency":185}
+{"type":"fail","from":"2026-04-19T04:20:24.873Z","to":"2026-04-19T07:50:29.061Z","count":22,"url":"https://qwq.chat","status":403,"error":"HTTP 403","avg_latency":222}
+{"type":"ok","from":"2026-04-19T08:02:11.174Z","to":"2026-04-19T23:41:45.403Z","count":48,"url":"https://api.qwq.chat/v1/models","avg":1462,"min":844,"max":2737,"p95":2326}

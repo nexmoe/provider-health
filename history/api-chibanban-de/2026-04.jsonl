@@ -1,325 +1,374 @@
-{"url":"https://api.chibanban.de"}
-{"type":"ok","from":"2026-04-01T00:02:49.589Z","to":"2026-04-01T23:52:43.066Z","count":144,"avg":635,"min":345,"max":1771,"p95":1110}
-{"type":"ok","from":"2026-04-02T00:02:47.902Z","to":"2026-04-02T23:52:47.176Z","count":144,"avg":657,"min":342,"max":2460,"p95":1217}
-{"type":"ok","from":"2026-04-03T00:02:52.825Z","to":"2026-04-03T23:52:43.558Z","count":143,"avg":637,"min":338,"max":1920,"p95":1328}
-{"type":"ok","from":"2026-04-04T00:02:49.864Z","to":"2026-04-04T03:22:10.159Z","count":15,"avg":470,"min":345,"max":1234,"p95":1234}
-{"type":"fail","from":"2026-04-04T03:32:23.129Z","to":"2026-04-04T03:32:23.129Z","count":1,"status":null,"error":"fetch failed","avg_latency":863}
-{"type":"ok","from":"2026-04-04T03:42:18.618Z","to":"2026-04-04T12:02:27.665Z","count":51,"avg":821,"min":381,"max":4290,"p95":2020}
-{"type":"fail","from":"2026-04-04T12:12:40.444Z","to":"2026-04-04T12:12:40.444Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T12:22:29.571Z","to":"2026-04-04T12:22:29.571Z","count":1,"avg":817,"min":817,"max":817,"p95":817}
-{"type":"fail","from":"2026-04-04T12:32:43.806Z","to":"2026-04-04T12:32:43.806Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T12:42:37.363Z","to":"2026-04-04T12:42:37.363Z","count":1,"avg":1222,"min":1222,"max":1222,"p95":1222}
-{"type":"fail","from":"2026-04-04T12:52:30.401Z","to":"2026-04-04T13:02:29.807Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T13:12:26.440Z","to":"2026-04-04T14:52:26.362Z","count":11,"avg":1912,"min":473,"max":4912,"p95":4912}
-{"type":"fail","from":"2026-04-04T15:02:21.089Z","to":"2026-04-04T15:02:21.089Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T15:12:22.199Z","to":"2026-04-04T15:12:22.199Z","count":1,"avg":560,"min":560,"max":560,"p95":560}
-{"type":"fail","from":"2026-04-04T15:22:30.833Z","to":"2026-04-04T16:52:22.112Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T17:02:12.594Z","to":"2026-04-04T17:12:16.271Z","count":2,"avg":877,"min":648,"max":1105,"p95":1105}
-{"type":"fail","from":"2026-04-04T17:22:15.116Z","to":"2026-04-04T17:22:15.116Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T17:32:19.936Z","to":"2026-04-04T17:52:10.066Z","count":3,"avg":669,"min":454,"max":793,"p95":793}
-{"type":"fail","from":"2026-04-04T18:02:11.118Z","to":"2026-04-04T18:02:11.118Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-04T18:11:59.133Z","to":"2026-04-04T18:11:59.133Z","count":1,"avg":516,"min":516,"max":516,"p95":516}
-{"type":"fail","from":"2026-04-04T18:22:10.056Z","to":"2026-04-04T19:02:21.109Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T19:12:15.354Z","to":"2026-04-04T19:22:07.249Z","count":2,"avg":946,"min":895,"max":996,"p95":996}
-{"type":"fail","from":"2026-04-04T19:32:04.062Z","to":"2026-04-04T19:42:11.340Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T19:52:12.640Z","to":"2026-04-04T19:52:12.640Z","count":1,"avg":1338,"min":1338,"max":1338,"p95":1338}
-{"type":"fail","from":"2026-04-04T20:02:10.223Z","to":"2026-04-04T20:02:10.223Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T20:12:08.080Z","to":"2026-04-04T20:12:08.080Z","count":1,"avg":1258,"min":1258,"max":1258,"p95":1258}
-{"type":"fail","from":"2026-04-04T20:22:23.276Z","to":"2026-04-04T20:22:23.276Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T20:32:03.071Z","to":"2026-04-04T20:52:17.813Z","count":3,"avg":2387,"min":847,"max":3246,"p95":3246}
-{"type":"fail","from":"2026-04-04T21:02:15.179Z","to":"2026-04-04T21:12:04.271Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T21:22:07.592Z","to":"2026-04-04T21:22:07.592Z","count":1,"avg":4628,"min":4628,"max":4628,"p95":4628}
-{"type":"fail","from":"2026-04-04T21:32:11.594Z","to":"2026-04-04T21:42:06.705Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T21:52:05.657Z","to":"2026-04-04T22:02:22.862Z","count":2,"avg":1403,"min":1172,"max":1633,"p95":1633}
-{"type":"fail","from":"2026-04-04T22:12:09.257Z","to":"2026-04-04T22:52:10.041Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T23:01:57.842Z","to":"2026-04-04T23:01:57.842Z","count":1,"avg":1085,"min":1085,"max":1085,"p95":1085}
-{"type":"fail","from":"2026-04-04T23:12:26.592Z","to":"2026-04-04T23:12:26.592Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T23:22:04.847Z","to":"2026-04-04T23:32:06.750Z","count":2,"avg":725,"min":557,"max":893,"p95":893}
-{"type":"fail","from":"2026-04-04T23:42:03.324Z","to":"2026-04-04T23:52:10.357Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T00:02:09.691Z","to":"2026-04-05T00:02:09.691Z","count":1,"avg":727,"min":727,"max":727,"p95":727}
-{"type":"fail","from":"2026-04-05T00:12:10.877Z","to":"2026-04-05T00:12:10.877Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T00:22:04.791Z","to":"2026-04-05T00:22:04.791Z","count":1,"avg":766,"min":766,"max":766,"p95":766}
-{"type":"fail","from":"2026-04-05T00:32:24.354Z","to":"2026-04-05T00:32:24.354Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T00:42:16.800Z","to":"2026-04-05T00:52:22.781Z","count":2,"avg":1659,"min":1198,"max":2119,"p95":2119}
-{"type":"fail","from":"2026-04-05T01:02:12.065Z","to":"2026-04-05T01:02:12.065Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T01:12:14.836Z","to":"2026-04-05T01:12:14.836Z","count":1,"avg":889,"min":889,"max":889,"p95":889}
-{"type":"fail","from":"2026-04-05T01:22:28.543Z","to":"2026-04-05T01:32:20.535Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T01:42:22.064Z","to":"2026-04-05T01:52:30.056Z","count":2,"avg":902,"min":818,"max":986,"p95":986}
-{"type":"fail","from":"2026-04-05T02:02:30.270Z","to":"2026-04-05T02:12:21.088Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T02:22:25.844Z","to":"2026-04-05T02:22:25.844Z","count":1,"avg":1180,"min":1180,"max":1180,"p95":1180}
-{"type":"fail","from":"2026-04-05T02:32:25.826Z","to":"2026-04-05T02:32:25.826Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T02:42:17.940Z","to":"2026-04-05T03:32:17.106Z","count":6,"avg":928,"min":567,"max":1577,"p95":1577}
-{"type":"fail","from":"2026-04-05T03:42:20.742Z","to":"2026-04-05T03:42:20.742Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T03:52:23.599Z","to":"2026-04-05T04:12:20.252Z","count":3,"avg":761,"min":501,"max":1170,"p95":1170}
-{"type":"fail","from":"2026-04-05T04:22:13.749Z","to":"2026-04-05T04:22:13.749Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T04:32:10.610Z","to":"2026-04-05T04:32:10.610Z","count":1,"avg":814,"min":814,"max":814,"p95":814}
-{"type":"fail","from":"2026-04-05T04:42:20.165Z","to":"2026-04-05T05:02:15.341Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-05T05:12:12.255Z","to":"2026-04-05T06:12:22.605Z","count":7,"avg":1203,"min":483,"max":4774,"p95":4774}
-{"type":"fail","from":"2026-04-05T06:22:32.599Z","to":"2026-04-05T06:52:29.924Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T07:02:20.755Z","to":"2026-04-05T07:02:20.755Z","count":1,"avg":3982,"min":3982,"max":3982,"p95":3982}
-{"type":"fail","from":"2026-04-05T07:12:18.876Z","to":"2026-04-05T07:42:33.158Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T07:52:16.284Z","to":"2026-04-05T07:52:16.284Z","count":1,"avg":2829,"min":2829,"max":2829,"p95":2829}
-{"type":"fail","from":"2026-04-05T08:02:27.049Z","to":"2026-04-05T08:02:27.049Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T08:12:33.042Z","to":"2026-04-05T08:12:33.042Z","count":1,"avg":764,"min":764,"max":764,"p95":764}
-{"type":"fail","from":"2026-04-05T08:22:29.324Z","to":"2026-04-05T08:22:29.324Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-05T08:32:26.902Z","to":"2026-04-05T08:52:20.581Z","count":3,"avg":556,"min":482,"max":610,"p95":610}
-{"type":"fail","from":"2026-04-05T09:02:32.059Z","to":"2026-04-05T09:02:32.059Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T09:12:12.270Z","to":"2026-04-05T09:12:12.270Z","count":1,"avg":844,"min":844,"max":844,"p95":844}
-{"type":"fail","from":"2026-04-05T09:22:19.651Z","to":"2026-04-05T09:32:31.185Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T09:42:09.215Z","to":"2026-04-05T09:42:09.215Z","count":1,"avg":724,"min":724,"max":724,"p95":724}
-{"type":"fail","from":"2026-04-05T09:52:06.866Z","to":"2026-04-05T10:02:22.232Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T10:12:03.724Z","to":"2026-04-05T10:12:03.724Z","count":1,"avg":624,"min":624,"max":624,"p95":624}
-{"type":"fail","from":"2026-04-05T10:22:21.398Z","to":"2026-04-05T10:32:23.765Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T10:42:10.415Z","to":"2026-04-05T10:42:10.415Z","count":1,"avg":3706,"min":3706,"max":3706,"p95":3706}
-{"type":"fail","from":"2026-04-05T10:52:24.192Z","to":"2026-04-05T10:52:24.192Z","count":1,"status":null,"error":"fetch failed","avg_latency":3144}
-{"type":"ok","from":"2026-04-05T11:02:15.051Z","to":"2026-04-05T11:32:25.967Z","count":4,"avg":943,"min":655,"max":1625,"p95":1625}
-{"type":"fail","from":"2026-04-05T11:42:48.713Z","to":"2026-04-05T11:42:48.713Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T11:52:36.442Z","to":"2026-04-05T12:12:12.662Z","count":3,"avg":2009,"min":1122,"max":2738,"p95":2738}
-{"type":"fail","from":"2026-04-05T12:22:23.051Z","to":"2026-04-05T12:22:23.051Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T12:32:16.718Z","to":"2026-04-05T12:52:10.439Z","count":3,"avg":864,"min":375,"max":1319,"p95":1319}
-{"type":"fail","from":"2026-04-05T13:02:35.932Z","to":"2026-04-05T13:02:35.932Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T13:12:29.085Z","to":"2026-04-05T14:12:30.986Z","count":7,"avg":1288,"min":385,"max":2527,"p95":2527}
-{"type":"fail","from":"2026-04-05T14:22:23.255Z","to":"2026-04-05T14:22:23.255Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T14:32:39.214Z","to":"2026-04-05T15:32:15.045Z","count":7,"avg":1689,"min":409,"max":3684,"p95":3684}
-{"type":"fail","from":"2026-04-05T15:42:23.585Z","to":"2026-04-05T15:42:23.585Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T15:52:19.321Z","to":"2026-04-05T16:32:22.466Z","count":5,"avg":2627,"min":502,"max":4857,"p95":4857}
-{"type":"fail","from":"2026-04-05T16:42:27.721Z","to":"2026-04-05T16:42:27.721Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T16:52:15.375Z","to":"2026-04-05T17:12:17.067Z","count":3,"avg":993,"min":690,"max":1157,"p95":1157}
-{"type":"fail","from":"2026-04-05T17:22:23.202Z","to":"2026-04-05T17:22:23.202Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T17:32:11.139Z","to":"2026-04-05T18:02:02.579Z","count":4,"avg":1272,"min":632,"max":2517,"p95":2517}
-{"type":"fail","from":"2026-04-05T18:12:24.541Z","to":"2026-04-05T18:12:24.541Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T18:22:09.815Z","to":"2026-04-05T18:32:13.285Z","count":2,"avg":1285,"min":1057,"max":1513,"p95":1513}
-{"type":"fail","from":"2026-04-05T18:42:12.384Z","to":"2026-04-05T18:42:12.384Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T18:52:13.860Z","to":"2026-04-05T19:22:02.859Z","count":4,"avg":1345,"min":432,"max":2784,"p95":2784}
-{"type":"fail","from":"2026-04-05T19:32:16.683Z","to":"2026-04-05T19:52:13.996Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T20:02:09.408Z","to":"2026-04-05T20:02:09.408Z","count":1,"avg":526,"min":526,"max":526,"p95":526}
-{"type":"fail","from":"2026-04-05T20:12:10.980Z","to":"2026-04-05T20:12:10.980Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T20:22:08.885Z","to":"2026-04-05T20:22:08.885Z","count":1,"avg":418,"min":418,"max":418,"p95":418}
-{"type":"fail","from":"2026-04-05T20:32:16.763Z","to":"2026-04-05T20:32:16.763Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T20:42:01.154Z","to":"2026-04-05T20:42:01.154Z","count":1,"avg":608,"min":608,"max":608,"p95":608}
-{"type":"fail","from":"2026-04-05T20:52:01.450Z","to":"2026-04-05T20:52:01.450Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T21:02:18.363Z","to":"2026-04-05T21:41:57.538Z","count":5,"avg":1666,"min":654,"max":3773,"p95":3773}
-{"type":"fail","from":"2026-04-05T21:52:14.232Z","to":"2026-04-05T22:12:08.623Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T22:22:11.068Z","to":"2026-04-05T22:22:11.068Z","count":1,"avg":3753,"min":3753,"max":3753,"p95":3753}
-{"type":"fail","from":"2026-04-05T22:32:11.267Z","to":"2026-04-05T22:32:11.267Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T22:42:05.832Z","to":"2026-04-05T22:52:18.400Z","count":2,"avg":1671,"min":861,"max":2481,"p95":2481}
-{"type":"fail","from":"2026-04-05T23:02:19.743Z","to":"2026-04-05T23:02:19.743Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-05T23:12:09.196Z","to":"2026-04-05T23:12:09.196Z","count":1,"avg":4863,"min":4863,"max":4863,"p95":4863}
-{"type":"fail","from":"2026-04-05T23:22:13.502Z","to":"2026-04-05T23:32:12.483Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T23:42:04.184Z","to":"2026-04-05T23:52:17.111Z","count":2,"avg":1463,"min":1337,"max":1589,"p95":1589}
-{"type":"ok","from":"2026-04-06T00:02:19.662Z","to":"2026-04-06T00:02:19.662Z","count":1,"avg":1812,"min":1812,"max":1812,"p95":1812}
-{"type":"fail","from":"2026-04-06T00:12:16.017Z","to":"2026-04-06T00:22:19.322Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T00:32:24.203Z","to":"2026-04-06T03:32:19.877Z","count":19,"avg":927,"min":442,"max":2470,"p95":2470}
-{"type":"fail","from":"2026-04-06T03:42:10.377Z","to":"2026-04-06T03:42:10.377Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T03:52:27.539Z","to":"2026-04-06T03:52:27.539Z","count":1,"avg":1307,"min":1307,"max":1307,"p95":1307}
-{"type":"fail","from":"2026-04-06T04:02:06.057Z","to":"2026-04-06T04:02:06.057Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T04:12:14.000Z","to":"2026-04-06T23:51:53.592Z","count":119,"avg":865,"min":347,"max":4692,"p95":1936}
-{"type":"ok","from":"2026-04-07T00:02:03.004Z","to":"2026-04-07T23:51:57.905Z","count":144,"avg":677,"min":334,"max":3115,"p95":1256}
-{"type":"ok","from":"2026-04-08T00:02:08.436Z","to":"2026-04-08T09:22:21.316Z","count":57,"avg":1048,"min":381,"max":4761,"p95":3932}
-{"type":"fail","from":"2026-04-08T09:32:23.149Z","to":"2026-04-08T09:32:23.149Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T09:42:23.588Z","to":"2026-04-08T10:42:22.967Z","count":7,"avg":1477,"min":487,"max":3401,"p95":3401}
-{"type":"fail","from":"2026-04-08T10:52:36.502Z","to":"2026-04-08T10:52:36.502Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T11:02:29.813Z","to":"2026-04-08T11:42:25.380Z","count":5,"avg":1698,"min":691,"max":2854,"p95":2854}
-{"type":"fail","from":"2026-04-08T11:52:26.755Z","to":"2026-04-08T11:52:26.755Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T12:02:30.732Z","to":"2026-04-08T13:12:17.151Z","count":8,"avg":1330,"min":419,"max":2449,"p95":2449}
-{"type":"fail","from":"2026-04-08T13:22:22.419Z","to":"2026-04-08T13:22:22.419Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-08T13:32:35.873Z","to":"2026-04-08T15:22:25.032Z","count":12,"avg":1552,"min":348,"max":3064,"p95":3064}
-{"type":"fail","from":"2026-04-08T15:32:25.110Z","to":"2026-04-08T15:32:25.110Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T15:42:22.990Z","to":"2026-04-08T16:02:18.981Z","count":3,"avg":994,"min":456,"max":1789,"p95":1789}
-{"type":"fail","from":"2026-04-08T16:12:23.305Z","to":"2026-04-08T16:12:23.305Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T16:22:12.350Z","to":"2026-04-08T22:42:23.370Z","count":39,"avg":1409,"min":413,"max":4756,"p95":4721}
-{"type":"fail","from":"2026-04-08T22:52:25.568Z","to":"2026-04-08T22:52:25.568Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T23:02:07.924Z","to":"2026-04-08T23:52:14.825Z","count":6,"avg":2193,"min":746,"max":3915,"p95":3915}
-{"type":"ok","from":"2026-04-09T00:02:05.183Z","to":"2026-04-09T00:22:15.488Z","count":3,"avg":521,"min":479,"max":550,"p95":550}
-{"type":"fail","from":"2026-04-09T00:32:21.367Z","to":"2026-04-09T00:32:21.367Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003}
-{"type":"ok","from":"2026-04-09T00:42:22.194Z","to":"2026-04-09T02:42:16.738Z","count":13,"avg":1739,"min":420,"max":4769,"p95":4769}
-{"type":"fail","from":"2026-04-09T02:52:20.766Z","to":"2026-04-09T02:52:20.766Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T03:02:24.863Z","to":"2026-04-09T04:12:34.251Z","count":8,"avg":1366,"min":403,"max":4742,"p95":4742}
-{"type":"fail","from":"2026-04-09T04:22:14.333Z","to":"2026-04-09T04:22:14.333Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T04:32:16.888Z","to":"2026-04-09T04:42:24.197Z","count":2,"avg":1394,"min":1299,"max":1489,"p95":1489}
-{"type":"fail","from":"2026-04-09T04:52:33.540Z","to":"2026-04-09T04:52:33.540Z","count":1,"status":null,"error":"fetch failed","avg_latency":3258}
-{"type":"ok","from":"2026-04-09T05:02:07.483Z","to":"2026-04-09T05:42:19.294Z","count":5,"avg":1590,"min":414,"max":4472,"p95":4472}
-{"type":"fail","from":"2026-04-09T05:52:34.531Z","to":"2026-04-09T05:52:34.531Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T06:02:32.151Z","to":"2026-04-09T06:42:21.030Z","count":5,"avg":831,"min":395,"max":1902,"p95":1902}
-{"type":"fail","from":"2026-04-09T06:52:24.524Z","to":"2026-04-09T06:52:24.524Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T07:02:23.799Z","to":"2026-04-09T08:02:20.203Z","count":7,"avg":1152,"min":483,"max":1745,"p95":1745}
-{"type":"fail","from":"2026-04-09T08:12:22.620Z","to":"2026-04-09T08:12:22.620Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T08:22:26.589Z","to":"2026-04-09T23:51:51.009Z","count":94,"avg":681,"min":331,"max":3784,"p95":1404}
-{"type":"ok","from":"2026-04-10T00:02:01.028Z","to":"2026-04-10T05:12:06.245Z","count":32,"avg":798,"min":355,"max":4558,"p95":1487}
-{"type":"fail","from":"2026-04-10T05:22:23.880Z","to":"2026-04-10T05:22:23.880Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T05:32:13.931Z","to":"2026-04-10T09:52:07.490Z","count":27,"avg":811,"min":373,"max":3477,"p95":1618}
-{"type":"fail","from":"2026-04-10T10:02:08.404Z","to":"2026-04-10T10:02:08.404Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T10:12:12.290Z","to":"2026-04-10T23:52:00.067Z","count":83,"avg":611,"min":334,"max":4801,"p95":1202}
-{"type":"ok","from":"2026-04-11T00:01:59.496Z","to":"2026-04-11T23:52:08.006Z","count":143,"avg":527,"min":329,"max":2522,"p95":1036}
-{"type":"ok","from":"2026-04-12T00:01:57.097Z","to":"2026-04-12T23:51:55.594Z","count":144,"avg":549,"min":325,"max":3561,"p95":1279}
-{"type":"ok","from":"2026-04-13T00:01:56.091Z","to":"2026-04-13T15:02:13.215Z","count":84,"avg":566,"min":321,"max":1989,"p95":1268}
-{"type":"ok","from":"2026-04-14T02:22:17.350Z","to":"2026-04-14T23:51:45.383Z","count":122,"avg":521,"min":334,"max":1349,"p95":806}
-{"type":"ok","from":"2026-04-15T00:01:47.382Z","to":"2026-04-15T07:12:01.913Z","count":44,"avg":494,"min":324,"max":1226,"p95":829}
-{"type":"fail","from":"2026-04-15T07:22:24.084Z","to":"2026-04-15T07:22:24.084Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T07:32:18.403Z","to":"2026-04-15T07:32:18.403Z","count":1,"avg":374,"min":374,"max":374,"p95":374}
-{"type":"fail","from":"2026-04-15T07:42:18.588Z","to":"2026-04-15T07:42:18.588Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T07:52:13.130Z","to":"2026-04-15T07:52:13.130Z","count":1,"avg":1884,"min":1884,"max":1884,"p95":1884}
-{"type":"fail","from":"2026-04-15T08:12:47.946Z","to":"2026-04-15T08:22:22.904Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T08:32:07.333Z","to":"2026-04-15T08:32:07.333Z","count":1,"avg":1995,"min":1995,"max":1995,"p95":1995}
-{"type":"fail","from":"2026-04-15T08:42:18.407Z","to":"2026-04-15T08:42:18.407Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T08:52:19.760Z","to":"2026-04-15T09:02:07.226Z","count":2,"avg":1436,"min":1118,"max":1753,"p95":1753}
-{"type":"fail","from":"2026-04-15T09:22:14.782Z","to":"2026-04-15T09:32:22.915Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T09:42:23.910Z","to":"2026-04-15T09:42:23.910Z","count":1,"avg":1063,"min":1063,"max":1063,"p95":1063}
-{"type":"fail","from":"2026-04-15T09:52:39.265Z","to":"2026-04-15T10:52:14.962Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T11:02:13.373Z","to":"2026-04-15T12:42:21.911Z","count":10,"avg":1300,"min":372,"max":4332,"p95":4332}
-{"type":"fail","from":"2026-04-15T12:52:28.520Z","to":"2026-04-15T12:52:28.520Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T13:02:15.003Z","to":"2026-04-15T17:42:10.725Z","count":28,"avg":1172,"min":335,"max":4503,"p95":3837}
-{"type":"fail","from":"2026-04-15T17:52:13.427Z","to":"2026-04-15T17:52:13.427Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T18:02:04.820Z","to":"2026-04-15T18:22:11.782Z","count":3,"avg":1728,"min":380,"max":3431,"p95":3431}
-{"type":"fail","from":"2026-04-15T18:32:08.558Z","to":"2026-04-15T19:22:07.249Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T19:31:55.576Z","to":"2026-04-15T19:31:55.576Z","count":1,"avg":4406,"min":4406,"max":4406,"p95":4406}
-{"type":"fail","from":"2026-04-15T19:41:59.972Z","to":"2026-04-15T20:02:06.307Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T20:11:50.364Z","to":"2026-04-15T20:21:55.752Z","count":2,"avg":765,"min":461,"max":1069,"p95":1069}
-{"type":"fail","from":"2026-04-15T20:32:05.713Z","to":"2026-04-15T20:32:05.713Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-15T20:42:02.466Z","to":"2026-04-15T20:42:02.466Z","count":1,"avg":723,"min":723,"max":723,"p95":723}
-{"type":"fail","from":"2026-04-15T20:51:57.304Z","to":"2026-04-15T21:21:57.248Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T21:31:54.488Z","to":"2026-04-15T21:31:54.488Z","count":1,"avg":404,"min":404,"max":404,"p95":404}
-{"type":"fail","from":"2026-04-15T21:42:00.524Z","to":"2026-04-15T23:22:04.499Z","count":11,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T23:31:59.811Z","to":"2026-04-15T23:31:59.811Z","count":1,"avg":655,"min":655,"max":655,"p95":655}
-{"type":"fail","from":"2026-04-15T23:42:05.913Z","to":"2026-04-15T23:52:00.688Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T00:02:05.832Z","to":"2026-04-16T00:02:05.832Z","count":1,"avg":535,"min":535,"max":535,"p95":535}
-{"type":"fail","from":"2026-04-16T00:11:58.104Z","to":"2026-04-16T00:11:58.104Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T00:21:56.985Z","to":"2026-04-16T00:32:03.071Z","count":2,"avg":858,"min":531,"max":1185,"p95":1185}
-{"type":"fail","from":"2026-04-16T00:42:10.109Z","to":"2026-04-16T00:52:09.168Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T01:02:02.827Z","to":"2026-04-16T01:12:04.195Z","count":2,"avg":553,"min":407,"max":698,"p95":698}
-{"type":"fail","from":"2026-04-16T01:22:13.502Z","to":"2026-04-16T01:22:13.502Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T01:32:08.516Z","to":"2026-04-16T01:32:08.516Z","count":1,"avg":533,"min":533,"max":533,"p95":533}
-{"type":"fail","from":"2026-04-16T01:41:59.203Z","to":"2026-04-16T02:02:19.937Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T02:12:16.903Z","to":"2026-04-16T02:12:16.903Z","count":1,"avg":1150,"min":1150,"max":1150,"p95":1150}
-{"type":"fail","from":"2026-04-16T02:22:14.977Z","to":"2026-04-16T02:22:14.977Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-16T02:32:06.332Z","to":"2026-04-16T02:32:06.332Z","count":1,"avg":601,"min":601,"max":601,"p95":601}
-{"type":"fail","from":"2026-04-16T02:42:27.525Z","to":"2026-04-16T03:12:12.949Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T03:22:09.526Z","to":"2026-04-16T03:22:09.526Z","count":1,"avg":696,"min":696,"max":696,"p95":696}
-{"type":"fail","from":"2026-04-16T03:32:13.152Z","to":"2026-04-16T04:22:08.957Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T04:32:03.412Z","to":"2026-04-16T05:52:15.591Z","count":5,"avg":966,"min":517,"max":1265,"p95":1265}
-{"type":"fail","from":"2026-04-16T06:02:07.271Z","to":"2026-04-16T06:02:07.271Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T06:13:59.655Z","to":"2026-04-16T06:32:26.037Z","count":3,"avg":977,"min":503,"max":1260,"p95":1260}
-{"type":"fail","from":"2026-04-16T06:42:24.944Z","to":"2026-04-16T06:42:24.944Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T06:52:21.170Z","to":"2026-04-16T06:52:21.170Z","count":1,"avg":553,"min":553,"max":553,"p95":553}
-{"type":"fail","from":"2026-04-16T07:02:32.288Z","to":"2026-04-16T07:22:21.171Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T07:32:31.126Z","to":"2026-04-16T07:32:31.126Z","count":1,"avg":1198,"min":1198,"max":1198,"p95":1198}
-{"type":"fail","from":"2026-04-16T07:42:21.800Z","to":"2026-04-16T07:52:21.625Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T08:02:41.119Z","to":"2026-04-16T08:02:41.119Z","count":1,"avg":418,"min":418,"max":418,"p95":418}
-{"type":"fail","from":"2026-04-16T08:12:23.140Z","to":"2026-04-16T08:12:23.140Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T08:22:07.946Z","to":"2026-04-16T08:22:07.946Z","count":1,"avg":993,"min":993,"max":993,"p95":993}
-{"type":"fail","from":"2026-04-16T08:32:24.263Z","to":"2026-04-16T08:32:24.263Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T08:42:21.745Z","to":"2026-04-16T08:52:25.014Z","count":2,"avg":479,"min":434,"max":523,"p95":523}
-{"type":"fail","from":"2026-04-16T09:02:26.350Z","to":"2026-04-16T09:02:26.350Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T09:12:19.180Z","to":"2026-04-16T09:12:19.180Z","count":1,"avg":732,"min":732,"max":732,"p95":732}
-{"type":"fail","from":"2026-04-16T09:22:39.097Z","to":"2026-04-16T09:32:36.183Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T09:42:17.282Z","to":"2026-04-16T09:42:17.282Z","count":1,"avg":405,"min":405,"max":405,"p95":405}
-{"type":"fail","from":"2026-04-16T09:52:32.153Z","to":"2026-04-16T10:22:33.175Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T10:32:20.872Z","to":"2026-04-16T10:32:20.872Z","count":1,"avg":594,"min":594,"max":594,"p95":594}
-{"type":"fail","from":"2026-04-16T10:42:25.722Z","to":"2026-04-16T11:12:21.864Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T12:02:58.723Z","to":"2026-04-16T12:12:35.834Z","count":2,"avg":2658,"min":1389,"max":3926,"p95":3926}
-{"type":"fail","from":"2026-04-16T12:22:43.744Z","to":"2026-04-16T12:22:43.744Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T12:32:39.042Z","to":"2026-04-16T12:42:35.825Z","count":2,"avg":741,"min":719,"max":763,"p95":763}
-{"type":"fail","from":"2026-04-16T12:52:34.791Z","to":"2026-04-16T12:52:34.791Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T13:02:38.337Z","to":"2026-04-16T13:02:38.337Z","count":1,"avg":640,"min":640,"max":640,"p95":640}
-{"type":"fail","from":"2026-04-16T13:12:33.204Z","to":"2026-04-16T14:22:38.716Z","count":8,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T14:32:36.630Z","to":"2026-04-16T15:22:57.554Z","count":6,"avg":583,"min":447,"max":940,"p95":940}
-{"type":"fail","from":"2026-04-16T15:32:39.861Z","to":"2026-04-16T15:32:39.861Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T15:42:41.104Z","to":"2026-04-16T15:42:41.104Z","count":1,"avg":1565,"min":1565,"max":1565,"p95":1565}
-{"type":"fail","from":"2026-04-16T15:52:31.250Z","to":"2026-04-16T16:22:40.852Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T16:32:39.650Z","to":"2026-04-16T16:42:29.040Z","count":2,"avg":1187,"min":510,"max":1864,"p95":1864}
-{"type":"fail","from":"2026-04-16T16:52:37.717Z","to":"2026-04-16T17:32:42.088Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T17:42:30.161Z","to":"2026-04-16T17:42:30.161Z","count":1,"avg":490,"min":490,"max":490,"p95":490}
-{"type":"fail","from":"2026-04-16T17:52:31.770Z","to":"2026-04-16T18:12:37.093Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T18:22:23.547Z","to":"2026-04-16T18:22:23.547Z","count":1,"avg":482,"min":482,"max":482,"p95":482}
-{"type":"fail","from":"2026-04-16T18:32:19.494Z","to":"2026-04-16T18:52:15.798Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T19:02:32.854Z","to":"2026-04-16T19:42:16.700Z","count":5,"avg":880,"min":494,"max":1382,"p95":1382}
-{"type":"fail","from":"2026-04-16T19:52:20.379Z","to":"2026-04-16T21:22:21.975Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T21:32:20.570Z","to":"2026-04-16T21:42:19.818Z","count":2,"avg":578,"min":367,"max":789,"p95":789}
-{"type":"fail","from":"2026-04-16T21:52:19.294Z","to":"2026-04-16T23:22:21.058Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T23:32:24.781Z","to":"2026-04-16T23:32:24.781Z","count":1,"avg":523,"min":523,"max":523,"p95":523}
-{"type":"fail","from":"2026-04-16T23:42:29.596Z","to":"2026-04-16T23:52:21.130Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-17T00:02:42.007Z","to":"2026-04-17T00:02:42.007Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T00:12:17.748Z","to":"2026-04-17T00:12:17.748Z","count":1,"avg":475,"min":475,"max":475,"p95":475}
-{"type":"fail","from":"2026-04-17T00:22:32.566Z","to":"2026-04-17T00:22:32.566Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T00:32:21.839Z","to":"2026-04-17T00:42:28.582Z","count":2,"avg":509,"min":492,"max":525,"p95":525}
-{"type":"fail","from":"2026-04-17T00:52:36.394Z","to":"2026-04-17T00:52:36.394Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T01:02:39.064Z","to":"2026-04-17T01:32:30.948Z","count":4,"avg":543,"min":435,"max":655,"p95":655}
-{"type":"fail","from":"2026-04-17T01:42:31.503Z","to":"2026-04-17T01:52:28.511Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T02:02:32.971Z","to":"2026-04-17T02:02:32.971Z","count":1,"avg":536,"min":536,"max":536,"p95":536}
-{"type":"fail","from":"2026-04-17T02:15:56.859Z","to":"2026-04-17T02:15:56.859Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T02:22:20.270Z","to":"2026-04-17T02:22:20.270Z","count":1,"avg":809,"min":809,"max":809,"p95":809}
-{"type":"fail","from":"2026-04-17T02:32:36.243Z","to":"2026-04-17T02:32:36.243Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-17T02:42:28.853Z","to":"2026-04-17T02:42:28.853Z","count":1,"avg":609,"min":609,"max":609,"p95":609}
-{"type":"fail","from":"2026-04-17T02:52:26.541Z","to":"2026-04-17T03:12:30.993Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T03:22:22.536Z","to":"2026-04-17T03:22:22.536Z","count":1,"avg":668,"min":668,"max":668,"p95":668}
-{"type":"fail","from":"2026-04-17T03:32:42.874Z","to":"2026-04-17T03:42:29.881Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T03:52:24.604Z","to":"2026-04-17T03:52:24.604Z","count":1,"avg":812,"min":812,"max":812,"p95":812}
-{"type":"fail","from":"2026-04-17T04:02:29.326Z","to":"2026-04-17T04:52:37.449Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-17T05:02:38.271Z","to":"2026-04-17T05:02:38.271Z","count":1,"status":null,"error":"fetch failed","avg_latency":3445}
-{"type":"fail","from":"2026-04-17T05:12:22.155Z","to":"2026-04-17T05:22:26.697Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T05:32:33.481Z","to":"2026-04-17T05:42:26.849Z","count":2,"avg":529,"min":347,"max":711,"p95":711}
-{"type":"fail","from":"2026-04-17T05:52:23.382Z","to":"2026-04-17T06:22:27.232Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T06:32:31.589Z","to":"2026-04-17T06:42:28.972Z","count":2,"avg":1177,"min":1177,"max":1177,"p95":1177}
-{"type":"fail","from":"2026-04-17T06:52:27.463Z","to":"2026-04-17T06:52:27.463Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T07:02:29.006Z","to":"2026-04-17T07:21:14.095Z","count":3,"avg":1290,"min":830,"max":1946,"p95":1946}
-{"type":"fail","from":"2026-04-17T07:31:21.715Z","to":"2026-04-17T07:31:21.715Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T07:41:16.055Z","to":"2026-04-17T07:41:16.055Z","count":1,"avg":4632,"min":4632,"max":4632,"p95":4632}
-{"type":"fail","from":"2026-04-17T07:51:16.410Z","to":"2026-04-17T08:01:27.175Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T08:11:14.018Z","to":"2026-04-17T08:11:14.018Z","count":1,"avg":2035,"min":2035,"max":2035,"p95":2035}
-{"type":"fail","from":"2026-04-17T08:21:19.674Z","to":"2026-04-17T08:21:19.674Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T08:31:19.264Z","to":"2026-04-17T08:31:19.264Z","count":1,"avg":2168,"min":2168,"max":2168,"p95":2168}
-{"type":"fail","from":"2026-04-17T08:51:19.303Z","to":"2026-04-17T08:51:19.303Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T09:01:22.335Z","to":"2026-04-17T09:01:22.335Z","count":1,"avg":3186,"min":3186,"max":3186,"p95":3186}
-{"type":"fail","from":"2026-04-17T09:11:18.912Z","to":"2026-04-17T09:21:17.988Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T09:31:17.542Z","to":"2026-04-17T09:31:17.542Z","count":1,"avg":2351,"min":2351,"max":2351,"p95":2351}
-{"type":"fail","from":"2026-04-17T09:41:16.758Z","to":"2026-04-17T09:41:16.758Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T09:51:14.381Z","to":"2026-04-17T10:11:16.380Z","count":3,"avg":2150,"min":1946,"max":2407,"p95":2407}
-{"type":"fail","from":"2026-04-17T10:21:19.397Z","to":"2026-04-17T10:21:19.397Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T10:31:18.474Z","to":"2026-04-17T10:31:18.474Z","count":1,"avg":3777,"min":3777,"max":3777,"p95":3777}
-{"type":"fail","from":"2026-04-17T10:41:15.762Z","to":"2026-04-17T10:41:15.762Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T10:51:16.090Z","to":"2026-04-17T11:01:24.032Z","count":2,"avg":2331,"min":1590,"max":3072,"p95":3072}
-{"type":"fail","from":"2026-04-17T11:11:21.199Z","to":"2026-04-17T11:14:08.772Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T11:21:16.020Z","to":"2026-04-17T11:31:17.652Z","count":2,"avg":2116,"min":1873,"max":2358,"p95":2358}
-{"type":"fail","from":"2026-04-17T11:41:18.594Z","to":"2026-04-17T12:21:16.496Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T12:31:20.560Z","to":"2026-04-17T12:31:20.560Z","count":1,"avg":2821,"min":2821,"max":2821,"p95":2821}
-{"type":"fail","from":"2026-04-17T12:41:16.616Z","to":"2026-04-17T12:41:16.616Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T12:51:17.196Z","to":"2026-04-17T12:51:17.196Z","count":1,"avg":2456,"min":2456,"max":2456,"p95":2456}
-{"type":"fail","from":"2026-04-17T13:01:27.984Z","to":"2026-04-17T13:01:27.984Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T13:11:14.920Z","to":"2026-04-17T13:11:14.920Z","count":1,"avg":1733,"min":1733,"max":1733,"p95":1733}
-{"type":"fail","from":"2026-04-17T13:21:16.277Z","to":"2026-04-17T13:21:16.277Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T13:31:21.850Z","to":"2026-04-17T13:41:17.178Z","count":2,"avg":2761,"min":2461,"max":3060,"p95":3060}
-{"type":"fail","from":"2026-04-17T13:51:18.392Z","to":"2026-04-17T14:01:27.008Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T14:11:12.659Z","to":"2026-04-17T14:11:12.659Z","count":1,"avg":2147,"min":2147,"max":2147,"p95":2147}
-{"type":"fail","from":"2026-04-17T14:21:17.306Z","to":"2026-04-17T14:31:19.927Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T15:01:27.911Z","to":"2026-04-17T15:01:27.911Z","count":1,"avg":2551,"min":2551,"max":2551,"p95":2551}
-{"type":"fail","from":"2026-04-17T15:11:18.626Z","to":"2026-04-17T15:11:18.626Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T15:21:17.972Z","to":"2026-04-17T15:21:17.972Z","count":1,"avg":2998,"min":2998,"max":2998,"p95":2998}
-{"type":"fail","from":"2026-04-17T15:31:22.880Z","to":"2026-04-17T16:31:22.414Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T16:41:14.426Z","to":"2026-04-17T16:41:14.426Z","count":1,"avg":1699,"min":1699,"max":1699,"p95":1699}
-{"type":"fail","from":"2026-04-17T16:51:15.485Z","to":"2026-04-17T17:31:22.189Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T17:41:17.031Z","to":"2026-04-17T17:41:17.031Z","count":1,"avg":1762,"min":1762,"max":1762,"p95":1762}
-{"type":"fail","from":"2026-04-17T17:51:16.190Z","to":"2026-04-17T18:01:23.562Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T18:11:11.959Z","to":"2026-04-17T18:11:11.959Z","count":1,"avg":1826,"min":1826,"max":1826,"p95":1826}
-{"type":"fail","from":"2026-04-17T18:21:15.001Z","to":"2026-04-17T19:01:23.732Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T19:11:10.617Z","to":"2026-04-17T19:11:10.617Z","count":1,"avg":1711,"min":1711,"max":1711,"p95":1711}
-{"type":"fail","from":"2026-04-17T19:21:14.771Z","to":"2026-04-17T20:31:20.646Z","count":8,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T20:41:10.508Z","to":"2026-04-17T20:41:10.508Z","count":1,"avg":1898,"min":1898,"max":1898,"p95":1898}
-{"type":"fail","from":"2026-04-17T20:51:12.424Z","to":"2026-04-17T21:41:14.461Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T21:51:12.200Z","to":"2026-04-17T21:51:12.200Z","count":1,"avg":2839,"min":2839,"max":2839,"p95":2839}
-{"type":"fail","from":"2026-04-17T22:01:22.365Z","to":"2026-04-17T22:41:13.568Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T22:51:12.267Z","to":"2026-04-17T22:51:12.267Z","count":1,"avg":2911,"min":2911,"max":2911,"p95":2911}
-{"type":"fail","from":"2026-04-17T23:01:24.289Z","to":"2026-04-17T23:21:16.523Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T23:31:19.117Z","to":"2026-04-17T23:41:11.718Z","count":2,"avg":2535,"min":2225,"max":2845,"p95":2845}
-{"type":"fail","from":"2026-04-17T23:51:18.552Z","to":"2026-04-17T23:51:18.552Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-18T00:01:27.455Z","to":"2026-04-18T00:01:27.455Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T00:11:14.988Z","to":"2026-04-18T00:11:14.988Z","count":1,"avg":3009,"min":3009,"max":3009,"p95":3009}
-{"type":"fail","from":"2026-04-18T00:21:15.575Z","to":"2026-04-18T00:51:15.237Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T01:01:17.504Z","to":"2026-04-18T01:01:17.504Z","count":1,"avg":2161,"min":2161,"max":2161,"p95":2161}
-{"type":"fail","from":"2026-04-18T01:11:15.799Z","to":"2026-04-18T01:51:17.228Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T02:01:22.634Z","to":"2026-04-18T02:31:20.625Z","count":4,"avg":2303,"min":2078,"max":2657,"p95":2657}
-{"type":"fail","from":"2026-04-18T02:41:22.172Z","to":"2026-04-18T03:31:23.635Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T03:41:16.922Z","to":"2026-04-18T03:41:16.922Z","count":1,"avg":2767,"min":2767,"max":2767,"p95":2767}
-{"type":"fail","from":"2026-04-18T03:51:19.007Z","to":"2026-04-18T04:51:19.067Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T04:54:16.323Z","to":"2026-04-18T10:01:24.763Z","count":32,"avg":1665,"min":689,"max":4407,"p95":2948}
-{"type":"fail","from":"2026-04-18T10:11:35.817Z","to":"2026-04-18T10:11:35.817Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5409}
-{"type":"ok","from":"2026-04-18T10:21:16.359Z","to":"2026-04-18T23:51:14.893Z","count":82,"avg":1405,"min":639,"max":2985,"p95":2197}
+{"type":"ok","from":"2026-04-01T00:02:49.589Z","to":"2026-04-01T23:52:43.066Z","count":144,"avg":635,"min":345,"max":1771,"p95":1110,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-02T00:02:47.902Z","to":"2026-04-02T23:52:47.176Z","count":144,"avg":657,"min":342,"max":2460,"p95":1217,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-03T00:02:52.825Z","to":"2026-04-03T23:52:43.558Z","count":143,"avg":637,"min":338,"max":1920,"p95":1328,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T00:02:49.864Z","to":"2026-04-04T03:22:10.159Z","count":15,"avg":470,"min":345,"max":1234,"p95":1234,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T03:32:23.129Z","to":"2026-04-04T03:32:23.129Z","count":1,"status":null,"error":"fetch failed","avg_latency":863,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T03:42:18.618Z","to":"2026-04-04T12:02:27.665Z","count":51,"avg":821,"min":381,"max":4290,"p95":2020,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T12:12:40.444Z","to":"2026-04-04T12:12:40.444Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T12:22:29.571Z","to":"2026-04-04T12:22:29.571Z","count":1,"avg":817,"min":817,"max":817,"p95":817,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T12:32:43.806Z","to":"2026-04-04T12:32:43.806Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T12:42:37.363Z","to":"2026-04-04T12:42:37.363Z","count":1,"avg":1222,"min":1222,"max":1222,"p95":1222,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T12:52:30.401Z","to":"2026-04-04T13:02:29.807Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T13:12:26.440Z","to":"2026-04-04T14:52:26.362Z","count":11,"avg":1912,"min":473,"max":4912,"p95":4912,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T15:02:21.089Z","to":"2026-04-04T15:02:21.089Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T15:12:22.199Z","to":"2026-04-04T15:12:22.199Z","count":1,"avg":560,"min":560,"max":560,"p95":560,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T15:22:30.833Z","to":"2026-04-04T16:52:22.112Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T17:02:12.594Z","to":"2026-04-04T17:12:16.271Z","count":2,"avg":877,"min":648,"max":1105,"p95":1105,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T17:22:15.116Z","to":"2026-04-04T17:22:15.116Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T17:32:19.936Z","to":"2026-04-04T17:52:10.066Z","count":3,"avg":669,"min":454,"max":793,"p95":793,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T18:02:11.118Z","to":"2026-04-04T18:02:11.118Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T18:11:59.133Z","to":"2026-04-04T18:11:59.133Z","count":1,"avg":516,"min":516,"max":516,"p95":516,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T18:22:10.056Z","to":"2026-04-04T19:02:21.109Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T19:12:15.354Z","to":"2026-04-04T19:22:07.249Z","count":2,"avg":946,"min":895,"max":996,"p95":996,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T19:32:04.062Z","to":"2026-04-04T19:42:11.340Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T19:52:12.640Z","to":"2026-04-04T19:52:12.640Z","count":1,"avg":1338,"min":1338,"max":1338,"p95":1338,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T20:02:10.223Z","to":"2026-04-04T20:02:10.223Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T20:12:08.080Z","to":"2026-04-04T20:12:08.080Z","count":1,"avg":1258,"min":1258,"max":1258,"p95":1258,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T20:22:23.276Z","to":"2026-04-04T20:22:23.276Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T20:32:03.071Z","to":"2026-04-04T20:52:17.813Z","count":3,"avg":2387,"min":847,"max":3246,"p95":3246,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T21:02:15.179Z","to":"2026-04-04T21:12:04.271Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T21:22:07.592Z","to":"2026-04-04T21:22:07.592Z","count":1,"avg":4628,"min":4628,"max":4628,"p95":4628,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T21:32:11.594Z","to":"2026-04-04T21:42:06.705Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T21:52:05.657Z","to":"2026-04-04T22:02:22.862Z","count":2,"avg":1403,"min":1172,"max":1633,"p95":1633,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T22:12:09.257Z","to":"2026-04-04T22:52:10.041Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T23:01:57.842Z","to":"2026-04-04T23:01:57.842Z","count":1,"avg":1085,"min":1085,"max":1085,"p95":1085,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T23:12:26.592Z","to":"2026-04-04T23:12:26.592Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-04T23:22:04.847Z","to":"2026-04-04T23:32:06.750Z","count":2,"avg":725,"min":557,"max":893,"p95":893,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-04T23:42:03.324Z","to":"2026-04-04T23:52:10.357Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T00:02:09.691Z","to":"2026-04-05T00:02:09.691Z","count":1,"avg":727,"min":727,"max":727,"p95":727,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T00:12:10.877Z","to":"2026-04-05T00:12:10.877Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T00:22:04.791Z","to":"2026-04-05T00:22:04.791Z","count":1,"avg":766,"min":766,"max":766,"p95":766,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T00:32:24.354Z","to":"2026-04-05T00:32:24.354Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T00:42:16.800Z","to":"2026-04-05T00:52:22.781Z","count":2,"avg":1659,"min":1198,"max":2119,"p95":2119,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T01:02:12.065Z","to":"2026-04-05T01:02:12.065Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T01:12:14.836Z","to":"2026-04-05T01:12:14.836Z","count":1,"avg":889,"min":889,"max":889,"p95":889,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T01:22:28.543Z","to":"2026-04-05T01:32:20.535Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T01:42:22.064Z","to":"2026-04-05T01:52:30.056Z","count":2,"avg":902,"min":818,"max":986,"p95":986,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T02:02:30.270Z","to":"2026-04-05T02:12:21.088Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T02:22:25.844Z","to":"2026-04-05T02:22:25.844Z","count":1,"avg":1180,"min":1180,"max":1180,"p95":1180,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T02:32:25.826Z","to":"2026-04-05T02:32:25.826Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T02:42:17.940Z","to":"2026-04-05T03:32:17.106Z","count":6,"avg":928,"min":567,"max":1577,"p95":1577,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T03:42:20.742Z","to":"2026-04-05T03:42:20.742Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T03:52:23.599Z","to":"2026-04-05T04:12:20.252Z","count":3,"avg":761,"min":501,"max":1170,"p95":1170,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T04:22:13.749Z","to":"2026-04-05T04:22:13.749Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T04:32:10.610Z","to":"2026-04-05T04:32:10.610Z","count":1,"avg":814,"min":814,"max":814,"p95":814,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T04:42:20.165Z","to":"2026-04-05T05:02:15.341Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T05:12:12.255Z","to":"2026-04-05T06:12:22.605Z","count":7,"avg":1203,"min":483,"max":4774,"p95":4774,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T06:22:32.599Z","to":"2026-04-05T06:52:29.924Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T07:02:20.755Z","to":"2026-04-05T07:02:20.755Z","count":1,"avg":3982,"min":3982,"max":3982,"p95":3982,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T07:12:18.876Z","to":"2026-04-05T07:42:33.158Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T07:52:16.284Z","to":"2026-04-05T07:52:16.284Z","count":1,"avg":2829,"min":2829,"max":2829,"p95":2829,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T08:02:27.049Z","to":"2026-04-05T08:02:27.049Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T08:12:33.042Z","to":"2026-04-05T08:12:33.042Z","count":1,"avg":764,"min":764,"max":764,"p95":764,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T08:22:29.324Z","to":"2026-04-05T08:22:29.324Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T08:32:26.902Z","to":"2026-04-05T08:52:20.581Z","count":3,"avg":556,"min":482,"max":610,"p95":610,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T09:02:32.059Z","to":"2026-04-05T09:02:32.059Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T09:12:12.270Z","to":"2026-04-05T09:12:12.270Z","count":1,"avg":844,"min":844,"max":844,"p95":844,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T09:22:19.651Z","to":"2026-04-05T09:32:31.185Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T09:42:09.215Z","to":"2026-04-05T09:42:09.215Z","count":1,"avg":724,"min":724,"max":724,"p95":724,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T09:52:06.866Z","to":"2026-04-05T10:02:22.232Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T10:12:03.724Z","to":"2026-04-05T10:12:03.724Z","count":1,"avg":624,"min":624,"max":624,"p95":624,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T10:22:21.398Z","to":"2026-04-05T10:32:23.765Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T10:42:10.415Z","to":"2026-04-05T10:42:10.415Z","count":1,"avg":3706,"min":3706,"max":3706,"p95":3706,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T10:52:24.192Z","to":"2026-04-05T10:52:24.192Z","count":1,"status":null,"error":"fetch failed","avg_latency":3144,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T11:02:15.051Z","to":"2026-04-05T11:32:25.967Z","count":4,"avg":943,"min":655,"max":1625,"p95":1625,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T11:42:48.713Z","to":"2026-04-05T11:42:48.713Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T11:52:36.442Z","to":"2026-04-05T12:12:12.662Z","count":3,"avg":2009,"min":1122,"max":2738,"p95":2738,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T12:22:23.051Z","to":"2026-04-05T12:22:23.051Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T12:32:16.718Z","to":"2026-04-05T12:52:10.439Z","count":3,"avg":864,"min":375,"max":1319,"p95":1319,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T13:02:35.932Z","to":"2026-04-05T13:02:35.932Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T13:12:29.085Z","to":"2026-04-05T14:12:30.986Z","count":7,"avg":1288,"min":385,"max":2527,"p95":2527,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T14:22:23.255Z","to":"2026-04-05T14:22:23.255Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T14:32:39.214Z","to":"2026-04-05T15:32:15.045Z","count":7,"avg":1689,"min":409,"max":3684,"p95":3684,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T15:42:23.585Z","to":"2026-04-05T15:42:23.585Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T15:52:19.321Z","to":"2026-04-05T16:32:22.466Z","count":5,"avg":2627,"min":502,"max":4857,"p95":4857,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T16:42:27.721Z","to":"2026-04-05T16:42:27.721Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T16:52:15.375Z","to":"2026-04-05T17:12:17.067Z","count":3,"avg":993,"min":690,"max":1157,"p95":1157,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T17:22:23.202Z","to":"2026-04-05T17:22:23.202Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T17:32:11.139Z","to":"2026-04-05T18:02:02.579Z","count":4,"avg":1272,"min":632,"max":2517,"p95":2517,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T18:12:24.541Z","to":"2026-04-05T18:12:24.541Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T18:22:09.815Z","to":"2026-04-05T18:32:13.285Z","count":2,"avg":1285,"min":1057,"max":1513,"p95":1513,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T18:42:12.384Z","to":"2026-04-05T18:42:12.384Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T18:52:13.860Z","to":"2026-04-05T19:22:02.859Z","count":4,"avg":1345,"min":432,"max":2784,"p95":2784,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T19:32:16.683Z","to":"2026-04-05T19:52:13.996Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T20:02:09.408Z","to":"2026-04-05T20:02:09.408Z","count":1,"avg":526,"min":526,"max":526,"p95":526,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T20:12:10.980Z","to":"2026-04-05T20:12:10.980Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T20:22:08.885Z","to":"2026-04-05T20:22:08.885Z","count":1,"avg":418,"min":418,"max":418,"p95":418,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T20:32:16.763Z","to":"2026-04-05T20:32:16.763Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T20:42:01.154Z","to":"2026-04-05T20:42:01.154Z","count":1,"avg":608,"min":608,"max":608,"p95":608,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T20:52:01.450Z","to":"2026-04-05T20:52:01.450Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T21:02:18.363Z","to":"2026-04-05T21:41:57.538Z","count":5,"avg":1666,"min":654,"max":3773,"p95":3773,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T21:52:14.232Z","to":"2026-04-05T22:12:08.623Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T22:22:11.068Z","to":"2026-04-05T22:22:11.068Z","count":1,"avg":3753,"min":3753,"max":3753,"p95":3753,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T22:32:11.267Z","to":"2026-04-05T22:32:11.267Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T22:42:05.832Z","to":"2026-04-05T22:52:18.400Z","count":2,"avg":1671,"min":861,"max":2481,"p95":2481,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T23:02:19.743Z","to":"2026-04-05T23:02:19.743Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T23:12:09.196Z","to":"2026-04-05T23:12:09.196Z","count":1,"avg":4863,"min":4863,"max":4863,"p95":4863,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-05T23:22:13.502Z","to":"2026-04-05T23:32:12.483Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-05T23:42:04.184Z","to":"2026-04-05T23:52:17.111Z","count":2,"avg":1463,"min":1337,"max":1589,"p95":1589,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-06T00:02:19.662Z","to":"2026-04-06T00:02:19.662Z","count":1,"avg":1812,"min":1812,"max":1812,"p95":1812,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-06T00:12:16.017Z","to":"2026-04-06T00:22:19.322Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-06T00:32:24.203Z","to":"2026-04-06T03:32:19.877Z","count":19,"avg":927,"min":442,"max":2470,"p95":2470,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-06T03:42:10.377Z","to":"2026-04-06T03:42:10.377Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-06T03:52:27.539Z","to":"2026-04-06T03:52:27.539Z","count":1,"avg":1307,"min":1307,"max":1307,"p95":1307,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-06T04:02:06.057Z","to":"2026-04-06T04:02:06.057Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-06T04:12:14.000Z","to":"2026-04-06T23:51:53.592Z","count":119,"avg":865,"min":347,"max":4692,"p95":1936,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-07T00:02:03.004Z","to":"2026-04-07T23:51:57.905Z","count":144,"avg":677,"min":334,"max":3115,"p95":1256,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-08T00:02:08.436Z","to":"2026-04-08T09:22:21.316Z","count":57,"avg":1048,"min":381,"max":4761,"p95":3932,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-08T09:32:23.149Z","to":"2026-04-08T09:32:23.149Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-08T09:42:23.588Z","to":"2026-04-08T10:42:22.967Z","count":7,"avg":1477,"min":487,"max":3401,"p95":3401,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-08T10:52:36.502Z","to":"2026-04-08T10:52:36.502Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-08T11:02:29.813Z","to":"2026-04-08T11:42:25.380Z","count":5,"avg":1698,"min":691,"max":2854,"p95":2854,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-08T11:52:26.755Z","to":"2026-04-08T11:52:26.755Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-08T12:02:30.732Z","to":"2026-04-08T13:12:17.151Z","count":8,"avg":1330,"min":419,"max":2449,"p95":2449,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-08T13:22:22.419Z","to":"2026-04-08T13:22:22.419Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-08T13:32:35.873Z","to":"2026-04-08T15:22:25.032Z","count":12,"avg":1552,"min":348,"max":3064,"p95":3064,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-08T15:32:25.110Z","to":"2026-04-08T15:32:25.110Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-08T15:42:22.990Z","to":"2026-04-08T16:02:18.981Z","count":3,"avg":994,"min":456,"max":1789,"p95":1789,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-08T16:12:23.305Z","to":"2026-04-08T16:12:23.305Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-08T16:22:12.350Z","to":"2026-04-08T22:42:23.370Z","count":39,"avg":1409,"min":413,"max":4756,"p95":4721,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-08T22:52:25.568Z","to":"2026-04-08T22:52:25.568Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-08T23:02:07.924Z","to":"2026-04-08T23:52:14.825Z","count":6,"avg":2193,"min":746,"max":3915,"p95":3915,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-09T00:02:05.183Z","to":"2026-04-09T00:22:15.488Z","count":3,"avg":521,"min":479,"max":550,"p95":550,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-09T00:32:21.367Z","to":"2026-04-09T00:32:21.367Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-09T00:42:22.194Z","to":"2026-04-09T02:42:16.738Z","count":13,"avg":1739,"min":420,"max":4769,"p95":4769,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-09T02:52:20.766Z","to":"2026-04-09T02:52:20.766Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-09T03:02:24.863Z","to":"2026-04-09T04:12:34.251Z","count":8,"avg":1366,"min":403,"max":4742,"p95":4742,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-09T04:22:14.333Z","to":"2026-04-09T04:22:14.333Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-09T04:32:16.888Z","to":"2026-04-09T04:42:24.197Z","count":2,"avg":1394,"min":1299,"max":1489,"p95":1489,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-09T04:52:33.540Z","to":"2026-04-09T04:52:33.540Z","count":1,"status":null,"error":"fetch failed","avg_latency":3258,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-09T05:02:07.483Z","to":"2026-04-09T05:42:19.294Z","count":5,"avg":1590,"min":414,"max":4472,"p95":4472,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-09T05:52:34.531Z","to":"2026-04-09T05:52:34.531Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-09T06:02:32.151Z","to":"2026-04-09T06:42:21.030Z","count":5,"avg":831,"min":395,"max":1902,"p95":1902,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-09T06:52:24.524Z","to":"2026-04-09T06:52:24.524Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-09T07:02:23.799Z","to":"2026-04-09T08:02:20.203Z","count":7,"avg":1152,"min":483,"max":1745,"p95":1745,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-09T08:12:22.620Z","to":"2026-04-09T08:12:22.620Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-09T08:22:26.589Z","to":"2026-04-09T23:51:51.009Z","count":94,"avg":681,"min":331,"max":3784,"p95":1404,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-10T00:02:01.028Z","to":"2026-04-10T05:12:06.245Z","count":32,"avg":798,"min":355,"max":4558,"p95":1487,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-10T05:22:23.880Z","to":"2026-04-10T05:22:23.880Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-10T05:32:13.931Z","to":"2026-04-10T09:52:07.490Z","count":27,"avg":811,"min":373,"max":3477,"p95":1618,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-10T10:02:08.404Z","to":"2026-04-10T10:02:08.404Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-10T10:12:12.290Z","to":"2026-04-10T23:52:00.067Z","count":83,"avg":611,"min":334,"max":4801,"p95":1202,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-11T00:01:59.496Z","to":"2026-04-11T23:52:08.006Z","count":143,"avg":527,"min":329,"max":2522,"p95":1036,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-12T00:01:57.097Z","to":"2026-04-12T23:51:55.594Z","count":144,"avg":549,"min":325,"max":3561,"p95":1279,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-13T00:01:56.091Z","to":"2026-04-13T15:02:13.215Z","count":84,"avg":566,"min":321,"max":1989,"p95":1268,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-14T02:22:17.350Z","to":"2026-04-14T23:51:45.383Z","count":122,"avg":521,"min":334,"max":1349,"p95":806,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T00:01:47.382Z","to":"2026-04-15T07:12:01.913Z","count":44,"avg":494,"min":324,"max":1226,"p95":829,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T07:22:24.084Z","to":"2026-04-15T07:22:24.084Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T07:32:18.403Z","to":"2026-04-15T07:32:18.403Z","count":1,"avg":374,"min":374,"max":374,"p95":374,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T07:42:18.588Z","to":"2026-04-15T07:42:18.588Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T07:52:13.130Z","to":"2026-04-15T07:52:13.130Z","count":1,"avg":1884,"min":1884,"max":1884,"p95":1884,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T08:12:47.946Z","to":"2026-04-15T08:22:22.904Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T08:32:07.333Z","to":"2026-04-15T08:32:07.333Z","count":1,"avg":1995,"min":1995,"max":1995,"p95":1995,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T08:42:18.407Z","to":"2026-04-15T08:42:18.407Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T08:52:19.760Z","to":"2026-04-15T09:02:07.226Z","count":2,"avg":1436,"min":1118,"max":1753,"p95":1753,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T09:22:14.782Z","to":"2026-04-15T09:32:22.915Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T09:42:23.910Z","to":"2026-04-15T09:42:23.910Z","count":1,"avg":1063,"min":1063,"max":1063,"p95":1063,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T09:52:39.265Z","to":"2026-04-15T10:52:14.962Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T11:02:13.373Z","to":"2026-04-15T12:42:21.911Z","count":10,"avg":1300,"min":372,"max":4332,"p95":4332,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T12:52:28.520Z","to":"2026-04-15T12:52:28.520Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T13:02:15.003Z","to":"2026-04-15T17:42:10.725Z","count":28,"avg":1172,"min":335,"max":4503,"p95":3837,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T17:52:13.427Z","to":"2026-04-15T17:52:13.427Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T18:02:04.820Z","to":"2026-04-15T18:22:11.782Z","count":3,"avg":1728,"min":380,"max":3431,"p95":3431,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T18:32:08.558Z","to":"2026-04-15T19:22:07.249Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T19:31:55.576Z","to":"2026-04-15T19:31:55.576Z","count":1,"avg":4406,"min":4406,"max":4406,"p95":4406,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T19:41:59.972Z","to":"2026-04-15T20:02:06.307Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T20:11:50.364Z","to":"2026-04-15T20:21:55.752Z","count":2,"avg":765,"min":461,"max":1069,"p95":1069,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T20:32:05.713Z","to":"2026-04-15T20:32:05.713Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T20:42:02.466Z","to":"2026-04-15T20:42:02.466Z","count":1,"avg":723,"min":723,"max":723,"p95":723,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T20:51:57.304Z","to":"2026-04-15T21:21:57.248Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T21:31:54.488Z","to":"2026-04-15T21:31:54.488Z","count":1,"avg":404,"min":404,"max":404,"p95":404,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T21:42:00.524Z","to":"2026-04-15T23:22:04.499Z","count":11,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-15T23:31:59.811Z","to":"2026-04-15T23:31:59.811Z","count":1,"avg":655,"min":655,"max":655,"p95":655,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-15T23:42:05.913Z","to":"2026-04-15T23:52:00.688Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T00:02:05.832Z","to":"2026-04-16T00:02:05.832Z","count":1,"avg":535,"min":535,"max":535,"p95":535,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T00:11:58.104Z","to":"2026-04-16T00:11:58.104Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T00:21:56.985Z","to":"2026-04-16T00:32:03.071Z","count":2,"avg":858,"min":531,"max":1185,"p95":1185,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T00:42:10.109Z","to":"2026-04-16T00:52:09.168Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T01:02:02.827Z","to":"2026-04-16T01:12:04.195Z","count":2,"avg":553,"min":407,"max":698,"p95":698,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T01:22:13.502Z","to":"2026-04-16T01:22:13.502Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T01:32:08.516Z","to":"2026-04-16T01:32:08.516Z","count":1,"avg":533,"min":533,"max":533,"p95":533,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T01:41:59.203Z","to":"2026-04-16T02:02:19.937Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T02:12:16.903Z","to":"2026-04-16T02:12:16.903Z","count":1,"avg":1150,"min":1150,"max":1150,"p95":1150,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T02:22:14.977Z","to":"2026-04-16T02:22:14.977Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T02:32:06.332Z","to":"2026-04-16T02:32:06.332Z","count":1,"avg":601,"min":601,"max":601,"p95":601,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T02:42:27.525Z","to":"2026-04-16T03:12:12.949Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T03:22:09.526Z","to":"2026-04-16T03:22:09.526Z","count":1,"avg":696,"min":696,"max":696,"p95":696,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T03:32:13.152Z","to":"2026-04-16T04:22:08.957Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T04:32:03.412Z","to":"2026-04-16T05:52:15.591Z","count":5,"avg":966,"min":517,"max":1265,"p95":1265,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T06:02:07.271Z","to":"2026-04-16T06:02:07.271Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T06:13:59.655Z","to":"2026-04-16T06:32:26.037Z","count":3,"avg":977,"min":503,"max":1260,"p95":1260,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T06:42:24.944Z","to":"2026-04-16T06:42:24.944Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T06:52:21.170Z","to":"2026-04-16T06:52:21.170Z","count":1,"avg":553,"min":553,"max":553,"p95":553,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T07:02:32.288Z","to":"2026-04-16T07:22:21.171Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T07:32:31.126Z","to":"2026-04-16T07:32:31.126Z","count":1,"avg":1198,"min":1198,"max":1198,"p95":1198,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T07:42:21.800Z","to":"2026-04-16T07:52:21.625Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T08:02:41.119Z","to":"2026-04-16T08:02:41.119Z","count":1,"avg":418,"min":418,"max":418,"p95":418,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T08:12:23.140Z","to":"2026-04-16T08:12:23.140Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T08:22:07.946Z","to":"2026-04-16T08:22:07.946Z","count":1,"avg":993,"min":993,"max":993,"p95":993,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T08:32:24.263Z","to":"2026-04-16T08:32:24.263Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T08:42:21.745Z","to":"2026-04-16T08:52:25.014Z","count":2,"avg":479,"min":434,"max":523,"p95":523,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T09:02:26.350Z","to":"2026-04-16T09:02:26.350Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T09:12:19.180Z","to":"2026-04-16T09:12:19.180Z","count":1,"avg":732,"min":732,"max":732,"p95":732,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T09:22:39.097Z","to":"2026-04-16T09:32:36.183Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T09:42:17.282Z","to":"2026-04-16T09:42:17.282Z","count":1,"avg":405,"min":405,"max":405,"p95":405,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T09:52:32.153Z","to":"2026-04-16T10:22:33.175Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T10:32:20.872Z","to":"2026-04-16T10:32:20.872Z","count":1,"avg":594,"min":594,"max":594,"p95":594,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T10:42:25.722Z","to":"2026-04-16T11:12:21.864Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T12:02:58.723Z","to":"2026-04-16T12:12:35.834Z","count":2,"avg":2658,"min":1389,"max":3926,"p95":3926,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T12:22:43.744Z","to":"2026-04-16T12:22:43.744Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T12:32:39.042Z","to":"2026-04-16T12:42:35.825Z","count":2,"avg":741,"min":719,"max":763,"p95":763,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T12:52:34.791Z","to":"2026-04-16T12:52:34.791Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T13:02:38.337Z","to":"2026-04-16T13:02:38.337Z","count":1,"avg":640,"min":640,"max":640,"p95":640,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T13:12:33.204Z","to":"2026-04-16T14:22:38.716Z","count":8,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T14:32:36.630Z","to":"2026-04-16T15:22:57.554Z","count":6,"avg":583,"min":447,"max":940,"p95":940,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T15:32:39.861Z","to":"2026-04-16T15:32:39.861Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T15:42:41.104Z","to":"2026-04-16T15:42:41.104Z","count":1,"avg":1565,"min":1565,"max":1565,"p95":1565,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T15:52:31.250Z","to":"2026-04-16T16:22:40.852Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T16:32:39.650Z","to":"2026-04-16T16:42:29.040Z","count":2,"avg":1187,"min":510,"max":1864,"p95":1864,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T16:52:37.717Z","to":"2026-04-16T17:32:42.088Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T17:42:30.161Z","to":"2026-04-16T17:42:30.161Z","count":1,"avg":490,"min":490,"max":490,"p95":490,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T17:52:31.770Z","to":"2026-04-16T18:12:37.093Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T18:22:23.547Z","to":"2026-04-16T18:22:23.547Z","count":1,"avg":482,"min":482,"max":482,"p95":482,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T18:32:19.494Z","to":"2026-04-16T18:52:15.798Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T19:02:32.854Z","to":"2026-04-16T19:42:16.700Z","count":5,"avg":880,"min":494,"max":1382,"p95":1382,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T19:52:20.379Z","to":"2026-04-16T21:22:21.975Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T21:32:20.570Z","to":"2026-04-16T21:42:19.818Z","count":2,"avg":578,"min":367,"max":789,"p95":789,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T21:52:19.294Z","to":"2026-04-16T23:22:21.058Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-16T23:32:24.781Z","to":"2026-04-16T23:32:24.781Z","count":1,"avg":523,"min":523,"max":523,"p95":523,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-16T23:42:29.596Z","to":"2026-04-16T23:52:21.130Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T00:02:42.007Z","to":"2026-04-17T00:02:42.007Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T00:12:17.748Z","to":"2026-04-17T00:12:17.748Z","count":1,"avg":475,"min":475,"max":475,"p95":475,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T00:22:32.566Z","to":"2026-04-17T00:22:32.566Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T00:32:21.839Z","to":"2026-04-17T00:42:28.582Z","count":2,"avg":509,"min":492,"max":525,"p95":525,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T00:52:36.394Z","to":"2026-04-17T00:52:36.394Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T01:02:39.064Z","to":"2026-04-17T01:32:30.948Z","count":4,"avg":543,"min":435,"max":655,"p95":655,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T01:42:31.503Z","to":"2026-04-17T01:52:28.511Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T02:02:32.971Z","to":"2026-04-17T02:02:32.971Z","count":1,"avg":536,"min":536,"max":536,"p95":536,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T02:15:56.859Z","to":"2026-04-17T02:15:56.859Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T02:22:20.270Z","to":"2026-04-17T02:22:20.270Z","count":1,"avg":809,"min":809,"max":809,"p95":809,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T02:32:36.243Z","to":"2026-04-17T02:32:36.243Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T02:42:28.853Z","to":"2026-04-17T02:42:28.853Z","count":1,"avg":609,"min":609,"max":609,"p95":609,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T02:52:26.541Z","to":"2026-04-17T03:12:30.993Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T03:22:22.536Z","to":"2026-04-17T03:22:22.536Z","count":1,"avg":668,"min":668,"max":668,"p95":668,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T03:32:42.874Z","to":"2026-04-17T03:42:29.881Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T03:52:24.604Z","to":"2026-04-17T03:52:24.604Z","count":1,"avg":812,"min":812,"max":812,"p95":812,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T04:02:29.326Z","to":"2026-04-17T04:52:37.449Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T05:02:38.271Z","to":"2026-04-17T05:02:38.271Z","count":1,"status":null,"error":"fetch failed","avg_latency":3445,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T05:12:22.155Z","to":"2026-04-17T05:22:26.697Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T05:32:33.481Z","to":"2026-04-17T05:42:26.849Z","count":2,"avg":529,"min":347,"max":711,"p95":711,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T05:52:23.382Z","to":"2026-04-17T06:22:27.232Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T06:32:31.589Z","to":"2026-04-17T06:42:28.972Z","count":2,"avg":1177,"min":1177,"max":1177,"p95":1177,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T06:52:27.463Z","to":"2026-04-17T06:52:27.463Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T07:02:29.006Z","to":"2026-04-17T07:21:14.095Z","count":3,"avg":1290,"min":830,"max":1946,"p95":1946,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T07:31:21.715Z","to":"2026-04-17T07:31:21.715Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T07:41:16.055Z","to":"2026-04-17T07:41:16.055Z","count":1,"avg":4632,"min":4632,"max":4632,"p95":4632,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T07:51:16.410Z","to":"2026-04-17T08:01:27.175Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T08:11:14.018Z","to":"2026-04-17T08:11:14.018Z","count":1,"avg":2035,"min":2035,"max":2035,"p95":2035,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T08:21:19.674Z","to":"2026-04-17T08:21:19.674Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T08:31:19.264Z","to":"2026-04-17T08:31:19.264Z","count":1,"avg":2168,"min":2168,"max":2168,"p95":2168,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T08:51:19.303Z","to":"2026-04-17T08:51:19.303Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T09:01:22.335Z","to":"2026-04-17T09:01:22.335Z","count":1,"avg":3186,"min":3186,"max":3186,"p95":3186,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T09:11:18.912Z","to":"2026-04-17T09:21:17.988Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T09:31:17.542Z","to":"2026-04-17T09:31:17.542Z","count":1,"avg":2351,"min":2351,"max":2351,"p95":2351,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T09:41:16.758Z","to":"2026-04-17T09:41:16.758Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T09:51:14.381Z","to":"2026-04-17T10:11:16.380Z","count":3,"avg":2150,"min":1946,"max":2407,"p95":2407,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T10:21:19.397Z","to":"2026-04-17T10:21:19.397Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T10:31:18.474Z","to":"2026-04-17T10:31:18.474Z","count":1,"avg":3777,"min":3777,"max":3777,"p95":3777,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T10:41:15.762Z","to":"2026-04-17T10:41:15.762Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T10:51:16.090Z","to":"2026-04-17T11:01:24.032Z","count":2,"avg":2331,"min":1590,"max":3072,"p95":3072,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T11:11:21.199Z","to":"2026-04-17T11:14:08.772Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T11:21:16.020Z","to":"2026-04-17T11:31:17.652Z","count":2,"avg":2116,"min":1873,"max":2358,"p95":2358,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T11:41:18.594Z","to":"2026-04-17T12:21:16.496Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T12:31:20.560Z","to":"2026-04-17T12:31:20.560Z","count":1,"avg":2821,"min":2821,"max":2821,"p95":2821,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T12:41:16.616Z","to":"2026-04-17T12:41:16.616Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T12:51:17.196Z","to":"2026-04-17T12:51:17.196Z","count":1,"avg":2456,"min":2456,"max":2456,"p95":2456,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T13:01:27.984Z","to":"2026-04-17T13:01:27.984Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T13:11:14.920Z","to":"2026-04-17T13:11:14.920Z","count":1,"avg":1733,"min":1733,"max":1733,"p95":1733,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T13:21:16.277Z","to":"2026-04-17T13:21:16.277Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T13:31:21.850Z","to":"2026-04-17T13:41:17.178Z","count":2,"avg":2761,"min":2461,"max":3060,"p95":3060,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T13:51:18.392Z","to":"2026-04-17T14:01:27.008Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T14:11:12.659Z","to":"2026-04-17T14:11:12.659Z","count":1,"avg":2147,"min":2147,"max":2147,"p95":2147,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T14:21:17.306Z","to":"2026-04-17T14:31:19.927Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T15:01:27.911Z","to":"2026-04-17T15:01:27.911Z","count":1,"avg":2551,"min":2551,"max":2551,"p95":2551,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T15:11:18.626Z","to":"2026-04-17T15:11:18.626Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T15:21:17.972Z","to":"2026-04-17T15:21:17.972Z","count":1,"avg":2998,"min":2998,"max":2998,"p95":2998,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T15:31:22.880Z","to":"2026-04-17T16:31:22.414Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T16:41:14.426Z","to":"2026-04-17T16:41:14.426Z","count":1,"avg":1699,"min":1699,"max":1699,"p95":1699,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T16:51:15.485Z","to":"2026-04-17T17:31:22.189Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T17:41:17.031Z","to":"2026-04-17T17:41:17.031Z","count":1,"avg":1762,"min":1762,"max":1762,"p95":1762,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T17:51:16.190Z","to":"2026-04-17T18:01:23.562Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T18:11:11.959Z","to":"2026-04-17T18:11:11.959Z","count":1,"avg":1826,"min":1826,"max":1826,"p95":1826,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T18:21:15.001Z","to":"2026-04-17T19:01:23.732Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T19:11:10.617Z","to":"2026-04-17T19:11:10.617Z","count":1,"avg":1711,"min":1711,"max":1711,"p95":1711,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T19:21:14.771Z","to":"2026-04-17T20:31:20.646Z","count":8,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T20:41:10.508Z","to":"2026-04-17T20:41:10.508Z","count":1,"avg":1898,"min":1898,"max":1898,"p95":1898,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T20:51:12.424Z","to":"2026-04-17T21:41:14.461Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T21:51:12.200Z","to":"2026-04-17T21:51:12.200Z","count":1,"avg":2839,"min":2839,"max":2839,"p95":2839,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T22:01:22.365Z","to":"2026-04-17T22:41:13.568Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T22:51:12.267Z","to":"2026-04-17T22:51:12.267Z","count":1,"avg":2911,"min":2911,"max":2911,"p95":2911,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T23:01:24.289Z","to":"2026-04-17T23:21:16.523Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-17T23:31:19.117Z","to":"2026-04-17T23:41:11.718Z","count":2,"avg":2535,"min":2225,"max":2845,"p95":2845,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-17T23:51:18.552Z","to":"2026-04-17T23:51:18.552Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-18T00:01:27.455Z","to":"2026-04-18T00:01:27.455Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-18T00:11:14.988Z","to":"2026-04-18T00:11:14.988Z","count":1,"avg":3009,"min":3009,"max":3009,"p95":3009,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-18T00:21:15.575Z","to":"2026-04-18T00:51:15.237Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-18T01:01:17.504Z","to":"2026-04-18T01:01:17.504Z","count":1,"avg":2161,"min":2161,"max":2161,"p95":2161,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-18T01:11:15.799Z","to":"2026-04-18T01:51:17.228Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-18T02:01:22.634Z","to":"2026-04-18T02:31:20.625Z","count":4,"avg":2303,"min":2078,"max":2657,"p95":2657,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-18T02:41:22.172Z","to":"2026-04-18T03:31:23.635Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-18T03:41:16.922Z","to":"2026-04-18T03:41:16.922Z","count":1,"avg":2767,"min":2767,"max":2767,"p95":2767,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-18T03:51:19.007Z","to":"2026-04-18T04:51:19.067Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-18T04:54:16.323Z","to":"2026-04-18T10:01:24.763Z","count":32,"avg":1665,"min":689,"max":4407,"p95":2948,"url":"https://api.chibanban.de"}
+{"type":"fail","from":"2026-04-18T10:11:35.817Z","to":"2026-04-18T10:11:35.817Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5409,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-18T10:21:16.359Z","to":"2026-04-18T23:51:14.893Z","count":82,"avg":1405,"min":639,"max":2985,"p95":2197,"url":"https://api.chibanban.de"}
+{"type":"ok","from":"2026-04-19T00:01:26.962Z","to":"2026-04-19T04:01:25.253Z","count":22,"url":"https://api.chibanban.de","avg":1302,"min":543,"max":2906,"p95":1805}
+{"type":"fail","from":"2026-04-19T04:11:13.801Z","to":"2026-04-19T07:51:12.358Z","count":23,"url":"https://chibanban.de","status":403,"error":"HTTP 403","avg_latency":34}
+{"type":"ok","from":"2026-04-19T08:05:37.662Z","to":"2026-04-19T08:05:37.662Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8TwsiQ6KRuUAsdJnj%2BmQNwRf%2BexrRorO%2Byw02aNDIHBSso5Dq4xUvvhVtEgHxvH9wIJHYy&from=%2Fapi%2Fstatus","avg":1130,"min":1130,"max":1130,"p95":1130}
+{"type":"ok","from":"2026-04-19T08:25:37.914Z","to":"2026-04-19T08:25:37.914Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8TwsqY6KRuUAsdJnj%2BmQPzeuiAoxjXAb2G2s%2BxHMQAFsN0rlrA%2BqYpyjEJX9rpHK9UJHYy&from=%2Fapi%2Fstatus","avg":987,"min":987,"max":987,"p95":987}
+{"type":"ok","from":"2026-04-19T08:45:15.340Z","to":"2026-04-19T08:45:15.340Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8TwsWa6qduUAsdJnj%2BmQNR%2F7IavU1paNC7aZKLgIzoN7ChZgF8kEnU%2F6uvBQSA3PyOJHYy&from=%2Fapi%2Fstatus","avg":1048,"min":1048,"max":1048,"p95":1048}
+{"type":"ok","from":"2026-04-19T09:05:12.003Z","to":"2026-04-19T09:05:12.003Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8TwsSc6qJuUAsdJnj%2BmQMO8CvGdQFVvlDjOfF5FV1vxZdHiGjDQrc2WGXPA%2Fghs51dJHYy&from=%2Fapi%2Fstatus","avg":1078,"min":1078,"max":1078,"p95":1078}
+{"type":"ok","from":"2026-04-19T09:25:38.707Z","to":"2026-04-19T09:25:38.707Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Tw82e6KtuUAsdJnj%2BmQOPRnlMo6tF%2F28%2F1YTtMurbmUnJOFcCg75FmyXfFHjBgm7vJHYy&from=%2Fapi%2Fstatus","avg":559,"min":559,"max":559,"p95":559}
+{"type":"ok","from":"2026-04-19T09:45:22.295Z","to":"2026-04-19T09:45:22.295Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Tw8yQ6aJuUAsdJnj%2BmQNQRrDi6Q8PCMk8FUMH%2FHxcvTWShaV5H%2FThB%2FTrHtV1wIUJJHYy&from=%2Fapi%2Fstatus","avg":1253,"min":1253,"max":1253,"p95":1253}
+{"type":"ok","from":"2026-04-19T10:05:50.191Z","to":"2026-04-19T10:05:50.191Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Tw86Y76puUAsdJnj%2BmQNqmG9AphKHFFAjGD47RNA6%2BGeDA6klnNm9urfJkXSdk%2FH7JHYy&from=%2Fapi%2Fstatus","avg":522,"min":522,"max":522,"p95":522}
+{"type":"ok","from":"2026-04-19T10:25:04.554Z","to":"2026-04-19T10:25:04.554Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Tw8ma66BuUAsdJnj%2BmQMbt2lo1fSwVCrg%2FgiOSfzcTsFVYm%2Fjg6FVnxfbSREvcx8CJHYy&from=%2Fapi%2Fstatus","avg":954,"min":954,"max":954,"p95":954}
+{"type":"ok","from":"2026-04-19T10:45:35.836Z","to":"2026-04-19T10:45:35.836Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Tw8ic6KZuUAsdJnj%2BmQPMLcvzUHlAKB%2B2%2BBquBCkXM1EMda9CYvXhJpOw8X2b7CvhJHYy&from=%2Fapi%2Fstatus","avg":1006,"min":1006,"max":1006,"p95":1006}
+{"type":"ok","from":"2026-04-19T11:05:15.874Z","to":"2026-04-19T11:05:15.874Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Tw8ue6qBuUAsdJnj%2BmQMTxVTDzRvAzrROvTNdJVaOrYWF0cu8ysJHc7gD%2BftiSPuXJHYy&from=%2Fapi%2Fstatus","avg":3080,"min":3080,"max":3080,"p95":3080}
+{"type":"ok","from":"2026-04-19T11:25:15.807Z","to":"2026-04-19T11:25:15.807Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Tw8qQ6qZuUAsdJnj%2BmQOqhDHagFn1TAtvwfV0AJw3yWN2%2BRtU7fMnoxh5hgKopbNjJHYy&from=%2Fapi%2Fstatus","avg":504,"min":504,"max":504,"p95":504}
+{"type":"ok","from":"2026-04-19T11:45:10.638Z","to":"2026-04-19T11:45:10.638Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Tw8SY6qNuUAsdJnj%2BmQP88QTMcpAPJ5VAryyxrBbNwDzsArtokhozofM%2Fgo12TyexJHYy&from=%2Fapi%2Fstatus","avg":1094,"min":1094,"max":1094,"p95":1094}
+{"type":"ok","from":"2026-04-19T12:05:28.211Z","to":"2026-04-19T12:05:28.211Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qys2a6aRuUAsdJnj%2BmQOzaghozb5%2Bjsi6MSHHUveKbZj1jgQPaky0H7v3flexywkxJHYy&from=%2Fapi%2Fstatus","avg":830,"min":830,"max":830,"p95":830}
+{"type":"ok","from":"2026-04-19T12:25:23.878Z","to":"2026-04-19T12:25:23.878Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qysyc6aBuUAsdJnj%2BmQPV6Il2dOgVeah7hw13mPomF2MdOuzAoTKZWhcAMmQRNlZrJHYy&from=%2Fapi%2Fstatus","avg":1089,"min":1089,"max":1089,"p95":1089}
+{"type":"ok","from":"2026-04-19T12:45:14.615Z","to":"2026-04-19T12:45:14.615Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qys%2Be6qduUAsdJnj%2BmQMEabkzozaLqOkKyS%2BZhbNnrCFLmNRD77XEsMJo1y9fH1eCJHYy&from=%2Fapi%2Fstatus","avg":584,"min":584,"max":584,"p95":584}
+{"type":"ok","from":"2026-04-19T13:05:21.891Z","to":"2026-04-19T13:05:21.891Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qys6Q6aJuUAsdJnj%2BmQNXUQxPboknN6BuJ5MyA%2Bum7W44gFA%2BsEF3Nm9ztuGOlZpgJHYy&from=%2Fapi%2Fstatus","avg":842,"min":842,"max":842,"p95":842}
+{"type":"ok","from":"2026-04-19T13:25:48.111Z","to":"2026-04-19T13:25:48.111Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8QysiY76RuUAsdJnj%2BmQMnp3N684FFsiRFt0d8AnvcSfC8O1e6HpEcQ6pprpKFfqlBJHYy&from=%2Fapi%2Fstatus","avg":1240,"min":1240,"max":1240,"p95":1240}
+{"type":"ok","from":"2026-04-19T13:45:16.676Z","to":"2026-04-19T13:45:16.676Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qysua6qZuUAsdJnj%2BmQPRvRVBP1TcK0x4B%2FgqsE%2Fq0CPYftq1hK%2ByxNZR1cwdlb3mJHYy&from=%2Fapi%2Fstatus","avg":1366,"min":1366,"max":1366,"p95":1366}
+{"type":"ok","from":"2026-04-19T14:05:41.162Z","to":"2026-04-19T14:05:41.162Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1NoMncjdsfVZAZZh%2FIeufv29IlLbt1olZOBgqYbHnygZ5Mc%2F04YOixeIFTsSw%2BXBtDsbxKKTC%2FWw2V7gtJHYy&from=%2Fapi%2Fstatus","avg":2734,"min":2734,"max":2734,"p95":2734}
+{"type":"ok","from":"2026-04-19T14:25:42.904Z","to":"2026-04-19T14:25:42.904Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8QysWe76FuUAsdJnj%2BmQPPhZux3emJObMtMuSfanzpYqBWb4U4LDpGAX4rjug8wurpJHYy&from=%2Fapi%2Fstatus","avg":729,"min":729,"max":729,"p95":729}
+{"type":"ok","from":"2026-04-19T14:44:53.723Z","to":"2026-04-19T14:44:53.723Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8QysSR4qBuUAsdJnj%2BmQP9KlKnAnVRhs1epKNS2KT0aYg70ISk7gdrmQEYZSOt%2FQ2RJHYy&from=%2Fapi%2Fstatus","avg":909,"min":909,"max":909,"p95":909}
+{"type":"ok","from":"2026-04-19T15:05:35.766Z","to":"2026-04-19T15:05:35.766Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qy8yY6KZuUAsdJnj%2BmQOlvE0xZKn32iaDeqEFptS18GZ7d%2F95UXbGca0NxvTDIjrgJHYy&from=%2Fapi%2Fstatus","avg":868,"min":868,"max":868,"p95":868}
+{"type":"ok","from":"2026-04-19T15:25:17.517Z","to":"2026-04-19T15:25:17.517Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qy8%2Ba6qRuUAsdJnj%2BmQOrVn9vEebQXI2pTPa4ake%2FVHuKmyN78vSVwXqwHrOXMBi3JHYy&from=%2Fapi%2Fstatus","avg":507,"min":507,"max":507,"p95":507}
+{"type":"ok","from":"2026-04-19T15:45:12.423Z","to":"2026-04-19T15:45:12.423Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qy86c6qJuUAsdJnj%2BmQP3wUhgLOmFS%2F8X8rETDzbdL9TGoGmJSFnpfb%2FXEh2yqnz0JHYy&from=%2Fapi%2Fstatus","avg":1105,"min":1105,"max":1105,"p95":1105}
+{"type":"ok","from":"2026-04-19T16:05:08.532Z","to":"2026-04-19T16:05:08.532Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qy8me66tuUAsdJnj%2BmQN8iMEuTTTSGLtm4LeYnf9tyShYF%2FSrgK0PFxfxi9A0Pk%2BDJHYy&from=%2Fapi%2Fstatus","avg":2697,"min":2697,"max":2697,"p95":2697}
+{"type":"ok","from":"2026-04-19T16:25:38.221Z","to":"2026-04-19T16:25:38.221Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qy8iQ6KRuUAsdJnj%2BmQPvz9w7qqFmxX9uJ21k8z%2Fve146ImYgND0JyQLxLBUvpzXJJHYy&from=%2Fapi%2Fstatus","avg":565,"min":565,"max":565,"p95":565}
+{"type":"ok","from":"2026-04-19T16:45:05.137Z","to":"2026-04-19T16:45:05.137Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qy8qY66duUAsdJnj%2BmQNfSayS9%2BJzapmuDbl44TB9tgs0EyO2o7XuOeTWN4YNKKd4JHYy&from=%2Fapi%2Fstatus","avg":523,"min":523,"max":523,"p95":523}
+{"type":"ok","from":"2026-04-19T17:05:06.523Z","to":"2026-04-19T17:05:06.523Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qy8Wa66ZuUAsdJnj%2BmQPMZxJKAjYdrfIyuTnyiRQ9sh6gRHYj08wp8Z4uy9d7vg%2BOJHYy&from=%2Fapi%2Fstatus","avg":1157,"min":1157,"max":1157,"p95":1157}
+{"type":"ok","from":"2026-04-19T17:25:07.171Z","to":"2026-04-19T17:25:07.171Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDuyMYAncjdsfVZAZW8Qy8Sc66VuUAsdJnj%2BmQPq4E2%2BZ80hnVbAvd6xwZibILO%2BR%2FUNR0UEA4J%2FXfxzXpyRJHYy&from=%2Fapi%2Fstatus","avg":1578,"min":1578,"max":1578,"p95":1578}
+{"type":"ok","from":"2026-04-19T17:45:07.220Z","to":"2026-04-19T17:45:07.220Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu2NoA%2BfCd8ZV1GZZffaLDSPl7Lru7rz4JQwoKGRb8Fm2VTBdHJ4t8UO1xSlulRGc9DO2bAETVHwwYRSw32%2ByR2Mg%3D%3D&from=%2Fapi%2Fstatus","avg":960,"min":960,"max":960,"p95":960}
+{"type":"ok","from":"2026-04-19T18:04:59.834Z","to":"2026-04-19T18:04:59.834Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu2NoA%2BfCd8ZV1GZZffaLDTMVfEru7rz4JQwoJ7GlMa2W1XiLukrWJSRF%2B%2B6aOtNvfCrnwflKDPYoqR20%2F4GSR2Mg%3D%3D&from=%2Fapi%2Fstatus","avg":653,"min":653,"max":653,"p95":653}
+{"type":"ok","from":"2026-04-19T18:25:04.875Z","to":"2026-04-19T18:25:04.875Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu2NoA%2BfCd8ZV1GZZffaLDROF7Jru7rz4JQwoIJinR9jDG22hJBzd9inT3HGYOt05ZxOC3Ihg%2BPz2Rliml0jCR2Mg%3D%3D&from=%2Fapi%2Fstatus","avg":1308,"min":1308,"max":1308,"p95":1308}
+{"type":"ok","from":"2026-04-19T18:44:49.910Z","to":"2026-04-19T18:44:49.910Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu2NoA%2BfCd8ZV1GZZffaLDWO1bEru7rz4JQwoLrBQt8YNmq0fsprU2SU4YmKfu6ybKrs8dPR3REezmeWoF7niR2Mg%3D%3D&from=%2Fapi%2Fstatus","avg":563,"min":563,"max":563,"p95":563}
+{"type":"ok","from":"2026-04-19T19:04:59.284Z","to":"2026-04-19T19:04:59.284Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu2NoA%2BfCd8ZV1GZZffaLDXPVfFru7rz4JQwoJcoYkAjEH2GexLmOK50GtVdxU%2FOwtU83qIt0qlZYkG9E3DDCR2Mg%3D%3D&from=%2Fapi%2Fstatus","avg":613,"min":613,"max":613,"p95":613}
+{"type":"ok","from":"2026-04-19T19:24:46.913Z","to":"2026-04-19T19:24:46.913Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu2NoA%2BfCd8ZV1GZZffaLDUP1bLru7rz4JQwoIAI2QWkzgAyRSOkU94Y1VEkoMycyxTtXzSPxmiMMQK7cf7SiR2Mg%3D%3D&from=%2Fapi%2Fstatus","avg":1076,"min":1076,"max":1076,"p95":1076}
+{"type":"ok","from":"2026-04-19T19:45:06.907Z","to":"2026-04-19T19:45:06.907Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVAUer1jYWz%2BM9A63ylmAKnhM%2F5xGyIpaVdlfIabQx%2FN4jW3YUshWW5pGRpIJ0vnlJHYy&from=%2Fapi%2Fstatus","avg":1003,"min":1003,"max":1003,"p95":1003}
+{"type":"ok","from":"2026-04-19T20:05:04.683Z","to":"2026-04-19T20:05:04.683Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVAsWr1rYWz%2BM9A63ylnCSv9ETHeXgjj67VihVOUrBWL0P8EQQ1kqQRyGtLUxr%2FUVJHYy&from=%2Fapi%2Fstatus","avg":861,"min":861,"max":861,"p95":861}
+{"type":"ok","from":"2026-04-19T20:24:37.376Z","to":"2026-04-19T20:24:37.376Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVQIVqFjYWz%2BM9A63ylnTr%2BOfdhn6uLxVbtDY0YJYGd3LcjdjQ3%2B9g56fHcKhpi4oJHYy&from=%2Fapi%2Fstatus","avg":976,"min":976,"max":976,"p95":976}
+{"type":"ok","from":"2026-04-19T20:44:42.232Z","to":"2026-04-19T20:44:42.232Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVQMTp1%2FYWz%2BM9A63ylm96%2FSYTXhFCRysUxA6XyX9%2BC%2B7ALd1TRJ85ILh5PeMDbOGJHYy&from=%2Fapi%2Fstatus","avg":876,"min":876,"max":876,"p95":876}
+{"type":"ok","from":"2026-04-19T21:04:56.255Z","to":"2026-04-19T21:04:56.255Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVQARplvYWz%2BM9A63ylmaWRMtoV8TCcpiaBGO9gTZMxXG02btUUDScV5q37EWtld9JHYy&from=%2Fapi%2Fstatus","avg":548,"min":548,"max":548,"p95":548}
+{"type":"ok","from":"2026-04-19T21:24:46.770Z","to":"2026-04-19T21:24:46.770Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVQEfp1jYWz%2BM9A63ylk4JnkdLbcSXOSP5jT5TnZrGGjZNMw3SFM%2B%2BKhKcC4ZlYrkJHYy&from=%2Fapi%2Fstatus","avg":1028,"min":1028,"max":1028,"p95":1028}
+{"type":"ok","from":"2026-04-19T21:44:41.219Z","to":"2026-04-19T21:44:41.219Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVQcXp17YWz%2BM9A63yln2UROhCxYE9n9V9PnzM2IjbA83M1R74c7VmGXy5Xz2ZMjgJHYy&from=%2Fapi%2Fstatus","avg":1741,"min":1741,"max":1741,"p95":1741}
+{"type":"ok","from":"2026-04-19T22:04:57.440Z","to":"2026-04-19T22:04:57.440Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVQQVplnYWz%2BM9A63ylnxn8MU%2BKmg2SYSeJ5KguWksntRitunnlPWVkPn79g4qHvqJHYy&from=%2Fapi%2Fstatus","avg":961,"min":961,"max":961,"p95":961}
+{"type":"ok","from":"2026-04-19T22:25:00.824Z","to":"2026-04-19T22:25:00.824Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVQUSr17YWz%2BM9A63ylmkjPNTOKKyJWU00wMThOSt3Kl7rxIYJk%2BorPRi3%2FxeiyNwJHYy&from=%2Fapi%2Fstatus","avg":1251,"min":1251,"max":1251,"p95":1251}
+{"type":"ok","from":"2026-04-19T22:44:54.900Z","to":"2026-04-19T22:44:54.900Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdVQoRplrYWz%2BM9A63ylnEYutZnASU%2FCRBMwyB6zUexxqv87Mv0erSK9Irpp9oOuwzJHYy&from=%2Fapi%2Fstatus","avg":1155,"min":1155,"max":1155,"p95":1155}
+{"type":"ok","from":"2026-04-19T23:05:05.936Z","to":"2026-04-19T23:05:05.936Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1PYE9fCd8ZV1GZWMq4Lixk0M6rpFhQYKRtphWc2Mh7JN8rzIUGuZIVWnnDv%2B9%2BISbl0%2FDpySpwDHPN3o26SR2Mg%3D%3D&from=%2Fapi%2Fstatus","avg":2563,"min":2563,"max":2563,"p95":2563}
+{"type":"ok","from":"2026-04-19T23:24:50.407Z","to":"2026-04-19T23:24:50.407Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdUgMXp1fYWz%2BM9A63ylkEcBFsmgEsBWbfb5Woube9uH2%2Bylq9H4HVSxmisMcZAmFmJHYy&from=%2Fapi%2Fstatus","avg":1207,"min":1207,"max":1207,"p95":1207}
+{"type":"ok","from":"2026-04-19T23:44:45.537Z","to":"2026-04-19T23:44:45.537Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MYUncjdsfVZAZfkdUgAVp1vYWz%2BM9A63ylm4CBgIaZW2OY8hJscGyiuAplgi%2Bj5meQyWEgu9nHpeqom%2BJHYy&from=%2Fapi%2Fstatus","avg":540,"min":540,"max":540,"p95":540}

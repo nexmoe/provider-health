@@ -1,31 +1,32 @@
-{"url":"https://anyrouter.top"}
-{"type":"ok","from":"2026-04-01T00:04:45.661Z","to":"2026-04-01T23:54:44.612Z","count":144,"avg":498,"min":46,"max":1535,"p95":848}
-{"type":"ok","from":"2026-04-02T00:04:37.522Z","to":"2026-04-02T23:54:35.208Z","count":144,"avg":491,"min":43,"max":1806,"p95":1273}
-{"type":"ok","from":"2026-04-03T00:04:42.728Z","to":"2026-04-03T23:54:44.915Z","count":142,"avg":466,"min":41,"max":1886,"p95":864}
-{"type":"ok","from":"2026-04-04T00:04:42.944Z","to":"2026-04-04T23:54:30.544Z","count":138,"avg":512,"min":41,"max":1849,"p95":1192}
-{"type":"ok","from":"2026-04-05T00:04:49.406Z","to":"2026-04-05T10:04:47.193Z","count":61,"avg":280,"min":43,"max":1445,"p95":898}
-{"type":"fail","from":"2026-04-05T10:14:41.034Z","to":"2026-04-05T10:14:41.034Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-05T10:25:04.574Z","to":"2026-04-05T23:55:02.150Z","count":81,"avg":418,"min":40,"max":1759,"p95":1062}
-{"type":"ok","from":"2026-04-06T00:04:37.024Z","to":"2026-04-06T23:53:56.665Z","count":144,"avg":468,"min":42,"max":3936,"p95":977}
-{"type":"ok","from":"2026-04-07T00:03:58.699Z","to":"2026-04-07T23:53:38.048Z","count":144,"avg":414,"min":39,"max":1814,"p95":781}
-{"type":"ok","from":"2026-04-08T00:04:08.353Z","to":"2026-04-08T13:45:22.086Z","count":83,"avg":567,"min":45,"max":2778,"p95":1127}
-{"type":"fail","from":"2026-04-08T13:55:23.887Z","to":"2026-04-08T13:55:23.887Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-08T14:05:10.176Z","to":"2026-04-08T14:45:11.010Z","count":5,"avg":1145,"min":933,"max":1510,"p95":1510}
-{"type":"fail","from":"2026-04-08T14:55:37.404Z","to":"2026-04-08T14:55:37.404Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T15:05:02.210Z","to":"2026-04-08T20:34:48.797Z","count":34,"avg":874,"min":193,"max":2896,"p95":2222}
-{"type":"fail","from":"2026-04-08T20:43:59.253Z","to":"2026-04-08T20:43:59.253Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-08T20:54:07.631Z","to":"2026-04-08T23:54:37.662Z","count":19,"avg":786,"min":355,"max":1708,"p95":1708}
-{"type":"ok","from":"2026-04-09T00:04:20.108Z","to":"2026-04-09T04:34:53.431Z","count":28,"avg":795,"min":185,"max":1570,"p95":1308}
-{"type":"fail","from":"2026-04-09T04:45:16.505Z","to":"2026-04-09T04:45:16.505Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T04:54:52.737Z","to":"2026-04-09T23:53:50.874Z","count":115,"avg":555,"min":37,"max":2195,"p95":1371}
-{"type":"ok","from":"2026-04-10T00:03:58.900Z","to":"2026-04-10T23:53:56.481Z","count":143,"avg":447,"min":32,"max":1068,"p95":865}
-{"type":"ok","from":"2026-04-11T00:03:50.949Z","to":"2026-04-11T23:54:10.446Z","count":143,"avg":374,"min":16,"max":1382,"p95":554}
-{"type":"ok","from":"2026-04-12T00:03:54.914Z","to":"2026-04-12T23:53:39.424Z","count":142,"avg":350,"min":15,"max":768,"p95":497}
-{"type":"ok","from":"2026-04-13T00:03:47.220Z","to":"2026-04-13T15:04:32.899Z","count":83,"avg":373,"min":21,"max":1197,"p95":504}
-{"type":"ok","from":"2026-04-14T02:29:18.056Z","to":"2026-04-14T23:53:38.383Z","count":120,"avg":331,"min":19,"max":607,"p95":457}
-{"type":"ok","from":"2026-04-15T00:03:34.199Z","to":"2026-04-15T23:53:59.763Z","count":140,"avg":293,"min":12,"max":4254,"p95":704}
-{"type":"ok","from":"2026-04-16T00:04:08.843Z","to":"2026-04-16T23:54:12.209Z","count":131,"avg":135,"min":13,"max":1534,"p95":465}
-{"type":"ok","from":"2026-04-17T00:04:40.498Z","to":"2026-04-17T23:52:23.080Z","count":138,"avg":580,"min":12,"max":1820,"p95":1386}
-{"type":"ok","from":"2026-04-18T00:02:35.746Z","to":"2026-04-18T10:02:37.914Z","count":57,"avg":554,"min":54,"max":2804,"p95":1421}
-{"type":"fail","from":"2026-04-18T10:14:58.457Z","to":"2026-04-18T10:14:58.457Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":11107}
-{"type":"ok","from":"2026-04-18T10:22:26.237Z","to":"2026-04-18T23:52:11.526Z","count":81,"avg":837,"min":55,"max":2246,"p95":1355}
+{"type":"ok","from":"2026-04-01T00:04:45.661Z","to":"2026-04-01T23:54:44.612Z","count":144,"avg":498,"min":46,"max":1535,"p95":848,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-02T00:04:37.522Z","to":"2026-04-02T23:54:35.208Z","count":144,"avg":491,"min":43,"max":1806,"p95":1273,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-03T00:04:42.728Z","to":"2026-04-03T23:54:44.915Z","count":142,"avg":466,"min":41,"max":1886,"p95":864,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-04T00:04:42.944Z","to":"2026-04-04T23:54:30.544Z","count":138,"avg":512,"min":41,"max":1849,"p95":1192,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-05T00:04:49.406Z","to":"2026-04-05T10:04:47.193Z","count":61,"avg":280,"min":43,"max":1445,"p95":898,"url":"https://anyrouter.top"}
+{"type":"fail","from":"2026-04-05T10:14:41.034Z","to":"2026-04-05T10:14:41.034Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-05T10:25:04.574Z","to":"2026-04-05T23:55:02.150Z","count":81,"avg":418,"min":40,"max":1759,"p95":1062,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-06T00:04:37.024Z","to":"2026-04-06T23:53:56.665Z","count":144,"avg":468,"min":42,"max":3936,"p95":977,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-07T00:03:58.699Z","to":"2026-04-07T23:53:38.048Z","count":144,"avg":414,"min":39,"max":1814,"p95":781,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-08T00:04:08.353Z","to":"2026-04-08T13:45:22.086Z","count":83,"avg":567,"min":45,"max":2778,"p95":1127,"url":"https://anyrouter.top"}
+{"type":"fail","from":"2026-04-08T13:55:23.887Z","to":"2026-04-08T13:55:23.887Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-08T14:05:10.176Z","to":"2026-04-08T14:45:11.010Z","count":5,"avg":1145,"min":933,"max":1510,"p95":1510,"url":"https://anyrouter.top"}
+{"type":"fail","from":"2026-04-08T14:55:37.404Z","to":"2026-04-08T14:55:37.404Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-08T15:05:02.210Z","to":"2026-04-08T20:34:48.797Z","count":34,"avg":874,"min":193,"max":2896,"p95":2222,"url":"https://anyrouter.top"}
+{"type":"fail","from":"2026-04-08T20:43:59.253Z","to":"2026-04-08T20:43:59.253Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-08T20:54:07.631Z","to":"2026-04-08T23:54:37.662Z","count":19,"avg":786,"min":355,"max":1708,"p95":1708,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-09T00:04:20.108Z","to":"2026-04-09T04:34:53.431Z","count":28,"avg":795,"min":185,"max":1570,"p95":1308,"url":"https://anyrouter.top"}
+{"type":"fail","from":"2026-04-09T04:45:16.505Z","to":"2026-04-09T04:45:16.505Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-09T04:54:52.737Z","to":"2026-04-09T23:53:50.874Z","count":115,"avg":555,"min":37,"max":2195,"p95":1371,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-10T00:03:58.900Z","to":"2026-04-10T23:53:56.481Z","count":143,"avg":447,"min":32,"max":1068,"p95":865,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-11T00:03:50.949Z","to":"2026-04-11T23:54:10.446Z","count":143,"avg":374,"min":16,"max":1382,"p95":554,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-12T00:03:54.914Z","to":"2026-04-12T23:53:39.424Z","count":142,"avg":350,"min":15,"max":768,"p95":497,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-13T00:03:47.220Z","to":"2026-04-13T15:04:32.899Z","count":83,"avg":373,"min":21,"max":1197,"p95":504,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-14T02:29:18.056Z","to":"2026-04-14T23:53:38.383Z","count":120,"avg":331,"min":19,"max":607,"p95":457,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-15T00:03:34.199Z","to":"2026-04-15T23:53:59.763Z","count":140,"avg":293,"min":12,"max":4254,"p95":704,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-16T00:04:08.843Z","to":"2026-04-16T23:54:12.209Z","count":131,"avg":135,"min":13,"max":1534,"p95":465,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-17T00:04:40.498Z","to":"2026-04-17T23:52:23.080Z","count":138,"avg":580,"min":12,"max":1820,"p95":1386,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-18T00:02:35.746Z","to":"2026-04-18T10:02:37.914Z","count":57,"avg":554,"min":54,"max":2804,"p95":1421,"url":"https://anyrouter.top"}
+{"type":"fail","from":"2026-04-18T10:14:58.457Z","to":"2026-04-18T10:14:58.457Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":11107,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-18T10:22:26.237Z","to":"2026-04-18T23:52:11.526Z","count":81,"avg":837,"min":55,"max":2246,"p95":1355,"url":"https://anyrouter.top"}
+{"type":"ok","from":"2026-04-19T00:02:24.447Z","to":"2026-04-19T07:52:18.253Z","count":45,"url":"https://anyrouter.top","avg":1111,"min":507,"max":3140,"p95":1475}
+{"type":"ok","from":"2026-04-19T08:15:01.087Z","to":"2026-04-19T23:51:53.656Z","count":48,"url":"https://anyrouter.top/api/status","avg":1035,"min":481,"max":1852,"p95":1474}

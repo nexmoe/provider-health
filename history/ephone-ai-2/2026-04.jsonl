@@ -1,29 +1,34 @@
-{"url":"https://api.ephone.ai"}
-{"type":"ok","from":"2026-04-01T00:01:18.036Z","to":"2026-04-01T23:51:14.979Z","count":144,"avg":501,"min":363,"max":929,"p95":831}
-{"type":"ok","from":"2026-04-02T00:01:14.947Z","to":"2026-04-02T17:41:15.734Z","count":107,"avg":520,"min":360,"max":1157,"p95":897}
-{"type":"fail","from":"2026-04-02T17:51:20.742Z","to":"2026-04-02T17:51:20.742Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T18:01:16.705Z","to":"2026-04-02T23:51:16.208Z","count":36,"avg":538,"min":367,"max":1732,"p95":881}
-{"type":"ok","from":"2026-04-03T00:01:15.529Z","to":"2026-04-03T12:11:18.922Z","count":74,"avg":512,"min":363,"max":1295,"p95":825}
-{"type":"fail","from":"2026-04-03T12:21:26.267Z","to":"2026-04-03T12:21:26.267Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-03T12:31:18.015Z","to":"2026-04-03T23:51:16.076Z","count":68,"avg":491,"min":361,"max":1346,"p95":872}
-{"type":"ok","from":"2026-04-04T00:01:15.743Z","to":"2026-04-04T23:50:29.274Z","count":138,"avg":572,"min":363,"max":2660,"p95":1000}
-{"type":"ok","from":"2026-04-05T00:00:29.349Z","to":"2026-04-05T23:50:26.394Z","count":144,"avg":537,"min":358,"max":1591,"p95":1001}
-{"type":"ok","from":"2026-04-06T00:00:36.692Z","to":"2026-04-06T23:30:25.986Z","count":142,"avg":613,"min":362,"max":4371,"p95":1059}
-{"type":"fail","from":"2026-04-06T23:40:34.206Z","to":"2026-04-06T23:40:34.206Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-06T23:50:27.865Z","to":"2026-04-06T23:50:27.865Z","count":1,"avg":357,"min":357,"max":357,"p95":357}
-{"type":"ok","from":"2026-04-07T00:00:31.929Z","to":"2026-04-07T09:30:33.345Z","count":58,"avg":546,"min":364,"max":1985,"p95":1042}
-{"type":"fail","from":"2026-04-07T09:40:33.191Z","to":"2026-04-07T09:40:33.191Z","count":1,"status":502,"error":"HTTP 502","avg_latency":446}
-{"type":"ok","from":"2026-04-07T09:50:30.023Z","to":"2026-04-07T23:50:26.999Z","count":85,"avg":507,"min":359,"max":1905,"p95":834}
-{"type":"ok","from":"2026-04-08T00:00:32.992Z","to":"2026-04-08T23:50:28.693Z","count":144,"avg":625,"min":359,"max":4376,"p95":1282}
-{"type":"ok","from":"2026-04-09T00:00:28.097Z","to":"2026-04-09T23:50:26.370Z","count":144,"avg":538,"min":372,"max":3579,"p95":867}
-{"type":"ok","from":"2026-04-10T00:00:28.291Z","to":"2026-04-10T23:50:25.998Z","count":144,"avg":491,"min":363,"max":2002,"p95":889}
-{"type":"ok","from":"2026-04-11T00:00:31.789Z","to":"2026-04-11T23:50:30.510Z","count":143,"avg":467,"min":342,"max":1372,"p95":840}
-{"type":"ok","from":"2026-04-12T00:00:29.980Z","to":"2026-04-12T23:50:30.896Z","count":145,"avg":456,"min":351,"max":1568,"p95":865}
-{"type":"ok","from":"2026-04-13T00:00:32.716Z","to":"2026-04-13T15:00:31.155Z","count":86,"avg":512,"min":184,"max":4898,"p95":877}
-{"type":"ok","from":"2026-04-14T02:20:35.173Z","to":"2026-04-14T11:40:29.912Z","count":52,"avg":355,"min":185,"max":1201,"p95":873}
-{"type":"fail","from":"2026-04-14T11:50:34.485Z","to":"2026-04-14T11:50:34.485Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T12:00:30.650Z","to":"2026-04-14T23:50:26.431Z","count":71,"avg":398,"min":181,"max":1235,"p95":992}
-{"type":"ok","from":"2026-04-15T00:00:29.631Z","to":"2026-04-15T23:50:29.412Z","count":141,"avg":393,"min":191,"max":1163,"p95":662}
-{"type":"ok","from":"2026-04-16T00:00:31.702Z","to":"2026-04-16T23:50:37.812Z","count":135,"avg":400,"min":167,"max":1011,"p95":862}
-{"type":"ok","from":"2026-04-17T00:00:55.765Z","to":"2026-04-17T23:50:23.341Z","count":140,"avg":634,"min":183,"max":4490,"p95":1684}
-{"type":"ok","from":"2026-04-18T00:00:31.720Z","to":"2026-04-18T23:50:20.648Z","count":141,"avg":455,"min":183,"max":2929,"p95":823}
+{"type":"ok","from":"2026-04-01T00:01:18.036Z","to":"2026-04-01T23:51:14.979Z","count":144,"avg":501,"min":363,"max":929,"p95":831,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-02T00:01:14.947Z","to":"2026-04-02T17:41:15.734Z","count":107,"avg":520,"min":360,"max":1157,"p95":897,"url":"https://api.ephone.ai"}
+{"type":"fail","from":"2026-04-02T17:51:20.742Z","to":"2026-04-02T17:51:20.742Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-02T18:01:16.705Z","to":"2026-04-02T23:51:16.208Z","count":36,"avg":538,"min":367,"max":1732,"p95":881,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-03T00:01:15.529Z","to":"2026-04-03T12:11:18.922Z","count":74,"avg":512,"min":363,"max":1295,"p95":825,"url":"https://api.ephone.ai"}
+{"type":"fail","from":"2026-04-03T12:21:26.267Z","to":"2026-04-03T12:21:26.267Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-03T12:31:18.015Z","to":"2026-04-03T23:51:16.076Z","count":68,"avg":491,"min":361,"max":1346,"p95":872,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-04T00:01:15.743Z","to":"2026-04-04T23:50:29.274Z","count":138,"avg":572,"min":363,"max":2660,"p95":1000,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-05T00:00:29.349Z","to":"2026-04-05T23:50:26.394Z","count":144,"avg":537,"min":358,"max":1591,"p95":1001,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-06T00:00:36.692Z","to":"2026-04-06T23:30:25.986Z","count":142,"avg":613,"min":362,"max":4371,"p95":1059,"url":"https://api.ephone.ai"}
+{"type":"fail","from":"2026-04-06T23:40:34.206Z","to":"2026-04-06T23:40:34.206Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-06T23:50:27.865Z","to":"2026-04-06T23:50:27.865Z","count":1,"avg":357,"min":357,"max":357,"p95":357,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-07T00:00:31.929Z","to":"2026-04-07T09:30:33.345Z","count":58,"avg":546,"min":364,"max":1985,"p95":1042,"url":"https://api.ephone.ai"}
+{"type":"fail","from":"2026-04-07T09:40:33.191Z","to":"2026-04-07T09:40:33.191Z","count":1,"status":502,"error":"HTTP 502","avg_latency":446,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-07T09:50:30.023Z","to":"2026-04-07T23:50:26.999Z","count":85,"avg":507,"min":359,"max":1905,"p95":834,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-08T00:00:32.992Z","to":"2026-04-08T23:50:28.693Z","count":144,"avg":625,"min":359,"max":4376,"p95":1282,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-09T00:00:28.097Z","to":"2026-04-09T23:50:26.370Z","count":144,"avg":538,"min":372,"max":3579,"p95":867,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-10T00:00:28.291Z","to":"2026-04-10T23:50:25.998Z","count":144,"avg":491,"min":363,"max":2002,"p95":889,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-11T00:00:31.789Z","to":"2026-04-11T23:50:30.510Z","count":143,"avg":467,"min":342,"max":1372,"p95":840,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-12T00:00:29.980Z","to":"2026-04-12T23:50:30.896Z","count":145,"avg":456,"min":351,"max":1568,"p95":865,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-13T00:00:32.716Z","to":"2026-04-13T15:00:31.155Z","count":86,"avg":512,"min":184,"max":4898,"p95":877,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-14T02:20:35.173Z","to":"2026-04-14T11:40:29.912Z","count":52,"avg":355,"min":185,"max":1201,"p95":873,"url":"https://api.ephone.ai"}
+{"type":"fail","from":"2026-04-14T11:50:34.485Z","to":"2026-04-14T11:50:34.485Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-14T12:00:30.650Z","to":"2026-04-14T23:50:26.431Z","count":71,"avg":398,"min":181,"max":1235,"p95":992,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-15T00:00:29.631Z","to":"2026-04-15T23:50:29.412Z","count":141,"avg":393,"min":191,"max":1163,"p95":662,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-16T00:00:31.702Z","to":"2026-04-16T23:50:37.812Z","count":135,"avg":400,"min":167,"max":1011,"p95":862,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-17T00:00:55.765Z","to":"2026-04-17T23:50:23.341Z","count":140,"avg":634,"min":183,"max":4490,"p95":1684,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-18T00:00:31.720Z","to":"2026-04-18T23:50:20.648Z","count":141,"avg":455,"min":183,"max":2929,"p95":823,"url":"https://api.ephone.ai"}
+{"type":"ok","from":"2026-04-19T00:00:31.797Z","to":"2026-04-19T07:50:21.510Z","count":45,"url":"https://api.ephone.ai","avg":422,"min":200,"max":952,"p95":694}
+{"type":"ok","from":"2026-04-19T08:01:30.999Z","to":"2026-04-19T10:01:26.732Z","count":7,"url":"https://api.ephone.ai/api/status","avg":226,"min":204,"max":292,"p95":292}
+{"type":"ok","from":"2026-04-19T10:21:25.987Z","to":"2026-04-19T10:41:25.022Z","count":2,"url":"https://api.ephone.ai/v1/models","avg":175,"min":165,"max":184,"p95":184}
+{"type":"ok","from":"2026-04-19T11:01:22.786Z","to":"2026-04-19T13:01:28.781Z","count":7,"url":"https://api.ephone.ai/api/status","avg":216,"min":201,"max":241,"p95":241}
+{"type":"fail","from":"2026-04-19T13:21:26.554Z","to":"2026-04-19T13:21:26.554Z","count":1,"url":"https://api.ephone.ai/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-04-19T13:41:25.912Z","to":"2026-04-19T23:41:16.392Z","count":31,"url":"https://api.ephone.ai/api/status","avg":248,"min":187,"max":412,"p95":344}

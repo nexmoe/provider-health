@@ -1,29 +1,30 @@
-{"url":"https://hajimi.zabc.net"}
-{"type":"ok","from":"2026-04-01T00:04:11.630Z","to":"2026-04-01T14:25:03.055Z","count":87,"avg":281,"min":178,"max":2982,"p95":363}
-{"type":"fail","from":"2026-04-01T14:35:04.884Z","to":"2026-04-01T14:35:04.884Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T14:45:36.462Z","to":"2026-04-01T23:54:10.501Z","count":56,"avg":324,"min":175,"max":1213,"p95":798}
-{"type":"ok","from":"2026-04-02T00:04:08.853Z","to":"2026-04-02T02:44:18.226Z","count":17,"avg":204,"min":178,"max":260,"p95":260}
-{"type":"fail","from":"2026-04-02T02:54:23.471Z","to":"2026-04-02T02:54:23.471Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T03:04:14.174Z","to":"2026-04-02T16:14:28.104Z","count":80,"avg":294,"min":180,"max":906,"p95":747}
-{"type":"fail","from":"2026-04-02T16:24:42.814Z","to":"2026-04-02T16:24:42.814Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T16:34:38.104Z","to":"2026-04-02T23:54:05.552Z","count":45,"avg":563,"min":183,"max":1680,"p95":877}
-{"type":"ok","from":"2026-04-03T00:04:10.898Z","to":"2026-04-03T23:54:10.321Z","count":142,"avg":333,"min":179,"max":1283,"p95":779}
-{"type":"ok","from":"2026-04-04T00:04:14.820Z","to":"2026-04-04T23:53:52.548Z","count":138,"avg":310,"min":186,"max":915,"p95":782}
-{"type":"ok","from":"2026-04-05T00:04:02.785Z","to":"2026-04-05T07:04:08.323Z","count":43,"avg":259,"min":179,"max":731,"p95":700}
-{"type":"fail","from":"2026-04-05T07:14:12.710Z","to":"2026-04-05T07:14:12.710Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T07:23:47.524Z","to":"2026-04-05T23:54:19.326Z","count":99,"avg":306,"min":183,"max":1381,"p95":741}
-{"type":"ok","from":"2026-04-06T00:04:07.408Z","to":"2026-04-06T23:53:26.134Z","count":144,"avg":365,"min":179,"max":1762,"p95":816}
-{"type":"ok","from":"2026-04-07T00:03:26.318Z","to":"2026-04-07T23:53:13.412Z","count":144,"avg":356,"min":178,"max":1126,"p95":800}
-{"type":"ok","from":"2026-04-08T00:03:35.581Z","to":"2026-04-08T23:53:57.911Z","count":144,"avg":363,"min":185,"max":1858,"p95":789}
-{"type":"ok","from":"2026-04-09T00:03:52.928Z","to":"2026-04-09T23:53:20.136Z","count":144,"avg":365,"min":192,"max":1581,"p95":773}
-{"type":"ok","from":"2026-04-10T00:03:30.232Z","to":"2026-04-10T23:53:29.003Z","count":144,"avg":378,"min":184,"max":899,"p95":859}
-{"type":"ok","from":"2026-04-11T00:03:26.823Z","to":"2026-04-11T23:53:42.731Z","count":143,"avg":933,"min":175,"max":2595,"p95":1620}
-{"type":"ok","from":"2026-04-12T00:03:25.817Z","to":"2026-04-12T23:53:12.930Z","count":142,"avg":809,"min":238,"max":1837,"p95":1422}
-{"type":"ok","from":"2026-04-13T00:03:20.196Z","to":"2026-04-13T15:03:47.751Z","count":84,"avg":421,"min":186,"max":1141,"p95":807}
-{"type":"ok","from":"2026-04-14T02:28:37.504Z","to":"2026-04-14T23:53:02.247Z","count":120,"avg":352,"min":178,"max":879,"p95":840}
-{"type":"ok","from":"2026-04-15T00:02:57.186Z","to":"2026-04-15T23:53:25.364Z","count":140,"avg":251,"min":173,"max":753,"p95":693}
-{"type":"ok","from":"2026-04-16T00:03:38.785Z","to":"2026-04-16T23:53:39.493Z","count":131,"avg":473,"min":174,"max":2362,"p95":1502}
-{"type":"ok","from":"2026-04-17T00:04:09.282Z","to":"2026-04-17T23:52:06.207Z","count":138,"avg":1680,"min":179,"max":3964,"p95":3337}
-{"type":"ok","from":"2026-04-18T00:02:17.882Z","to":"2026-04-18T10:02:14.433Z","count":58,"avg":1809,"min":908,"max":4579,"p95":3283}
-{"type":"fail","from":"2026-04-18T10:13:46.464Z","to":"2026-04-18T10:13:46.464Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5113}
-{"type":"ok","from":"2026-04-18T10:22:04.607Z","to":"2026-04-18T23:51:55.794Z","count":81,"avg":1797,"min":198,"max":3210,"p95":2668}
+{"type":"ok","from":"2026-04-01T00:04:11.630Z","to":"2026-04-01T14:25:03.055Z","count":87,"avg":281,"min":178,"max":2982,"p95":363,"url":"https://hajimi.zabc.net"}
+{"type":"fail","from":"2026-04-01T14:35:04.884Z","to":"2026-04-01T14:35:04.884Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-01T14:45:36.462Z","to":"2026-04-01T23:54:10.501Z","count":56,"avg":324,"min":175,"max":1213,"p95":798,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-02T00:04:08.853Z","to":"2026-04-02T02:44:18.226Z","count":17,"avg":204,"min":178,"max":260,"p95":260,"url":"https://hajimi.zabc.net"}
+{"type":"fail","from":"2026-04-02T02:54:23.471Z","to":"2026-04-02T02:54:23.471Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-02T03:04:14.174Z","to":"2026-04-02T16:14:28.104Z","count":80,"avg":294,"min":180,"max":906,"p95":747,"url":"https://hajimi.zabc.net"}
+{"type":"fail","from":"2026-04-02T16:24:42.814Z","to":"2026-04-02T16:24:42.814Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-02T16:34:38.104Z","to":"2026-04-02T23:54:05.552Z","count":45,"avg":563,"min":183,"max":1680,"p95":877,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-03T00:04:10.898Z","to":"2026-04-03T23:54:10.321Z","count":142,"avg":333,"min":179,"max":1283,"p95":779,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-04T00:04:14.820Z","to":"2026-04-04T23:53:52.548Z","count":138,"avg":310,"min":186,"max":915,"p95":782,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-05T00:04:02.785Z","to":"2026-04-05T07:04:08.323Z","count":43,"avg":259,"min":179,"max":731,"p95":700,"url":"https://hajimi.zabc.net"}
+{"type":"fail","from":"2026-04-05T07:14:12.710Z","to":"2026-04-05T07:14:12.710Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-05T07:23:47.524Z","to":"2026-04-05T23:54:19.326Z","count":99,"avg":306,"min":183,"max":1381,"p95":741,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-06T00:04:07.408Z","to":"2026-04-06T23:53:26.134Z","count":144,"avg":365,"min":179,"max":1762,"p95":816,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-07T00:03:26.318Z","to":"2026-04-07T23:53:13.412Z","count":144,"avg":356,"min":178,"max":1126,"p95":800,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-08T00:03:35.581Z","to":"2026-04-08T23:53:57.911Z","count":144,"avg":363,"min":185,"max":1858,"p95":789,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-09T00:03:52.928Z","to":"2026-04-09T23:53:20.136Z","count":144,"avg":365,"min":192,"max":1581,"p95":773,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-10T00:03:30.232Z","to":"2026-04-10T23:53:29.003Z","count":144,"avg":378,"min":184,"max":899,"p95":859,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-11T00:03:26.823Z","to":"2026-04-11T23:53:42.731Z","count":143,"avg":933,"min":175,"max":2595,"p95":1620,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-12T00:03:25.817Z","to":"2026-04-12T23:53:12.930Z","count":142,"avg":809,"min":238,"max":1837,"p95":1422,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-13T00:03:20.196Z","to":"2026-04-13T15:03:47.751Z","count":84,"avg":421,"min":186,"max":1141,"p95":807,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-14T02:28:37.504Z","to":"2026-04-14T23:53:02.247Z","count":120,"avg":352,"min":178,"max":879,"p95":840,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-15T00:02:57.186Z","to":"2026-04-15T23:53:25.364Z","count":140,"avg":251,"min":173,"max":753,"p95":693,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-16T00:03:38.785Z","to":"2026-04-16T23:53:39.493Z","count":131,"avg":473,"min":174,"max":2362,"p95":1502,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-17T00:04:09.282Z","to":"2026-04-17T23:52:06.207Z","count":138,"avg":1680,"min":179,"max":3964,"p95":3337,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-18T00:02:17.882Z","to":"2026-04-18T10:02:14.433Z","count":58,"avg":1809,"min":908,"max":4579,"p95":3283,"url":"https://hajimi.zabc.net"}
+{"type":"fail","from":"2026-04-18T10:13:46.464Z","to":"2026-04-18T10:13:46.464Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5113,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-18T10:22:04.607Z","to":"2026-04-18T23:51:55.794Z","count":81,"avg":1797,"min":198,"max":3210,"p95":2668,"url":"https://hajimi.zabc.net"}
+{"type":"ok","from":"2026-04-19T00:02:09.445Z","to":"2026-04-19T07:51:59.307Z","count":45,"url":"https://hajimi.zabc.net","avg":1815,"min":1306,"max":2642,"p95":2483}
+{"type":"ok","from":"2026-04-19T08:13:57.483Z","to":"2026-04-19T23:51:03.028Z","count":48,"url":"https://hajimi.zabc.net/v1/models","avg":253,"min":171,"max":748,"p95":739}

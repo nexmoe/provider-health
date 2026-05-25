@@ -1,33 +1,34 @@
-{"url":"https://www.tzpro.xyz"}
-{"type":"ok","from":"2026-04-01T00:01:06.003Z","to":"2026-04-01T23:51:03.953Z","count":144,"avg":204,"min":42,"max":4831,"p95":370}
-{"type":"ok","from":"2026-04-02T00:01:06.345Z","to":"2026-04-02T12:41:06.682Z","count":77,"avg":184,"min":54,"max":1527,"p95":344}
-{"type":"fail","from":"2026-04-02T12:51:13.072Z","to":"2026-04-02T12:51:13.072Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T13:01:07.395Z","to":"2026-04-02T23:51:07.676Z","count":66,"avg":147,"min":37,"max":1093,"p95":241}
-{"type":"ok","from":"2026-04-03T00:01:07.068Z","to":"2026-04-03T23:51:07.644Z","count":143,"avg":205,"min":36,"max":3480,"p95":285}
-{"type":"ok","from":"2026-04-04T00:01:07.415Z","to":"2026-04-04T23:50:19.556Z","count":138,"avg":382,"min":46,"max":4204,"p95":1758}
-{"type":"ok","from":"2026-04-05T00:00:21.448Z","to":"2026-04-05T08:20:19.805Z","count":51,"avg":502,"min":77,"max":3117,"p95":2158}
-{"type":"fail","from":"2026-04-05T08:30:25.758Z","to":"2026-04-05T08:30:25.758Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-05T08:40:20.353Z","to":"2026-04-05T23:50:18.460Z","count":92,"avg":279,"min":101,"max":2302,"p95":736}
-{"type":"ok","from":"2026-04-06T00:00:24.175Z","to":"2026-04-06T23:50:19.600Z","count":144,"avg":339,"min":45,"max":2656,"p95":1123}
-{"type":"ok","from":"2026-04-07T00:00:21.891Z","to":"2026-04-07T23:50:19.159Z","count":144,"avg":306,"min":48,"max":4585,"p95":750}
-{"type":"ok","from":"2026-04-08T00:00:21.130Z","to":"2026-04-08T06:50:21.911Z","count":42,"avg":459,"min":44,"max":4330,"p95":2060}
-{"type":"fail","from":"2026-04-08T07:00:26.519Z","to":"2026-04-08T07:00:26.519Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T07:10:18.645Z","to":"2026-04-08T23:20:23.146Z","count":98,"avg":487,"min":59,"max":3946,"p95":1955}
-{"type":"fail","from":"2026-04-08T23:30:26.505Z","to":"2026-04-08T23:30:26.505Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T23:40:19.585Z","to":"2026-04-08T23:50:19.709Z","count":2,"avg":150,"min":40,"max":260,"p95":260}
-{"type":"ok","from":"2026-04-09T00:00:17.531Z","to":"2026-04-09T00:50:20.628Z","count":6,"avg":345,"min":41,"max":785,"p95":785}
-{"type":"fail","from":"2026-04-09T01:00:23.411Z","to":"2026-04-09T01:00:23.411Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T01:10:20.790Z","to":"2026-04-09T07:20:22.566Z","count":38,"avg":530,"min":113,"max":3488,"p95":2942}
-{"type":"fail","from":"2026-04-09T07:30:26.595Z","to":"2026-04-09T07:30:26.595Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T07:40:22.034Z","to":"2026-04-09T08:50:21.373Z","count":8,"avg":394,"min":98,"max":1270,"p95":1270}
-{"type":"fail","from":"2026-04-09T09:00:26.532Z","to":"2026-04-09T09:00:26.532Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T09:10:19.344Z","to":"2026-04-09T23:50:18.143Z","count":89,"avg":254,"min":45,"max":2811,"p95":622}
-{"type":"ok","from":"2026-04-10T00:00:19.546Z","to":"2026-04-10T23:50:15.899Z","count":144,"avg":212,"min":43,"max":1546,"p95":456}
-{"type":"ok","from":"2026-04-11T00:00:19.908Z","to":"2026-04-11T23:50:21.758Z","count":143,"avg":223,"min":71,"max":749,"p95":495}
-{"type":"ok","from":"2026-04-12T00:00:20.676Z","to":"2026-04-12T23:50:21.674Z","count":146,"avg":221,"min":65,"max":850,"p95":468}
-{"type":"ok","from":"2026-04-13T00:00:21.919Z","to":"2026-04-13T15:00:20.030Z","count":86,"avg":276,"min":54,"max":1110,"p95":732}
-{"type":"ok","from":"2026-04-14T02:20:23.139Z","to":"2026-04-14T23:50:18.298Z","count":124,"avg":257,"min":78,"max":849,"p95":514}
-{"type":"ok","from":"2026-04-15T00:00:21.058Z","to":"2026-04-15T23:50:19.498Z","count":141,"avg":610,"min":84,"max":4620,"p95":1762}
-{"type":"ok","from":"2026-04-16T00:00:21.182Z","to":"2026-04-16T23:50:28.102Z","count":136,"avg":300,"min":31,"max":3177,"p95":1326}
-{"type":"ok","from":"2026-04-17T00:00:40.910Z","to":"2026-04-17T23:50:15.654Z","count":140,"avg":407,"min":31,"max":1553,"p95":960}
-{"type":"ok","from":"2026-04-18T00:00:26.788Z","to":"2026-04-18T23:50:15.189Z","count":141,"avg":414,"min":93,"max":1778,"p95":855}
+{"type":"ok","from":"2026-04-01T00:01:06.003Z","to":"2026-04-01T23:51:03.953Z","count":144,"avg":204,"min":42,"max":4831,"p95":370,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-02T00:01:06.345Z","to":"2026-04-02T12:41:06.682Z","count":77,"avg":184,"min":54,"max":1527,"p95":344,"url":"https://www.tzpro.xyz"}
+{"type":"fail","from":"2026-04-02T12:51:13.072Z","to":"2026-04-02T12:51:13.072Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-02T13:01:07.395Z","to":"2026-04-02T23:51:07.676Z","count":66,"avg":147,"min":37,"max":1093,"p95":241,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-03T00:01:07.068Z","to":"2026-04-03T23:51:07.644Z","count":143,"avg":205,"min":36,"max":3480,"p95":285,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-04T00:01:07.415Z","to":"2026-04-04T23:50:19.556Z","count":138,"avg":382,"min":46,"max":4204,"p95":1758,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-05T00:00:21.448Z","to":"2026-04-05T08:20:19.805Z","count":51,"avg":502,"min":77,"max":3117,"p95":2158,"url":"https://www.tzpro.xyz"}
+{"type":"fail","from":"2026-04-05T08:30:25.758Z","to":"2026-04-05T08:30:25.758Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-05T08:40:20.353Z","to":"2026-04-05T23:50:18.460Z","count":92,"avg":279,"min":101,"max":2302,"p95":736,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-06T00:00:24.175Z","to":"2026-04-06T23:50:19.600Z","count":144,"avg":339,"min":45,"max":2656,"p95":1123,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-07T00:00:21.891Z","to":"2026-04-07T23:50:19.159Z","count":144,"avg":306,"min":48,"max":4585,"p95":750,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-08T00:00:21.130Z","to":"2026-04-08T06:50:21.911Z","count":42,"avg":459,"min":44,"max":4330,"p95":2060,"url":"https://www.tzpro.xyz"}
+{"type":"fail","from":"2026-04-08T07:00:26.519Z","to":"2026-04-08T07:00:26.519Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-08T07:10:18.645Z","to":"2026-04-08T23:20:23.146Z","count":98,"avg":487,"min":59,"max":3946,"p95":1955,"url":"https://www.tzpro.xyz"}
+{"type":"fail","from":"2026-04-08T23:30:26.505Z","to":"2026-04-08T23:30:26.505Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-08T23:40:19.585Z","to":"2026-04-08T23:50:19.709Z","count":2,"avg":150,"min":40,"max":260,"p95":260,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-09T00:00:17.531Z","to":"2026-04-09T00:50:20.628Z","count":6,"avg":345,"min":41,"max":785,"p95":785,"url":"https://www.tzpro.xyz"}
+{"type":"fail","from":"2026-04-09T01:00:23.411Z","to":"2026-04-09T01:00:23.411Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-09T01:10:20.790Z","to":"2026-04-09T07:20:22.566Z","count":38,"avg":530,"min":113,"max":3488,"p95":2942,"url":"https://www.tzpro.xyz"}
+{"type":"fail","from":"2026-04-09T07:30:26.595Z","to":"2026-04-09T07:30:26.595Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-09T07:40:22.034Z","to":"2026-04-09T08:50:21.373Z","count":8,"avg":394,"min":98,"max":1270,"p95":1270,"url":"https://www.tzpro.xyz"}
+{"type":"fail","from":"2026-04-09T09:00:26.532Z","to":"2026-04-09T09:00:26.532Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-09T09:10:19.344Z","to":"2026-04-09T23:50:18.143Z","count":89,"avg":254,"min":45,"max":2811,"p95":622,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-10T00:00:19.546Z","to":"2026-04-10T23:50:15.899Z","count":144,"avg":212,"min":43,"max":1546,"p95":456,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-11T00:00:19.908Z","to":"2026-04-11T23:50:21.758Z","count":143,"avg":223,"min":71,"max":749,"p95":495,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-12T00:00:20.676Z","to":"2026-04-12T23:50:21.674Z","count":146,"avg":221,"min":65,"max":850,"p95":468,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-13T00:00:21.919Z","to":"2026-04-13T15:00:20.030Z","count":86,"avg":276,"min":54,"max":1110,"p95":732,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-14T02:20:23.139Z","to":"2026-04-14T23:50:18.298Z","count":124,"avg":257,"min":78,"max":849,"p95":514,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-15T00:00:21.058Z","to":"2026-04-15T23:50:19.498Z","count":141,"avg":610,"min":84,"max":4620,"p95":1762,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-16T00:00:21.182Z","to":"2026-04-16T23:50:28.102Z","count":136,"avg":300,"min":31,"max":3177,"p95":1326,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-17T00:00:40.910Z","to":"2026-04-17T23:50:15.654Z","count":140,"avg":407,"min":31,"max":1553,"p95":960,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-18T00:00:26.788Z","to":"2026-04-18T23:50:15.189Z","count":141,"avg":414,"min":93,"max":1778,"p95":855,"url":"https://www.tzpro.xyz"}
+{"type":"ok","from":"2026-04-19T00:00:26.345Z","to":"2026-04-19T07:50:15.939Z","count":45,"url":"https://www.tzpro.xyz","avg":291,"min":118,"max":582,"p95":535}
+{"type":"ok","from":"2026-04-19T08:01:17.919Z","to":"2026-04-19T23:40:59.894Z","count":48,"url":"https://ai-gateway.catyuki.com/","avg":1970,"min":771,"max":3482,"p95":2941}

@@ -1,35 +1,36 @@
-{"url":"https://api.mcxhm.cn"}
-{"type":"ok","from":"2026-04-01T00:04:48.151Z","to":"2026-04-01T23:54:45.640Z","count":144,"avg":466,"min":221,"max":1692,"p95":944}
-{"type":"ok","from":"2026-04-02T00:04:39.995Z","to":"2026-04-02T23:54:36.874Z","count":144,"avg":442,"min":18,"max":1579,"p95":795}
-{"type":"ok","from":"2026-04-03T00:04:45.396Z","to":"2026-04-03T02:54:51.156Z","count":18,"avg":419,"min":35,"max":1367,"p95":1367}
-{"type":"fail","from":"2026-04-03T03:05:04.966Z","to":"2026-04-03T03:05:04.966Z","count":1,"status":502,"error":"HTTP 502","avg_latency":420}
-{"type":"ok","from":"2026-04-03T03:14:54.217Z","to":"2026-04-03T15:05:25.161Z","count":72,"avg":491,"min":48,"max":1992,"p95":1045}
-{"type":"fail","from":"2026-04-03T15:15:37.748Z","to":"2026-04-03T15:25:05.963Z","count":2,"status":null,"error":"fetch failed","avg_latency":850}
-{"type":"ok","from":"2026-04-03T15:35:09.379Z","to":"2026-04-03T23:54:50.817Z","count":49,"avg":1381,"min":663,"max":2696,"p95":2043}
-{"type":"ok","from":"2026-04-04T00:04:48.797Z","to":"2026-04-04T06:34:10.047Z","count":34,"avg":1432,"min":1100,"max":2215,"p95":1924}
-{"type":"fail","from":"2026-04-04T06:44:56.189Z","to":"2026-04-04T06:44:56.189Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-04T06:54:26.760Z","to":"2026-04-04T23:54:35.602Z","count":103,"avg":1104,"min":238,"max":2855,"p95":2025}
-{"type":"ok","from":"2026-04-05T00:04:53.011Z","to":"2026-04-05T04:04:40.119Z","count":25,"avg":468,"min":201,"max":1263,"p95":1019}
-{"type":"fail","from":"2026-04-05T04:14:58.128Z","to":"2026-04-05T04:14:58.128Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T04:24:55.349Z","to":"2026-04-05T23:55:06.596Z","count":117,"avg":477,"min":205,"max":1457,"p95":945}
-{"type":"ok","from":"2026-04-06T00:04:40.268Z","to":"2026-04-06T23:53:59.541Z","count":144,"avg":484,"min":204,"max":1627,"p95":913}
-{"type":"ok","from":"2026-04-07T00:03:59.946Z","to":"2026-04-07T23:53:42.087Z","count":144,"avg":435,"min":33,"max":1276,"p95":685}
-{"type":"ok","from":"2026-04-08T00:04:12.095Z","to":"2026-04-08T03:44:16.412Z","count":23,"avg":433,"min":224,"max":624,"p95":609}
-{"type":"fail","from":"2026-04-08T03:54:36.273Z","to":"2026-04-08T03:54:36.273Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T04:04:40.906Z","to":"2026-04-08T23:54:38.689Z","count":120,"avg":519,"min":197,"max":2770,"p95":1153}
-{"type":"ok","from":"2026-04-09T00:04:22.954Z","to":"2026-04-09T23:53:54.381Z","count":144,"avg":463,"min":52,"max":1934,"p95":742}
-{"type":"ok","from":"2026-04-10T00:04:00.169Z","to":"2026-04-10T23:53:57.791Z","count":143,"avg":421,"min":20,"max":883,"p95":653}
-{"type":"ok","from":"2026-04-11T00:03:52.157Z","to":"2026-04-11T23:54:10.635Z","count":143,"avg":599,"min":217,"max":1457,"p95":831}
-{"type":"ok","from":"2026-04-12T00:03:55.045Z","to":"2026-04-12T23:53:39.923Z","count":142,"avg":509,"min":201,"max":1456,"p95":808}
-{"type":"ok","from":"2026-04-13T00:03:47.672Z","to":"2026-04-13T15:04:33.345Z","count":83,"avg":396,"min":183,"max":1378,"p95":487}
-{"type":"ok","from":"2026-04-14T02:29:18.535Z","to":"2026-04-14T11:43:47.712Z","count":48,"avg":380,"min":17,"max":930,"p95":542}
-{"type":"fail","from":"2026-04-14T11:54:17.135Z","to":"2026-04-14T12:04:27.474Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-14T12:14:11.178Z","to":"2026-04-14T12:14:11.178Z","count":1,"avg":352,"min":352,"max":352,"p95":352}
-{"type":"fail","from":"2026-04-14T12:24:11.451Z","to":"2026-04-14T12:34:23.195Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-14T12:44:09.476Z","to":"2026-04-14T23:53:38.791Z","count":67,"avg":410,"min":204,"max":1400,"p95":745}
-{"type":"ok","from":"2026-04-15T00:03:34.629Z","to":"2026-04-15T23:54:00.327Z","count":140,"avg":497,"min":192,"max":1847,"p95":915}
-{"type":"ok","from":"2026-04-16T00:04:09.415Z","to":"2026-04-16T23:54:12.567Z","count":131,"avg":572,"min":71,"max":2827,"p95":1026}
-{"type":"ok","from":"2026-04-17T00:04:40.876Z","to":"2026-04-17T23:52:23.471Z","count":138,"avg":1132,"min":192,"max":2976,"p95":2080}
-{"type":"ok","from":"2026-04-18T00:02:36.394Z","to":"2026-04-18T10:02:38.249Z","count":57,"avg":1103,"min":575,"max":3146,"p95":1993}
-{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":8511}
-{"type":"ok","from":"2026-04-18T10:22:26.582Z","to":"2026-04-18T23:52:16.237Z","count":81,"avg":561,"min":202,"max":1523,"p95":1214}
+{"type":"ok","from":"2026-04-01T00:04:48.151Z","to":"2026-04-01T23:54:45.640Z","count":144,"avg":466,"min":221,"max":1692,"p95":944,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-02T00:04:39.995Z","to":"2026-04-02T23:54:36.874Z","count":144,"avg":442,"min":18,"max":1579,"p95":795,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-03T00:04:45.396Z","to":"2026-04-03T02:54:51.156Z","count":18,"avg":419,"min":35,"max":1367,"p95":1367,"url":"https://api.mcxhm.cn"}
+{"type":"fail","from":"2026-04-03T03:05:04.966Z","to":"2026-04-03T03:05:04.966Z","count":1,"status":502,"error":"HTTP 502","avg_latency":420,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-03T03:14:54.217Z","to":"2026-04-03T15:05:25.161Z","count":72,"avg":491,"min":48,"max":1992,"p95":1045,"url":"https://api.mcxhm.cn"}
+{"type":"fail","from":"2026-04-03T15:15:37.748Z","to":"2026-04-03T15:25:05.963Z","count":2,"status":null,"error":"fetch failed","avg_latency":850,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-03T15:35:09.379Z","to":"2026-04-03T23:54:50.817Z","count":49,"avg":1381,"min":663,"max":2696,"p95":2043,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-04T00:04:48.797Z","to":"2026-04-04T06:34:10.047Z","count":34,"avg":1432,"min":1100,"max":2215,"p95":1924,"url":"https://api.mcxhm.cn"}
+{"type":"fail","from":"2026-04-04T06:44:56.189Z","to":"2026-04-04T06:44:56.189Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-04T06:54:26.760Z","to":"2026-04-04T23:54:35.602Z","count":103,"avg":1104,"min":238,"max":2855,"p95":2025,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-05T00:04:53.011Z","to":"2026-04-05T04:04:40.119Z","count":25,"avg":468,"min":201,"max":1263,"p95":1019,"url":"https://api.mcxhm.cn"}
+{"type":"fail","from":"2026-04-05T04:14:58.128Z","to":"2026-04-05T04:14:58.128Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-05T04:24:55.349Z","to":"2026-04-05T23:55:06.596Z","count":117,"avg":477,"min":205,"max":1457,"p95":945,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-06T00:04:40.268Z","to":"2026-04-06T23:53:59.541Z","count":144,"avg":484,"min":204,"max":1627,"p95":913,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-07T00:03:59.946Z","to":"2026-04-07T23:53:42.087Z","count":144,"avg":435,"min":33,"max":1276,"p95":685,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-08T00:04:12.095Z","to":"2026-04-08T03:44:16.412Z","count":23,"avg":433,"min":224,"max":624,"p95":609,"url":"https://api.mcxhm.cn"}
+{"type":"fail","from":"2026-04-08T03:54:36.273Z","to":"2026-04-08T03:54:36.273Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-08T04:04:40.906Z","to":"2026-04-08T23:54:38.689Z","count":120,"avg":519,"min":197,"max":2770,"p95":1153,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-09T00:04:22.954Z","to":"2026-04-09T23:53:54.381Z","count":144,"avg":463,"min":52,"max":1934,"p95":742,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-10T00:04:00.169Z","to":"2026-04-10T23:53:57.791Z","count":143,"avg":421,"min":20,"max":883,"p95":653,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-11T00:03:52.157Z","to":"2026-04-11T23:54:10.635Z","count":143,"avg":599,"min":217,"max":1457,"p95":831,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-12T00:03:55.045Z","to":"2026-04-12T23:53:39.923Z","count":142,"avg":509,"min":201,"max":1456,"p95":808,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-13T00:03:47.672Z","to":"2026-04-13T15:04:33.345Z","count":83,"avg":396,"min":183,"max":1378,"p95":487,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-14T02:29:18.535Z","to":"2026-04-14T11:43:47.712Z","count":48,"avg":380,"min":17,"max":930,"p95":542,"url":"https://api.mcxhm.cn"}
+{"type":"fail","from":"2026-04-14T11:54:17.135Z","to":"2026-04-14T12:04:27.474Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-14T12:14:11.178Z","to":"2026-04-14T12:14:11.178Z","count":1,"avg":352,"min":352,"max":352,"p95":352,"url":"https://api.mcxhm.cn"}
+{"type":"fail","from":"2026-04-14T12:24:11.451Z","to":"2026-04-14T12:34:23.195Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-14T12:44:09.476Z","to":"2026-04-14T23:53:38.791Z","count":67,"avg":410,"min":204,"max":1400,"p95":745,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-15T00:03:34.629Z","to":"2026-04-15T23:54:00.327Z","count":140,"avg":497,"min":192,"max":1847,"p95":915,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-16T00:04:09.415Z","to":"2026-04-16T23:54:12.567Z","count":131,"avg":572,"min":71,"max":2827,"p95":1026,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-17T00:04:40.876Z","to":"2026-04-17T23:52:23.471Z","count":138,"avg":1132,"min":192,"max":2976,"p95":2080,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-18T00:02:36.394Z","to":"2026-04-18T10:02:38.249Z","count":57,"avg":1103,"min":575,"max":3146,"p95":1993,"url":"https://api.mcxhm.cn"}
+{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":8511,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-18T10:22:26.582Z","to":"2026-04-18T23:52:16.237Z","count":81,"avg":561,"min":202,"max":1523,"p95":1214,"url":"https://api.mcxhm.cn"}
+{"type":"ok","from":"2026-04-19T00:02:29.019Z","to":"2026-04-19T07:52:20.759Z","count":45,"url":"https://api.mcxhm.cn","avg":416,"min":13,"max":1161,"p95":696}
+{"type":"ok","from":"2026-04-19T08:15:20.856Z","to":"2026-04-19T23:52:13.670Z","count":48,"url":"https://api.mcxhm.cn/api/status","avg":492,"min":348,"max":1399,"p95":965}

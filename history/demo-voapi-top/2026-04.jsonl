@@ -1,65 +1,66 @@
-{"url":"https://demo.voapi.top"}
-{"type":"ok","from":"2026-04-01T00:04:49.386Z","to":"2026-04-01T06:05:17.647Z","count":37,"avg":527,"min":460,"max":848,"p95":663}
-{"type":"fail","from":"2026-04-01T06:15:08.195Z","to":"2026-04-01T06:15:08.195Z","count":1,"status":502,"error":"HTTP 502","avg_latency":567}
-{"type":"ok","from":"2026-04-01T06:25:03.859Z","to":"2026-04-01T13:15:26.686Z","count":42,"avg":572,"min":483,"max":775,"p95":706}
-{"type":"fail","from":"2026-04-01T13:25:24.312Z","to":"2026-04-01T13:25:24.312Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-01T13:35:11.277Z","to":"2026-04-01T23:14:31.289Z","count":59,"avg":531,"min":471,"max":1553,"p95":590}
-{"type":"fail","from":"2026-04-01T23:24:41.813Z","to":"2026-04-01T23:24:41.813Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-01T23:34:32.600Z","to":"2026-04-01T23:54:46.754Z","count":3,"avg":506,"min":475,"max":547,"p95":547}
-{"type":"ok","from":"2026-04-02T00:04:40.949Z","to":"2026-04-02T14:35:22.256Z","count":88,"avg":554,"min":466,"max":893,"p95":759}
-{"type":"fail","from":"2026-04-02T14:45:44.897Z","to":"2026-04-02T14:45:44.897Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T14:55:14.302Z","to":"2026-04-02T23:54:37.842Z","count":55,"avg":595,"min":463,"max":3288,"p95":1003}
-{"type":"ok","from":"2026-04-03T00:04:50.898Z","to":"2026-04-03T23:54:51.483Z","count":142,"avg":554,"min":463,"max":1193,"p95":734}
-{"type":"ok","from":"2026-04-04T00:04:49.436Z","to":"2026-04-04T13:45:16.735Z","count":77,"avg":599,"min":459,"max":1554,"p95":883}
-{"type":"fail","from":"2026-04-04T13:55:10.201Z","to":"2026-04-04T14:05:42.187Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T14:15:13.276Z","to":"2026-04-04T22:34:14.970Z","count":51,"avg":781,"min":467,"max":2920,"p95":1777}
-{"type":"fail","from":"2026-04-04T22:44:39.274Z","to":"2026-04-04T22:44:39.274Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T22:54:40.881Z","to":"2026-04-04T23:54:36.836Z","count":7,"avg":584,"min":477,"max":922,"p95":922}
-{"type":"ok","from":"2026-04-05T00:04:54.703Z","to":"2026-04-05T09:24:48.315Z","count":57,"avg":729,"min":478,"max":3533,"p95":1795}
-{"type":"fail","from":"2026-04-05T09:35:16.250Z","to":"2026-04-05T09:35:16.250Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T09:44:40.876Z","to":"2026-04-05T16:14:57.504Z","count":39,"avg":672,"min":467,"max":1994,"p95":918}
-{"type":"fail","from":"2026-04-05T16:24:59.050Z","to":"2026-04-05T16:24:59.050Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T16:35:25.383Z","to":"2026-04-05T23:55:08.287Z","count":45,"avg":603,"min":481,"max":1341,"p95":805}
-{"type":"ok","from":"2026-04-06T00:04:41.775Z","to":"2026-04-06T08:34:46.684Z","count":52,"avg":801,"min":469,"max":2913,"p95":1632}
-{"type":"fail","from":"2026-04-06T08:47:15.704Z","to":"2026-04-06T08:47:15.704Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T08:55:01.726Z","to":"2026-04-06T23:54:00.499Z","count":91,"avg":587,"min":473,"max":3807,"p95":778}
-{"type":"ok","from":"2026-04-07T00:04:00.926Z","to":"2026-04-07T02:54:23.578Z","count":18,"avg":527,"min":469,"max":672,"p95":672}
-{"type":"fail","from":"2026-04-07T03:04:13.127Z","to":"2026-04-07T03:04:13.127Z","count":1,"status":502,"error":"HTTP 502","avg_latency":494}
-{"type":"ok","from":"2026-04-07T03:14:11.931Z","to":"2026-04-07T23:53:42.930Z","count":125,"avg":547,"min":457,"max":1302,"p95":733}
-{"type":"ok","from":"2026-04-08T00:04:13.224Z","to":"2026-04-08T12:05:12.748Z","count":73,"avg":727,"min":465,"max":3886,"p95":1438}
-{"type":"fail","from":"2026-04-08T12:15:22.842Z","to":"2026-04-08T12:15:22.842Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-08T12:25:19.116Z","to":"2026-04-08T15:35:02.434Z","count":20,"avg":889,"min":505,"max":3082,"p95":3082}
-{"type":"fail","from":"2026-04-08T15:45:18.320Z","to":"2026-04-08T15:45:18.320Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T15:55:02.596Z","to":"2026-04-08T17:54:57.731Z","count":13,"avg":691,"min":499,"max":1469,"p95":1469}
-{"type":"fail","from":"2026-04-08T18:05:02.965Z","to":"2026-04-08T18:15:14.326Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T18:24:30.788Z","to":"2026-04-08T21:34:20.498Z","count":20,"avg":921,"min":517,"max":2651,"p95":2651}
-{"type":"fail","from":"2026-04-08T21:44:46.866Z","to":"2026-04-08T21:44:46.866Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T21:54:00.164Z","to":"2026-04-08T23:54:40.262Z","count":13,"avg":828,"min":488,"max":3581,"p95":3581}
-{"type":"ok","from":"2026-04-09T00:04:24.184Z","to":"2026-04-09T02:54:50.785Z","count":18,"avg":728,"min":491,"max":1787,"p95":1787}
-{"type":"fail","from":"2026-04-09T03:04:55.113Z","to":"2026-04-09T03:04:55.113Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T03:14:24.795Z","to":"2026-04-09T03:14:24.795Z","count":1,"avg":589,"min":589,"max":589,"p95":589}
-{"type":"fail","from":"2026-04-09T03:25:22.531Z","to":"2026-04-09T03:25:22.531Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T03:35:09.324Z","to":"2026-04-09T03:45:05.881Z","count":2,"avg":900,"min":850,"max":949,"p95":949}
-{"type":"fail","from":"2026-04-09T03:55:09.028Z","to":"2026-04-09T03:55:09.028Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T04:05:11.012Z","to":"2026-04-09T07:45:04.953Z","count":23,"avg":781,"min":500,"max":2619,"p95":1749}
-{"type":"fail","from":"2026-04-09T07:54:55.353Z","to":"2026-04-09T07:54:55.353Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T08:04:54.308Z","to":"2026-04-09T08:34:37.006Z","count":4,"avg":947,"min":512,"max":1744,"p95":1744}
-{"type":"fail","from":"2026-04-09T08:44:57.802Z","to":"2026-04-09T08:44:57.802Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T08:54:40.442Z","to":"2026-04-09T23:53:55.562Z","count":91,"avg":539,"min":458,"max":1626,"p95":677}
-{"type":"ok","from":"2026-04-10T00:04:01.189Z","to":"2026-04-10T05:45:05.713Z","count":34,"avg":689,"min":471,"max":3833,"p95":1542}
-{"type":"fail","from":"2026-04-10T05:55:14.765Z","to":"2026-04-10T05:55:14.765Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T06:05:08.876Z","to":"2026-04-10T23:53:59.038Z","count":108,"avg":549,"min":451,"max":1652,"p95":719}
-{"type":"ok","from":"2026-04-11T00:03:54.124Z","to":"2026-04-11T05:54:55.497Z","count":36,"avg":615,"min":455,"max":1605,"p95":1038}
-{"type":"fail","from":"2026-04-11T06:05:00.718Z","to":"2026-04-11T06:05:00.718Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T06:14:57.989Z","to":"2026-04-11T09:54:30.142Z","count":22,"avg":744,"min":492,"max":1049,"p95":960}
-{"type":"fail","from":"2026-04-11T10:04:23.692Z","to":"2026-04-11T10:24:19.985Z","count":3,"status":null,"error":"fetch failed","avg_latency":457}
-{"type":"ok","from":"2026-04-11T10:34:17.592Z","to":"2026-04-11T23:54:11.627Z","count":81,"avg":808,"min":492,"max":1238,"p95":1079}
-{"type":"ok","from":"2026-04-12T00:03:55.893Z","to":"2026-04-12T23:53:41.055Z","count":142,"avg":630,"min":446,"max":1228,"p95":999}
-{"type":"ok","from":"2026-04-13T00:03:52.836Z","to":"2026-04-13T15:04:34.604Z","count":83,"avg":494,"min":450,"max":858,"p95":549}
-{"type":"ok","from":"2026-04-14T02:29:20.375Z","to":"2026-04-14T23:53:39.767Z","count":120,"avg":482,"min":442,"max":719,"p95":513}
-{"type":"ok","from":"2026-04-15T00:03:35.573Z","to":"2026-04-15T23:54:01.381Z","count":140,"avg":723,"min":445,"max":2144,"p95":1194}
-{"type":"ok","from":"2026-04-16T00:04:10.480Z","to":"2026-04-16T23:54:13.970Z","count":131,"avg":979,"min":465,"max":1929,"p95":1327}
-{"type":"ok","from":"2026-04-17T00:04:42.335Z","to":"2026-04-17T23:52:24.537Z","count":138,"avg":2129,"min":716,"max":4447,"p95":3655}
-{"type":"ok","from":"2026-04-18T00:02:37.263Z","to":"2026-04-18T10:02:38.872Z","count":57,"avg":1937,"min":1337,"max":4074,"p95":3342}
-{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6584}
-{"type":"ok","from":"2026-04-18T10:22:27.264Z","to":"2026-04-18T23:52:16.873Z","count":81,"avg":1372,"min":879,"max":3199,"p95":2381}
+{"type":"ok","from":"2026-04-01T00:04:49.386Z","to":"2026-04-01T06:05:17.647Z","count":37,"avg":527,"min":460,"max":848,"p95":663,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-01T06:15:08.195Z","to":"2026-04-01T06:15:08.195Z","count":1,"status":502,"error":"HTTP 502","avg_latency":567,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-01T06:25:03.859Z","to":"2026-04-01T13:15:26.686Z","count":42,"avg":572,"min":483,"max":775,"p95":706,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-01T13:25:24.312Z","to":"2026-04-01T13:25:24.312Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-01T13:35:11.277Z","to":"2026-04-01T23:14:31.289Z","count":59,"avg":531,"min":471,"max":1553,"p95":590,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-01T23:24:41.813Z","to":"2026-04-01T23:24:41.813Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-01T23:34:32.600Z","to":"2026-04-01T23:54:46.754Z","count":3,"avg":506,"min":475,"max":547,"p95":547,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-02T00:04:40.949Z","to":"2026-04-02T14:35:22.256Z","count":88,"avg":554,"min":466,"max":893,"p95":759,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-02T14:45:44.897Z","to":"2026-04-02T14:45:44.897Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-02T14:55:14.302Z","to":"2026-04-02T23:54:37.842Z","count":55,"avg":595,"min":463,"max":3288,"p95":1003,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-03T00:04:50.898Z","to":"2026-04-03T23:54:51.483Z","count":142,"avg":554,"min":463,"max":1193,"p95":734,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-04T00:04:49.436Z","to":"2026-04-04T13:45:16.735Z","count":77,"avg":599,"min":459,"max":1554,"p95":883,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-04T13:55:10.201Z","to":"2026-04-04T14:05:42.187Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-04T14:15:13.276Z","to":"2026-04-04T22:34:14.970Z","count":51,"avg":781,"min":467,"max":2920,"p95":1777,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-04T22:44:39.274Z","to":"2026-04-04T22:44:39.274Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-04T22:54:40.881Z","to":"2026-04-04T23:54:36.836Z","count":7,"avg":584,"min":477,"max":922,"p95":922,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-05T00:04:54.703Z","to":"2026-04-05T09:24:48.315Z","count":57,"avg":729,"min":478,"max":3533,"p95":1795,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-05T09:35:16.250Z","to":"2026-04-05T09:35:16.250Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-05T09:44:40.876Z","to":"2026-04-05T16:14:57.504Z","count":39,"avg":672,"min":467,"max":1994,"p95":918,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-05T16:24:59.050Z","to":"2026-04-05T16:24:59.050Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-05T16:35:25.383Z","to":"2026-04-05T23:55:08.287Z","count":45,"avg":603,"min":481,"max":1341,"p95":805,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-06T00:04:41.775Z","to":"2026-04-06T08:34:46.684Z","count":52,"avg":801,"min":469,"max":2913,"p95":1632,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-06T08:47:15.704Z","to":"2026-04-06T08:47:15.704Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-06T08:55:01.726Z","to":"2026-04-06T23:54:00.499Z","count":91,"avg":587,"min":473,"max":3807,"p95":778,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-07T00:04:00.926Z","to":"2026-04-07T02:54:23.578Z","count":18,"avg":527,"min":469,"max":672,"p95":672,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-07T03:04:13.127Z","to":"2026-04-07T03:04:13.127Z","count":1,"status":502,"error":"HTTP 502","avg_latency":494,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-07T03:14:11.931Z","to":"2026-04-07T23:53:42.930Z","count":125,"avg":547,"min":457,"max":1302,"p95":733,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-08T00:04:13.224Z","to":"2026-04-08T12:05:12.748Z","count":73,"avg":727,"min":465,"max":3886,"p95":1438,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-08T12:15:22.842Z","to":"2026-04-08T12:15:22.842Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-08T12:25:19.116Z","to":"2026-04-08T15:35:02.434Z","count":20,"avg":889,"min":505,"max":3082,"p95":3082,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-08T15:45:18.320Z","to":"2026-04-08T15:45:18.320Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-08T15:55:02.596Z","to":"2026-04-08T17:54:57.731Z","count":13,"avg":691,"min":499,"max":1469,"p95":1469,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-08T18:05:02.965Z","to":"2026-04-08T18:15:14.326Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-08T18:24:30.788Z","to":"2026-04-08T21:34:20.498Z","count":20,"avg":921,"min":517,"max":2651,"p95":2651,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-08T21:44:46.866Z","to":"2026-04-08T21:44:46.866Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-08T21:54:00.164Z","to":"2026-04-08T23:54:40.262Z","count":13,"avg":828,"min":488,"max":3581,"p95":3581,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-09T00:04:24.184Z","to":"2026-04-09T02:54:50.785Z","count":18,"avg":728,"min":491,"max":1787,"p95":1787,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-09T03:04:55.113Z","to":"2026-04-09T03:04:55.113Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-09T03:14:24.795Z","to":"2026-04-09T03:14:24.795Z","count":1,"avg":589,"min":589,"max":589,"p95":589,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-09T03:25:22.531Z","to":"2026-04-09T03:25:22.531Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-09T03:35:09.324Z","to":"2026-04-09T03:45:05.881Z","count":2,"avg":900,"min":850,"max":949,"p95":949,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-09T03:55:09.028Z","to":"2026-04-09T03:55:09.028Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-09T04:05:11.012Z","to":"2026-04-09T07:45:04.953Z","count":23,"avg":781,"min":500,"max":2619,"p95":1749,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-09T07:54:55.353Z","to":"2026-04-09T07:54:55.353Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-09T08:04:54.308Z","to":"2026-04-09T08:34:37.006Z","count":4,"avg":947,"min":512,"max":1744,"p95":1744,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-09T08:44:57.802Z","to":"2026-04-09T08:44:57.802Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-09T08:54:40.442Z","to":"2026-04-09T23:53:55.562Z","count":91,"avg":539,"min":458,"max":1626,"p95":677,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-10T00:04:01.189Z","to":"2026-04-10T05:45:05.713Z","count":34,"avg":689,"min":471,"max":3833,"p95":1542,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-10T05:55:14.765Z","to":"2026-04-10T05:55:14.765Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-10T06:05:08.876Z","to":"2026-04-10T23:53:59.038Z","count":108,"avg":549,"min":451,"max":1652,"p95":719,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-11T00:03:54.124Z","to":"2026-04-11T05:54:55.497Z","count":36,"avg":615,"min":455,"max":1605,"p95":1038,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-11T06:05:00.718Z","to":"2026-04-11T06:05:00.718Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-11T06:14:57.989Z","to":"2026-04-11T09:54:30.142Z","count":22,"avg":744,"min":492,"max":1049,"p95":960,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-11T10:04:23.692Z","to":"2026-04-11T10:24:19.985Z","count":3,"status":null,"error":"fetch failed","avg_latency":457,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-11T10:34:17.592Z","to":"2026-04-11T23:54:11.627Z","count":81,"avg":808,"min":492,"max":1238,"p95":1079,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-12T00:03:55.893Z","to":"2026-04-12T23:53:41.055Z","count":142,"avg":630,"min":446,"max":1228,"p95":999,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-13T00:03:52.836Z","to":"2026-04-13T15:04:34.604Z","count":83,"avg":494,"min":450,"max":858,"p95":549,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-14T02:29:20.375Z","to":"2026-04-14T23:53:39.767Z","count":120,"avg":482,"min":442,"max":719,"p95":513,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-15T00:03:35.573Z","to":"2026-04-15T23:54:01.381Z","count":140,"avg":723,"min":445,"max":2144,"p95":1194,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-16T00:04:10.480Z","to":"2026-04-16T23:54:13.970Z","count":131,"avg":979,"min":465,"max":1929,"p95":1327,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-17T00:04:42.335Z","to":"2026-04-17T23:52:24.537Z","count":138,"avg":2129,"min":716,"max":4447,"p95":3655,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-18T00:02:37.263Z","to":"2026-04-18T10:02:38.872Z","count":57,"avg":1937,"min":1337,"max":4074,"p95":3342,"url":"https://demo.voapi.top"}
+{"type":"fail","from":"2026-04-18T10:15:00.086Z","to":"2026-04-18T10:15:00.086Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6584,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-18T10:22:27.264Z","to":"2026-04-18T23:52:16.873Z","count":81,"avg":1372,"min":879,"max":3199,"p95":2381,"url":"https://demo.voapi.top"}
+{"type":"ok","from":"2026-04-19T00:02:29.714Z","to":"2026-04-19T07:52:21.132Z","count":45,"url":"https://demo.voapi.top","avg":1083,"min":665,"max":1963,"p95":1669}
+{"type":"ok","from":"2026-04-19T08:15:22.376Z","to":"2026-04-19T23:52:15.987Z","count":48,"url":"https://demo.voapi.top/health","avg":158,"min":150,"max":178,"p95":169}

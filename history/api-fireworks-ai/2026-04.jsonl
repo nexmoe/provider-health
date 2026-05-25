@@ -21,3 +21,11 @@
 {"type":"ok","from":"2026-04-18T10:01:17.821Z","to":"2026-04-18T10:01:17.821Z","count":1,"url":"https://fireworks.ai","avg":626,"min":626,"max":626,"p95":626}
 {"type":"fail","from":"2026-04-18T10:11:26.168Z","to":"2026-04-18T10:11:26.168Z","count":1,"url":"https://fireworks.ai","status":null,"error":"Healthcheck timeout","avg_latency":6082}
 {"type":"ok","from":"2026-04-18T10:21:10.379Z","to":"2026-04-18T23:51:08.668Z","count":82,"url":"https://fireworks.ai","avg":566,"min":339,"max":3078,"p95":673}
+{"type":"ok","from":"2026-04-19T00:01:20.417Z","to":"2026-04-19T00:41:07.295Z","count":5,"url":"https://fireworks.ai","avg":500,"min":392,"max":569,"p95":569}
+{"type":"fail","from":"2026-04-19T00:51:09.602Z","to":"2026-04-19T01:01:17.777Z","count":2,"url":"https://fireworks.ai","status":500,"error":"HTTP 500","avg_latency":556}
+{"type":"ok","from":"2026-04-19T01:11:08.918Z","to":"2026-04-19T03:01:18.991Z","count":12,"url":"https://fireworks.ai","avg":539,"min":324,"max":1017,"p95":1017}
+{"type":"fail","from":"2026-04-19T03:11:13.982Z","to":"2026-04-19T03:11:13.982Z","count":1,"url":"https://fireworks.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T03:21:09.238Z","to":"2026-04-19T04:51:05.778Z","count":7,"url":"https://fireworks.ai","avg":495,"min":358,"max":586,"p95":586}
+{"type":"fail","from":"2026-04-19T05:01:19.975Z","to":"2026-04-19T05:01:19.975Z","count":1,"url":"https://fireworks.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T05:11:05.989Z","to":"2026-04-19T07:51:07.760Z","count":17,"url":"https://fireworks.ai","avg":676,"min":348,"max":1183,"p95":1183}
+{"type":"fail","from":"2026-04-19T08:05:19.092Z","to":"2026-04-19T23:44:27.153Z","count":48,"url":"https://api.fireworks.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}

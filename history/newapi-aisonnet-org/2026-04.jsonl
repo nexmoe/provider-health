@@ -1,27 +1,28 @@
-{"url":"https://newapi.aisonnet.org"}
-{"type":"ok","from":"2026-04-01T00:04:16.755Z","to":"2026-04-01T23:54:14.941Z","count":144,"avg":789,"min":648,"max":2248,"p95":1016}
-{"type":"ok","from":"2026-04-02T00:04:14.212Z","to":"2026-04-02T17:34:13.483Z","count":106,"avg":767,"min":661,"max":1118,"p95":947}
-{"type":"fail","from":"2026-04-02T17:44:32.969Z","to":"2026-04-02T17:44:32.969Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T17:54:15.444Z","to":"2026-04-02T23:54:09.381Z","count":37,"avg":716,"min":648,"max":832,"p95":804}
-{"type":"ok","from":"2026-04-03T00:04:15.082Z","to":"2026-04-03T23:54:14.097Z","count":142,"avg":749,"min":646,"max":1081,"p95":878}
-{"type":"ok","from":"2026-04-04T00:04:18.859Z","to":"2026-04-04T23:53:56.414Z","count":138,"avg":852,"min":655,"max":3530,"p95":1471}
-{"type":"ok","from":"2026-04-05T00:04:12.944Z","to":"2026-04-05T17:24:06.678Z","count":104,"avg":973,"min":678,"max":4209,"p95":1843}
-{"type":"fail","from":"2026-04-05T17:34:00.356Z","to":"2026-04-05T17:34:00.356Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T17:44:20.021Z","to":"2026-04-05T23:54:27.696Z","count":38,"avg":826,"min":709,"max":1505,"p95":1474}
-{"type":"ok","from":"2026-04-06T00:04:11.341Z","to":"2026-04-06T23:53:30.529Z","count":144,"avg":791,"min":673,"max":1596,"p95":986}
-{"type":"ok","from":"2026-04-07T00:03:30.880Z","to":"2026-04-07T23:53:17.403Z","count":144,"avg":777,"min":659,"max":1525,"p95":915}
-{"type":"ok","from":"2026-04-08T00:03:39.463Z","to":"2026-04-08T23:54:04.308Z","count":144,"avg":801,"min":695,"max":2102,"p95":959}
-{"type":"ok","from":"2026-04-09T00:03:56.246Z","to":"2026-04-09T23:53:24.118Z","count":144,"avg":774,"min":676,"max":1493,"p95":877}
-{"type":"ok","from":"2026-04-10T00:03:34.028Z","to":"2026-04-10T23:53:33.617Z","count":144,"avg":759,"min":658,"max":1060,"p95":889}
-{"type":"ok","from":"2026-04-11T00:03:31.551Z","to":"2026-04-11T23:53:47.750Z","count":143,"avg":712,"min":636,"max":1084,"p95":852}
-{"type":"ok","from":"2026-04-12T00:03:31.635Z","to":"2026-04-12T23:53:16.943Z","count":142,"avg":757,"min":635,"max":1097,"p95":931}
-{"type":"ok","from":"2026-04-13T00:03:24.566Z","to":"2026-04-13T15:03:54.884Z","count":84,"avg":777,"min":674,"max":1026,"p95":890}
-{"type":"ok","from":"2026-04-14T02:28:46.373Z","to":"2026-04-14T23:53:11.217Z","count":120,"avg":749,"min":654,"max":1032,"p95":862}
-{"type":"ok","from":"2026-04-15T00:03:06.780Z","to":"2026-04-15T18:33:53.520Z","count":108,"avg":781,"min":664,"max":1041,"p95":927}
-{"type":"fail","from":"2026-04-15T18:43:56.166Z","to":"2026-04-15T18:43:56.166Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T18:53:46.209Z","to":"2026-04-15T23:53:33.736Z","count":31,"avg":805,"min":723,"max":939,"p95":885}
-{"type":"ok","from":"2026-04-16T00:03:47.250Z","to":"2026-04-16T23:53:48.866Z","count":131,"avg":798,"min":639,"max":3742,"p95":927}
-{"type":"ok","from":"2026-04-17T00:04:18.246Z","to":"2026-04-17T23:52:11.481Z","count":138,"avg":805,"min":683,"max":1366,"p95":955}
-{"type":"ok","from":"2026-04-18T00:02:23.883Z","to":"2026-04-18T10:02:22.077Z","count":57,"avg":754,"min":648,"max":1608,"p95":879}
-{"type":"fail","from":"2026-04-18T10:14:01.289Z","to":"2026-04-18T10:14:01.289Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5046}
-{"type":"ok","from":"2026-04-18T10:22:10.370Z","to":"2026-04-18T23:52:00.704Z","count":81,"avg":1488,"min":648,"max":2915,"p95":2091}
+{"type":"ok","from":"2026-04-01T00:04:16.755Z","to":"2026-04-01T23:54:14.941Z","count":144,"avg":789,"min":648,"max":2248,"p95":1016,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-02T00:04:14.212Z","to":"2026-04-02T17:34:13.483Z","count":106,"avg":767,"min":661,"max":1118,"p95":947,"url":"https://newapi.aisonnet.org"}
+{"type":"fail","from":"2026-04-02T17:44:32.969Z","to":"2026-04-02T17:44:32.969Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-02T17:54:15.444Z","to":"2026-04-02T23:54:09.381Z","count":37,"avg":716,"min":648,"max":832,"p95":804,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-03T00:04:15.082Z","to":"2026-04-03T23:54:14.097Z","count":142,"avg":749,"min":646,"max":1081,"p95":878,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-04T00:04:18.859Z","to":"2026-04-04T23:53:56.414Z","count":138,"avg":852,"min":655,"max":3530,"p95":1471,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-05T00:04:12.944Z","to":"2026-04-05T17:24:06.678Z","count":104,"avg":973,"min":678,"max":4209,"p95":1843,"url":"https://newapi.aisonnet.org"}
+{"type":"fail","from":"2026-04-05T17:34:00.356Z","to":"2026-04-05T17:34:00.356Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-05T17:44:20.021Z","to":"2026-04-05T23:54:27.696Z","count":38,"avg":826,"min":709,"max":1505,"p95":1474,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-06T00:04:11.341Z","to":"2026-04-06T23:53:30.529Z","count":144,"avg":791,"min":673,"max":1596,"p95":986,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-07T00:03:30.880Z","to":"2026-04-07T23:53:17.403Z","count":144,"avg":777,"min":659,"max":1525,"p95":915,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-08T00:03:39.463Z","to":"2026-04-08T23:54:04.308Z","count":144,"avg":801,"min":695,"max":2102,"p95":959,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-09T00:03:56.246Z","to":"2026-04-09T23:53:24.118Z","count":144,"avg":774,"min":676,"max":1493,"p95":877,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-10T00:03:34.028Z","to":"2026-04-10T23:53:33.617Z","count":144,"avg":759,"min":658,"max":1060,"p95":889,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-11T00:03:31.551Z","to":"2026-04-11T23:53:47.750Z","count":143,"avg":712,"min":636,"max":1084,"p95":852,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-12T00:03:31.635Z","to":"2026-04-12T23:53:16.943Z","count":142,"avg":757,"min":635,"max":1097,"p95":931,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-13T00:03:24.566Z","to":"2026-04-13T15:03:54.884Z","count":84,"avg":777,"min":674,"max":1026,"p95":890,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-14T02:28:46.373Z","to":"2026-04-14T23:53:11.217Z","count":120,"avg":749,"min":654,"max":1032,"p95":862,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-15T00:03:06.780Z","to":"2026-04-15T18:33:53.520Z","count":108,"avg":781,"min":664,"max":1041,"p95":927,"url":"https://newapi.aisonnet.org"}
+{"type":"fail","from":"2026-04-15T18:43:56.166Z","to":"2026-04-15T18:43:56.166Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-15T18:53:46.209Z","to":"2026-04-15T23:53:33.736Z","count":31,"avg":805,"min":723,"max":939,"p95":885,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-16T00:03:47.250Z","to":"2026-04-16T23:53:48.866Z","count":131,"avg":798,"min":639,"max":3742,"p95":927,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-17T00:04:18.246Z","to":"2026-04-17T23:52:11.481Z","count":138,"avg":805,"min":683,"max":1366,"p95":955,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-18T00:02:23.883Z","to":"2026-04-18T10:02:22.077Z","count":57,"avg":754,"min":648,"max":1608,"p95":879,"url":"https://newapi.aisonnet.org"}
+{"type":"fail","from":"2026-04-18T10:14:01.289Z","to":"2026-04-18T10:14:01.289Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5046,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-18T10:22:10.370Z","to":"2026-04-18T23:52:00.704Z","count":81,"avg":1488,"min":648,"max":2915,"p95":2091,"url":"https://newapi.aisonnet.org"}
+{"type":"ok","from":"2026-04-19T00:02:14.297Z","to":"2026-04-19T07:52:05.100Z","count":45,"url":"https://newapi.aisonnet.org","avg":1689,"min":1211,"max":2291,"p95":2021}
+{"type":"ok","from":"2026-04-19T08:14:16.612Z","to":"2026-04-19T23:51:08.899Z","count":48,"url":"https://newapi.aisonnet.org/api/status","avg":1684,"min":1109,"max":2505,"p95":2028}

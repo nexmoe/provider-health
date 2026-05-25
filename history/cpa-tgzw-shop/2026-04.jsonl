@@ -1,31 +1,34 @@
-{"url":"https://tgzw.shop"}
-{"type":"ok","from":"2026-04-01T00:04:44.446Z","to":"2026-04-01T23:54:43.017Z","count":144,"avg":77,"min":43,"max":1656,"p95":98}
-{"type":"ok","from":"2026-04-02T00:04:36.313Z","to":"2026-04-02T23:54:32.773Z","count":144,"avg":71,"min":42,"max":326,"p95":112}
-{"type":"ok","from":"2026-04-03T00:04:41.476Z","to":"2026-04-03T07:16:32.450Z","count":44,"avg":76,"min":44,"max":186,"p95":118}
-{"type":"fail","from":"2026-04-03T07:25:33.658Z","to":"2026-04-03T07:25:33.658Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-03T07:35:13.541Z","to":"2026-04-03T23:54:43.727Z","count":97,"avg":65,"min":46,"max":319,"p95":97}
-{"type":"ok","from":"2026-04-04T00:04:41.583Z","to":"2026-04-04T13:15:06.744Z","count":74,"avg":98,"min":45,"max":590,"p95":287}
-{"type":"fail","from":"2026-04-04T13:25:10.052Z","to":"2026-04-04T13:25:10.052Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T13:35:01.837Z","to":"2026-04-04T23:54:29.150Z","count":63,"avg":252,"min":69,"max":1284,"p95":932}
-{"type":"ok","from":"2026-04-05T00:04:48.601Z","to":"2026-04-05T23:55:00.887Z","count":143,"avg":191,"min":49,"max":1653,"p95":373}
-{"type":"ok","from":"2026-04-06T00:04:35.189Z","to":"2026-04-06T23:53:55.385Z","count":144,"avg":169,"min":45,"max":825,"p95":376}
-{"type":"ok","from":"2026-04-07T00:03:57.187Z","to":"2026-04-07T23:53:36.878Z","count":144,"avg":65,"min":45,"max":241,"p95":99}
-{"type":"ok","from":"2026-04-08T00:04:07.158Z","to":"2026-04-08T23:54:36.011Z","count":144,"avg":129,"min":47,"max":1907,"p95":163}
-{"type":"ok","from":"2026-04-09T00:04:18.256Z","to":"2026-04-09T23:53:49.659Z","count":144,"avg":82,"min":45,"max":271,"p95":160}
-{"type":"ok","from":"2026-04-10T00:03:57.692Z","to":"2026-04-10T23:53:54.484Z","count":143,"avg":66,"min":41,"max":169,"p95":155}
-{"type":"ok","from":"2026-04-11T00:03:49.784Z","to":"2026-04-11T23:54:03.489Z","count":143,"avg":75,"min":43,"max":532,"p95":100}
-{"type":"ok","from":"2026-04-12T00:03:48.900Z","to":"2026-04-12T23:53:37.334Z","count":142,"avg":65,"min":41,"max":204,"p95":100}
-{"type":"ok","from":"2026-04-13T00:03:44.637Z","to":"2026-04-13T15:04:27.256Z","count":83,"avg":90,"min":40,"max":1553,"p95":93}
-{"type":"ok","from":"2026-04-14T02:29:12.622Z","to":"2026-04-14T23:53:35.763Z","count":120,"avg":60,"min":42,"max":131,"p95":91}
-{"type":"ok","from":"2026-04-15T00:03:31.938Z","to":"2026-04-15T19:13:44.266Z","count":112,"avg":220,"min":44,"max":3564,"p95":1024}
-{"type":"fail","from":"2026-04-15T19:23:59.054Z","to":"2026-04-15T19:23:59.054Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T19:33:51.876Z","to":"2026-04-15T23:53:53.450Z","count":27,"avg":136,"min":46,"max":293,"p95":227}
-{"type":"ok","from":"2026-04-16T00:04:03.053Z","to":"2026-04-16T23:54:07.350Z","count":131,"avg":150,"min":48,"max":973,"p95":315}
-{"type":"ok","from":"2026-04-17T00:04:36.272Z","to":"2026-04-17T02:18:27.287Z","count":14,"avg":168,"min":52,"max":366,"p95":366}
-{"type":"fail","from":"2026-04-17T02:24:32.662Z","to":"2026-04-17T02:24:32.662Z","count":1,"status":523,"error":"HTTP 523","avg_latency":354}
-{"type":"ok","from":"2026-04-17T02:34:41.214Z","to":"2026-04-17T02:34:41.214Z","count":1,"avg":3219,"min":3219,"max":3219,"p95":3219}
-{"type":"fail","from":"2026-04-17T02:44:52.783Z","to":"2026-04-17T02:44:52.783Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-17T02:54:32.686Z","to":"2026-04-17T23:52:20.390Z","count":121,"avg":275,"min":57,"max":3666,"p95":489}
-{"type":"ok","from":"2026-04-18T00:02:33.588Z","to":"2026-04-18T10:02:31.994Z","count":57,"avg":465,"min":71,"max":4211,"p95":3269}
-{"type":"fail","from":"2026-04-18T10:14:37.477Z","to":"2026-04-18T10:14:37.477Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":9175}
-{"type":"ok","from":"2026-04-18T10:22:20.620Z","to":"2026-04-18T23:52:10.633Z","count":81,"avg":177,"min":71,"max":1056,"p95":445}
+{"type":"ok","from":"2026-04-01T00:04:44.446Z","to":"2026-04-01T23:54:43.017Z","count":144,"avg":77,"min":43,"max":1656,"p95":98,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-02T00:04:36.313Z","to":"2026-04-02T23:54:32.773Z","count":144,"avg":71,"min":42,"max":326,"p95":112,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-03T00:04:41.476Z","to":"2026-04-03T07:16:32.450Z","count":44,"avg":76,"min":44,"max":186,"p95":118,"url":"https://tgzw.shop"}
+{"type":"fail","from":"2026-04-03T07:25:33.658Z","to":"2026-04-03T07:25:33.658Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-03T07:35:13.541Z","to":"2026-04-03T23:54:43.727Z","count":97,"avg":65,"min":46,"max":319,"p95":97,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-04T00:04:41.583Z","to":"2026-04-04T13:15:06.744Z","count":74,"avg":98,"min":45,"max":590,"p95":287,"url":"https://tgzw.shop"}
+{"type":"fail","from":"2026-04-04T13:25:10.052Z","to":"2026-04-04T13:25:10.052Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-04T13:35:01.837Z","to":"2026-04-04T23:54:29.150Z","count":63,"avg":252,"min":69,"max":1284,"p95":932,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-05T00:04:48.601Z","to":"2026-04-05T23:55:00.887Z","count":143,"avg":191,"min":49,"max":1653,"p95":373,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-06T00:04:35.189Z","to":"2026-04-06T23:53:55.385Z","count":144,"avg":169,"min":45,"max":825,"p95":376,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-07T00:03:57.187Z","to":"2026-04-07T23:53:36.878Z","count":144,"avg":65,"min":45,"max":241,"p95":99,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-08T00:04:07.158Z","to":"2026-04-08T23:54:36.011Z","count":144,"avg":129,"min":47,"max":1907,"p95":163,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-09T00:04:18.256Z","to":"2026-04-09T23:53:49.659Z","count":144,"avg":82,"min":45,"max":271,"p95":160,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-10T00:03:57.692Z","to":"2026-04-10T23:53:54.484Z","count":143,"avg":66,"min":41,"max":169,"p95":155,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-11T00:03:49.784Z","to":"2026-04-11T23:54:03.489Z","count":143,"avg":75,"min":43,"max":532,"p95":100,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-12T00:03:48.900Z","to":"2026-04-12T23:53:37.334Z","count":142,"avg":65,"min":41,"max":204,"p95":100,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-13T00:03:44.637Z","to":"2026-04-13T15:04:27.256Z","count":83,"avg":90,"min":40,"max":1553,"p95":93,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-14T02:29:12.622Z","to":"2026-04-14T23:53:35.763Z","count":120,"avg":60,"min":42,"max":131,"p95":91,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-15T00:03:31.938Z","to":"2026-04-15T19:13:44.266Z","count":112,"avg":220,"min":44,"max":3564,"p95":1024,"url":"https://tgzw.shop"}
+{"type":"fail","from":"2026-04-15T19:23:59.054Z","to":"2026-04-15T19:23:59.054Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-15T19:33:51.876Z","to":"2026-04-15T23:53:53.450Z","count":27,"avg":136,"min":46,"max":293,"p95":227,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-16T00:04:03.053Z","to":"2026-04-16T23:54:07.350Z","count":131,"avg":150,"min":48,"max":973,"p95":315,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-17T00:04:36.272Z","to":"2026-04-17T02:18:27.287Z","count":14,"avg":168,"min":52,"max":366,"p95":366,"url":"https://tgzw.shop"}
+{"type":"fail","from":"2026-04-17T02:24:32.662Z","to":"2026-04-17T02:24:32.662Z","count":1,"status":523,"error":"HTTP 523","avg_latency":354,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-17T02:34:41.214Z","to":"2026-04-17T02:34:41.214Z","count":1,"avg":3219,"min":3219,"max":3219,"p95":3219,"url":"https://tgzw.shop"}
+{"type":"fail","from":"2026-04-17T02:44:52.783Z","to":"2026-04-17T02:44:52.783Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-17T02:54:32.686Z","to":"2026-04-17T23:52:20.390Z","count":121,"avg":275,"min":57,"max":3666,"p95":489,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-18T00:02:33.588Z","to":"2026-04-18T10:02:31.994Z","count":57,"avg":465,"min":71,"max":4211,"p95":3269,"url":"https://tgzw.shop"}
+{"type":"fail","from":"2026-04-18T10:14:37.477Z","to":"2026-04-18T10:14:37.477Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":9175,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-18T10:22:20.620Z","to":"2026-04-18T23:52:10.633Z","count":81,"avg":177,"min":71,"max":1056,"p95":445,"url":"https://tgzw.shop"}
+{"type":"ok","from":"2026-04-19T00:02:23.424Z","to":"2026-04-19T03:02:25.468Z","count":19,"url":"https://tgzw.shop","avg":144,"min":72,"max":411,"p95":411}
+{"type":"fail","from":"2026-04-19T03:12:17.272Z","to":"2026-04-19T04:12:17.533Z","count":4,"url":"https://tgzw.shop","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T04:22:02.843Z","to":"2026-04-19T07:52:15.551Z","count":22,"url":"https://tgzw.shop","avg":142,"min":67,"max":446,"p95":411}
+{"type":"ok","from":"2026-04-19T08:15:01.104Z","to":"2026-04-19T23:51:53.705Z","count":48,"url":"https://cpa.tgzw.shop/v1/models","avg":820,"min":389,"max":1168,"p95":1132}

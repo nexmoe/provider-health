@@ -1,29 +1,30 @@
-{"url":"https://gptproto.com"}
-{"type":"ok","from":"2026-04-01T00:01:45.834Z","to":"2026-04-01T23:51:43.283Z","count":144,"avg":289,"min":123,"max":850,"p95":642}
-{"type":"ok","from":"2026-04-02T00:01:44.949Z","to":"2026-04-02T23:51:47.305Z","count":144,"avg":328,"min":125,"max":1776,"p95":780}
-{"type":"ok","from":"2026-04-03T00:01:45.331Z","to":"2026-04-03T14:21:53.252Z","count":87,"avg":322,"min":157,"max":1180,"p95":668}
-{"type":"fail","from":"2026-04-03T14:31:59.002Z","to":"2026-04-03T14:31:59.002Z","count":1,"status":526,"error":"HTTP 526","avg_latency":89}
-{"type":"ok","from":"2026-04-03T14:41:48.584Z","to":"2026-04-03T23:51:44.903Z","count":55,"avg":211,"min":130,"max":649,"p95":297}
-{"type":"ok","from":"2026-04-04T00:01:48.244Z","to":"2026-04-04T23:51:05.530Z","count":138,"avg":474,"min":148,"max":1357,"p95":893}
-{"type":"ok","from":"2026-04-05T00:01:02.390Z","to":"2026-04-05T23:51:02.554Z","count":144,"avg":537,"min":134,"max":1087,"p95":835}
-{"type":"ok","from":"2026-04-06T00:01:06.324Z","to":"2026-04-06T23:50:56.895Z","count":144,"avg":559,"min":128,"max":2492,"p95":898}
-{"type":"ok","from":"2026-04-07T00:01:06.224Z","to":"2026-04-07T11:41:01.965Z","count":71,"avg":458,"min":172,"max":1155,"p95":751}
-{"type":"fail","from":"2026-04-07T11:51:09.801Z","to":"2026-04-07T11:51:09.801Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T12:01:06.202Z","to":"2026-04-07T23:50:57.090Z","count":72,"avg":310,"min":129,"max":693,"p95":627}
-{"type":"ok","from":"2026-04-08T00:01:09.618Z","to":"2026-04-08T11:11:03.493Z","count":68,"avg":438,"min":177,"max":959,"p95":730}
-{"type":"fail","from":"2026-04-08T11:21:16.146Z","to":"2026-04-08T11:21:16.146Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T11:31:04.160Z","to":"2026-04-08T23:51:04.138Z","count":75,"avg":452,"min":168,"max":2998,"p95":762}
-{"type":"ok","from":"2026-04-09T00:01:01.686Z","to":"2026-04-09T23:50:56.244Z","count":144,"avg":376,"min":125,"max":1137,"p95":719}
-{"type":"ok","from":"2026-04-10T00:00:58.052Z","to":"2026-04-10T23:50:58.073Z","count":144,"avg":367,"min":131,"max":2761,"p95":751}
-{"type":"ok","from":"2026-04-11T00:01:01.356Z","to":"2026-04-11T23:51:00.072Z","count":143,"avg":238,"min":116,"max":1188,"p95":524}
-{"type":"ok","from":"2026-04-12T00:01:00.992Z","to":"2026-04-12T23:50:59.168Z","count":144,"avg":206,"min":114,"max":600,"p95":342}
-{"type":"ok","from":"2026-04-13T00:01:02.426Z","to":"2026-04-13T15:01:04.291Z","count":86,"avg":220,"min":112,"max":892,"p95":428}
-{"type":"ok","from":"2026-04-14T02:21:08.063Z","to":"2026-04-14T14:11:05.211Z","count":67,"avg":217,"min":115,"max":1162,"p95":452}
-{"type":"fail","from":"2026-04-14T14:21:09.235Z","to":"2026-04-14T14:21:09.235Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T14:41:04.431Z","to":"2026-04-14T23:50:51.529Z","count":56,"avg":204,"min":126,"max":352,"p95":306}
-{"type":"ok","from":"2026-04-15T00:00:54.063Z","to":"2026-04-15T23:50:58.851Z","count":141,"avg":221,"min":123,"max":544,"p95":382}
-{"type":"ok","from":"2026-04-16T00:00:59.490Z","to":"2026-04-16T23:51:12.319Z","count":133,"avg":227,"min":120,"max":886,"p95":443}
-{"type":"ok","from":"2026-04-17T00:01:30.942Z","to":"2026-04-17T02:01:27.311Z","count":13,"avg":224,"min":121,"max":424,"p95":424}
-{"type":"fail","from":"2026-04-17T02:11:33.947Z","to":"2026-04-17T02:11:33.947Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T02:14:37.175Z","to":"2026-04-17T23:50:41.285Z","count":126,"avg":236,"min":125,"max":1085,"p95":449}
-{"type":"ok","from":"2026-04-18T00:00:50.383Z","to":"2026-04-18T23:50:36.586Z","count":141,"avg":730,"min":161,"max":1635,"p95":1398}
+{"type":"ok","from":"2026-04-01T00:01:45.834Z","to":"2026-04-01T23:51:43.283Z","count":144,"avg":289,"min":123,"max":850,"p95":642,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-02T00:01:44.949Z","to":"2026-04-02T23:51:47.305Z","count":144,"avg":328,"min":125,"max":1776,"p95":780,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-03T00:01:45.331Z","to":"2026-04-03T14:21:53.252Z","count":87,"avg":322,"min":157,"max":1180,"p95":668,"url":"https://gptproto.com"}
+{"type":"fail","from":"2026-04-03T14:31:59.002Z","to":"2026-04-03T14:31:59.002Z","count":1,"status":526,"error":"HTTP 526","avg_latency":89,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-03T14:41:48.584Z","to":"2026-04-03T23:51:44.903Z","count":55,"avg":211,"min":130,"max":649,"p95":297,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-04T00:01:48.244Z","to":"2026-04-04T23:51:05.530Z","count":138,"avg":474,"min":148,"max":1357,"p95":893,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-05T00:01:02.390Z","to":"2026-04-05T23:51:02.554Z","count":144,"avg":537,"min":134,"max":1087,"p95":835,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-06T00:01:06.324Z","to":"2026-04-06T23:50:56.895Z","count":144,"avg":559,"min":128,"max":2492,"p95":898,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-07T00:01:06.224Z","to":"2026-04-07T11:41:01.965Z","count":71,"avg":458,"min":172,"max":1155,"p95":751,"url":"https://gptproto.com"}
+{"type":"fail","from":"2026-04-07T11:51:09.801Z","to":"2026-04-07T11:51:09.801Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-07T12:01:06.202Z","to":"2026-04-07T23:50:57.090Z","count":72,"avg":310,"min":129,"max":693,"p95":627,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-08T00:01:09.618Z","to":"2026-04-08T11:11:03.493Z","count":68,"avg":438,"min":177,"max":959,"p95":730,"url":"https://gptproto.com"}
+{"type":"fail","from":"2026-04-08T11:21:16.146Z","to":"2026-04-08T11:21:16.146Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-08T11:31:04.160Z","to":"2026-04-08T23:51:04.138Z","count":75,"avg":452,"min":168,"max":2998,"p95":762,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-09T00:01:01.686Z","to":"2026-04-09T23:50:56.244Z","count":144,"avg":376,"min":125,"max":1137,"p95":719,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-10T00:00:58.052Z","to":"2026-04-10T23:50:58.073Z","count":144,"avg":367,"min":131,"max":2761,"p95":751,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-11T00:01:01.356Z","to":"2026-04-11T23:51:00.072Z","count":143,"avg":238,"min":116,"max":1188,"p95":524,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-12T00:01:00.992Z","to":"2026-04-12T23:50:59.168Z","count":144,"avg":206,"min":114,"max":600,"p95":342,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-13T00:01:02.426Z","to":"2026-04-13T15:01:04.291Z","count":86,"avg":220,"min":112,"max":892,"p95":428,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-14T02:21:08.063Z","to":"2026-04-14T14:11:05.211Z","count":67,"avg":217,"min":115,"max":1162,"p95":452,"url":"https://gptproto.com"}
+{"type":"fail","from":"2026-04-14T14:21:09.235Z","to":"2026-04-14T14:21:09.235Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-14T14:41:04.431Z","to":"2026-04-14T23:50:51.529Z","count":56,"avg":204,"min":126,"max":352,"p95":306,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-15T00:00:54.063Z","to":"2026-04-15T23:50:58.851Z","count":141,"avg":221,"min":123,"max":544,"p95":382,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-16T00:00:59.490Z","to":"2026-04-16T23:51:12.319Z","count":133,"avg":227,"min":120,"max":886,"p95":443,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-17T00:01:30.942Z","to":"2026-04-17T02:01:27.311Z","count":13,"avg":224,"min":121,"max":424,"p95":424,"url":"https://gptproto.com"}
+{"type":"fail","from":"2026-04-17T02:11:33.947Z","to":"2026-04-17T02:11:33.947Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-17T02:14:37.175Z","to":"2026-04-17T23:50:41.285Z","count":126,"avg":236,"min":125,"max":1085,"p95":449,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-18T00:00:50.383Z","to":"2026-04-18T23:50:36.586Z","count":141,"avg":730,"min":161,"max":1635,"p95":1398,"url":"https://gptproto.com"}
+{"type":"ok","from":"2026-04-19T00:00:48.438Z","to":"2026-04-19T07:50:35.059Z","count":45,"url":"https://gptproto.com","avg":894,"min":343,"max":1523,"p95":1302}
+{"type":"ok","from":"2026-04-19T08:02:17.690Z","to":"2026-04-19T23:41:52.437Z","count":48,"url":"https://gptproto.com/","avg":926,"min":419,"max":2016,"p95":1485}

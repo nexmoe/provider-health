@@ -1,29 +1,31 @@
-{"url":"https://api.anannas.ai"}
-{"type":"fail","from":"2026-04-01T00:02:45.185Z","to":"2026-04-01T14:33:06.874Z","count":88,"status":404,"error":"HTTP 404","avg_latency":1348}
-{"type":"fail","from":"2026-04-01T14:43:21.449Z","to":"2026-04-01T15:03:03.828Z","count":3,"status":null,"error":"fetch failed","avg_latency":720}
-{"type":"fail","from":"2026-04-01T15:12:49.114Z","to":"2026-04-01T16:23:03.672Z","count":8,"status":404,"error":"HTTP 404","avg_latency":917}
-{"type":"fail","from":"2026-04-01T16:32:57.452Z","to":"2026-04-01T16:32:57.452Z","count":1,"status":null,"error":"fetch failed","avg_latency":681}
-{"type":"fail","from":"2026-04-01T16:42:55.056Z","to":"2026-04-01T17:22:48.328Z","count":5,"status":404,"error":"HTTP 404","avg_latency":1063}
-{"type":"ok","from":"2026-04-01T17:32:52.617Z","to":"2026-04-01T23:52:39.122Z","count":39,"avg":680,"min":318,"max":1496,"p95":1181}
-{"type":"ok","from":"2026-04-02T00:02:44.836Z","to":"2026-04-02T23:52:39.986Z","count":144,"avg":724,"min":238,"max":1696,"p95":1126}
-{"type":"ok","from":"2026-04-03T00:02:47.721Z","to":"2026-04-03T23:32:53.176Z","count":141,"avg":735,"min":234,"max":1609,"p95":1291}
-{"type":"fail","from":"2026-04-03T23:42:45.444Z","to":"2026-04-03T23:52:42.998Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-04T00:02:49.355Z","to":"2026-04-04T23:52:05.197Z","count":138,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-05T00:02:08.812Z","to":"2026-04-05T19:32:11.522Z","count":118,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-05T19:42:02.338Z","to":"2026-04-05T19:42:02.338Z","count":1,"status":null,"error":"fetch failed","avg_latency":2692}
-{"type":"ok","from":"2026-04-05T19:52:06.239Z","to":"2026-04-05T23:52:14.214Z","count":25,"avg":880,"min":424,"max":1912,"p95":1765}
-{"type":"ok","from":"2026-04-06T00:02:16.371Z","to":"2026-04-06T23:51:50.458Z","count":144,"avg":828,"min":335,"max":1957,"p95":1355}
-{"type":"ok","from":"2026-04-07T00:01:58.049Z","to":"2026-04-07T23:51:52.991Z","count":144,"avg":737,"min":293,"max":1473,"p95":1175}
-{"type":"ok","from":"2026-04-08T00:02:06.029Z","to":"2026-04-08T23:52:06.780Z","count":144,"avg":854,"min":316,"max":2178,"p95":1606}
-{"type":"ok","from":"2026-04-09T00:02:01.580Z","to":"2026-04-09T23:51:47.433Z","count":144,"avg":806,"min":363,"max":1845,"p95":1369}
-{"type":"ok","from":"2026-04-10T00:01:58.337Z","to":"2026-04-10T23:51:58.114Z","count":144,"avg":858,"min":310,"max":2725,"p95":1467}
-{"type":"ok","from":"2026-04-11T00:01:54.682Z","to":"2026-04-11T23:52:04.163Z","count":143,"avg":501,"min":286,"max":1011,"p95":807}
-{"type":"ok","from":"2026-04-12T00:01:55.721Z","to":"2026-04-12T23:51:52.107Z","count":144,"avg":490,"min":277,"max":1377,"p95":938}
-{"type":"ok","from":"2026-04-13T00:01:51.081Z","to":"2026-04-13T15:02:08.116Z","count":84,"avg":548,"min":287,"max":1509,"p95":901}
-{"type":"ok","from":"2026-04-14T02:22:11.691Z","to":"2026-04-14T23:51:42.273Z","count":122,"avg":448,"min":290,"max":1151,"p95":774}
-{"type":"ok","from":"2026-04-15T00:01:45.867Z","to":"2026-04-15T23:51:53.883Z","count":140,"avg":548,"min":307,"max":1011,"p95":902}
-{"type":"ok","from":"2026-04-16T00:02:02.320Z","to":"2026-04-16T23:52:11.676Z","count":132,"avg":701,"min":315,"max":1795,"p95":1187}
-{"type":"ok","from":"2026-04-17T00:02:32.347Z","to":"2026-04-17T23:51:09.239Z","count":139,"avg":991,"min":383,"max":2173,"p95":1677}
-{"type":"ok","from":"2026-04-18T00:01:18.802Z","to":"2026-04-18T10:01:17.751Z","count":58,"avg":951,"min":546,"max":1935,"p95":1764}
-{"type":"fail","from":"2026-04-18T10:11:26.168Z","to":"2026-04-18T10:11:26.168Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6553}
-{"type":"ok","from":"2026-04-18T10:21:10.955Z","to":"2026-04-18T23:51:08.831Z","count":82,"avg":871,"min":475,"max":1746,"p95":1394}
+{"type":"fail","from":"2026-04-01T00:02:45.185Z","to":"2026-04-01T14:33:06.874Z","count":88,"status":404,"error":"HTTP 404","avg_latency":1348,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-01T14:43:21.449Z","to":"2026-04-01T15:03:03.828Z","count":3,"status":null,"error":"fetch failed","avg_latency":720,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-01T15:12:49.114Z","to":"2026-04-01T16:23:03.672Z","count":8,"status":404,"error":"HTTP 404","avg_latency":917,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-01T16:32:57.452Z","to":"2026-04-01T16:32:57.452Z","count":1,"status":null,"error":"fetch failed","avg_latency":681,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-01T16:42:55.056Z","to":"2026-04-01T17:22:48.328Z","count":5,"status":404,"error":"HTTP 404","avg_latency":1063,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-01T17:32:52.617Z","to":"2026-04-01T23:52:39.122Z","count":39,"avg":680,"min":318,"max":1496,"p95":1181,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-02T00:02:44.836Z","to":"2026-04-02T23:52:39.986Z","count":144,"avg":724,"min":238,"max":1696,"p95":1126,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-03T00:02:47.721Z","to":"2026-04-03T23:32:53.176Z","count":141,"avg":735,"min":234,"max":1609,"p95":1291,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-03T23:42:45.444Z","to":"2026-04-03T23:52:42.998Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-04T00:02:49.355Z","to":"2026-04-04T23:52:05.197Z","count":138,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-05T00:02:08.812Z","to":"2026-04-05T19:32:11.522Z","count":118,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-05T19:42:02.338Z","to":"2026-04-05T19:42:02.338Z","count":1,"status":null,"error":"fetch failed","avg_latency":2692,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-05T19:52:06.239Z","to":"2026-04-05T23:52:14.214Z","count":25,"avg":880,"min":424,"max":1912,"p95":1765,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-06T00:02:16.371Z","to":"2026-04-06T23:51:50.458Z","count":144,"avg":828,"min":335,"max":1957,"p95":1355,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-07T00:01:58.049Z","to":"2026-04-07T23:51:52.991Z","count":144,"avg":737,"min":293,"max":1473,"p95":1175,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-08T00:02:06.029Z","to":"2026-04-08T23:52:06.780Z","count":144,"avg":854,"min":316,"max":2178,"p95":1606,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-09T00:02:01.580Z","to":"2026-04-09T23:51:47.433Z","count":144,"avg":806,"min":363,"max":1845,"p95":1369,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-10T00:01:58.337Z","to":"2026-04-10T23:51:58.114Z","count":144,"avg":858,"min":310,"max":2725,"p95":1467,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-11T00:01:54.682Z","to":"2026-04-11T23:52:04.163Z","count":143,"avg":501,"min":286,"max":1011,"p95":807,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-12T00:01:55.721Z","to":"2026-04-12T23:51:52.107Z","count":144,"avg":490,"min":277,"max":1377,"p95":938,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-13T00:01:51.081Z","to":"2026-04-13T15:02:08.116Z","count":84,"avg":548,"min":287,"max":1509,"p95":901,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-14T02:22:11.691Z","to":"2026-04-14T23:51:42.273Z","count":122,"avg":448,"min":290,"max":1151,"p95":774,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-15T00:01:45.867Z","to":"2026-04-15T23:51:53.883Z","count":140,"avg":548,"min":307,"max":1011,"p95":902,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-16T00:02:02.320Z","to":"2026-04-16T23:52:11.676Z","count":132,"avg":701,"min":315,"max":1795,"p95":1187,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-17T00:02:32.347Z","to":"2026-04-17T23:51:09.239Z","count":139,"avg":991,"min":383,"max":2173,"p95":1677,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-18T00:01:18.802Z","to":"2026-04-18T10:01:17.751Z","count":58,"avg":951,"min":546,"max":1935,"p95":1764,"url":"https://api.anannas.ai"}
+{"type":"fail","from":"2026-04-18T10:11:26.168Z","to":"2026-04-18T10:11:26.168Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":6553,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-18T10:21:10.955Z","to":"2026-04-18T23:51:08.831Z","count":82,"avg":871,"min":475,"max":1746,"p95":1394,"url":"https://api.anannas.ai"}
+{"type":"ok","from":"2026-04-19T00:01:20.638Z","to":"2026-04-19T04:01:20.371Z","count":22,"url":"https://api.anannas.ai","avg":918,"min":503,"max":1900,"p95":1542}
+{"type":"ok","from":"2026-04-19T04:11:09.319Z","to":"2026-04-19T07:51:07.294Z","count":23,"url":"https://anannas.ai","avg":764,"min":313,"max":1813,"p95":1791}
+{"type":"ok","from":"2026-04-19T08:05:37.876Z","to":"2026-04-19T23:44:45.762Z","count":48,"url":"https://api.anannas.ai/v1/models","avg":734,"min":424,"max":2289,"p95":1275}

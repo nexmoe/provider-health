@@ -1,590 +1,601 @@
-{"url":"https://www.cucloud.cn"}
-{"type":"fail","from":"2026-04-01T00:04:18.460Z","to":"2026-04-01T00:04:18.460Z","count":1,"status":null,"error":"fetch failed","avg_latency":884}
-{"type":"ok","from":"2026-04-01T00:14:37.818Z","to":"2026-04-01T01:34:43.388Z","count":9,"avg":1029,"min":763,"max":1851,"p95":1851}
-{"type":"fail","from":"2026-04-01T01:44:34.056Z","to":"2026-04-01T01:44:34.056Z","count":1,"status":null,"error":"fetch failed","avg_latency":1515}
-{"type":"ok","from":"2026-04-01T01:54:37.516Z","to":"2026-04-01T05:54:54.911Z","count":25,"avg":1145,"min":570,"max":2625,"p95":2190}
-{"type":"fail","from":"2026-04-01T06:04:34.503Z","to":"2026-04-01T06:04:34.503Z","count":1,"status":null,"error":"fetch failed","avg_latency":695}
-{"type":"ok","from":"2026-04-01T06:14:37.509Z","to":"2026-04-01T06:54:42.450Z","count":5,"avg":1455,"min":869,"max":1951,"p95":1951}
-{"type":"fail","from":"2026-04-01T07:04:44.765Z","to":"2026-04-01T07:04:44.765Z","count":1,"status":null,"error":"fetch failed","avg_latency":864}
-{"type":"ok","from":"2026-04-01T07:14:29.890Z","to":"2026-04-01T08:24:50.519Z","count":8,"avg":1062,"min":812,"max":1306,"p95":1306}
-{"type":"fail","from":"2026-04-01T08:35:06.070Z","to":"2026-04-01T08:35:06.070Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T08:44:26.036Z","to":"2026-04-01T09:04:53.475Z","count":3,"avg":912,"min":781,"max":1103,"p95":1103}
-{"type":"fail","from":"2026-04-01T09:14:53.000Z","to":"2026-04-01T09:14:53.000Z","count":1,"status":null,"error":"fetch failed","avg_latency":829}
-{"type":"ok","from":"2026-04-01T09:24:35.759Z","to":"2026-04-01T10:24:17.597Z","count":7,"avg":1095,"min":821,"max":1872,"p95":1872}
-{"type":"fail","from":"2026-04-01T10:34:56.410Z","to":"2026-04-01T10:34:56.410Z","count":1,"status":null,"error":"fetch failed","avg_latency":920}
-{"type":"ok","from":"2026-04-01T10:44:21.634Z","to":"2026-04-01T11:24:35.292Z","count":5,"avg":1093,"min":831,"max":1352,"p95":1352}
-{"type":"fail","from":"2026-04-01T11:34:38.737Z","to":"2026-04-01T11:34:38.737Z","count":1,"status":null,"error":"fetch failed","avg_latency":904}
-{"type":"ok","from":"2026-04-01T11:44:47.315Z","to":"2026-04-01T11:44:47.315Z","count":1,"avg":933,"min":933,"max":933,"p95":933}
-{"type":"fail","from":"2026-04-01T11:54:28.151Z","to":"2026-04-01T12:04:33.105Z","count":2,"status":null,"error":"fetch failed","avg_latency":797}
-{"type":"ok","from":"2026-04-01T12:14:23.431Z","to":"2026-04-01T12:44:43.198Z","count":4,"avg":999,"min":900,"max":1202,"p95":1202}
-{"type":"fail","from":"2026-04-01T12:54:37.614Z","to":"2026-04-01T13:14:50.452Z","count":3,"status":null,"error":"fetch failed","avg_latency":881}
-{"type":"ok","from":"2026-04-01T13:24:55.076Z","to":"2026-04-01T13:34:43.549Z","count":2,"avg":1538,"min":1436,"max":1640,"p95":1640}
-{"type":"fail","from":"2026-04-01T13:44:37.104Z","to":"2026-04-01T13:44:37.104Z","count":1,"status":null,"error":"fetch failed","avg_latency":1693}
-{"type":"ok","from":"2026-04-01T13:54:38.361Z","to":"2026-04-01T13:54:38.361Z","count":1,"avg":838,"min":838,"max":838,"p95":838}
-{"type":"fail","from":"2026-04-01T14:04:47.278Z","to":"2026-04-01T14:04:47.278Z","count":1,"status":null,"error":"fetch failed","avg_latency":868}
-{"type":"ok","from":"2026-04-01T14:15:04.183Z","to":"2026-04-01T15:45:16.094Z","count":10,"avg":1276,"min":680,"max":2726,"p95":2726}
-{"type":"fail","from":"2026-04-01T15:55:26.162Z","to":"2026-04-01T15:55:26.162Z","count":1,"status":null,"error":"fetch failed","avg_latency":717}
-{"type":"ok","from":"2026-04-01T16:05:20.888Z","to":"2026-04-01T16:24:52.619Z","count":3,"avg":1427,"min":955,"max":2262,"p95":2262}
-{"type":"fail","from":"2026-04-01T16:34:55.684Z","to":"2026-04-01T16:44:28.893Z","count":2,"status":null,"error":"fetch failed","avg_latency":853}
-{"type":"ok","from":"2026-04-01T16:54:16.070Z","to":"2026-04-01T17:24:37.913Z","count":4,"avg":1169,"min":1065,"max":1322,"p95":1322}
-{"type":"fail","from":"2026-04-01T17:34:22.277Z","to":"2026-04-01T17:34:22.277Z","count":1,"status":null,"error":"fetch failed","avg_latency":812}
-{"type":"ok","from":"2026-04-01T17:44:33.904Z","to":"2026-04-01T17:44:33.904Z","count":1,"avg":832,"min":832,"max":832,"p95":832}
-{"type":"fail","from":"2026-04-01T17:54:28.806Z","to":"2026-04-01T17:54:28.806Z","count":1,"status":null,"error":"fetch failed","avg_latency":830}
-{"type":"ok","from":"2026-04-01T18:04:07.908Z","to":"2026-04-01T19:24:46.598Z","count":9,"avg":1047,"min":735,"max":1534,"p95":1534}
-{"type":"fail","from":"2026-04-01T19:34:05.775Z","to":"2026-04-01T19:34:05.775Z","count":1,"status":null,"error":"fetch failed","avg_latency":700}
-{"type":"ok","from":"2026-04-01T19:44:14.419Z","to":"2026-04-01T21:54:14.660Z","count":14,"avg":841,"min":563,"max":1027,"p95":1027}
-{"type":"fail","from":"2026-04-01T22:04:13.247Z","to":"2026-04-01T22:04:13.247Z","count":1,"status":null,"error":"fetch failed","avg_latency":851}
-{"type":"ok","from":"2026-04-01T22:14:15.275Z","to":"2026-04-01T23:14:07.630Z","count":7,"avg":816,"min":551,"max":971,"p95":971}
-{"type":"fail","from":"2026-04-01T23:24:17.174Z","to":"2026-04-01T23:24:17.174Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-01T23:34:04.713Z","to":"2026-04-01T23:54:19.567Z","count":3,"avg":1016,"min":923,"max":1138,"p95":1138}
-{"type":"ok","from":"2026-04-02T00:04:18.491Z","to":"2026-04-02T00:04:18.491Z","count":1,"avg":946,"min":946,"max":946,"p95":946}
-{"type":"fail","from":"2026-04-02T00:14:08.056Z","to":"2026-04-02T00:14:08.056Z","count":1,"status":null,"error":"fetch failed","avg_latency":900}
-{"type":"ok","from":"2026-04-02T00:24:14.571Z","to":"2026-04-02T03:04:24.259Z","count":17,"avg":1037,"min":677,"max":1687,"p95":1687}
-{"type":"fail","from":"2026-04-02T03:14:20.965Z","to":"2026-04-02T03:14:20.965Z","count":1,"status":null,"error":"fetch failed","avg_latency":861}
-{"type":"ok","from":"2026-04-02T03:24:32.928Z","to":"2026-04-02T03:24:32.928Z","count":1,"avg":779,"min":779,"max":779,"p95":779}
-{"type":"fail","from":"2026-04-02T03:34:32.044Z","to":"2026-04-02T03:34:32.044Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"fail","from":"2026-04-02T03:44:22.169Z","to":"2026-04-02T03:54:31.865Z","count":2,"status":null,"error":"fetch failed","avg_latency":773}
-{"type":"ok","from":"2026-04-02T04:04:24.160Z","to":"2026-04-02T04:44:34.093Z","count":5,"avg":1156,"min":999,"max":1368,"p95":1368}
-{"type":"fail","from":"2026-04-02T04:54:29.183Z","to":"2026-04-02T04:54:29.183Z","count":1,"status":null,"error":"fetch failed","avg_latency":828}
-{"type":"ok","from":"2026-04-02T05:04:37.465Z","to":"2026-04-02T05:44:52.190Z","count":5,"avg":1029,"min":722,"max":1152,"p95":1152}
-{"type":"fail","from":"2026-04-02T05:54:59.572Z","to":"2026-04-02T05:54:59.572Z","count":1,"status":null,"error":"fetch failed","avg_latency":886}
-{"type":"ok","from":"2026-04-02T06:04:34.647Z","to":"2026-04-02T06:44:51.793Z","count":5,"avg":1175,"min":810,"max":1957,"p95":1957}
-{"type":"fail","from":"2026-04-02T06:54:32.539Z","to":"2026-04-02T07:04:58.843Z","count":2,"status":null,"error":"fetch failed","avg_latency":793}
-{"type":"ok","from":"2026-04-02T07:14:53.502Z","to":"2026-04-02T07:54:56.651Z","count":5,"avg":1013,"min":725,"max":1688,"p95":1688}
-{"type":"fail","from":"2026-04-02T08:04:42.784Z","to":"2026-04-02T08:04:42.784Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-02T08:14:50.638Z","to":"2026-04-02T08:14:50.638Z","count":1,"status":null,"error":"fetch failed","avg_latency":817}
-{"type":"ok","from":"2026-04-02T08:24:47.710Z","to":"2026-04-02T09:05:10.300Z","count":5,"avg":1068,"min":901,"max":1357,"p95":1357}
-{"type":"fail","from":"2026-04-02T09:14:42.917Z","to":"2026-04-02T09:24:42.581Z","count":2,"status":null,"error":"fetch failed","avg_latency":1849}
-{"type":"ok","from":"2026-04-02T09:34:53.574Z","to":"2026-04-02T09:34:53.574Z","count":1,"avg":1313,"min":1313,"max":1313,"p95":1313}
-{"type":"fail","from":"2026-04-02T09:44:33.321Z","to":"2026-04-02T09:54:16.780Z","count":2,"status":null,"error":"fetch failed","avg_latency":851}
-{"type":"ok","from":"2026-04-02T10:04:41.715Z","to":"2026-04-02T13:34:53.447Z","count":22,"avg":1160,"min":703,"max":2543,"p95":2002}
-{"type":"fail","from":"2026-04-02T13:45:04.329Z","to":"2026-04-02T13:45:04.329Z","count":1,"status":null,"error":"fetch failed","avg_latency":980}
-{"type":"ok","from":"2026-04-02T13:55:05.343Z","to":"2026-04-02T13:55:05.343Z","count":1,"avg":3798,"min":3798,"max":3798,"p95":3798}
-{"type":"fail","from":"2026-04-02T14:04:49.813Z","to":"2026-04-02T14:04:49.813Z","count":1,"status":null,"error":"fetch failed","avg_latency":892}
-{"type":"ok","from":"2026-04-02T14:14:59.362Z","to":"2026-04-02T14:34:45.029Z","count":3,"avg":1680,"min":1193,"max":2222,"p95":2222}
-{"type":"fail","from":"2026-04-02T14:45:04.150Z","to":"2026-04-02T14:45:04.150Z","count":1,"status":null,"error":"fetch failed","avg_latency":817}
-{"type":"ok","from":"2026-04-02T14:54:44.914Z","to":"2026-04-02T16:14:40.112Z","count":9,"avg":1247,"min":839,"max":2551,"p95":2551}
-{"type":"fail","from":"2026-04-02T16:24:54.106Z","to":"2026-04-02T16:24:54.106Z","count":1,"status":null,"error":"fetch failed","avg_latency":1428}
-{"type":"ok","from":"2026-04-02T16:34:53.077Z","to":"2026-04-02T18:04:52.374Z","count":10,"avg":989,"min":682,"max":1685,"p95":1685}
-{"type":"fail","from":"2026-04-02T18:14:41.118Z","to":"2026-04-02T18:14:41.118Z","count":1,"status":null,"error":"fetch failed","avg_latency":698}
-{"type":"ok","from":"2026-04-02T18:24:29.739Z","to":"2026-04-02T22:34:08.456Z","count":26,"avg":964,"min":503,"max":1737,"p95":1358}
-{"type":"fail","from":"2026-04-02T22:44:19.539Z","to":"2026-04-02T22:44:19.539Z","count":1,"status":null,"error":"fetch failed","avg_latency":873}
-{"type":"ok","from":"2026-04-02T22:54:21.876Z","to":"2026-04-02T23:54:13.657Z","count":7,"avg":934,"min":684,"max":1345,"p95":1345}
-{"type":"ok","from":"2026-04-03T00:04:20.246Z","to":"2026-04-03T02:24:47.265Z","count":15,"avg":966,"min":583,"max":1836,"p95":1836}
-{"type":"fail","from":"2026-04-03T02:34:46.000Z","to":"2026-04-03T02:34:46.000Z","count":1,"status":null,"error":"fetch failed","avg_latency":921}
-{"type":"ok","from":"2026-04-03T02:44:30.510Z","to":"2026-04-03T02:44:30.510Z","count":1,"avg":854,"min":854,"max":854,"p95":854}
-{"type":"fail","from":"2026-04-03T02:54:25.209Z","to":"2026-04-03T02:54:25.209Z","count":1,"status":null,"error":"fetch failed","avg_latency":908}
-{"type":"ok","from":"2026-04-03T03:04:35.830Z","to":"2026-04-03T03:04:35.830Z","count":1,"avg":1462,"min":1462,"max":1462,"p95":1462}
-{"type":"fail","from":"2026-04-03T03:14:27.937Z","to":"2026-04-03T03:14:27.937Z","count":1,"status":null,"error":"fetch failed","avg_latency":839}
-{"type":"ok","from":"2026-04-03T03:24:26.805Z","to":"2026-04-03T04:14:24.698Z","count":6,"avg":1036,"min":657,"max":1441,"p95":1441}
-{"type":"fail","from":"2026-04-03T04:24:41.071Z","to":"2026-04-03T04:34:34.479Z","count":2,"status":null,"error":"fetch failed","avg_latency":938}
-{"type":"ok","from":"2026-04-03T04:44:40.429Z","to":"2026-04-03T05:14:33.043Z","count":4,"avg":1407,"min":1035,"max":2067,"p95":2067}
-{"type":"fail","from":"2026-04-03T05:24:34.308Z","to":"2026-04-03T05:24:34.308Z","count":1,"status":null,"error":"fetch failed","avg_latency":871}
-{"type":"ok","from":"2026-04-03T05:34:33.534Z","to":"2026-04-03T05:44:48.697Z","count":2,"avg":1387,"min":1099,"max":1674,"p95":1674}
-{"type":"fail","from":"2026-04-03T05:54:40.143Z","to":"2026-04-03T05:54:40.143Z","count":1,"status":null,"error":"fetch failed","avg_latency":838}
-{"type":"ok","from":"2026-04-03T06:04:41.495Z","to":"2026-04-03T06:04:41.495Z","count":1,"avg":1382,"min":1382,"max":1382,"p95":1382}
-{"type":"fail","from":"2026-04-03T06:14:36.824Z","to":"2026-04-03T06:14:36.824Z","count":1,"status":null,"error":"fetch failed","avg_latency":935}
-{"type":"ok","from":"2026-04-03T06:24:30.337Z","to":"2026-04-03T06:34:28.480Z","count":2,"avg":1252,"min":997,"max":1506,"p95":1506}
-{"type":"fail","from":"2026-04-03T06:44:40.596Z","to":"2026-04-03T06:44:40.596Z","count":1,"status":null,"error":"fetch failed","avg_latency":701}
-{"type":"ok","from":"2026-04-03T06:54:52.780Z","to":"2026-04-03T07:04:48.320Z","count":2,"avg":805,"min":695,"max":915,"p95":915}
-{"type":"fail","from":"2026-04-03T07:15:00.626Z","to":"2026-04-03T07:15:00.626Z","count":1,"status":null,"error":"fetch failed","avg_latency":1592}
-{"type":"ok","from":"2026-04-03T07:25:02.339Z","to":"2026-04-03T08:34:46.823Z","count":8,"avg":1029,"min":556,"max":1815,"p95":1815}
-{"type":"fail","from":"2026-04-03T08:45:08.784Z","to":"2026-04-03T08:45:08.784Z","count":1,"status":null,"error":"fetch failed","avg_latency":837}
-{"type":"ok","from":"2026-04-03T08:54:36.538Z","to":"2026-04-03T09:24:37.435Z","count":4,"avg":1485,"min":881,"max":2071,"p95":2071}
-{"type":"fail","from":"2026-04-03T09:36:21.188Z","to":"2026-04-03T09:36:21.188Z","count":1,"status":null,"error":"fetch failed","avg_latency":897}
-{"type":"ok","from":"2026-04-03T09:44:30.033Z","to":"2026-04-03T09:54:30.375Z","count":2,"avg":1100,"min":1048,"max":1152,"p95":1152}
-{"type":"fail","from":"2026-04-03T10:04:17.959Z","to":"2026-04-03T10:04:17.959Z","count":1,"status":null,"error":"fetch failed","avg_latency":843}
-{"type":"ok","from":"2026-04-03T10:14:23.431Z","to":"2026-04-03T10:44:18.893Z","count":4,"avg":1352,"min":819,"max":2802,"p95":2802}
-{"type":"fail","from":"2026-04-03T10:54:46.841Z","to":"2026-04-03T10:54:46.841Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T11:04:22.907Z","to":"2026-04-03T13:34:54.603Z","count":16,"avg":1327,"min":720,"max":2591,"p95":2591}
-{"type":"fail","from":"2026-04-03T13:44:57.870Z","to":"2026-04-03T13:44:57.870Z","count":1,"status":null,"error":"fetch failed","avg_latency":859}
-{"type":"ok","from":"2026-04-03T13:54:48.056Z","to":"2026-04-03T15:15:00.588Z","count":9,"avg":1774,"min":843,"max":3570,"p95":3570}
-{"type":"fail","from":"2026-04-03T15:24:34.080Z","to":"2026-04-03T15:24:34.080Z","count":1,"status":null,"error":"fetch failed","avg_latency":879}
-{"type":"ok","from":"2026-04-03T15:34:35.676Z","to":"2026-04-03T16:26:04.115Z","count":6,"avg":1431,"min":847,"max":2209,"p95":2209}
-{"type":"fail","from":"2026-04-03T16:35:48.226Z","to":"2026-04-03T16:35:48.226Z","count":1,"status":null,"error":"fetch failed","avg_latency":1199}
-{"type":"ok","from":"2026-04-03T16:44:41.952Z","to":"2026-04-03T16:54:36.498Z","count":2,"avg":1477,"min":830,"max":2123,"p95":2123}
-{"type":"fail","from":"2026-04-03T17:05:35.589Z","to":"2026-04-03T17:05:35.589Z","count":1,"status":null,"error":"fetch failed","avg_latency":713}
-{"type":"ok","from":"2026-04-03T17:14:20.133Z","to":"2026-04-03T18:04:40.352Z","count":5,"avg":914,"min":704,"max":1119,"p95":1119}
-{"type":"fail","from":"2026-04-03T18:14:24.715Z","to":"2026-04-03T18:14:24.715Z","count":1,"status":null,"error":"fetch failed","avg_latency":2897}
-{"type":"ok","from":"2026-04-03T18:24:37.865Z","to":"2026-04-03T18:54:12.080Z","count":3,"avg":1105,"min":976,"max":1327,"p95":1327}
-{"type":"fail","from":"2026-04-03T19:04:15.783Z","to":"2026-04-03T19:04:15.783Z","count":1,"status":null,"error":"fetch failed","avg_latency":699}
-{"type":"ok","from":"2026-04-03T19:14:21.236Z","to":"2026-04-03T21:14:02.652Z","count":13,"avg":765,"min":521,"max":1131,"p95":1131}
-{"type":"fail","from":"2026-04-03T21:24:16.421Z","to":"2026-04-03T21:24:16.421Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T21:34:11.615Z","to":"2026-04-03T22:14:22.682Z","count":5,"avg":915,"min":614,"max":1564,"p95":1564}
-{"type":"fail","from":"2026-04-03T22:24:35.367Z","to":"2026-04-03T22:24:35.367Z","count":1,"status":null,"error":"fetch failed","avg_latency":843}
-{"type":"ok","from":"2026-04-03T22:34:11.767Z","to":"2026-04-03T23:04:19.979Z","count":4,"avg":1036,"min":736,"max":1351,"p95":1351}
-{"type":"fail","from":"2026-04-03T23:14:25.083Z","to":"2026-04-03T23:34:45.676Z","count":3,"status":null,"error":"fetch failed","avg_latency":1465}
-{"type":"ok","from":"2026-04-03T23:44:08.357Z","to":"2026-04-03T23:44:08.357Z","count":1,"avg":701,"min":701,"max":701,"p95":701}
-{"type":"fail","from":"2026-04-03T23:54:19.505Z","to":"2026-04-03T23:54:19.505Z","count":1,"status":null,"error":"fetch failed","avg_latency":820}
-{"type":"ok","from":"2026-04-04T00:04:20.800Z","to":"2026-04-04T01:54:39.277Z","count":12,"avg":998,"min":649,"max":1944,"p95":1944}
-{"type":"fail","from":"2026-04-04T02:04:23.442Z","to":"2026-04-04T03:14:04.657Z","count":2,"status":null,"error":"fetch failed","avg_latency":780}
-{"type":"ok","from":"2026-04-04T03:23:58.556Z","to":"2026-04-04T03:34:09.745Z","count":2,"avg":1173,"min":631,"max":1714,"p95":1714}
-{"type":"fail","from":"2026-04-04T03:44:01.570Z","to":"2026-04-04T03:44:01.570Z","count":1,"status":null,"error":"fetch failed","avg_latency":915}
-{"type":"ok","from":"2026-04-04T03:53:53.313Z","to":"2026-04-04T03:53:53.313Z","count":1,"avg":758,"min":758,"max":758,"p95":758}
-{"type":"fail","from":"2026-04-04T04:04:06.619Z","to":"2026-04-04T04:04:06.619Z","count":1,"status":null,"error":"fetch failed","avg_latency":844}
-{"type":"ok","from":"2026-04-04T04:13:59.661Z","to":"2026-04-04T04:13:59.661Z","count":1,"avg":2219,"min":2219,"max":2219,"p95":2219}
-{"type":"fail","from":"2026-04-04T04:23:57.589Z","to":"2026-04-04T04:23:57.589Z","count":1,"status":null,"error":"fetch failed","avg_latency":862}
-{"type":"ok","from":"2026-04-04T04:33:52.619Z","to":"2026-04-04T05:03:55.921Z","count":4,"avg":1781,"min":729,"max":4287,"p95":4287}
-{"type":"fail","from":"2026-04-04T05:13:41.660Z","to":"2026-04-04T05:34:17.957Z","count":3,"status":null,"error":"fetch failed","avg_latency":1028}
-{"type":"ok","from":"2026-04-04T05:43:44.418Z","to":"2026-04-04T06:14:20.174Z","count":4,"avg":1077,"min":927,"max":1316,"p95":1316}
-{"type":"fail","from":"2026-04-04T06:23:54.938Z","to":"2026-04-04T06:23:54.938Z","count":1,"status":null,"error":"fetch failed","avg_latency":1071}
-{"type":"ok","from":"2026-04-04T06:33:43.988Z","to":"2026-04-04T07:54:05.401Z","count":9,"avg":985,"min":733,"max":1394,"p95":1394}
-{"type":"fail","from":"2026-04-04T08:03:51.826Z","to":"2026-04-04T08:03:51.826Z","count":1,"status":null,"error":"fetch failed","avg_latency":844}
-{"type":"ok","from":"2026-04-04T08:13:45.868Z","to":"2026-04-04T08:13:45.868Z","count":1,"avg":852,"min":852,"max":852,"p95":852}
-{"type":"fail","from":"2026-04-04T08:24:04.874Z","to":"2026-04-04T08:24:04.874Z","count":1,"status":null,"error":"fetch failed","avg_latency":1108}
-{"type":"ok","from":"2026-04-04T08:33:52.163Z","to":"2026-04-04T09:13:51.153Z","count":5,"avg":1354,"min":898,"max":1700,"p95":1700}
-{"type":"fail","from":"2026-04-04T09:23:46.099Z","to":"2026-04-04T09:23:46.099Z","count":1,"status":null,"error":"fetch failed","avg_latency":852}
-{"type":"ok","from":"2026-04-04T09:34:02.210Z","to":"2026-04-04T10:13:55.995Z","count":5,"avg":996,"min":408,"max":1181,"p95":1181}
-{"type":"fail","from":"2026-04-04T10:23:52.494Z","to":"2026-04-04T10:34:03.025Z","count":2,"status":null,"error":"fetch failed","avg_latency":1174}
-{"type":"ok","from":"2026-04-04T10:44:39.211Z","to":"2026-04-04T11:14:17.724Z","count":4,"avg":1197,"min":773,"max":1858,"p95":1858}
-{"type":"fail","from":"2026-04-04T11:24:48.022Z","to":"2026-04-04T11:34:20.408Z","count":2,"status":null,"error":"fetch failed","avg_latency":985}
-{"type":"ok","from":"2026-04-04T11:44:04.597Z","to":"2026-04-04T11:54:50.855Z","count":2,"avg":1020,"min":982,"max":1057,"p95":1057}
-{"type":"fail","from":"2026-04-04T12:04:35.734Z","to":"2026-04-04T12:04:35.734Z","count":1,"status":null,"error":"fetch failed","avg_latency":703}
-{"type":"ok","from":"2026-04-04T12:15:02.843Z","to":"2026-04-04T12:24:49.538Z","count":2,"avg":987,"min":819,"max":1154,"p95":1154}
-{"type":"fail","from":"2026-04-04T12:35:00.935Z","to":"2026-04-04T12:45:02.073Z","count":2,"status":null,"error":"fetch failed","avg_latency":1038}
-{"type":"ok","from":"2026-04-04T12:55:07.885Z","to":"2026-04-04T12:55:07.885Z","count":1,"avg":1532,"min":1532,"max":1532,"p95":1532}
-{"type":"fail","from":"2026-04-04T13:04:59.207Z","to":"2026-04-04T13:04:59.207Z","count":1,"status":null,"error":"fetch failed","avg_latency":850}
-{"type":"ok","from":"2026-04-04T13:14:34.205Z","to":"2026-04-04T13:54:30.924Z","count":5,"avg":1459,"min":758,"max":2716,"p95":2716}
-{"type":"fail","from":"2026-04-04T14:04:46.587Z","to":"2026-04-04T14:04:46.587Z","count":1,"status":null,"error":"fetch failed","avg_latency":1499}
-{"type":"ok","from":"2026-04-04T14:14:31.973Z","to":"2026-04-04T14:34:39.983Z","count":3,"avg":2251,"min":1295,"max":3745,"p95":3745}
-{"type":"fail","from":"2026-04-04T14:44:22.979Z","to":"2026-04-04T14:44:22.979Z","count":1,"status":null,"error":"fetch failed","avg_latency":717}
-{"type":"ok","from":"2026-04-04T14:54:35.406Z","to":"2026-04-04T15:04:37.114Z","count":2,"avg":1269,"min":1002,"max":1536,"p95":1536}
-{"type":"fail","from":"2026-04-04T15:14:46.286Z","to":"2026-04-04T15:14:46.286Z","count":1,"status":null,"error":"fetch failed","avg_latency":1086}
-{"type":"ok","from":"2026-04-04T15:24:30.885Z","to":"2026-04-04T15:24:30.885Z","count":1,"avg":1610,"min":1610,"max":1610,"p95":1610}
-{"type":"fail","from":"2026-04-04T15:34:37.042Z","to":"2026-04-04T15:44:26.654Z","count":2,"status":null,"error":"fetch failed","avg_latency":794}
-{"type":"ok","from":"2026-04-04T15:54:19.798Z","to":"2026-04-04T16:14:17.724Z","count":3,"avg":972,"min":813,"max":1110,"p95":1110}
-{"type":"fail","from":"2026-04-04T16:24:22.575Z","to":"2026-04-04T16:24:22.575Z","count":1,"status":null,"error":"fetch failed","avg_latency":713}
-{"type":"ok","from":"2026-04-04T16:34:36.322Z","to":"2026-04-04T17:04:22.123Z","count":4,"avg":743,"min":577,"max":832,"p95":832}
-{"type":"fail","from":"2026-04-04T17:14:30.124Z","to":"2026-04-04T17:14:30.124Z","count":1,"status":null,"error":"fetch failed","avg_latency":937}
-{"type":"ok","from":"2026-04-04T17:24:17.930Z","to":"2026-04-04T19:33:43.261Z","count":14,"avg":821,"min":528,"max":1659,"p95":1659}
-{"type":"fail","from":"2026-04-04T19:43:55.560Z","to":"2026-04-04T19:43:55.560Z","count":1,"status":null,"error":"fetch failed","avg_latency":1063}
-{"type":"ok","from":"2026-04-04T19:54:17.603Z","to":"2026-04-04T20:13:47.413Z","count":3,"avg":1095,"min":791,"max":1659,"p95":1659}
-{"type":"fail","from":"2026-04-04T20:24:23.702Z","to":"2026-04-04T20:24:23.702Z","count":1,"status":null,"error":"fetch failed","avg_latency":676}
-{"type":"ok","from":"2026-04-04T20:33:48.274Z","to":"2026-04-04T23:54:01.540Z","count":21,"avg":796,"min":536,"max":1138,"p95":1120}
-{"type":"ok","from":"2026-04-05T00:04:21.241Z","to":"2026-04-05T01:14:06.681Z","count":8,"avg":948,"min":529,"max":2489,"p95":2489}
-{"type":"fail","from":"2026-04-05T01:24:27.677Z","to":"2026-04-05T01:24:27.677Z","count":1,"status":null,"error":"fetch failed","avg_latency":873}
-{"type":"ok","from":"2026-04-05T01:34:23.988Z","to":"2026-04-05T03:24:19.515Z","count":12,"avg":1177,"min":566,"max":2934,"p95":2934}
-{"type":"fail","from":"2026-04-05T03:34:09.711Z","to":"2026-04-05T03:34:09.711Z","count":1,"status":null,"error":"fetch failed","avg_latency":703}
-{"type":"ok","from":"2026-04-05T03:44:21.837Z","to":"2026-04-05T04:04:07.851Z","count":3,"avg":763,"min":697,"max":836,"p95":836}
-{"type":"fail","from":"2026-04-05T04:14:22.907Z","to":"2026-04-05T04:14:22.907Z","count":1,"status":null,"error":"fetch failed","avg_latency":703}
-{"type":"ok","from":"2026-04-05T04:24:23.620Z","to":"2026-04-05T04:24:23.620Z","count":1,"avg":1543,"min":1543,"max":1543,"p95":1543}
-{"type":"fail","from":"2026-04-05T04:34:09.119Z","to":"2026-04-05T04:34:09.119Z","count":1,"status":null,"error":"fetch failed","avg_latency":705}
-{"type":"ok","from":"2026-04-05T04:44:08.986Z","to":"2026-04-05T05:24:18.495Z","count":5,"avg":1024,"min":571,"max":1282,"p95":1282}
-{"type":"fail","from":"2026-04-05T05:34:01.062Z","to":"2026-04-05T05:34:01.062Z","count":1,"status":null,"error":"fetch failed","avg_latency":1081}
-{"type":"ok","from":"2026-04-05T05:44:07.430Z","to":"2026-04-05T06:24:29.885Z","count":5,"avg":1163,"min":702,"max":1459,"p95":1459}
-{"type":"fail","from":"2026-04-05T06:34:34.035Z","to":"2026-04-05T06:34:34.035Z","count":1,"status":null,"error":"fetch failed","avg_latency":703}
-{"type":"ok","from":"2026-04-05T06:44:24.329Z","to":"2026-04-05T07:14:24.241Z","count":4,"avg":943,"min":660,"max":1540,"p95":1540}
-{"type":"fail","from":"2026-04-05T07:23:54.122Z","to":"2026-04-05T07:34:20.097Z","count":2,"status":null,"error":"fetch failed","avg_latency":795}
-{"type":"ok","from":"2026-04-05T07:44:32.586Z","to":"2026-04-05T08:34:48.495Z","count":6,"avg":1035,"min":596,"max":1465,"p95":1465}
-{"type":"fail","from":"2026-04-05T08:44:30.592Z","to":"2026-04-05T08:44:30.592Z","count":1,"status":null,"error":"fetch failed","avg_latency":703}
-{"type":"ok","from":"2026-04-05T08:54:40.574Z","to":"2026-04-05T09:14:03.758Z","count":3,"avg":1553,"min":1109,"max":2157,"p95":2157}
-{"type":"fail","from":"2026-04-05T09:24:14.702Z","to":"2026-04-05T09:24:14.702Z","count":1,"status":null,"error":"fetch failed","avg_latency":699}
-{"type":"ok","from":"2026-04-05T09:34:33.040Z","to":"2026-04-05T11:04:15.152Z","count":10,"avg":1953,"min":956,"max":4672,"p95":4672}
-{"type":"fail","from":"2026-04-05T11:14:20.583Z","to":"2026-04-05T11:14:20.583Z","count":1,"status":null,"error":"fetch failed","avg_latency":707}
-{"type":"ok","from":"2026-04-05T11:23:45.144Z","to":"2026-04-05T12:04:12.217Z","count":5,"avg":822,"min":620,"max":1047,"p95":1047}
-{"type":"fail","from":"2026-04-05T12:14:32.340Z","to":"2026-04-05T12:14:32.340Z","count":1,"status":null,"error":"fetch failed","avg_latency":692}
-{"type":"ok","from":"2026-04-05T12:24:29.469Z","to":"2026-04-05T13:04:39.228Z","count":5,"avg":973,"min":593,"max":1523,"p95":1523}
-{"type":"fail","from":"2026-04-05T13:14:26.314Z","to":"2026-04-05T13:14:26.314Z","count":1,"status":null,"error":"fetch failed","avg_latency":1010}
-{"type":"ok","from":"2026-04-05T13:24:34.258Z","to":"2026-04-05T15:24:29.880Z","count":12,"avg":1279,"min":547,"max":2597,"p95":2597}
-{"type":"fail","from":"2026-04-05T15:34:31.734Z","to":"2026-04-05T15:34:31.734Z","count":1,"status":null,"error":"fetch failed","avg_latency":1073}
-{"type":"ok","from":"2026-04-05T15:44:29.672Z","to":"2026-04-05T17:34:06.333Z","count":12,"avg":1233,"min":640,"max":3065,"p95":3065}
-{"type":"fail","from":"2026-04-05T17:44:26.455Z","to":"2026-04-05T17:44:26.455Z","count":1,"status":null,"error":"fetch failed","avg_latency":838}
-{"type":"ok","from":"2026-04-05T17:53:50.042Z","to":"2026-04-05T23:54:31.710Z","count":37,"avg":776,"min":530,"max":1571,"p95":1156}
-{"type":"ok","from":"2026-04-06T00:04:13.469Z","to":"2026-04-06T00:14:24.609Z","count":2,"avg":757,"min":724,"max":789,"p95":789}
-{"type":"fail","from":"2026-04-06T00:24:12.904Z","to":"2026-04-06T00:24:12.904Z","count":1,"status":null,"error":"fetch failed","avg_latency":698}
-{"type":"ok","from":"2026-04-06T00:34:18.508Z","to":"2026-04-06T01:43:54.823Z","count":8,"avg":746,"min":568,"max":1022,"p95":1022}
-{"type":"fail","from":"2026-04-06T01:54:19.777Z","to":"2026-04-06T01:54:19.777Z","count":1,"status":null,"error":"fetch failed","avg_latency":905}
-{"type":"ok","from":"2026-04-06T02:04:12.934Z","to":"2026-04-06T02:14:15.750Z","count":2,"avg":944,"min":642,"max":1246,"p95":1246}
-{"type":"fail","from":"2026-04-06T02:24:24.811Z","to":"2026-04-06T02:24:24.811Z","count":1,"status":null,"error":"fetch failed","avg_latency":1181}
-{"type":"ok","from":"2026-04-06T02:34:20.951Z","to":"2026-04-06T03:04:02.665Z","count":4,"avg":1232,"min":841,"max":2231,"p95":2231}
-{"type":"fail","from":"2026-04-06T03:14:31.876Z","to":"2026-04-06T03:14:31.876Z","count":1,"status":null,"error":"fetch failed","avg_latency":897}
-{"type":"ok","from":"2026-04-06T03:24:19.588Z","to":"2026-04-06T04:24:23.901Z","count":7,"avg":1006,"min":900,"max":1260,"p95":1260}
-{"type":"fail","from":"2026-04-06T04:34:25.382Z","to":"2026-04-06T04:34:25.382Z","count":1,"status":null,"error":"fetch failed","avg_latency":712}
-{"type":"ok","from":"2026-04-06T04:44:40.239Z","to":"2026-04-06T05:04:40.683Z","count":3,"avg":1364,"min":1121,"max":1712,"p95":1712}
-{"type":"fail","from":"2026-04-06T05:14:35.819Z","to":"2026-04-06T05:14:35.819Z","count":1,"status":null,"error":"fetch failed","avg_latency":681}
-{"type":"ok","from":"2026-04-06T05:24:13.388Z","to":"2026-04-06T05:24:13.388Z","count":1,"avg":1203,"min":1203,"max":1203,"p95":1203}
-{"type":"fail","from":"2026-04-06T05:34:22.562Z","to":"2026-04-06T05:34:22.562Z","count":1,"status":null,"error":"fetch failed","avg_latency":692}
-{"type":"ok","from":"2026-04-06T05:44:23.853Z","to":"2026-04-06T05:54:07.307Z","count":2,"avg":1249,"min":963,"max":1534,"p95":1534}
-{"type":"fail","from":"2026-04-06T06:04:39.673Z","to":"2026-04-06T06:04:39.673Z","count":1,"status":null,"error":"fetch failed","avg_latency":695}
-{"type":"ok","from":"2026-04-06T06:14:08.717Z","to":"2026-04-06T06:34:14.350Z","count":3,"avg":955,"min":933,"max":984,"p95":984}
-{"type":"fail","from":"2026-04-06T06:44:25.795Z","to":"2026-04-06T06:44:25.795Z","count":1,"status":null,"error":"fetch failed","avg_latency":707}
-{"type":"ok","from":"2026-04-06T06:54:14.793Z","to":"2026-04-06T07:44:25.412Z","count":6,"avg":1208,"min":589,"max":2434,"p95":2434}
-{"type":"fail","from":"2026-04-06T07:54:31.963Z","to":"2026-04-06T07:54:31.963Z","count":1,"status":null,"error":"fetch failed","avg_latency":691}
-{"type":"ok","from":"2026-04-06T08:04:31.799Z","to":"2026-04-06T09:44:26.373Z","count":11,"avg":1011,"min":572,"max":1532,"p95":1532}
-{"type":"fail","from":"2026-04-06T09:54:11.947Z","to":"2026-04-06T10:04:33.868Z","count":2,"status":null,"error":"fetch failed","avg_latency":704}
-{"type":"ok","from":"2026-04-06T10:14:00.921Z","to":"2026-04-06T10:14:00.921Z","count":1,"avg":576,"min":576,"max":576,"p95":576}
-{"type":"fail","from":"2026-04-06T10:24:35.047Z","to":"2026-04-06T10:34:28.536Z","count":2,"status":null,"error":"fetch failed","avg_latency":868}
-{"type":"ok","from":"2026-04-06T10:44:04.948Z","to":"2026-04-06T11:54:29.200Z","count":8,"avg":1090,"min":832,"max":1830,"p95":1830}
-{"type":"fail","from":"2026-04-06T12:04:18.243Z","to":"2026-04-06T12:04:18.243Z","count":1,"status":null,"error":"fetch failed","avg_latency":702}
-{"type":"ok","from":"2026-04-06T12:14:22.031Z","to":"2026-04-06T12:54:04.672Z","count":5,"avg":1079,"min":728,"max":1481,"p95":1481}
-{"type":"fail","from":"2026-04-06T13:04:19.273Z","to":"2026-04-06T13:04:19.273Z","count":1,"status":null,"error":"fetch failed","avg_latency":820}
-{"type":"ok","from":"2026-04-06T13:14:10.999Z","to":"2026-04-06T13:44:05.736Z","count":4,"avg":1108,"min":930,"max":1257,"p95":1257}
-{"type":"fail","from":"2026-04-06T13:54:19.285Z","to":"2026-04-06T13:54:19.285Z","count":1,"status":null,"error":"fetch failed","avg_latency":751}
-{"type":"ok","from":"2026-04-06T14:04:13.614Z","to":"2026-04-06T15:04:12.764Z","count":7,"avg":1158,"min":692,"max":1650,"p95":1650}
-{"type":"fail","from":"2026-04-06T15:13:53.818Z","to":"2026-04-06T15:13:53.818Z","count":1,"status":null,"error":"fetch failed","avg_latency":1188}
-{"type":"ok","from":"2026-04-06T15:23:56.764Z","to":"2026-04-06T15:33:57.238Z","count":2,"avg":983,"min":864,"max":1102,"p95":1102}
-{"type":"fail","from":"2026-04-06T15:43:52.500Z","to":"2026-04-06T15:43:52.500Z","count":1,"status":null,"error":"fetch failed","avg_latency":816}
-{"type":"fail","from":"2026-04-06T15:53:48.774Z","to":"2026-04-06T15:53:48.774Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-06T16:03:50.664Z","to":"2026-04-06T16:03:50.664Z","count":1,"status":null,"error":"fetch failed","avg_latency":840}
-{"type":"ok","from":"2026-04-06T16:13:55.038Z","to":"2026-04-06T17:13:46.263Z","count":7,"avg":1115,"min":594,"max":1836,"p95":1836}
-{"type":"fail","from":"2026-04-06T17:23:36.089Z","to":"2026-04-06T17:33:39.849Z","count":2,"status":null,"error":"fetch failed","avg_latency":862}
-{"type":"ok","from":"2026-04-06T17:43:46.130Z","to":"2026-04-06T17:43:46.130Z","count":1,"avg":852,"min":852,"max":852,"p95":852}
-{"type":"fail","from":"2026-04-06T17:53:26.341Z","to":"2026-04-06T18:03:33.966Z","count":2,"status":null,"error":"fetch failed","avg_latency":858}
-{"type":"ok","from":"2026-04-06T18:13:20.398Z","to":"2026-04-06T18:23:31.819Z","count":2,"avg":898,"min":815,"max":980,"p95":980}
-{"type":"fail","from":"2026-04-06T18:33:42.093Z","to":"2026-04-06T18:43:36.825Z","count":2,"status":null,"error":"fetch failed","avg_latency":774}
-{"type":"ok","from":"2026-04-06T18:53:32.380Z","to":"2026-04-06T23:53:34.903Z","count":31,"avg":849,"min":350,"max":1807,"p95":1437}
-{"type":"ok","from":"2026-04-07T00:03:36.704Z","to":"2026-04-07T00:43:35.060Z","count":5,"avg":839,"min":698,"max":980,"p95":980}
-{"type":"fail","from":"2026-04-07T00:53:48.431Z","to":"2026-04-07T00:53:48.431Z","count":1,"status":null,"error":"fetch failed","avg_latency":846}
-{"type":"ok","from":"2026-04-07T01:03:45.453Z","to":"2026-04-07T07:34:05.512Z","count":40,"avg":986,"min":602,"max":2338,"p95":1867}
-{"type":"fail","from":"2026-04-07T07:44:22.761Z","to":"2026-04-07T07:44:22.761Z","count":1,"status":null,"error":"fetch failed","avg_latency":868}
-{"type":"ok","from":"2026-04-07T07:54:07.569Z","to":"2026-04-07T08:14:19.710Z","count":3,"avg":890,"min":570,"max":1398,"p95":1398}
-{"type":"fail","from":"2026-04-07T08:24:02.928Z","to":"2026-04-07T08:24:02.928Z","count":1,"status":null,"error":"fetch failed","avg_latency":816}
-{"type":"ok","from":"2026-04-07T08:34:04.589Z","to":"2026-04-07T08:34:04.589Z","count":1,"avg":1165,"min":1165,"max":1165,"p95":1165}
-{"type":"fail","from":"2026-04-07T08:44:04.699Z","to":"2026-04-07T08:44:04.699Z","count":1,"status":null,"error":"fetch failed","avg_latency":846}
-{"type":"ok","from":"2026-04-07T08:54:05.343Z","to":"2026-04-07T12:43:57.044Z","count":24,"avg":1221,"min":551,"max":2656,"p95":2557}
-{"type":"fail","from":"2026-04-07T12:53:50.088Z","to":"2026-04-07T12:53:50.088Z","count":1,"status":null,"error":"fetch failed","avg_latency":1831}
-{"type":"ok","from":"2026-04-07T13:04:05.373Z","to":"2026-04-07T13:24:05.932Z","count":3,"avg":941,"min":685,"max":1315,"p95":1315}
-{"type":"fail","from":"2026-04-07T13:33:57.138Z","to":"2026-04-07T13:33:57.138Z","count":1,"status":null,"error":"fetch failed","avg_latency":844}
-{"type":"ok","from":"2026-04-07T13:44:01.985Z","to":"2026-04-07T14:04:10.373Z","count":3,"avg":1072,"min":785,"max":1337,"p95":1337}
-{"type":"fail","from":"2026-04-07T14:13:51.295Z","to":"2026-04-07T14:13:51.295Z","count":1,"status":null,"error":"fetch failed","avg_latency":835}
-{"type":"ok","from":"2026-04-07T14:24:01.201Z","to":"2026-04-07T15:13:53.155Z","count":6,"avg":1090,"min":733,"max":1509,"p95":1509}
-{"type":"fail","from":"2026-04-07T15:23:40.227Z","to":"2026-04-07T15:33:44.908Z","count":2,"status":null,"error":"fetch failed","avg_latency":878}
-{"type":"ok","from":"2026-04-07T15:43:50.644Z","to":"2026-04-07T15:53:41.971Z","count":2,"avg":1144,"min":865,"max":1423,"p95":1423}
-{"type":"fail","from":"2026-04-07T16:03:56.882Z","to":"2026-04-07T16:03:56.882Z","count":1,"status":null,"error":"fetch failed","avg_latency":903}
-{"type":"ok","from":"2026-04-07T16:13:51.883Z","to":"2026-04-07T16:23:44.747Z","count":2,"avg":1135,"min":983,"max":1287,"p95":1287}
-{"type":"fail","from":"2026-04-07T16:33:48.670Z","to":"2026-04-07T16:33:48.670Z","count":1,"status":null,"error":"fetch failed","avg_latency":828}
-{"type":"ok","from":"2026-04-07T16:43:48.393Z","to":"2026-04-07T16:53:52.067Z","count":2,"avg":1308,"min":1018,"max":1598,"p95":1598}
-{"type":"fail","from":"2026-04-07T17:03:42.144Z","to":"2026-04-07T17:03:42.144Z","count":1,"status":null,"error":"fetch failed","avg_latency":855}
-{"type":"ok","from":"2026-04-07T17:13:50.781Z","to":"2026-04-07T17:13:50.781Z","count":1,"avg":936,"min":936,"max":936,"p95":936}
-{"type":"fail","from":"2026-04-07T17:23:50.250Z","to":"2026-04-07T17:33:57.765Z","count":2,"status":null,"error":"fetch failed","avg_latency":838}
-{"type":"ok","from":"2026-04-07T17:43:33.567Z","to":"2026-04-07T23:53:21.734Z","count":38,"avg":914,"min":553,"max":2710,"p95":1199}
-{"type":"ok","from":"2026-04-08T00:03:45.290Z","to":"2026-04-08T00:33:34.328Z","count":4,"avg":749,"min":550,"max":974,"p95":974}
-{"type":"fail","from":"2026-04-08T00:43:44.153Z","to":"2026-04-08T00:43:44.153Z","count":1,"status":null,"error":"fetch failed","avg_latency":851}
-{"type":"ok","from":"2026-04-08T00:53:50.255Z","to":"2026-04-08T01:44:03.346Z","count":6,"avg":1017,"min":761,"max":1295,"p95":1295}
-{"type":"fail","from":"2026-04-08T01:54:05.081Z","to":"2026-04-08T01:54:05.081Z","count":1,"status":null,"error":"fetch failed","avg_latency":851}
-{"type":"ok","from":"2026-04-08T02:03:55.988Z","to":"2026-04-08T02:13:41.963Z","count":2,"avg":808,"min":700,"max":916,"p95":916}
-{"type":"fail","from":"2026-04-08T02:23:42.671Z","to":"2026-04-08T02:23:42.671Z","count":1,"status":null,"error":"fetch failed","avg_latency":854}
-{"type":"ok","from":"2026-04-08T02:33:48.457Z","to":"2026-04-08T03:13:48.185Z","count":5,"avg":1143,"min":925,"max":1423,"p95":1423}
-{"type":"fail","from":"2026-04-08T03:23:55.841Z","to":"2026-04-08T03:23:55.841Z","count":1,"status":null,"error":"fetch failed","avg_latency":869}
-{"type":"ok","from":"2026-04-08T03:33:54.172Z","to":"2026-04-08T05:34:26.850Z","count":13,"avg":1365,"min":696,"max":2702,"p95":2702}
-{"type":"fail","from":"2026-04-08T05:44:11.586Z","to":"2026-04-08T05:44:11.586Z","count":1,"status":null,"error":"fetch failed","avg_latency":698}
-{"type":"ok","from":"2026-04-08T05:54:09.843Z","to":"2026-04-08T06:54:12.136Z","count":7,"avg":1099,"min":563,"max":2009,"p95":2009}
-{"type":"fail","from":"2026-04-08T07:04:31.061Z","to":"2026-04-08T07:13:54.191Z","count":2,"status":null,"error":"fetch failed","avg_latency":689}
-{"type":"ok","from":"2026-04-08T07:24:04.244Z","to":"2026-04-08T07:34:06.311Z","count":2,"avg":1041,"min":915,"max":1167,"p95":1167}
-{"type":"fail","from":"2026-04-08T07:44:23.673Z","to":"2026-04-08T07:44:23.673Z","count":1,"status":null,"error":"fetch failed","avg_latency":707}
-{"type":"ok","from":"2026-04-08T07:54:10.367Z","to":"2026-04-08T10:44:35.533Z","count":18,"avg":958,"min":553,"max":1882,"p95":1882}
-{"type":"fail","from":"2026-04-08T10:54:47.878Z","to":"2026-04-08T10:54:47.878Z","count":1,"status":null,"error":"fetch failed","avg_latency":816}
-{"type":"ok","from":"2026-04-08T11:04:29.545Z","to":"2026-04-08T12:24:39.340Z","count":9,"avg":1120,"min":574,"max":1730,"p95":1730}
-{"type":"fail","from":"2026-04-08T12:34:33.264Z","to":"2026-04-08T12:34:33.264Z","count":1,"status":null,"error":"fetch failed","avg_latency":1103}
-{"type":"ok","from":"2026-04-08T12:44:43.914Z","to":"2026-04-08T13:14:34.451Z","count":4,"avg":864,"min":697,"max":1227,"p95":1227}
-{"type":"fail","from":"2026-04-08T13:24:17.061Z","to":"2026-04-08T13:24:17.061Z","count":1,"status":null,"error":"fetch failed","avg_latency":851}
-{"type":"ok","from":"2026-04-08T13:34:31.989Z","to":"2026-04-08T13:44:55.769Z","count":2,"avg":1157,"min":963,"max":1350,"p95":1350}
-{"type":"fail","from":"2026-04-08T13:54:52.145Z","to":"2026-04-08T13:54:52.145Z","count":1,"status":null,"error":"fetch failed","avg_latency":2217}
-{"type":"ok","from":"2026-04-08T14:04:39.407Z","to":"2026-04-08T14:04:39.407Z","count":1,"avg":1131,"min":1131,"max":1131,"p95":1131}
-{"type":"fail","from":"2026-04-08T14:14:48.207Z","to":"2026-04-08T14:14:48.207Z","count":1,"status":null,"error":"fetch failed","avg_latency":703}
-{"type":"ok","from":"2026-04-08T14:25:02.039Z","to":"2026-04-08T15:34:29.327Z","count":8,"avg":1070,"min":716,"max":2037,"p95":2037}
-{"type":"fail","from":"2026-04-08T15:44:36.157Z","to":"2026-04-08T15:44:36.157Z","count":1,"status":null,"error":"fetch failed","avg_latency":687}
-{"type":"ok","from":"2026-04-08T15:54:33.210Z","to":"2026-04-08T16:04:25.653Z","count":2,"avg":1353,"min":1039,"max":1667,"p95":1667}
-{"type":"fail","from":"2026-04-08T16:14:41.381Z","to":"2026-04-08T16:24:08.390Z","count":2,"status":null,"error":"fetch failed","avg_latency":794}
-{"type":"ok","from":"2026-04-08T16:34:22.426Z","to":"2026-04-08T19:04:26.885Z","count":16,"avg":926,"min":604,"max":1351,"p95":1351}
-{"type":"fail","from":"2026-04-08T19:14:11.466Z","to":"2026-04-08T19:14:11.466Z","count":1,"status":null,"error":"fetch failed","avg_latency":691}
-{"type":"ok","from":"2026-04-08T19:23:57.716Z","to":"2026-04-08T23:54:08.121Z","count":28,"avg":743,"min":520,"max":1773,"p95":1203}
-{"type":"ok","from":"2026-04-09T00:04:01.535Z","to":"2026-04-09T02:14:35.142Z","count":14,"avg":837,"min":554,"max":1718,"p95":1718}
-{"type":"fail","from":"2026-04-09T02:24:11.011Z","to":"2026-04-09T02:24:11.011Z","count":1,"status":null,"error":"fetch failed","avg_latency":839}
-{"type":"ok","from":"2026-04-09T02:34:26.006Z","to":"2026-04-09T02:44:24.530Z","count":2,"avg":1358,"min":678,"max":2037,"p95":2037}
-{"type":"fail","from":"2026-04-09T02:54:16.675Z","to":"2026-04-09T02:54:16.675Z","count":1,"status":null,"error":"fetch failed","avg_latency":704}
-{"type":"ok","from":"2026-04-09T03:04:18.416Z","to":"2026-04-09T05:04:29.422Z","count":13,"avg":990,"min":546,"max":1743,"p95":1743}
-{"type":"fail","from":"2026-04-09T05:14:15.313Z","to":"2026-04-09T05:14:15.313Z","count":1,"status":null,"error":"fetch failed","avg_latency":671}
-{"type":"ok","from":"2026-04-09T05:24:34.732Z","to":"2026-04-09T05:34:22.094Z","count":2,"avg":861,"min":787,"max":935,"p95":935}
-{"type":"fail","from":"2026-04-09T05:44:18.556Z","to":"2026-04-09T05:44:18.556Z","count":1,"status":null,"error":"fetch failed","avg_latency":695}
-{"type":"ok","from":"2026-04-09T05:55:09.629Z","to":"2026-04-09T06:44:12.716Z","count":6,"avg":878,"min":550,"max":1259,"p95":1259}
-{"type":"fail","from":"2026-04-09T06:54:35.464Z","to":"2026-04-09T06:54:35.464Z","count":1,"status":null,"error":"fetch failed","avg_latency":1101}
-{"type":"ok","from":"2026-04-09T07:04:29.652Z","to":"2026-04-09T09:33:51.172Z","count":16,"avg":1040,"min":567,"max":1718,"p95":1718}
-{"type":"fail","from":"2026-04-09T09:43:49.847Z","to":"2026-04-09T09:53:50.839Z","count":2,"status":null,"error":"fetch failed","avg_latency":843}
-{"type":"ok","from":"2026-04-09T10:03:47.596Z","to":"2026-04-09T10:13:35.416Z","count":2,"avg":1072,"min":885,"max":1258,"p95":1258}
-{"type":"fail","from":"2026-04-09T10:23:46.116Z","to":"2026-04-09T10:23:46.116Z","count":1,"status":null,"error":"fetch failed","avg_latency":864}
-{"type":"ok","from":"2026-04-09T10:33:53.232Z","to":"2026-04-09T14:54:18.706Z","count":27,"avg":1177,"min":703,"max":2247,"p95":1791}
-{"type":"fail","from":"2026-04-09T15:04:17.566Z","to":"2026-04-09T15:04:17.566Z","count":1,"status":null,"error":"fetch failed","avg_latency":1033}
-{"type":"ok","from":"2026-04-09T15:13:56.521Z","to":"2026-04-09T15:23:59.780Z","count":2,"avg":965,"min":771,"max":1158,"p95":1158}
-{"type":"fail","from":"2026-04-09T15:33:57.202Z","to":"2026-04-09T15:33:57.202Z","count":1,"status":null,"error":"fetch failed","avg_latency":822}
-{"type":"ok","from":"2026-04-09T15:44:17.484Z","to":"2026-04-09T16:24:02.721Z","count":5,"avg":1451,"min":948,"max":1815,"p95":1815}
-{"type":"fail","from":"2026-04-09T16:33:53.044Z","to":"2026-04-09T16:33:53.044Z","count":1,"status":null,"error":"fetch failed","avg_latency":993}
-{"type":"ok","from":"2026-04-09T16:43:57.588Z","to":"2026-04-09T20:13:08.898Z","count":22,"avg":1051,"min":581,"max":2677,"p95":1674}
-{"type":"fail","from":"2026-04-09T20:23:31.226Z","to":"2026-04-09T20:23:31.226Z","count":1,"status":null,"error":"fetch failed","avg_latency":675}
-{"type":"ok","from":"2026-04-09T20:33:26.536Z","to":"2026-04-09T20:53:16.611Z","count":3,"avg":827,"min":734,"max":968,"p95":968}
-{"type":"fail","from":"2026-04-09T21:03:17.074Z","to":"2026-04-09T21:03:17.074Z","count":1,"status":null,"error":"fetch failed","avg_latency":873}
-{"type":"ok","from":"2026-04-09T21:13:46.486Z","to":"2026-04-09T23:53:25.651Z","count":17,"avg":890,"min":536,"max":1554,"p95":1554}
-{"type":"ok","from":"2026-04-10T00:03:37.784Z","to":"2026-04-10T04:44:18.490Z","count":29,"avg":1066,"min":565,"max":1837,"p95":1795}
-{"type":"fail","from":"2026-04-10T04:54:19.100Z","to":"2026-04-10T04:54:19.100Z","count":1,"status":null,"error":"fetch failed","avg_latency":711}
-{"type":"ok","from":"2026-04-10T05:04:18.233Z","to":"2026-04-10T07:03:47.158Z","count":13,"avg":1121,"min":538,"max":2413,"p95":2413}
-{"type":"fail","from":"2026-04-10T07:13:53.626Z","to":"2026-04-10T07:24:10.159Z","count":2,"status":null,"error":"fetch failed","avg_latency":915}
-{"type":"ok","from":"2026-04-10T07:33:47.198Z","to":"2026-04-10T09:03:52.383Z","count":10,"avg":957,"min":733,"max":1406,"p95":1406}
-{"type":"fail","from":"2026-04-10T09:13:41.137Z","to":"2026-04-10T09:13:41.137Z","count":1,"status":null,"error":"fetch failed","avg_latency":705}
-{"type":"ok","from":"2026-04-10T09:23:45.645Z","to":"2026-04-10T10:04:10.172Z","count":5,"avg":841,"min":587,"max":1201,"p95":1201}
-{"type":"fail","from":"2026-04-10T10:13:59.755Z","to":"2026-04-10T10:13:59.755Z","count":1,"status":null,"error":"fetch failed","avg_latency":967}
-{"type":"ok","from":"2026-04-10T10:24:03.787Z","to":"2026-04-10T10:43:47.255Z","count":3,"avg":1406,"min":935,"max":1994,"p95":1994}
-{"type":"fail","from":"2026-04-10T10:53:54.643Z","to":"2026-04-10T11:03:48.639Z","count":2,"status":null,"error":"fetch failed","avg_latency":884}
-{"type":"ok","from":"2026-04-10T11:13:55.069Z","to":"2026-04-10T11:23:46.559Z","count":2,"avg":980,"min":920,"max":1040,"p95":1040}
-{"type":"fail","from":"2026-04-10T11:33:49.059Z","to":"2026-04-10T11:33:49.059Z","count":1,"status":null,"error":"fetch failed","avg_latency":870}
-{"type":"ok","from":"2026-04-10T11:43:41.136Z","to":"2026-04-10T12:03:51.732Z","count":3,"avg":1256,"min":1011,"max":1388,"p95":1388}
-{"type":"fail","from":"2026-04-10T12:14:02.068Z","to":"2026-04-10T12:23:55.916Z","count":2,"status":null,"error":"fetch failed","avg_latency":811}
-{"type":"ok","from":"2026-04-10T12:34:09.453Z","to":"2026-04-10T13:03:47.457Z","count":4,"avg":1272,"min":749,"max":1786,"p95":1786}
-{"type":"fail","from":"2026-04-10T13:14:21.687Z","to":"2026-04-10T13:14:21.687Z","count":1,"status":null,"error":"fetch failed","avg_latency":891}
-{"type":"ok","from":"2026-04-10T13:24:02.300Z","to":"2026-04-10T14:04:01.785Z","count":5,"avg":1151,"min":733,"max":2173,"p95":2173}
-{"type":"fail","from":"2026-04-10T14:13:50.474Z","to":"2026-04-10T14:13:50.474Z","count":1,"status":null,"error":"fetch failed","avg_latency":701}
-{"type":"ok","from":"2026-04-10T14:23:39.116Z","to":"2026-04-10T14:34:01.433Z","count":2,"avg":1316,"min":1189,"max":1443,"p95":1443}
-{"type":"fail","from":"2026-04-10T14:43:56.195Z","to":"2026-04-10T14:53:50.714Z","count":2,"status":null,"error":"fetch failed","avg_latency":852}
-{"type":"ok","from":"2026-04-10T15:04:12.519Z","to":"2026-04-10T15:34:09.357Z","count":4,"avg":946,"min":739,"max":1119,"p95":1119}
-{"type":"fail","from":"2026-04-10T15:43:58.404Z","to":"2026-04-10T15:43:58.404Z","count":1,"status":null,"error":"fetch failed","avg_latency":884}
-{"type":"ok","from":"2026-04-10T15:54:14.212Z","to":"2026-04-10T15:54:14.212Z","count":1,"avg":930,"min":930,"max":930,"p95":930}
-{"type":"fail","from":"2026-04-10T16:04:21.726Z","to":"2026-04-10T16:04:21.726Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T16:14:18.244Z","to":"2026-04-10T17:13:58.551Z","count":7,"avg":1186,"min":738,"max":1538,"p95":1538}
-{"type":"fail","from":"2026-04-10T17:23:50.201Z","to":"2026-04-10T17:23:50.201Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T17:33:41.272Z","to":"2026-04-10T20:33:15.709Z","count":19,"avg":994,"min":542,"max":1891,"p95":1891}
-{"type":"fail","from":"2026-04-10T20:43:10.930Z","to":"2026-04-10T20:43:10.930Z","count":1,"status":null,"error":"fetch failed","avg_latency":917}
-{"type":"ok","from":"2026-04-10T20:53:15.671Z","to":"2026-04-10T21:03:26.293Z","count":2,"avg":719,"min":713,"max":725,"p95":725}
-{"type":"fail","from":"2026-04-10T21:13:15.371Z","to":"2026-04-10T21:13:15.371Z","count":1,"status":null,"error":"fetch failed","avg_latency":867}
-{"type":"ok","from":"2026-04-10T21:23:19.587Z","to":"2026-04-10T23:23:30.594Z","count":13,"avg":825,"min":556,"max":1411,"p95":1411}
-{"type":"fail","from":"2026-04-10T23:33:29.643Z","to":"2026-04-10T23:33:29.643Z","count":1,"status":null,"error":"fetch failed","avg_latency":881}
-{"type":"ok","from":"2026-04-10T23:43:18.473Z","to":"2026-04-10T23:53:37.753Z","count":2,"avg":828,"min":819,"max":836,"p95":836}
-{"type":"ok","from":"2026-04-11T00:03:33.977Z","to":"2026-04-11T02:43:50.817Z","count":17,"avg":1014,"min":718,"max":1382,"p95":1382}
-{"type":"fail","from":"2026-04-11T02:54:03.407Z","to":"2026-04-11T02:54:03.407Z","count":1,"status":null,"error":"fetch failed","avg_latency":716}
-{"type":"ok","from":"2026-04-11T03:03:52.862Z","to":"2026-04-11T04:14:16.581Z","count":8,"avg":938,"min":723,"max":1239,"p95":1239}
-{"type":"fail","from":"2026-04-11T04:24:06.832Z","to":"2026-04-11T04:34:10.576Z","count":2,"status":null,"error":"fetch failed","avg_latency":937}
-{"type":"ok","from":"2026-04-11T04:44:07.505Z","to":"2026-04-11T04:54:17.813Z","count":2,"avg":1324,"min":1207,"max":1440,"p95":1440}
-{"type":"fail","from":"2026-04-11T05:04:16.778Z","to":"2026-04-11T05:04:16.778Z","count":1,"status":null,"error":"fetch failed","avg_latency":1311}
-{"type":"ok","from":"2026-04-11T05:14:11.426Z","to":"2026-04-11T06:34:07.822Z","count":9,"avg":1176,"min":481,"max":1746,"p95":1746}
-{"type":"fail","from":"2026-04-11T06:44:06.295Z","to":"2026-04-11T06:44:06.295Z","count":1,"status":null,"error":"fetch failed","avg_latency":875}
-{"type":"ok","from":"2026-04-11T06:53:57.492Z","to":"2026-04-11T07:24:18.374Z","count":4,"avg":1027,"min":820,"max":1189,"p95":1189}
-{"type":"fail","from":"2026-04-11T07:34:19.147Z","to":"2026-04-11T07:34:19.147Z","count":1,"status":null,"error":"fetch failed","avg_latency":1246}
-{"type":"ok","from":"2026-04-11T07:44:30.239Z","to":"2026-04-11T09:14:05.816Z","count":9,"avg":1190,"min":765,"max":1667,"p95":1667}
-{"type":"fail","from":"2026-04-11T09:23:50.393Z","to":"2026-04-11T09:23:50.393Z","count":1,"status":null,"error":"fetch failed","avg_latency":898}
-{"type":"ok","from":"2026-04-11T09:34:02.243Z","to":"2026-04-11T09:54:01.024Z","count":3,"avg":1048,"min":824,"max":1413,"p95":1413}
-{"type":"fail","from":"2026-04-11T10:03:59.848Z","to":"2026-04-11T10:03:59.848Z","count":1,"status":null,"error":"fetch failed","avg_latency":904}
-{"type":"ok","from":"2026-04-11T10:14:12.779Z","to":"2026-04-11T11:24:12.403Z","count":8,"avg":1311,"min":944,"max":1966,"p95":1966}
-{"type":"fail","from":"2026-04-11T11:34:15.846Z","to":"2026-04-11T11:44:01.686Z","count":2,"status":null,"error":"fetch failed","avg_latency":946}
-{"type":"ok","from":"2026-04-11T11:54:07.763Z","to":"2026-04-11T13:24:14.488Z","count":10,"avg":1164,"min":857,"max":1671,"p95":1671}
-{"type":"fail","from":"2026-04-11T13:34:26.814Z","to":"2026-04-11T13:34:26.814Z","count":1,"status":null,"error":"fetch failed","avg_latency":886}
-{"type":"ok","from":"2026-04-11T13:44:27.384Z","to":"2026-04-11T14:24:53.512Z","count":5,"avg":1531,"min":1214,"max":1935,"p95":1935}
-{"type":"fail","from":"2026-04-11T14:34:23.866Z","to":"2026-04-11T14:34:23.866Z","count":1,"status":null,"error":"fetch failed","avg_latency":917}
-{"type":"ok","from":"2026-04-11T14:44:34.888Z","to":"2026-04-11T15:24:23.720Z","count":5,"avg":1424,"min":927,"max":2292,"p95":2292}
-{"type":"fail","from":"2026-04-11T15:34:08.769Z","to":"2026-04-11T15:34:08.769Z","count":1,"status":null,"error":"fetch failed","avg_latency":953}
-{"type":"ok","from":"2026-04-11T15:44:18.135Z","to":"2026-04-11T23:53:49.712Z","count":50,"avg":990,"min":572,"max":1459,"p95":1436}
-{"type":"ok","from":"2026-04-12T00:03:34.220Z","to":"2026-04-12T03:03:45.697Z","count":19,"avg":1139,"min":582,"max":2773,"p95":2773}
-{"type":"fail","from":"2026-04-12T03:14:06.361Z","to":"2026-04-12T03:23:45.823Z","count":2,"status":null,"error":"fetch failed","avg_latency":917}
-{"type":"ok","from":"2026-04-12T03:33:58.667Z","to":"2026-04-12T04:24:01.237Z","count":6,"avg":1495,"min":1037,"max":2521,"p95":2521}
-{"type":"fail","from":"2026-04-12T04:33:52.656Z","to":"2026-04-12T04:33:52.656Z","count":1,"status":null,"error":"fetch failed","avg_latency":911}
-{"type":"ok","from":"2026-04-12T04:44:05.597Z","to":"2026-04-12T04:53:54.327Z","count":2,"avg":1233,"min":1112,"max":1353,"p95":1353}
-{"type":"fail","from":"2026-04-12T05:03:59.175Z","to":"2026-04-12T05:03:59.175Z","count":1,"status":null,"error":"fetch failed","avg_latency":715}
-{"type":"ok","from":"2026-04-12T05:14:00.306Z","to":"2026-04-12T05:14:00.306Z","count":1,"avg":912,"min":912,"max":912,"p95":912}
-{"type":"fail","from":"2026-04-12T05:23:56.432Z","to":"2026-04-12T05:23:56.432Z","count":1,"status":null,"error":"fetch failed","avg_latency":910}
-{"type":"ok","from":"2026-04-12T05:33:54.668Z","to":"2026-04-12T06:13:58.721Z","count":5,"avg":1024,"min":759,"max":1359,"p95":1359}
-{"type":"fail","from":"2026-04-12T06:24:08.124Z","to":"2026-04-12T06:43:57.057Z","count":3,"status":null,"error":"fetch failed","avg_latency":945}
-{"type":"ok","from":"2026-04-12T06:54:04.292Z","to":"2026-04-12T06:54:04.292Z","count":1,"avg":1027,"min":1027,"max":1027,"p95":1027}
-{"type":"fail","from":"2026-04-12T07:04:17.452Z","to":"2026-04-12T07:04:17.452Z","count":1,"status":null,"error":"fetch failed","avg_latency":902}
-{"type":"ok","from":"2026-04-12T07:14:19.752Z","to":"2026-04-12T08:24:11.543Z","count":8,"avg":1083,"min":615,"max":1424,"p95":1424}
-{"type":"fail","from":"2026-04-12T08:34:00.259Z","to":"2026-04-12T08:34:00.259Z","count":1,"status":null,"error":"fetch failed","avg_latency":892}
-{"type":"ok","from":"2026-04-12T08:43:57.107Z","to":"2026-04-12T10:13:25.936Z","count":9,"avg":1170,"min":731,"max":1870,"p95":1870}
-{"type":"fail","from":"2026-04-12T10:23:38.656Z","to":"2026-04-12T10:23:38.656Z","count":1,"status":null,"error":"fetch failed","avg_latency":892}
-{"type":"ok","from":"2026-04-12T10:33:35.159Z","to":"2026-04-12T12:23:40.724Z","count":12,"avg":1170,"min":586,"max":2443,"p95":2443}
-{"type":"fail","from":"2026-04-12T12:33:41.976Z","to":"2026-04-12T12:33:41.976Z","count":1,"status":null,"error":"fetch failed","avg_latency":915}
-{"type":"ok","from":"2026-04-12T12:43:38.833Z","to":"2026-04-12T14:03:54.411Z","count":9,"avg":1138,"min":893,"max":1704,"p95":1704}
-{"type":"fail","from":"2026-04-12T14:13:53.564Z","to":"2026-04-12T14:23:57.385Z","count":2,"status":null,"error":"fetch failed","avg_latency":816}
-{"type":"ok","from":"2026-04-12T14:33:48.384Z","to":"2026-04-12T14:33:48.384Z","count":1,"avg":968,"min":968,"max":968,"p95":968}
-{"type":"fail","from":"2026-04-12T14:43:48.296Z","to":"2026-04-12T14:43:48.296Z","count":1,"status":null,"error":"fetch failed","avg_latency":866}
-{"type":"ok","from":"2026-04-12T14:53:56.984Z","to":"2026-04-12T16:03:41.758Z","count":7,"avg":1135,"min":745,"max":1429,"p95":1429}
-{"type":"fail","from":"2026-04-12T16:13:39.500Z","to":"2026-04-12T16:13:39.500Z","count":1,"status":null,"error":"fetch failed","avg_latency":945}
-{"type":"fail","from":"2026-04-12T16:23:49.158Z","to":"2026-04-12T16:23:49.158Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-12T16:33:50.044Z","to":"2026-04-12T16:33:50.044Z","count":1,"avg":1267,"min":1267,"max":1267,"p95":1267}
-{"type":"fail","from":"2026-04-12T16:43:48.041Z","to":"2026-04-12T16:43:48.041Z","count":1,"status":null,"error":"fetch failed","avg_latency":917}
-{"type":"ok","from":"2026-04-12T16:53:35.405Z","to":"2026-04-12T18:23:21.187Z","count":10,"avg":974,"min":738,"max":1699,"p95":1699}
-{"type":"fail","from":"2026-04-12T18:33:23.858Z","to":"2026-04-12T18:33:23.858Z","count":1,"status":null,"error":"fetch failed","avg_latency":888}
-{"type":"ok","from":"2026-04-12T18:43:17.541Z","to":"2026-04-12T19:03:19.642Z","count":3,"avg":923,"min":747,"max":1024,"p95":1024}
-{"type":"fail","from":"2026-04-12T19:13:16.163Z","to":"2026-04-12T19:13:16.163Z","count":1,"status":null,"error":"fetch failed","avg_latency":670}
-{"type":"ok","from":"2026-04-12T19:23:09.943Z","to":"2026-04-12T20:13:11.955Z","count":6,"avg":946,"min":565,"max":1169,"p95":1169}
-{"type":"fail","from":"2026-04-12T20:23:08.943Z","to":"2026-04-12T20:23:08.943Z","count":1,"status":null,"error":"fetch failed","avg_latency":707}
-{"type":"ok","from":"2026-04-12T20:33:14.726Z","to":"2026-04-12T22:03:10.312Z","count":10,"avg":841,"min":698,"max":1043,"p95":1043}
-{"type":"fail","from":"2026-04-12T22:13:14.326Z","to":"2026-04-12T22:13:14.326Z","count":1,"status":null,"error":"fetch failed","avg_latency":890}
-{"type":"ok","from":"2026-04-12T22:23:19.063Z","to":"2026-04-12T22:23:19.063Z","count":1,"avg":1048,"min":1048,"max":1048,"p95":1048}
-{"type":"fail","from":"2026-04-12T22:33:21.928Z","to":"2026-04-12T22:33:21.928Z","count":1,"status":null,"error":"fetch failed","avg_latency":881}
-{"type":"ok","from":"2026-04-12T22:43:09.409Z","to":"2026-04-12T23:03:15.390Z","count":3,"avg":806,"min":528,"max":998,"p95":998}
-{"type":"fail","from":"2026-04-12T23:13:26.186Z","to":"2026-04-12T23:13:26.186Z","count":1,"status":null,"error":"fetch failed","avg_latency":889}
-{"type":"ok","from":"2026-04-12T23:23:17.797Z","to":"2026-04-12T23:53:22.182Z","count":4,"avg":838,"min":762,"max":983,"p95":983}
-{"type":"ok","from":"2026-04-13T00:03:30.041Z","to":"2026-04-13T00:43:23.847Z","count":5,"avg":1069,"min":881,"max":1243,"p95":1243}
-{"type":"fail","from":"2026-04-13T00:53:23.023Z","to":"2026-04-13T00:53:23.023Z","count":1,"status":null,"error":"fetch failed","avg_latency":699}
-{"type":"ok","from":"2026-04-13T01:03:36.745Z","to":"2026-04-13T01:13:35.336Z","count":2,"avg":914,"min":853,"max":974,"p95":974}
-{"type":"fail","from":"2026-04-13T01:23:25.898Z","to":"2026-04-13T01:23:25.898Z","count":1,"status":null,"error":"fetch failed","avg_latency":882}
-{"type":"ok","from":"2026-04-13T01:33:40.196Z","to":"2026-04-13T05:13:49.120Z","count":20,"avg":1117,"min":648,"max":1675,"p95":1675}
-{"type":"fail","from":"2026-04-13T05:23:36.145Z","to":"2026-04-13T05:23:36.145Z","count":1,"status":null,"error":"fetch failed","avg_latency":889}
-{"type":"ok","from":"2026-04-13T05:33:46.267Z","to":"2026-04-13T05:43:46.890Z","count":2,"avg":1018,"min":892,"max":1144,"p95":1144}
-{"type":"fail","from":"2026-04-13T05:53:27.584Z","to":"2026-04-13T05:53:27.584Z","count":1,"status":null,"error":"fetch failed","avg_latency":888}
-{"type":"ok","from":"2026-04-13T06:03:43.405Z","to":"2026-04-13T08:03:57.270Z","count":13,"avg":1101,"min":793,"max":1602,"p95":1602}
-{"type":"fail","from":"2026-04-13T08:13:53.947Z","to":"2026-04-13T08:13:53.947Z","count":1,"status":null,"error":"fetch failed","avg_latency":866}
-{"type":"ok","from":"2026-04-13T08:23:38.091Z","to":"2026-04-13T08:54:00.047Z","count":4,"avg":1032,"min":883,"max":1157,"p95":1157}
-{"type":"fail","from":"2026-04-13T09:23:52.541Z","to":"2026-04-13T09:23:52.541Z","count":1,"status":null,"error":"fetch failed","avg_latency":883}
-{"type":"ok","from":"2026-04-13T09:33:45.324Z","to":"2026-04-13T12:03:54.209Z","count":14,"avg":1187,"min":730,"max":2766,"p95":2766}
-{"type":"fail","from":"2026-04-13T12:13:52.951Z","to":"2026-04-13T12:13:52.951Z","count":1,"status":null,"error":"fetch failed","avg_latency":1055}
-{"type":"ok","from":"2026-04-13T12:23:47.423Z","to":"2026-04-13T12:43:53.272Z","count":3,"avg":977,"min":768,"max":1203,"p95":1203}
-{"type":"fail","from":"2026-04-13T12:54:10.148Z","to":"2026-04-13T13:13:56.688Z","count":3,"status":null,"error":"fetch failed","avg_latency":760}
-{"type":"ok","from":"2026-04-13T13:24:10.118Z","to":"2026-04-13T13:24:10.118Z","count":1,"avg":856,"min":856,"max":856,"p95":856}
-{"type":"fail","from":"2026-04-13T13:34:05.960Z","to":"2026-04-13T13:34:05.960Z","count":1,"status":null,"error":"fetch failed","avg_latency":867}
-{"type":"ok","from":"2026-04-13T13:43:56.351Z","to":"2026-04-13T13:43:56.351Z","count":1,"avg":995,"min":995,"max":995,"p95":995}
-{"type":"fail","from":"2026-04-13T13:54:04.905Z","to":"2026-04-13T13:54:04.905Z","count":1,"status":null,"error":"fetch failed","avg_latency":941}
-{"type":"ok","from":"2026-04-13T14:04:09.080Z","to":"2026-04-13T14:34:24.447Z","count":4,"avg":1516,"min":970,"max":2248,"p95":2248}
-{"type":"fail","from":"2026-04-13T14:44:13.178Z","to":"2026-04-13T15:04:01.363Z","count":3,"status":null,"error":"fetch failed","avg_latency":772}
-{"type":"ok","from":"2026-04-14T02:28:51.815Z","to":"2026-04-14T02:28:51.815Z","count":1,"avg":1024,"min":1024,"max":1024,"p95":1024}
-{"type":"fail","from":"2026-04-14T02:43:50.139Z","to":"2026-04-14T02:43:50.139Z","count":1,"status":null,"error":"fetch failed","avg_latency":884}
-{"type":"ok","from":"2026-04-14T03:03:47.833Z","to":"2026-04-14T05:23:32.237Z","count":9,"avg":1301,"min":939,"max":2292,"p95":2292}
-{"type":"fail","from":"2026-04-14T05:33:32.485Z","to":"2026-04-14T05:33:32.485Z","count":1,"status":null,"error":"fetch failed","avg_latency":850}
-{"type":"ok","from":"2026-04-14T05:43:48.028Z","to":"2026-04-14T06:03:44.511Z","count":3,"avg":1281,"min":926,"max":1596,"p95":1596}
-{"type":"fail","from":"2026-04-14T06:13:34.733Z","to":"2026-04-14T06:13:34.733Z","count":1,"status":null,"error":"fetch failed","avg_latency":818}
-{"type":"ok","from":"2026-04-14T06:23:43.567Z","to":"2026-04-14T06:23:43.567Z","count":1,"avg":1181,"min":1181,"max":1181,"p95":1181}
-{"type":"fail","from":"2026-04-14T06:33:35.533Z","to":"2026-04-14T06:43:42.067Z","count":2,"status":null,"error":"fetch failed","avg_latency":778}
-{"type":"ok","from":"2026-04-14T06:53:42.249Z","to":"2026-04-14T07:13:46.824Z","count":3,"avg":850,"min":745,"max":978,"p95":978}
-{"type":"fail","from":"2026-04-14T07:26:16.895Z","to":"2026-04-14T07:26:16.895Z","count":1,"status":null,"error":"fetch failed","avg_latency":842}
-{"type":"ok","from":"2026-04-14T07:33:53.315Z","to":"2026-04-14T07:43:42.526Z","count":2,"avg":1066,"min":1033,"max":1098,"p95":1098}
-{"type":"fail","from":"2026-04-14T08:07:09.653Z","to":"2026-04-14T08:13:36.103Z","count":2,"status":null,"error":"fetch failed","avg_latency":850}
-{"type":"ok","from":"2026-04-14T08:23:43.083Z","to":"2026-04-14T09:03:29.767Z","count":5,"avg":1038,"min":747,"max":1354,"p95":1354}
-{"type":"fail","from":"2026-04-14T09:13:34.523Z","to":"2026-04-14T09:13:34.523Z","count":1,"status":null,"error":"fetch failed","avg_latency":843}
-{"type":"ok","from":"2026-04-14T09:23:40.571Z","to":"2026-04-14T09:43:36.040Z","count":3,"avg":1147,"min":822,"max":1671,"p95":1671}
-{"type":"fail","from":"2026-04-14T09:53:41.231Z","to":"2026-04-14T09:53:41.231Z","count":1,"status":null,"error":"fetch failed","avg_latency":897}
-{"type":"ok","from":"2026-04-14T10:03:32.092Z","to":"2026-04-14T11:03:47.815Z","count":7,"avg":1003,"min":807,"max":1474,"p95":1474}
-{"type":"fail","from":"2026-04-14T11:13:39.292Z","to":"2026-04-14T11:13:39.292Z","count":1,"status":null,"error":"fetch failed","avg_latency":973}
-{"type":"ok","from":"2026-04-14T11:23:45.606Z","to":"2026-04-14T11:53:42.206Z","count":4,"avg":1016,"min":676,"max":1603,"p95":1603}
-{"type":"fail","from":"2026-04-14T12:03:55.478Z","to":"2026-04-14T12:03:55.478Z","count":1,"status":null,"error":"fetch failed","avg_latency":705}
-{"type":"ok","from":"2026-04-14T12:13:43.821Z","to":"2026-04-14T12:13:43.821Z","count":1,"avg":854,"min":854,"max":854,"p95":854}
-{"type":"fail","from":"2026-04-14T12:23:48.437Z","to":"2026-04-14T12:23:48.437Z","count":1,"status":null,"error":"fetch failed","avg_latency":626}
-{"type":"ok","from":"2026-04-14T12:33:58.794Z","to":"2026-04-14T13:34:12.441Z","count":7,"avg":1504,"min":1126,"max":2321,"p95":2321}
-{"type":"fail","from":"2026-04-14T13:44:08.222Z","to":"2026-04-14T13:44:08.222Z","count":1,"status":null,"error":"fetch failed","avg_latency":701}
-{"type":"ok","from":"2026-04-14T13:53:50.945Z","to":"2026-04-14T14:44:07.436Z","count":5,"avg":1112,"min":706,"max":1675,"p95":1675}
-{"type":"fail","from":"2026-04-14T14:53:44.256Z","to":"2026-04-14T14:53:44.256Z","count":1,"status":null,"error":"fetch failed","avg_latency":837}
-{"type":"fail","from":"2026-04-14T15:04:08.076Z","to":"2026-04-14T15:04:08.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"fail","from":"2026-04-14T15:14:12.553Z","to":"2026-04-14T15:14:12.553Z","count":1,"status":null,"error":"fetch failed","avg_latency":709}
-{"type":"ok","from":"2026-04-14T15:23:53.158Z","to":"2026-04-14T16:34:05.447Z","count":8,"avg":1126,"min":874,"max":1612,"p95":1612}
-{"type":"fail","from":"2026-04-14T16:43:57.558Z","to":"2026-04-14T16:43:57.558Z","count":1,"status":null,"error":"fetch failed","avg_latency":840}
-{"type":"ok","from":"2026-04-14T16:53:46.683Z","to":"2026-04-14T17:03:44.226Z","count":2,"avg":1488,"min":1154,"max":1822,"p95":1822}
-{"type":"fail","from":"2026-04-14T17:13:49.445Z","to":"2026-04-14T17:23:49.103Z","count":2,"status":null,"error":"fetch failed","avg_latency":1372}
-{"type":"ok","from":"2026-04-14T17:33:49.214Z","to":"2026-04-14T19:33:23.803Z","count":13,"avg":851,"min":683,"max":1136,"p95":1136}
-{"type":"fail","from":"2026-04-14T19:43:20.459Z","to":"2026-04-14T19:43:20.459Z","count":1,"status":null,"error":"fetch failed","avg_latency":887}
-{"type":"ok","from":"2026-04-14T19:53:08.822Z","to":"2026-04-14T20:13:11.127Z","count":3,"avg":849,"min":732,"max":970,"p95":970}
-{"type":"fail","from":"2026-04-14T20:23:25.832Z","to":"2026-04-14T20:23:25.832Z","count":1,"status":null,"error":"fetch failed","avg_latency":676}
-{"type":"ok","from":"2026-04-14T20:33:30.695Z","to":"2026-04-14T20:53:18.623Z","count":3,"avg":915,"min":767,"max":1019,"p95":1019}
-{"type":"fail","from":"2026-04-14T21:03:22.450Z","to":"2026-04-14T21:13:30.758Z","count":2,"status":null,"error":"fetch failed","avg_latency":839}
-{"type":"ok","from":"2026-04-14T21:23:26.457Z","to":"2026-04-14T21:23:26.457Z","count":1,"avg":544,"min":544,"max":544,"p95":544}
-{"type":"fail","from":"2026-04-14T21:33:25.330Z","to":"2026-04-14T21:33:25.330Z","count":1,"status":null,"error":"fetch failed","avg_latency":876}
-{"type":"ok","from":"2026-04-14T21:43:22.269Z","to":"2026-04-14T23:53:17.358Z","count":14,"avg":936,"min":561,"max":1290,"p95":1290}
-{"type":"ok","from":"2026-04-15T00:03:14.573Z","to":"2026-04-15T00:13:36.079Z","count":2,"avg":1460,"min":1139,"max":1780,"p95":1780}
-{"type":"fail","from":"2026-04-15T00:23:23.884Z","to":"2026-04-15T00:23:23.884Z","count":1,"status":null,"error":"fetch failed","avg_latency":672}
-{"type":"ok","from":"2026-04-15T00:33:32.376Z","to":"2026-04-15T02:33:43.833Z","count":13,"avg":1055,"min":711,"max":2536,"p95":2536}
-{"type":"fail","from":"2026-04-15T02:43:38.455Z","to":"2026-04-15T02:53:43.082Z","count":2,"status":null,"error":"fetch failed","avg_latency":886}
-{"type":"ok","from":"2026-04-15T03:03:38.632Z","to":"2026-04-15T04:13:32.626Z","count":8,"avg":881,"min":684,"max":1313,"p95":1313}
-{"type":"fail","from":"2026-04-15T04:23:42.932Z","to":"2026-04-15T04:23:42.932Z","count":1,"status":null,"error":"fetch failed","avg_latency":836}
-{"type":"ok","from":"2026-04-15T04:33:59.546Z","to":"2026-04-15T06:14:37.291Z","count":11,"avg":987,"min":561,"max":1431,"p95":1431}
-{"type":"fail","from":"2026-04-15T06:24:29.601Z","to":"2026-04-15T06:24:29.601Z","count":1,"status":null,"error":"fetch failed","avg_latency":821}
-{"type":"ok","from":"2026-04-15T06:33:48.434Z","to":"2026-04-15T07:44:11.548Z","count":8,"avg":1663,"min":696,"max":4614,"p95":4614}
-{"type":"fail","from":"2026-04-15T07:54:35.360Z","to":"2026-04-15T07:54:35.360Z","count":1,"status":null,"error":"fetch failed","avg_latency":1072}
-{"type":"ok","from":"2026-04-15T08:14:52.351Z","to":"2026-04-15T09:03:51.468Z","count":6,"avg":1042,"min":758,"max":1496,"p95":1496}
-{"type":"fail","from":"2026-04-15T09:24:02.797Z","to":"2026-04-15T09:24:02.797Z","count":1,"status":null,"error":"fetch failed","avg_latency":706}
-{"type":"ok","from":"2026-04-15T09:34:42.886Z","to":"2026-04-15T09:34:42.886Z","count":1,"avg":1275,"min":1275,"max":1275,"p95":1275}
-{"type":"fail","from":"2026-04-15T09:44:26.095Z","to":"2026-04-15T09:44:26.095Z","count":1,"status":null,"error":"fetch failed","avg_latency":699}
-{"type":"ok","from":"2026-04-15T09:54:48.316Z","to":"2026-04-15T12:24:15.546Z","count":15,"avg":1146,"min":594,"max":2152,"p95":2152}
-{"type":"fail","from":"2026-04-15T12:34:06.565Z","to":"2026-04-15T12:54:24.941Z","count":3,"status":null,"error":"fetch failed","avg_latency":890}
-{"type":"ok","from":"2026-04-15T13:04:11.909Z","to":"2026-04-15T13:04:11.909Z","count":1,"avg":871,"min":871,"max":871,"p95":871}
-{"type":"fail","from":"2026-04-15T13:14:17.655Z","to":"2026-04-15T13:44:29.878Z","count":3,"status":null,"error":"fetch failed","avg_latency":835}
-{"type":"ok","from":"2026-04-15T13:54:24.956Z","to":"2026-04-15T14:06:39.723Z","count":2,"avg":936,"min":882,"max":989,"p95":989}
-{"type":"fail","from":"2026-04-15T14:14:14.828Z","to":"2026-04-15T14:24:07.061Z","count":2,"status":null,"error":"fetch failed","avg_latency":1109}
-{"type":"ok","from":"2026-04-15T14:33:58.513Z","to":"2026-04-15T15:53:45.878Z","count":9,"avg":1503,"min":720,"max":2016,"p95":2016}
-{"type":"fail","from":"2026-04-15T16:03:58.822Z","to":"2026-04-15T16:03:58.822Z","count":1,"status":null,"error":"fetch failed","avg_latency":1609}
-{"type":"ok","from":"2026-04-15T16:13:54.982Z","to":"2026-04-15T16:44:30.592Z","count":4,"avg":1564,"min":1243,"max":2359,"p95":2359}
-{"type":"fail","from":"2026-04-15T16:54:03.039Z","to":"2026-04-15T16:54:03.039Z","count":1,"status":null,"error":"fetch failed","avg_latency":1037}
-{"type":"ok","from":"2026-04-15T17:04:21.633Z","to":"2026-04-15T17:13:45.570Z","count":2,"avg":976,"min":970,"max":981,"p95":981}
-{"type":"fail","from":"2026-04-15T17:23:58.465Z","to":"2026-04-15T17:23:58.465Z","count":1,"status":null,"error":"fetch failed","avg_latency":1372}
-{"type":"ok","from":"2026-04-15T17:33:54.969Z","to":"2026-04-15T20:03:33.516Z","count":16,"avg":1210,"min":666,"max":2215,"p95":2215}
-{"type":"fail","from":"2026-04-15T20:13:24.683Z","to":"2026-04-15T20:13:24.683Z","count":1,"status":null,"error":"fetch failed","avg_latency":1290}
-{"type":"ok","from":"2026-04-15T20:23:31.620Z","to":"2026-04-15T23:23:28.800Z","count":19,"avg":1154,"min":685,"max":2231,"p95":2231}
-{"type":"fail","from":"2026-04-15T23:33:32.747Z","to":"2026-04-15T23:33:32.747Z","count":1,"status":null,"error":"fetch failed","avg_latency":1045}
-{"type":"ok","from":"2026-04-15T23:43:38.761Z","to":"2026-04-15T23:53:34.870Z","count":2,"avg":640,"min":599,"max":681,"p95":681}
-{"type":"ok","from":"2026-04-16T00:03:48.456Z","to":"2026-04-16T00:43:50.319Z","count":5,"avg":1164,"min":796,"max":1636,"p95":1636}
-{"type":"fail","from":"2026-04-16T00:53:47.887Z","to":"2026-04-16T00:53:47.887Z","count":1,"status":null,"error":"fetch failed","avg_latency":930}
-{"type":"ok","from":"2026-04-16T01:03:47.178Z","to":"2026-04-16T01:53:54.141Z","count":6,"avg":1145,"min":1031,"max":1268,"p95":1268}
-{"type":"fail","from":"2026-04-16T02:03:54.395Z","to":"2026-04-16T02:23:57.041Z","count":3,"status":null,"error":"fetch failed","avg_latency":1037}
-{"type":"ok","from":"2026-04-16T02:33:58.246Z","to":"2026-04-16T05:24:06.393Z","count":14,"avg":1155,"min":644,"max":1701,"p95":1701}
-{"type":"fail","from":"2026-04-16T05:45:02.937Z","to":"2026-04-16T05:45:02.937Z","count":1,"status":null,"error":"fetch failed","avg_latency":1124}
-{"type":"ok","from":"2026-04-16T05:53:56.889Z","to":"2026-04-16T11:04:11.512Z","count":28,"avg":1215,"min":697,"max":2727,"p95":2412}
-{"type":"fail","from":"2026-04-16T11:14:04.458Z","to":"2026-04-16T12:04:57.264Z","count":2,"status":null,"error":"fetch failed","avg_latency":782}
-{"type":"ok","from":"2026-04-16T12:14:33.225Z","to":"2026-04-16T12:44:26.895Z","count":4,"avg":1703,"min":1307,"max":2135,"p95":2135}
-{"type":"fail","from":"2026-04-16T12:54:39.695Z","to":"2026-04-16T12:54:39.695Z","count":1,"status":null,"error":"fetch failed","avg_latency":803}
-{"type":"ok","from":"2026-04-16T13:04:36.648Z","to":"2026-04-16T13:04:36.648Z","count":1,"avg":1853,"min":1853,"max":1853,"p95":1853}
-{"type":"fail","from":"2026-04-16T13:14:26.267Z","to":"2026-04-16T13:14:26.267Z","count":1,"status":null,"error":"fetch failed","avg_latency":1045}
-{"type":"ok","from":"2026-04-16T13:24:35.017Z","to":"2026-04-16T13:44:29.905Z","count":3,"avg":1317,"min":884,"max":1798,"p95":1798}
-{"type":"fail","from":"2026-04-16T13:54:33.432Z","to":"2026-04-16T13:54:33.432Z","count":1,"status":null,"error":"fetch failed","avg_latency":1420}
-{"type":"ok","from":"2026-04-16T14:04:47.942Z","to":"2026-04-16T15:04:41.270Z","count":7,"avg":1498,"min":743,"max":3709,"p95":3709}
-{"type":"fail","from":"2026-04-16T15:14:53.280Z","to":"2026-04-16T15:14:53.280Z","count":1,"status":null,"error":"fetch failed","avg_latency":720}
-{"type":"fail","from":"2026-04-16T15:25:15.568Z","to":"2026-04-16T15:25:15.568Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T15:34:34.878Z","to":"2026-04-16T15:54:19.544Z","count":3,"avg":1222,"min":1090,"max":1350,"p95":1350}
-{"type":"fail","from":"2026-04-16T16:04:22.294Z","to":"2026-04-16T16:04:22.294Z","count":1,"status":null,"error":"fetch failed","avg_latency":1176}
-{"type":"ok","from":"2026-04-16T16:14:20.929Z","to":"2026-04-16T18:23:57.200Z","count":14,"avg":1410,"min":747,"max":3159,"p95":3159}
-{"type":"fail","from":"2026-04-16T18:33:50.384Z","to":"2026-04-16T18:33:50.384Z","count":1,"status":null,"error":"fetch failed","avg_latency":903}
-{"type":"ok","from":"2026-04-16T18:44:02.182Z","to":"2026-04-16T23:33:50.359Z","count":30,"avg":1066,"min":595,"max":1893,"p95":1386}
-{"type":"fail","from":"2026-04-16T23:44:09.561Z","to":"2026-04-16T23:44:09.561Z","count":1,"status":null,"error":"fetch failed","avg_latency":1028}
-{"type":"ok","from":"2026-04-16T23:53:49.877Z","to":"2026-04-16T23:53:49.877Z","count":1,"avg":648,"min":648,"max":648,"p95":648}
-{"type":"ok","from":"2026-04-17T00:04:19.997Z","to":"2026-04-17T00:44:06.680Z","count":5,"avg":1239,"min":984,"max":1422,"p95":1422}
-{"type":"fail","from":"2026-04-17T00:54:10.965Z","to":"2026-04-17T00:54:10.965Z","count":1,"status":null,"error":"fetch failed","avg_latency":845}
-{"type":"ok","from":"2026-04-17T01:04:30.788Z","to":"2026-04-17T01:14:12.794Z","count":2,"avg":1068,"min":892,"max":1244,"p95":1244}
-{"type":"fail","from":"2026-04-17T01:24:13.062Z","to":"2026-04-17T01:24:13.062Z","count":1,"status":null,"error":"fetch failed","avg_latency":1248}
-{"type":"ok","from":"2026-04-17T01:34:21.122Z","to":"2026-04-17T02:34:18.814Z","count":7,"avg":1249,"min":965,"max":1661,"p95":1661}
-{"type":"fail","from":"2026-04-17T02:44:30.937Z","to":"2026-04-17T02:44:30.937Z","count":1,"status":null,"error":"fetch failed","avg_latency":972}
-{"type":"ok","from":"2026-04-17T02:54:10.095Z","to":"2026-04-17T04:04:30.341Z","count":8,"avg":1370,"min":686,"max":1896,"p95":1896}
-{"type":"fail","from":"2026-04-17T04:14:29.149Z","to":"2026-04-17T04:54:38.375Z","count":2,"status":null,"error":"fetch failed","avg_latency":1049}
-{"type":"ok","from":"2026-04-17T05:04:28.592Z","to":"2026-04-17T05:14:08.183Z","count":2,"avg":1412,"min":1340,"max":1484,"p95":1484}
-{"type":"fail","from":"2026-04-17T05:24:28.281Z","to":"2026-04-17T05:24:28.281Z","count":1,"status":null,"error":"fetch failed","avg_latency":955}
-{"type":"ok","from":"2026-04-17T05:34:32.416Z","to":"2026-04-17T07:32:18.359Z","count":13,"avg":1298,"min":948,"max":2420,"p95":2420}
-{"type":"fail","from":"2026-04-17T07:42:13.969Z","to":"2026-04-17T07:42:13.969Z","count":1,"status":null,"error":"fetch failed","avg_latency":1376}
-{"type":"ok","from":"2026-04-17T07:52:15.817Z","to":"2026-04-17T07:52:15.817Z","count":1,"avg":1545,"min":1545,"max":1545,"p95":1545}
-{"type":"fail","from":"2026-04-17T08:02:27.164Z","to":"2026-04-17T08:12:15.193Z","count":2,"status":null,"error":"fetch failed","avg_latency":1330}
-{"type":"ok","from":"2026-04-17T08:22:15.333Z","to":"2026-04-17T10:12:18.821Z","count":11,"avg":1768,"min":1065,"max":3122,"p95":3122}
-{"type":"fail","from":"2026-04-17T10:22:12.674Z","to":"2026-04-17T10:22:12.674Z","count":1,"status":null,"error":"fetch failed","avg_latency":1509}
-{"type":"ok","from":"2026-04-17T10:32:13.769Z","to":"2026-04-17T10:32:13.769Z","count":1,"avg":1668,"min":1668,"max":1668,"p95":1668}
-{"type":"fail","from":"2026-04-17T10:42:08.953Z","to":"2026-04-17T10:42:08.953Z","count":1,"status":null,"error":"fetch failed","avg_latency":1652}
-{"type":"ok","from":"2026-04-17T10:52:18.023Z","to":"2026-04-17T11:52:09.719Z","count":7,"avg":1669,"min":1124,"max":2237,"p95":2237}
-{"type":"fail","from":"2026-04-17T12:02:28.342Z","to":"2026-04-17T12:02:28.342Z","count":1,"status":null,"error":"fetch failed","avg_latency":1918}
-{"type":"ok","from":"2026-04-17T12:12:10.712Z","to":"2026-04-17T12:52:17.526Z","count":5,"avg":2427,"min":1309,"max":3567,"p95":3567}
-{"type":"fail","from":"2026-04-17T13:02:22.001Z","to":"2026-04-17T13:02:22.001Z","count":1,"status":null,"error":"fetch failed","avg_latency":1663}
-{"type":"ok","from":"2026-04-17T13:12:16.105Z","to":"2026-04-17T13:32:20.531Z","count":3,"avg":1419,"min":1015,"max":2058,"p95":2058}
-{"type":"fail","from":"2026-04-17T13:42:11.903Z","to":"2026-04-17T13:52:17.421Z","count":2,"status":null,"error":"fetch failed","avg_latency":1741}
-{"type":"ok","from":"2026-04-17T14:02:24.598Z","to":"2026-04-17T14:12:09.936Z","count":2,"avg":2499,"min":1933,"max":3065,"p95":3065}
-{"type":"fail","from":"2026-04-17T14:22:12.090Z","to":"2026-04-17T14:22:12.090Z","count":1,"status":null,"error":"fetch failed","avg_latency":1111}
-{"type":"ok","from":"2026-04-17T14:32:14.461Z","to":"2026-04-17T14:32:14.461Z","count":1,"avg":2605,"min":2605,"max":2605,"p95":2605}
-{"type":"fail","from":"2026-04-17T15:02:21.449Z","to":"2026-04-17T15:22:15.453Z","count":3,"status":null,"error":"fetch failed","avg_latency":1730}
-{"type":"ok","from":"2026-04-17T15:32:17.717Z","to":"2026-04-17T23:52:11.896Z","count":51,"avg":1476,"min":873,"max":2593,"p95":2212}
-{"type":"ok","from":"2026-04-18T00:02:24.107Z","to":"2026-04-18T01:12:06.095Z","count":8,"avg":1726,"min":990,"max":2866,"p95":2866}
-{"type":"fail","from":"2026-04-18T01:22:12.823Z","to":"2026-04-18T01:22:12.823Z","count":1,"status":null,"error":"fetch failed","avg_latency":1244}
-{"type":"ok","from":"2026-04-18T01:32:13.376Z","to":"2026-04-18T02:12:09.134Z","count":5,"avg":1495,"min":1255,"max":1883,"p95":1883}
-{"type":"fail","from":"2026-04-18T02:22:14.409Z","to":"2026-04-18T02:22:14.409Z","count":1,"status":null,"error":"fetch failed","avg_latency":1411}
-{"type":"ok","from":"2026-04-18T02:32:19.051Z","to":"2026-04-18T02:42:18.866Z","count":2,"avg":1620,"min":963,"max":2277,"p95":2277}
-{"type":"fail","from":"2026-04-18T02:52:12.976Z","to":"2026-04-18T02:52:12.976Z","count":1,"status":null,"error":"fetch failed","avg_latency":1340}
-{"type":"ok","from":"2026-04-18T03:02:22.744Z","to":"2026-04-18T04:55:15.352Z","count":8,"avg":1295,"min":1042,"max":1649,"p95":1649}
-{"type":"fail","from":"2026-04-18T05:02:25.909Z","to":"2026-04-18T05:02:25.909Z","count":1,"status":null,"error":"fetch failed","avg_latency":966}
-{"type":"ok","from":"2026-04-18T05:12:10.900Z","to":"2026-04-18T05:22:15.430Z","count":2,"avg":1422,"min":893,"max":1950,"p95":1950}
-{"type":"fail","from":"2026-04-18T05:32:17.427Z","to":"2026-04-18T05:32:17.427Z","count":1,"status":null,"error":"fetch failed","avg_latency":1165}
-{"type":"ok","from":"2026-04-18T05:42:11.280Z","to":"2026-04-18T08:32:18.544Z","count":18,"avg":1315,"min":947,"max":1816,"p95":1816}
-{"type":"fail","from":"2026-04-18T08:42:08.905Z","to":"2026-04-18T08:42:08.905Z","count":1,"status":null,"error":"fetch failed","avg_latency":976}
-{"type":"ok","from":"2026-04-18T08:52:13.239Z","to":"2026-04-18T09:32:17.874Z","count":5,"avg":1023,"min":863,"max":1186,"p95":1186}
-{"type":"fail","from":"2026-04-18T09:42:12.203Z","to":"2026-04-18T09:42:12.203Z","count":1,"status":null,"error":"fetch failed","avg_latency":1043}
-{"type":"ok","from":"2026-04-18T09:52:08.109Z","to":"2026-04-18T10:02:22.253Z","count":2,"avg":931,"min":865,"max":996,"p95":996}
-{"type":"fail","from":"2026-04-18T10:14:03.144Z","to":"2026-04-18T10:14:03.144Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5477}
-{"type":"ok","from":"2026-04-18T10:22:10.925Z","to":"2026-04-18T11:02:23.241Z","count":3,"avg":1177,"min":957,"max":1350,"p95":1350}
-{"type":"fail","from":"2026-04-18T11:05:34.362Z","to":"2026-04-18T11:05:34.362Z","count":1,"status":null,"error":"fetch failed","avg_latency":1165}
-{"type":"ok","from":"2026-04-18T11:14:46.752Z","to":"2026-04-18T13:12:06.366Z","count":13,"avg":1452,"min":741,"max":3730,"p95":3730}
-{"type":"fail","from":"2026-04-18T13:22:11.156Z","to":"2026-04-18T13:22:11.156Z","count":1,"status":null,"error":"fetch failed","avg_latency":850}
-{"type":"ok","from":"2026-04-18T13:32:18.157Z","to":"2026-04-18T13:32:18.157Z","count":1,"avg":1374,"min":1374,"max":1374,"p95":1374}
-{"type":"fail","from":"2026-04-18T13:42:10.693Z","to":"2026-04-18T13:42:10.693Z","count":1,"status":null,"error":"fetch failed","avg_latency":913}
-{"type":"ok","from":"2026-04-18T13:52:09.798Z","to":"2026-04-18T14:42:11.863Z","count":6,"avg":1346,"min":845,"max":2664,"p95":2664}
-{"type":"fail","from":"2026-04-18T14:52:05.734Z","to":"2026-04-18T14:52:05.734Z","count":1,"status":null,"error":"fetch failed","avg_latency":917}
-{"type":"ok","from":"2026-04-18T15:02:20.720Z","to":"2026-04-18T16:02:18.006Z","count":7,"avg":1516,"min":786,"max":2827,"p95":2827}
-{"type":"fail","from":"2026-04-18T16:12:10.790Z","to":"2026-04-18T16:12:10.790Z","count":1,"status":null,"error":"fetch failed","avg_latency":1349}
-{"type":"ok","from":"2026-04-18T16:22:10.508Z","to":"2026-04-18T17:22:09.636Z","count":7,"avg":1260,"min":627,"max":2753,"p95":2753}
-{"type":"fail","from":"2026-04-18T17:32:08.990Z","to":"2026-04-18T17:32:08.990Z","count":1,"status":null,"error":"fetch failed","avg_latency":891}
-{"type":"ok","from":"2026-04-18T17:42:05.251Z","to":"2026-04-18T18:12:05.279Z","count":4,"avg":831,"min":569,"max":1035,"p95":1035}
-{"type":"fail","from":"2026-04-18T18:21:58.672Z","to":"2026-04-18T18:21:58.672Z","count":1,"status":null,"error":"fetch failed","avg_latency":847}
-{"type":"ok","from":"2026-04-18T18:32:12.196Z","to":"2026-04-18T23:52:04.299Z","count":33,"avg":1032,"min":701,"max":4344,"p95":1731}
+{"type":"fail","from":"2026-04-01T00:04:18.460Z","to":"2026-04-01T00:04:18.460Z","count":1,"status":null,"error":"fetch failed","avg_latency":884,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T00:14:37.818Z","to":"2026-04-01T01:34:43.388Z","count":9,"avg":1029,"min":763,"max":1851,"p95":1851,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T01:44:34.056Z","to":"2026-04-01T01:44:34.056Z","count":1,"status":null,"error":"fetch failed","avg_latency":1515,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T01:54:37.516Z","to":"2026-04-01T05:54:54.911Z","count":25,"avg":1145,"min":570,"max":2625,"p95":2190,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T06:04:34.503Z","to":"2026-04-01T06:04:34.503Z","count":1,"status":null,"error":"fetch failed","avg_latency":695,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T06:14:37.509Z","to":"2026-04-01T06:54:42.450Z","count":5,"avg":1455,"min":869,"max":1951,"p95":1951,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T07:04:44.765Z","to":"2026-04-01T07:04:44.765Z","count":1,"status":null,"error":"fetch failed","avg_latency":864,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T07:14:29.890Z","to":"2026-04-01T08:24:50.519Z","count":8,"avg":1062,"min":812,"max":1306,"p95":1306,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T08:35:06.070Z","to":"2026-04-01T08:35:06.070Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T08:44:26.036Z","to":"2026-04-01T09:04:53.475Z","count":3,"avg":912,"min":781,"max":1103,"p95":1103,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T09:14:53.000Z","to":"2026-04-01T09:14:53.000Z","count":1,"status":null,"error":"fetch failed","avg_latency":829,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T09:24:35.759Z","to":"2026-04-01T10:24:17.597Z","count":7,"avg":1095,"min":821,"max":1872,"p95":1872,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T10:34:56.410Z","to":"2026-04-01T10:34:56.410Z","count":1,"status":null,"error":"fetch failed","avg_latency":920,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T10:44:21.634Z","to":"2026-04-01T11:24:35.292Z","count":5,"avg":1093,"min":831,"max":1352,"p95":1352,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T11:34:38.737Z","to":"2026-04-01T11:34:38.737Z","count":1,"status":null,"error":"fetch failed","avg_latency":904,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T11:44:47.315Z","to":"2026-04-01T11:44:47.315Z","count":1,"avg":933,"min":933,"max":933,"p95":933,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T11:54:28.151Z","to":"2026-04-01T12:04:33.105Z","count":2,"status":null,"error":"fetch failed","avg_latency":797,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T12:14:23.431Z","to":"2026-04-01T12:44:43.198Z","count":4,"avg":999,"min":900,"max":1202,"p95":1202,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T12:54:37.614Z","to":"2026-04-01T13:14:50.452Z","count":3,"status":null,"error":"fetch failed","avg_latency":881,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T13:24:55.076Z","to":"2026-04-01T13:34:43.549Z","count":2,"avg":1538,"min":1436,"max":1640,"p95":1640,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T13:44:37.104Z","to":"2026-04-01T13:44:37.104Z","count":1,"status":null,"error":"fetch failed","avg_latency":1693,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T13:54:38.361Z","to":"2026-04-01T13:54:38.361Z","count":1,"avg":838,"min":838,"max":838,"p95":838,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T14:04:47.278Z","to":"2026-04-01T14:04:47.278Z","count":1,"status":null,"error":"fetch failed","avg_latency":868,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T14:15:04.183Z","to":"2026-04-01T15:45:16.094Z","count":10,"avg":1276,"min":680,"max":2726,"p95":2726,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T15:55:26.162Z","to":"2026-04-01T15:55:26.162Z","count":1,"status":null,"error":"fetch failed","avg_latency":717,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T16:05:20.888Z","to":"2026-04-01T16:24:52.619Z","count":3,"avg":1427,"min":955,"max":2262,"p95":2262,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T16:34:55.684Z","to":"2026-04-01T16:44:28.893Z","count":2,"status":null,"error":"fetch failed","avg_latency":853,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T16:54:16.070Z","to":"2026-04-01T17:24:37.913Z","count":4,"avg":1169,"min":1065,"max":1322,"p95":1322,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T17:34:22.277Z","to":"2026-04-01T17:34:22.277Z","count":1,"status":null,"error":"fetch failed","avg_latency":812,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T17:44:33.904Z","to":"2026-04-01T17:44:33.904Z","count":1,"avg":832,"min":832,"max":832,"p95":832,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T17:54:28.806Z","to":"2026-04-01T17:54:28.806Z","count":1,"status":null,"error":"fetch failed","avg_latency":830,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T18:04:07.908Z","to":"2026-04-01T19:24:46.598Z","count":9,"avg":1047,"min":735,"max":1534,"p95":1534,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T19:34:05.775Z","to":"2026-04-01T19:34:05.775Z","count":1,"status":null,"error":"fetch failed","avg_latency":700,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T19:44:14.419Z","to":"2026-04-01T21:54:14.660Z","count":14,"avg":841,"min":563,"max":1027,"p95":1027,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T22:04:13.247Z","to":"2026-04-01T22:04:13.247Z","count":1,"status":null,"error":"fetch failed","avg_latency":851,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T22:14:15.275Z","to":"2026-04-01T23:14:07.630Z","count":7,"avg":816,"min":551,"max":971,"p95":971,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-01T23:24:17.174Z","to":"2026-04-01T23:24:17.174Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-01T23:34:04.713Z","to":"2026-04-01T23:54:19.567Z","count":3,"avg":1016,"min":923,"max":1138,"p95":1138,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T00:04:18.491Z","to":"2026-04-02T00:04:18.491Z","count":1,"avg":946,"min":946,"max":946,"p95":946,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T00:14:08.056Z","to":"2026-04-02T00:14:08.056Z","count":1,"status":null,"error":"fetch failed","avg_latency":900,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T00:24:14.571Z","to":"2026-04-02T03:04:24.259Z","count":17,"avg":1037,"min":677,"max":1687,"p95":1687,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T03:14:20.965Z","to":"2026-04-02T03:14:20.965Z","count":1,"status":null,"error":"fetch failed","avg_latency":861,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T03:24:32.928Z","to":"2026-04-02T03:24:32.928Z","count":1,"avg":779,"min":779,"max":779,"p95":779,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T03:34:32.044Z","to":"2026-04-02T03:34:32.044Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T03:44:22.169Z","to":"2026-04-02T03:54:31.865Z","count":2,"status":null,"error":"fetch failed","avg_latency":773,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T04:04:24.160Z","to":"2026-04-02T04:44:34.093Z","count":5,"avg":1156,"min":999,"max":1368,"p95":1368,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T04:54:29.183Z","to":"2026-04-02T04:54:29.183Z","count":1,"status":null,"error":"fetch failed","avg_latency":828,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T05:04:37.465Z","to":"2026-04-02T05:44:52.190Z","count":5,"avg":1029,"min":722,"max":1152,"p95":1152,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T05:54:59.572Z","to":"2026-04-02T05:54:59.572Z","count":1,"status":null,"error":"fetch failed","avg_latency":886,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T06:04:34.647Z","to":"2026-04-02T06:44:51.793Z","count":5,"avg":1175,"min":810,"max":1957,"p95":1957,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T06:54:32.539Z","to":"2026-04-02T07:04:58.843Z","count":2,"status":null,"error":"fetch failed","avg_latency":793,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T07:14:53.502Z","to":"2026-04-02T07:54:56.651Z","count":5,"avg":1013,"min":725,"max":1688,"p95":1688,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T08:04:42.784Z","to":"2026-04-02T08:04:42.784Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T08:14:50.638Z","to":"2026-04-02T08:14:50.638Z","count":1,"status":null,"error":"fetch failed","avg_latency":817,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T08:24:47.710Z","to":"2026-04-02T09:05:10.300Z","count":5,"avg":1068,"min":901,"max":1357,"p95":1357,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T09:14:42.917Z","to":"2026-04-02T09:24:42.581Z","count":2,"status":null,"error":"fetch failed","avg_latency":1849,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T09:34:53.574Z","to":"2026-04-02T09:34:53.574Z","count":1,"avg":1313,"min":1313,"max":1313,"p95":1313,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T09:44:33.321Z","to":"2026-04-02T09:54:16.780Z","count":2,"status":null,"error":"fetch failed","avg_latency":851,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T10:04:41.715Z","to":"2026-04-02T13:34:53.447Z","count":22,"avg":1160,"min":703,"max":2543,"p95":2002,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T13:45:04.329Z","to":"2026-04-02T13:45:04.329Z","count":1,"status":null,"error":"fetch failed","avg_latency":980,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T13:55:05.343Z","to":"2026-04-02T13:55:05.343Z","count":1,"avg":3798,"min":3798,"max":3798,"p95":3798,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T14:04:49.813Z","to":"2026-04-02T14:04:49.813Z","count":1,"status":null,"error":"fetch failed","avg_latency":892,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T14:14:59.362Z","to":"2026-04-02T14:34:45.029Z","count":3,"avg":1680,"min":1193,"max":2222,"p95":2222,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T14:45:04.150Z","to":"2026-04-02T14:45:04.150Z","count":1,"status":null,"error":"fetch failed","avg_latency":817,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T14:54:44.914Z","to":"2026-04-02T16:14:40.112Z","count":9,"avg":1247,"min":839,"max":2551,"p95":2551,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T16:24:54.106Z","to":"2026-04-02T16:24:54.106Z","count":1,"status":null,"error":"fetch failed","avg_latency":1428,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T16:34:53.077Z","to":"2026-04-02T18:04:52.374Z","count":10,"avg":989,"min":682,"max":1685,"p95":1685,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T18:14:41.118Z","to":"2026-04-02T18:14:41.118Z","count":1,"status":null,"error":"fetch failed","avg_latency":698,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T18:24:29.739Z","to":"2026-04-02T22:34:08.456Z","count":26,"avg":964,"min":503,"max":1737,"p95":1358,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-02T22:44:19.539Z","to":"2026-04-02T22:44:19.539Z","count":1,"status":null,"error":"fetch failed","avg_latency":873,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-02T22:54:21.876Z","to":"2026-04-02T23:54:13.657Z","count":7,"avg":934,"min":684,"max":1345,"p95":1345,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T00:04:20.246Z","to":"2026-04-03T02:24:47.265Z","count":15,"avg":966,"min":583,"max":1836,"p95":1836,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T02:34:46.000Z","to":"2026-04-03T02:34:46.000Z","count":1,"status":null,"error":"fetch failed","avg_latency":921,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T02:44:30.510Z","to":"2026-04-03T02:44:30.510Z","count":1,"avg":854,"min":854,"max":854,"p95":854,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T02:54:25.209Z","to":"2026-04-03T02:54:25.209Z","count":1,"status":null,"error":"fetch failed","avg_latency":908,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T03:04:35.830Z","to":"2026-04-03T03:04:35.830Z","count":1,"avg":1462,"min":1462,"max":1462,"p95":1462,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T03:14:27.937Z","to":"2026-04-03T03:14:27.937Z","count":1,"status":null,"error":"fetch failed","avg_latency":839,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T03:24:26.805Z","to":"2026-04-03T04:14:24.698Z","count":6,"avg":1036,"min":657,"max":1441,"p95":1441,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T04:24:41.071Z","to":"2026-04-03T04:34:34.479Z","count":2,"status":null,"error":"fetch failed","avg_latency":938,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T04:44:40.429Z","to":"2026-04-03T05:14:33.043Z","count":4,"avg":1407,"min":1035,"max":2067,"p95":2067,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T05:24:34.308Z","to":"2026-04-03T05:24:34.308Z","count":1,"status":null,"error":"fetch failed","avg_latency":871,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T05:34:33.534Z","to":"2026-04-03T05:44:48.697Z","count":2,"avg":1387,"min":1099,"max":1674,"p95":1674,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T05:54:40.143Z","to":"2026-04-03T05:54:40.143Z","count":1,"status":null,"error":"fetch failed","avg_latency":838,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T06:04:41.495Z","to":"2026-04-03T06:04:41.495Z","count":1,"avg":1382,"min":1382,"max":1382,"p95":1382,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T06:14:36.824Z","to":"2026-04-03T06:14:36.824Z","count":1,"status":null,"error":"fetch failed","avg_latency":935,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T06:24:30.337Z","to":"2026-04-03T06:34:28.480Z","count":2,"avg":1252,"min":997,"max":1506,"p95":1506,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T06:44:40.596Z","to":"2026-04-03T06:44:40.596Z","count":1,"status":null,"error":"fetch failed","avg_latency":701,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T06:54:52.780Z","to":"2026-04-03T07:04:48.320Z","count":2,"avg":805,"min":695,"max":915,"p95":915,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T07:15:00.626Z","to":"2026-04-03T07:15:00.626Z","count":1,"status":null,"error":"fetch failed","avg_latency":1592,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T07:25:02.339Z","to":"2026-04-03T08:34:46.823Z","count":8,"avg":1029,"min":556,"max":1815,"p95":1815,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T08:45:08.784Z","to":"2026-04-03T08:45:08.784Z","count":1,"status":null,"error":"fetch failed","avg_latency":837,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T08:54:36.538Z","to":"2026-04-03T09:24:37.435Z","count":4,"avg":1485,"min":881,"max":2071,"p95":2071,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T09:36:21.188Z","to":"2026-04-03T09:36:21.188Z","count":1,"status":null,"error":"fetch failed","avg_latency":897,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T09:44:30.033Z","to":"2026-04-03T09:54:30.375Z","count":2,"avg":1100,"min":1048,"max":1152,"p95":1152,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T10:04:17.959Z","to":"2026-04-03T10:04:17.959Z","count":1,"status":null,"error":"fetch failed","avg_latency":843,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T10:14:23.431Z","to":"2026-04-03T10:44:18.893Z","count":4,"avg":1352,"min":819,"max":2802,"p95":2802,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T10:54:46.841Z","to":"2026-04-03T10:54:46.841Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T11:04:22.907Z","to":"2026-04-03T13:34:54.603Z","count":16,"avg":1327,"min":720,"max":2591,"p95":2591,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T13:44:57.870Z","to":"2026-04-03T13:44:57.870Z","count":1,"status":null,"error":"fetch failed","avg_latency":859,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T13:54:48.056Z","to":"2026-04-03T15:15:00.588Z","count":9,"avg":1774,"min":843,"max":3570,"p95":3570,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T15:24:34.080Z","to":"2026-04-03T15:24:34.080Z","count":1,"status":null,"error":"fetch failed","avg_latency":879,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T15:34:35.676Z","to":"2026-04-03T16:26:04.115Z","count":6,"avg":1431,"min":847,"max":2209,"p95":2209,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T16:35:48.226Z","to":"2026-04-03T16:35:48.226Z","count":1,"status":null,"error":"fetch failed","avg_latency":1199,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T16:44:41.952Z","to":"2026-04-03T16:54:36.498Z","count":2,"avg":1477,"min":830,"max":2123,"p95":2123,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T17:05:35.589Z","to":"2026-04-03T17:05:35.589Z","count":1,"status":null,"error":"fetch failed","avg_latency":713,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T17:14:20.133Z","to":"2026-04-03T18:04:40.352Z","count":5,"avg":914,"min":704,"max":1119,"p95":1119,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T18:14:24.715Z","to":"2026-04-03T18:14:24.715Z","count":1,"status":null,"error":"fetch failed","avg_latency":2897,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T18:24:37.865Z","to":"2026-04-03T18:54:12.080Z","count":3,"avg":1105,"min":976,"max":1327,"p95":1327,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T19:04:15.783Z","to":"2026-04-03T19:04:15.783Z","count":1,"status":null,"error":"fetch failed","avg_latency":699,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T19:14:21.236Z","to":"2026-04-03T21:14:02.652Z","count":13,"avg":765,"min":521,"max":1131,"p95":1131,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T21:24:16.421Z","to":"2026-04-03T21:24:16.421Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T21:34:11.615Z","to":"2026-04-03T22:14:22.682Z","count":5,"avg":915,"min":614,"max":1564,"p95":1564,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T22:24:35.367Z","to":"2026-04-03T22:24:35.367Z","count":1,"status":null,"error":"fetch failed","avg_latency":843,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T22:34:11.767Z","to":"2026-04-03T23:04:19.979Z","count":4,"avg":1036,"min":736,"max":1351,"p95":1351,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T23:14:25.083Z","to":"2026-04-03T23:34:45.676Z","count":3,"status":null,"error":"fetch failed","avg_latency":1465,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-03T23:44:08.357Z","to":"2026-04-03T23:44:08.357Z","count":1,"avg":701,"min":701,"max":701,"p95":701,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-03T23:54:19.505Z","to":"2026-04-03T23:54:19.505Z","count":1,"status":null,"error":"fetch failed","avg_latency":820,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T00:04:20.800Z","to":"2026-04-04T01:54:39.277Z","count":12,"avg":998,"min":649,"max":1944,"p95":1944,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T02:04:23.442Z","to":"2026-04-04T03:14:04.657Z","count":2,"status":null,"error":"fetch failed","avg_latency":780,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T03:23:58.556Z","to":"2026-04-04T03:34:09.745Z","count":2,"avg":1173,"min":631,"max":1714,"p95":1714,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T03:44:01.570Z","to":"2026-04-04T03:44:01.570Z","count":1,"status":null,"error":"fetch failed","avg_latency":915,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T03:53:53.313Z","to":"2026-04-04T03:53:53.313Z","count":1,"avg":758,"min":758,"max":758,"p95":758,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T04:04:06.619Z","to":"2026-04-04T04:04:06.619Z","count":1,"status":null,"error":"fetch failed","avg_latency":844,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T04:13:59.661Z","to":"2026-04-04T04:13:59.661Z","count":1,"avg":2219,"min":2219,"max":2219,"p95":2219,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T04:23:57.589Z","to":"2026-04-04T04:23:57.589Z","count":1,"status":null,"error":"fetch failed","avg_latency":862,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T04:33:52.619Z","to":"2026-04-04T05:03:55.921Z","count":4,"avg":1781,"min":729,"max":4287,"p95":4287,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T05:13:41.660Z","to":"2026-04-04T05:34:17.957Z","count":3,"status":null,"error":"fetch failed","avg_latency":1028,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T05:43:44.418Z","to":"2026-04-04T06:14:20.174Z","count":4,"avg":1077,"min":927,"max":1316,"p95":1316,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T06:23:54.938Z","to":"2026-04-04T06:23:54.938Z","count":1,"status":null,"error":"fetch failed","avg_latency":1071,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T06:33:43.988Z","to":"2026-04-04T07:54:05.401Z","count":9,"avg":985,"min":733,"max":1394,"p95":1394,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T08:03:51.826Z","to":"2026-04-04T08:03:51.826Z","count":1,"status":null,"error":"fetch failed","avg_latency":844,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T08:13:45.868Z","to":"2026-04-04T08:13:45.868Z","count":1,"avg":852,"min":852,"max":852,"p95":852,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T08:24:04.874Z","to":"2026-04-04T08:24:04.874Z","count":1,"status":null,"error":"fetch failed","avg_latency":1108,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T08:33:52.163Z","to":"2026-04-04T09:13:51.153Z","count":5,"avg":1354,"min":898,"max":1700,"p95":1700,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T09:23:46.099Z","to":"2026-04-04T09:23:46.099Z","count":1,"status":null,"error":"fetch failed","avg_latency":852,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T09:34:02.210Z","to":"2026-04-04T10:13:55.995Z","count":5,"avg":996,"min":408,"max":1181,"p95":1181,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T10:23:52.494Z","to":"2026-04-04T10:34:03.025Z","count":2,"status":null,"error":"fetch failed","avg_latency":1174,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T10:44:39.211Z","to":"2026-04-04T11:14:17.724Z","count":4,"avg":1197,"min":773,"max":1858,"p95":1858,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T11:24:48.022Z","to":"2026-04-04T11:34:20.408Z","count":2,"status":null,"error":"fetch failed","avg_latency":985,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T11:44:04.597Z","to":"2026-04-04T11:54:50.855Z","count":2,"avg":1020,"min":982,"max":1057,"p95":1057,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T12:04:35.734Z","to":"2026-04-04T12:04:35.734Z","count":1,"status":null,"error":"fetch failed","avg_latency":703,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T12:15:02.843Z","to":"2026-04-04T12:24:49.538Z","count":2,"avg":987,"min":819,"max":1154,"p95":1154,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T12:35:00.935Z","to":"2026-04-04T12:45:02.073Z","count":2,"status":null,"error":"fetch failed","avg_latency":1038,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T12:55:07.885Z","to":"2026-04-04T12:55:07.885Z","count":1,"avg":1532,"min":1532,"max":1532,"p95":1532,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T13:04:59.207Z","to":"2026-04-04T13:04:59.207Z","count":1,"status":null,"error":"fetch failed","avg_latency":850,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T13:14:34.205Z","to":"2026-04-04T13:54:30.924Z","count":5,"avg":1459,"min":758,"max":2716,"p95":2716,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T14:04:46.587Z","to":"2026-04-04T14:04:46.587Z","count":1,"status":null,"error":"fetch failed","avg_latency":1499,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T14:14:31.973Z","to":"2026-04-04T14:34:39.983Z","count":3,"avg":2251,"min":1295,"max":3745,"p95":3745,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T14:44:22.979Z","to":"2026-04-04T14:44:22.979Z","count":1,"status":null,"error":"fetch failed","avg_latency":717,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T14:54:35.406Z","to":"2026-04-04T15:04:37.114Z","count":2,"avg":1269,"min":1002,"max":1536,"p95":1536,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T15:14:46.286Z","to":"2026-04-04T15:14:46.286Z","count":1,"status":null,"error":"fetch failed","avg_latency":1086,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T15:24:30.885Z","to":"2026-04-04T15:24:30.885Z","count":1,"avg":1610,"min":1610,"max":1610,"p95":1610,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T15:34:37.042Z","to":"2026-04-04T15:44:26.654Z","count":2,"status":null,"error":"fetch failed","avg_latency":794,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T15:54:19.798Z","to":"2026-04-04T16:14:17.724Z","count":3,"avg":972,"min":813,"max":1110,"p95":1110,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T16:24:22.575Z","to":"2026-04-04T16:24:22.575Z","count":1,"status":null,"error":"fetch failed","avg_latency":713,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T16:34:36.322Z","to":"2026-04-04T17:04:22.123Z","count":4,"avg":743,"min":577,"max":832,"p95":832,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T17:14:30.124Z","to":"2026-04-04T17:14:30.124Z","count":1,"status":null,"error":"fetch failed","avg_latency":937,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T17:24:17.930Z","to":"2026-04-04T19:33:43.261Z","count":14,"avg":821,"min":528,"max":1659,"p95":1659,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T19:43:55.560Z","to":"2026-04-04T19:43:55.560Z","count":1,"status":null,"error":"fetch failed","avg_latency":1063,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T19:54:17.603Z","to":"2026-04-04T20:13:47.413Z","count":3,"avg":1095,"min":791,"max":1659,"p95":1659,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-04T20:24:23.702Z","to":"2026-04-04T20:24:23.702Z","count":1,"status":null,"error":"fetch failed","avg_latency":676,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-04T20:33:48.274Z","to":"2026-04-04T23:54:01.540Z","count":21,"avg":796,"min":536,"max":1138,"p95":1120,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T00:04:21.241Z","to":"2026-04-05T01:14:06.681Z","count":8,"avg":948,"min":529,"max":2489,"p95":2489,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T01:24:27.677Z","to":"2026-04-05T01:24:27.677Z","count":1,"status":null,"error":"fetch failed","avg_latency":873,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T01:34:23.988Z","to":"2026-04-05T03:24:19.515Z","count":12,"avg":1177,"min":566,"max":2934,"p95":2934,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T03:34:09.711Z","to":"2026-04-05T03:34:09.711Z","count":1,"status":null,"error":"fetch failed","avg_latency":703,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T03:44:21.837Z","to":"2026-04-05T04:04:07.851Z","count":3,"avg":763,"min":697,"max":836,"p95":836,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T04:14:22.907Z","to":"2026-04-05T04:14:22.907Z","count":1,"status":null,"error":"fetch failed","avg_latency":703,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T04:24:23.620Z","to":"2026-04-05T04:24:23.620Z","count":1,"avg":1543,"min":1543,"max":1543,"p95":1543,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T04:34:09.119Z","to":"2026-04-05T04:34:09.119Z","count":1,"status":null,"error":"fetch failed","avg_latency":705,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T04:44:08.986Z","to":"2026-04-05T05:24:18.495Z","count":5,"avg":1024,"min":571,"max":1282,"p95":1282,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T05:34:01.062Z","to":"2026-04-05T05:34:01.062Z","count":1,"status":null,"error":"fetch failed","avg_latency":1081,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T05:44:07.430Z","to":"2026-04-05T06:24:29.885Z","count":5,"avg":1163,"min":702,"max":1459,"p95":1459,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T06:34:34.035Z","to":"2026-04-05T06:34:34.035Z","count":1,"status":null,"error":"fetch failed","avg_latency":703,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T06:44:24.329Z","to":"2026-04-05T07:14:24.241Z","count":4,"avg":943,"min":660,"max":1540,"p95":1540,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T07:23:54.122Z","to":"2026-04-05T07:34:20.097Z","count":2,"status":null,"error":"fetch failed","avg_latency":795,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T07:44:32.586Z","to":"2026-04-05T08:34:48.495Z","count":6,"avg":1035,"min":596,"max":1465,"p95":1465,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T08:44:30.592Z","to":"2026-04-05T08:44:30.592Z","count":1,"status":null,"error":"fetch failed","avg_latency":703,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T08:54:40.574Z","to":"2026-04-05T09:14:03.758Z","count":3,"avg":1553,"min":1109,"max":2157,"p95":2157,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T09:24:14.702Z","to":"2026-04-05T09:24:14.702Z","count":1,"status":null,"error":"fetch failed","avg_latency":699,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T09:34:33.040Z","to":"2026-04-05T11:04:15.152Z","count":10,"avg":1953,"min":956,"max":4672,"p95":4672,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T11:14:20.583Z","to":"2026-04-05T11:14:20.583Z","count":1,"status":null,"error":"fetch failed","avg_latency":707,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T11:23:45.144Z","to":"2026-04-05T12:04:12.217Z","count":5,"avg":822,"min":620,"max":1047,"p95":1047,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T12:14:32.340Z","to":"2026-04-05T12:14:32.340Z","count":1,"status":null,"error":"fetch failed","avg_latency":692,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T12:24:29.469Z","to":"2026-04-05T13:04:39.228Z","count":5,"avg":973,"min":593,"max":1523,"p95":1523,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T13:14:26.314Z","to":"2026-04-05T13:14:26.314Z","count":1,"status":null,"error":"fetch failed","avg_latency":1010,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T13:24:34.258Z","to":"2026-04-05T15:24:29.880Z","count":12,"avg":1279,"min":547,"max":2597,"p95":2597,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T15:34:31.734Z","to":"2026-04-05T15:34:31.734Z","count":1,"status":null,"error":"fetch failed","avg_latency":1073,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T15:44:29.672Z","to":"2026-04-05T17:34:06.333Z","count":12,"avg":1233,"min":640,"max":3065,"p95":3065,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-05T17:44:26.455Z","to":"2026-04-05T17:44:26.455Z","count":1,"status":null,"error":"fetch failed","avg_latency":838,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-05T17:53:50.042Z","to":"2026-04-05T23:54:31.710Z","count":37,"avg":776,"min":530,"max":1571,"p95":1156,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T00:04:13.469Z","to":"2026-04-06T00:14:24.609Z","count":2,"avg":757,"min":724,"max":789,"p95":789,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T00:24:12.904Z","to":"2026-04-06T00:24:12.904Z","count":1,"status":null,"error":"fetch failed","avg_latency":698,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T00:34:18.508Z","to":"2026-04-06T01:43:54.823Z","count":8,"avg":746,"min":568,"max":1022,"p95":1022,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T01:54:19.777Z","to":"2026-04-06T01:54:19.777Z","count":1,"status":null,"error":"fetch failed","avg_latency":905,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T02:04:12.934Z","to":"2026-04-06T02:14:15.750Z","count":2,"avg":944,"min":642,"max":1246,"p95":1246,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T02:24:24.811Z","to":"2026-04-06T02:24:24.811Z","count":1,"status":null,"error":"fetch failed","avg_latency":1181,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T02:34:20.951Z","to":"2026-04-06T03:04:02.665Z","count":4,"avg":1232,"min":841,"max":2231,"p95":2231,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T03:14:31.876Z","to":"2026-04-06T03:14:31.876Z","count":1,"status":null,"error":"fetch failed","avg_latency":897,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T03:24:19.588Z","to":"2026-04-06T04:24:23.901Z","count":7,"avg":1006,"min":900,"max":1260,"p95":1260,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T04:34:25.382Z","to":"2026-04-06T04:34:25.382Z","count":1,"status":null,"error":"fetch failed","avg_latency":712,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T04:44:40.239Z","to":"2026-04-06T05:04:40.683Z","count":3,"avg":1364,"min":1121,"max":1712,"p95":1712,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T05:14:35.819Z","to":"2026-04-06T05:14:35.819Z","count":1,"status":null,"error":"fetch failed","avg_latency":681,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T05:24:13.388Z","to":"2026-04-06T05:24:13.388Z","count":1,"avg":1203,"min":1203,"max":1203,"p95":1203,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T05:34:22.562Z","to":"2026-04-06T05:34:22.562Z","count":1,"status":null,"error":"fetch failed","avg_latency":692,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T05:44:23.853Z","to":"2026-04-06T05:54:07.307Z","count":2,"avg":1249,"min":963,"max":1534,"p95":1534,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T06:04:39.673Z","to":"2026-04-06T06:04:39.673Z","count":1,"status":null,"error":"fetch failed","avg_latency":695,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T06:14:08.717Z","to":"2026-04-06T06:34:14.350Z","count":3,"avg":955,"min":933,"max":984,"p95":984,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T06:44:25.795Z","to":"2026-04-06T06:44:25.795Z","count":1,"status":null,"error":"fetch failed","avg_latency":707,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T06:54:14.793Z","to":"2026-04-06T07:44:25.412Z","count":6,"avg":1208,"min":589,"max":2434,"p95":2434,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T07:54:31.963Z","to":"2026-04-06T07:54:31.963Z","count":1,"status":null,"error":"fetch failed","avg_latency":691,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T08:04:31.799Z","to":"2026-04-06T09:44:26.373Z","count":11,"avg":1011,"min":572,"max":1532,"p95":1532,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T09:54:11.947Z","to":"2026-04-06T10:04:33.868Z","count":2,"status":null,"error":"fetch failed","avg_latency":704,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T10:14:00.921Z","to":"2026-04-06T10:14:00.921Z","count":1,"avg":576,"min":576,"max":576,"p95":576,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T10:24:35.047Z","to":"2026-04-06T10:34:28.536Z","count":2,"status":null,"error":"fetch failed","avg_latency":868,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T10:44:04.948Z","to":"2026-04-06T11:54:29.200Z","count":8,"avg":1090,"min":832,"max":1830,"p95":1830,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T12:04:18.243Z","to":"2026-04-06T12:04:18.243Z","count":1,"status":null,"error":"fetch failed","avg_latency":702,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T12:14:22.031Z","to":"2026-04-06T12:54:04.672Z","count":5,"avg":1079,"min":728,"max":1481,"p95":1481,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T13:04:19.273Z","to":"2026-04-06T13:04:19.273Z","count":1,"status":null,"error":"fetch failed","avg_latency":820,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T13:14:10.999Z","to":"2026-04-06T13:44:05.736Z","count":4,"avg":1108,"min":930,"max":1257,"p95":1257,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T13:54:19.285Z","to":"2026-04-06T13:54:19.285Z","count":1,"status":null,"error":"fetch failed","avg_latency":751,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T14:04:13.614Z","to":"2026-04-06T15:04:12.764Z","count":7,"avg":1158,"min":692,"max":1650,"p95":1650,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T15:13:53.818Z","to":"2026-04-06T15:13:53.818Z","count":1,"status":null,"error":"fetch failed","avg_latency":1188,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T15:23:56.764Z","to":"2026-04-06T15:33:57.238Z","count":2,"avg":983,"min":864,"max":1102,"p95":1102,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T15:43:52.500Z","to":"2026-04-06T15:43:52.500Z","count":1,"status":null,"error":"fetch failed","avg_latency":816,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T15:53:48.774Z","to":"2026-04-06T15:53:48.774Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T16:03:50.664Z","to":"2026-04-06T16:03:50.664Z","count":1,"status":null,"error":"fetch failed","avg_latency":840,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T16:13:55.038Z","to":"2026-04-06T17:13:46.263Z","count":7,"avg":1115,"min":594,"max":1836,"p95":1836,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T17:23:36.089Z","to":"2026-04-06T17:33:39.849Z","count":2,"status":null,"error":"fetch failed","avg_latency":862,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T17:43:46.130Z","to":"2026-04-06T17:43:46.130Z","count":1,"avg":852,"min":852,"max":852,"p95":852,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T17:53:26.341Z","to":"2026-04-06T18:03:33.966Z","count":2,"status":null,"error":"fetch failed","avg_latency":858,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T18:13:20.398Z","to":"2026-04-06T18:23:31.819Z","count":2,"avg":898,"min":815,"max":980,"p95":980,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-06T18:33:42.093Z","to":"2026-04-06T18:43:36.825Z","count":2,"status":null,"error":"fetch failed","avg_latency":774,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-06T18:53:32.380Z","to":"2026-04-06T23:53:34.903Z","count":31,"avg":849,"min":350,"max":1807,"p95":1437,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T00:03:36.704Z","to":"2026-04-07T00:43:35.060Z","count":5,"avg":839,"min":698,"max":980,"p95":980,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T00:53:48.431Z","to":"2026-04-07T00:53:48.431Z","count":1,"status":null,"error":"fetch failed","avg_latency":846,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T01:03:45.453Z","to":"2026-04-07T07:34:05.512Z","count":40,"avg":986,"min":602,"max":2338,"p95":1867,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T07:44:22.761Z","to":"2026-04-07T07:44:22.761Z","count":1,"status":null,"error":"fetch failed","avg_latency":868,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T07:54:07.569Z","to":"2026-04-07T08:14:19.710Z","count":3,"avg":890,"min":570,"max":1398,"p95":1398,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T08:24:02.928Z","to":"2026-04-07T08:24:02.928Z","count":1,"status":null,"error":"fetch failed","avg_latency":816,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T08:34:04.589Z","to":"2026-04-07T08:34:04.589Z","count":1,"avg":1165,"min":1165,"max":1165,"p95":1165,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T08:44:04.699Z","to":"2026-04-07T08:44:04.699Z","count":1,"status":null,"error":"fetch failed","avg_latency":846,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T08:54:05.343Z","to":"2026-04-07T12:43:57.044Z","count":24,"avg":1221,"min":551,"max":2656,"p95":2557,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T12:53:50.088Z","to":"2026-04-07T12:53:50.088Z","count":1,"status":null,"error":"fetch failed","avg_latency":1831,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T13:04:05.373Z","to":"2026-04-07T13:24:05.932Z","count":3,"avg":941,"min":685,"max":1315,"p95":1315,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T13:33:57.138Z","to":"2026-04-07T13:33:57.138Z","count":1,"status":null,"error":"fetch failed","avg_latency":844,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T13:44:01.985Z","to":"2026-04-07T14:04:10.373Z","count":3,"avg":1072,"min":785,"max":1337,"p95":1337,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T14:13:51.295Z","to":"2026-04-07T14:13:51.295Z","count":1,"status":null,"error":"fetch failed","avg_latency":835,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T14:24:01.201Z","to":"2026-04-07T15:13:53.155Z","count":6,"avg":1090,"min":733,"max":1509,"p95":1509,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T15:23:40.227Z","to":"2026-04-07T15:33:44.908Z","count":2,"status":null,"error":"fetch failed","avg_latency":878,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T15:43:50.644Z","to":"2026-04-07T15:53:41.971Z","count":2,"avg":1144,"min":865,"max":1423,"p95":1423,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T16:03:56.882Z","to":"2026-04-07T16:03:56.882Z","count":1,"status":null,"error":"fetch failed","avg_latency":903,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T16:13:51.883Z","to":"2026-04-07T16:23:44.747Z","count":2,"avg":1135,"min":983,"max":1287,"p95":1287,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T16:33:48.670Z","to":"2026-04-07T16:33:48.670Z","count":1,"status":null,"error":"fetch failed","avg_latency":828,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T16:43:48.393Z","to":"2026-04-07T16:53:52.067Z","count":2,"avg":1308,"min":1018,"max":1598,"p95":1598,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T17:03:42.144Z","to":"2026-04-07T17:03:42.144Z","count":1,"status":null,"error":"fetch failed","avg_latency":855,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T17:13:50.781Z","to":"2026-04-07T17:13:50.781Z","count":1,"avg":936,"min":936,"max":936,"p95":936,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-07T17:23:50.250Z","to":"2026-04-07T17:33:57.765Z","count":2,"status":null,"error":"fetch failed","avg_latency":838,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-07T17:43:33.567Z","to":"2026-04-07T23:53:21.734Z","count":38,"avg":914,"min":553,"max":2710,"p95":1199,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T00:03:45.290Z","to":"2026-04-08T00:33:34.328Z","count":4,"avg":749,"min":550,"max":974,"p95":974,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T00:43:44.153Z","to":"2026-04-08T00:43:44.153Z","count":1,"status":null,"error":"fetch failed","avg_latency":851,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T00:53:50.255Z","to":"2026-04-08T01:44:03.346Z","count":6,"avg":1017,"min":761,"max":1295,"p95":1295,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T01:54:05.081Z","to":"2026-04-08T01:54:05.081Z","count":1,"status":null,"error":"fetch failed","avg_latency":851,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T02:03:55.988Z","to":"2026-04-08T02:13:41.963Z","count":2,"avg":808,"min":700,"max":916,"p95":916,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T02:23:42.671Z","to":"2026-04-08T02:23:42.671Z","count":1,"status":null,"error":"fetch failed","avg_latency":854,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T02:33:48.457Z","to":"2026-04-08T03:13:48.185Z","count":5,"avg":1143,"min":925,"max":1423,"p95":1423,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T03:23:55.841Z","to":"2026-04-08T03:23:55.841Z","count":1,"status":null,"error":"fetch failed","avg_latency":869,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T03:33:54.172Z","to":"2026-04-08T05:34:26.850Z","count":13,"avg":1365,"min":696,"max":2702,"p95":2702,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T05:44:11.586Z","to":"2026-04-08T05:44:11.586Z","count":1,"status":null,"error":"fetch failed","avg_latency":698,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T05:54:09.843Z","to":"2026-04-08T06:54:12.136Z","count":7,"avg":1099,"min":563,"max":2009,"p95":2009,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T07:04:31.061Z","to":"2026-04-08T07:13:54.191Z","count":2,"status":null,"error":"fetch failed","avg_latency":689,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T07:24:04.244Z","to":"2026-04-08T07:34:06.311Z","count":2,"avg":1041,"min":915,"max":1167,"p95":1167,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T07:44:23.673Z","to":"2026-04-08T07:44:23.673Z","count":1,"status":null,"error":"fetch failed","avg_latency":707,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T07:54:10.367Z","to":"2026-04-08T10:44:35.533Z","count":18,"avg":958,"min":553,"max":1882,"p95":1882,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T10:54:47.878Z","to":"2026-04-08T10:54:47.878Z","count":1,"status":null,"error":"fetch failed","avg_latency":816,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T11:04:29.545Z","to":"2026-04-08T12:24:39.340Z","count":9,"avg":1120,"min":574,"max":1730,"p95":1730,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T12:34:33.264Z","to":"2026-04-08T12:34:33.264Z","count":1,"status":null,"error":"fetch failed","avg_latency":1103,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T12:44:43.914Z","to":"2026-04-08T13:14:34.451Z","count":4,"avg":864,"min":697,"max":1227,"p95":1227,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T13:24:17.061Z","to":"2026-04-08T13:24:17.061Z","count":1,"status":null,"error":"fetch failed","avg_latency":851,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T13:34:31.989Z","to":"2026-04-08T13:44:55.769Z","count":2,"avg":1157,"min":963,"max":1350,"p95":1350,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T13:54:52.145Z","to":"2026-04-08T13:54:52.145Z","count":1,"status":null,"error":"fetch failed","avg_latency":2217,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T14:04:39.407Z","to":"2026-04-08T14:04:39.407Z","count":1,"avg":1131,"min":1131,"max":1131,"p95":1131,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T14:14:48.207Z","to":"2026-04-08T14:14:48.207Z","count":1,"status":null,"error":"fetch failed","avg_latency":703,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T14:25:02.039Z","to":"2026-04-08T15:34:29.327Z","count":8,"avg":1070,"min":716,"max":2037,"p95":2037,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T15:44:36.157Z","to":"2026-04-08T15:44:36.157Z","count":1,"status":null,"error":"fetch failed","avg_latency":687,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T15:54:33.210Z","to":"2026-04-08T16:04:25.653Z","count":2,"avg":1353,"min":1039,"max":1667,"p95":1667,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T16:14:41.381Z","to":"2026-04-08T16:24:08.390Z","count":2,"status":null,"error":"fetch failed","avg_latency":794,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T16:34:22.426Z","to":"2026-04-08T19:04:26.885Z","count":16,"avg":926,"min":604,"max":1351,"p95":1351,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-08T19:14:11.466Z","to":"2026-04-08T19:14:11.466Z","count":1,"status":null,"error":"fetch failed","avg_latency":691,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-08T19:23:57.716Z","to":"2026-04-08T23:54:08.121Z","count":28,"avg":743,"min":520,"max":1773,"p95":1203,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T00:04:01.535Z","to":"2026-04-09T02:14:35.142Z","count":14,"avg":837,"min":554,"max":1718,"p95":1718,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T02:24:11.011Z","to":"2026-04-09T02:24:11.011Z","count":1,"status":null,"error":"fetch failed","avg_latency":839,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T02:34:26.006Z","to":"2026-04-09T02:44:24.530Z","count":2,"avg":1358,"min":678,"max":2037,"p95":2037,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T02:54:16.675Z","to":"2026-04-09T02:54:16.675Z","count":1,"status":null,"error":"fetch failed","avg_latency":704,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T03:04:18.416Z","to":"2026-04-09T05:04:29.422Z","count":13,"avg":990,"min":546,"max":1743,"p95":1743,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T05:14:15.313Z","to":"2026-04-09T05:14:15.313Z","count":1,"status":null,"error":"fetch failed","avg_latency":671,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T05:24:34.732Z","to":"2026-04-09T05:34:22.094Z","count":2,"avg":861,"min":787,"max":935,"p95":935,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T05:44:18.556Z","to":"2026-04-09T05:44:18.556Z","count":1,"status":null,"error":"fetch failed","avg_latency":695,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T05:55:09.629Z","to":"2026-04-09T06:44:12.716Z","count":6,"avg":878,"min":550,"max":1259,"p95":1259,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T06:54:35.464Z","to":"2026-04-09T06:54:35.464Z","count":1,"status":null,"error":"fetch failed","avg_latency":1101,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T07:04:29.652Z","to":"2026-04-09T09:33:51.172Z","count":16,"avg":1040,"min":567,"max":1718,"p95":1718,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T09:43:49.847Z","to":"2026-04-09T09:53:50.839Z","count":2,"status":null,"error":"fetch failed","avg_latency":843,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T10:03:47.596Z","to":"2026-04-09T10:13:35.416Z","count":2,"avg":1072,"min":885,"max":1258,"p95":1258,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T10:23:46.116Z","to":"2026-04-09T10:23:46.116Z","count":1,"status":null,"error":"fetch failed","avg_latency":864,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T10:33:53.232Z","to":"2026-04-09T14:54:18.706Z","count":27,"avg":1177,"min":703,"max":2247,"p95":1791,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T15:04:17.566Z","to":"2026-04-09T15:04:17.566Z","count":1,"status":null,"error":"fetch failed","avg_latency":1033,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T15:13:56.521Z","to":"2026-04-09T15:23:59.780Z","count":2,"avg":965,"min":771,"max":1158,"p95":1158,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T15:33:57.202Z","to":"2026-04-09T15:33:57.202Z","count":1,"status":null,"error":"fetch failed","avg_latency":822,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T15:44:17.484Z","to":"2026-04-09T16:24:02.721Z","count":5,"avg":1451,"min":948,"max":1815,"p95":1815,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T16:33:53.044Z","to":"2026-04-09T16:33:53.044Z","count":1,"status":null,"error":"fetch failed","avg_latency":993,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T16:43:57.588Z","to":"2026-04-09T20:13:08.898Z","count":22,"avg":1051,"min":581,"max":2677,"p95":1674,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T20:23:31.226Z","to":"2026-04-09T20:23:31.226Z","count":1,"status":null,"error":"fetch failed","avg_latency":675,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T20:33:26.536Z","to":"2026-04-09T20:53:16.611Z","count":3,"avg":827,"min":734,"max":968,"p95":968,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-09T21:03:17.074Z","to":"2026-04-09T21:03:17.074Z","count":1,"status":null,"error":"fetch failed","avg_latency":873,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-09T21:13:46.486Z","to":"2026-04-09T23:53:25.651Z","count":17,"avg":890,"min":536,"max":1554,"p95":1554,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T00:03:37.784Z","to":"2026-04-10T04:44:18.490Z","count":29,"avg":1066,"min":565,"max":1837,"p95":1795,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T04:54:19.100Z","to":"2026-04-10T04:54:19.100Z","count":1,"status":null,"error":"fetch failed","avg_latency":711,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T05:04:18.233Z","to":"2026-04-10T07:03:47.158Z","count":13,"avg":1121,"min":538,"max":2413,"p95":2413,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T07:13:53.626Z","to":"2026-04-10T07:24:10.159Z","count":2,"status":null,"error":"fetch failed","avg_latency":915,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T07:33:47.198Z","to":"2026-04-10T09:03:52.383Z","count":10,"avg":957,"min":733,"max":1406,"p95":1406,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T09:13:41.137Z","to":"2026-04-10T09:13:41.137Z","count":1,"status":null,"error":"fetch failed","avg_latency":705,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T09:23:45.645Z","to":"2026-04-10T10:04:10.172Z","count":5,"avg":841,"min":587,"max":1201,"p95":1201,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T10:13:59.755Z","to":"2026-04-10T10:13:59.755Z","count":1,"status":null,"error":"fetch failed","avg_latency":967,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T10:24:03.787Z","to":"2026-04-10T10:43:47.255Z","count":3,"avg":1406,"min":935,"max":1994,"p95":1994,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T10:53:54.643Z","to":"2026-04-10T11:03:48.639Z","count":2,"status":null,"error":"fetch failed","avg_latency":884,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T11:13:55.069Z","to":"2026-04-10T11:23:46.559Z","count":2,"avg":980,"min":920,"max":1040,"p95":1040,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T11:33:49.059Z","to":"2026-04-10T11:33:49.059Z","count":1,"status":null,"error":"fetch failed","avg_latency":870,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T11:43:41.136Z","to":"2026-04-10T12:03:51.732Z","count":3,"avg":1256,"min":1011,"max":1388,"p95":1388,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T12:14:02.068Z","to":"2026-04-10T12:23:55.916Z","count":2,"status":null,"error":"fetch failed","avg_latency":811,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T12:34:09.453Z","to":"2026-04-10T13:03:47.457Z","count":4,"avg":1272,"min":749,"max":1786,"p95":1786,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T13:14:21.687Z","to":"2026-04-10T13:14:21.687Z","count":1,"status":null,"error":"fetch failed","avg_latency":891,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T13:24:02.300Z","to":"2026-04-10T14:04:01.785Z","count":5,"avg":1151,"min":733,"max":2173,"p95":2173,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T14:13:50.474Z","to":"2026-04-10T14:13:50.474Z","count":1,"status":null,"error":"fetch failed","avg_latency":701,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T14:23:39.116Z","to":"2026-04-10T14:34:01.433Z","count":2,"avg":1316,"min":1189,"max":1443,"p95":1443,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T14:43:56.195Z","to":"2026-04-10T14:53:50.714Z","count":2,"status":null,"error":"fetch failed","avg_latency":852,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T15:04:12.519Z","to":"2026-04-10T15:34:09.357Z","count":4,"avg":946,"min":739,"max":1119,"p95":1119,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T15:43:58.404Z","to":"2026-04-10T15:43:58.404Z","count":1,"status":null,"error":"fetch failed","avg_latency":884,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T15:54:14.212Z","to":"2026-04-10T15:54:14.212Z","count":1,"avg":930,"min":930,"max":930,"p95":930,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T16:04:21.726Z","to":"2026-04-10T16:04:21.726Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T16:14:18.244Z","to":"2026-04-10T17:13:58.551Z","count":7,"avg":1186,"min":738,"max":1538,"p95":1538,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T17:23:50.201Z","to":"2026-04-10T17:23:50.201Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T17:33:41.272Z","to":"2026-04-10T20:33:15.709Z","count":19,"avg":994,"min":542,"max":1891,"p95":1891,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T20:43:10.930Z","to":"2026-04-10T20:43:10.930Z","count":1,"status":null,"error":"fetch failed","avg_latency":917,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T20:53:15.671Z","to":"2026-04-10T21:03:26.293Z","count":2,"avg":719,"min":713,"max":725,"p95":725,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T21:13:15.371Z","to":"2026-04-10T21:13:15.371Z","count":1,"status":null,"error":"fetch failed","avg_latency":867,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T21:23:19.587Z","to":"2026-04-10T23:23:30.594Z","count":13,"avg":825,"min":556,"max":1411,"p95":1411,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-10T23:33:29.643Z","to":"2026-04-10T23:33:29.643Z","count":1,"status":null,"error":"fetch failed","avg_latency":881,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-10T23:43:18.473Z","to":"2026-04-10T23:53:37.753Z","count":2,"avg":828,"min":819,"max":836,"p95":836,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T00:03:33.977Z","to":"2026-04-11T02:43:50.817Z","count":17,"avg":1014,"min":718,"max":1382,"p95":1382,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T02:54:03.407Z","to":"2026-04-11T02:54:03.407Z","count":1,"status":null,"error":"fetch failed","avg_latency":716,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T03:03:52.862Z","to":"2026-04-11T04:14:16.581Z","count":8,"avg":938,"min":723,"max":1239,"p95":1239,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T04:24:06.832Z","to":"2026-04-11T04:34:10.576Z","count":2,"status":null,"error":"fetch failed","avg_latency":937,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T04:44:07.505Z","to":"2026-04-11T04:54:17.813Z","count":2,"avg":1324,"min":1207,"max":1440,"p95":1440,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T05:04:16.778Z","to":"2026-04-11T05:04:16.778Z","count":1,"status":null,"error":"fetch failed","avg_latency":1311,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T05:14:11.426Z","to":"2026-04-11T06:34:07.822Z","count":9,"avg":1176,"min":481,"max":1746,"p95":1746,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T06:44:06.295Z","to":"2026-04-11T06:44:06.295Z","count":1,"status":null,"error":"fetch failed","avg_latency":875,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T06:53:57.492Z","to":"2026-04-11T07:24:18.374Z","count":4,"avg":1027,"min":820,"max":1189,"p95":1189,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T07:34:19.147Z","to":"2026-04-11T07:34:19.147Z","count":1,"status":null,"error":"fetch failed","avg_latency":1246,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T07:44:30.239Z","to":"2026-04-11T09:14:05.816Z","count":9,"avg":1190,"min":765,"max":1667,"p95":1667,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T09:23:50.393Z","to":"2026-04-11T09:23:50.393Z","count":1,"status":null,"error":"fetch failed","avg_latency":898,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T09:34:02.243Z","to":"2026-04-11T09:54:01.024Z","count":3,"avg":1048,"min":824,"max":1413,"p95":1413,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T10:03:59.848Z","to":"2026-04-11T10:03:59.848Z","count":1,"status":null,"error":"fetch failed","avg_latency":904,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T10:14:12.779Z","to":"2026-04-11T11:24:12.403Z","count":8,"avg":1311,"min":944,"max":1966,"p95":1966,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T11:34:15.846Z","to":"2026-04-11T11:44:01.686Z","count":2,"status":null,"error":"fetch failed","avg_latency":946,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T11:54:07.763Z","to":"2026-04-11T13:24:14.488Z","count":10,"avg":1164,"min":857,"max":1671,"p95":1671,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T13:34:26.814Z","to":"2026-04-11T13:34:26.814Z","count":1,"status":null,"error":"fetch failed","avg_latency":886,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T13:44:27.384Z","to":"2026-04-11T14:24:53.512Z","count":5,"avg":1531,"min":1214,"max":1935,"p95":1935,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T14:34:23.866Z","to":"2026-04-11T14:34:23.866Z","count":1,"status":null,"error":"fetch failed","avg_latency":917,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T14:44:34.888Z","to":"2026-04-11T15:24:23.720Z","count":5,"avg":1424,"min":927,"max":2292,"p95":2292,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-11T15:34:08.769Z","to":"2026-04-11T15:34:08.769Z","count":1,"status":null,"error":"fetch failed","avg_latency":953,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-11T15:44:18.135Z","to":"2026-04-11T23:53:49.712Z","count":50,"avg":990,"min":572,"max":1459,"p95":1436,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T00:03:34.220Z","to":"2026-04-12T03:03:45.697Z","count":19,"avg":1139,"min":582,"max":2773,"p95":2773,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T03:14:06.361Z","to":"2026-04-12T03:23:45.823Z","count":2,"status":null,"error":"fetch failed","avg_latency":917,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T03:33:58.667Z","to":"2026-04-12T04:24:01.237Z","count":6,"avg":1495,"min":1037,"max":2521,"p95":2521,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T04:33:52.656Z","to":"2026-04-12T04:33:52.656Z","count":1,"status":null,"error":"fetch failed","avg_latency":911,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T04:44:05.597Z","to":"2026-04-12T04:53:54.327Z","count":2,"avg":1233,"min":1112,"max":1353,"p95":1353,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T05:03:59.175Z","to":"2026-04-12T05:03:59.175Z","count":1,"status":null,"error":"fetch failed","avg_latency":715,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T05:14:00.306Z","to":"2026-04-12T05:14:00.306Z","count":1,"avg":912,"min":912,"max":912,"p95":912,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T05:23:56.432Z","to":"2026-04-12T05:23:56.432Z","count":1,"status":null,"error":"fetch failed","avg_latency":910,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T05:33:54.668Z","to":"2026-04-12T06:13:58.721Z","count":5,"avg":1024,"min":759,"max":1359,"p95":1359,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T06:24:08.124Z","to":"2026-04-12T06:43:57.057Z","count":3,"status":null,"error":"fetch failed","avg_latency":945,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T06:54:04.292Z","to":"2026-04-12T06:54:04.292Z","count":1,"avg":1027,"min":1027,"max":1027,"p95":1027,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T07:04:17.452Z","to":"2026-04-12T07:04:17.452Z","count":1,"status":null,"error":"fetch failed","avg_latency":902,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T07:14:19.752Z","to":"2026-04-12T08:24:11.543Z","count":8,"avg":1083,"min":615,"max":1424,"p95":1424,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T08:34:00.259Z","to":"2026-04-12T08:34:00.259Z","count":1,"status":null,"error":"fetch failed","avg_latency":892,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T08:43:57.107Z","to":"2026-04-12T10:13:25.936Z","count":9,"avg":1170,"min":731,"max":1870,"p95":1870,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T10:23:38.656Z","to":"2026-04-12T10:23:38.656Z","count":1,"status":null,"error":"fetch failed","avg_latency":892,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T10:33:35.159Z","to":"2026-04-12T12:23:40.724Z","count":12,"avg":1170,"min":586,"max":2443,"p95":2443,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T12:33:41.976Z","to":"2026-04-12T12:33:41.976Z","count":1,"status":null,"error":"fetch failed","avg_latency":915,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T12:43:38.833Z","to":"2026-04-12T14:03:54.411Z","count":9,"avg":1138,"min":893,"max":1704,"p95":1704,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T14:13:53.564Z","to":"2026-04-12T14:23:57.385Z","count":2,"status":null,"error":"fetch failed","avg_latency":816,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T14:33:48.384Z","to":"2026-04-12T14:33:48.384Z","count":1,"avg":968,"min":968,"max":968,"p95":968,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T14:43:48.296Z","to":"2026-04-12T14:43:48.296Z","count":1,"status":null,"error":"fetch failed","avg_latency":866,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T14:53:56.984Z","to":"2026-04-12T16:03:41.758Z","count":7,"avg":1135,"min":745,"max":1429,"p95":1429,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T16:13:39.500Z","to":"2026-04-12T16:13:39.500Z","count":1,"status":null,"error":"fetch failed","avg_latency":945,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T16:23:49.158Z","to":"2026-04-12T16:23:49.158Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T16:33:50.044Z","to":"2026-04-12T16:33:50.044Z","count":1,"avg":1267,"min":1267,"max":1267,"p95":1267,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T16:43:48.041Z","to":"2026-04-12T16:43:48.041Z","count":1,"status":null,"error":"fetch failed","avg_latency":917,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T16:53:35.405Z","to":"2026-04-12T18:23:21.187Z","count":10,"avg":974,"min":738,"max":1699,"p95":1699,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T18:33:23.858Z","to":"2026-04-12T18:33:23.858Z","count":1,"status":null,"error":"fetch failed","avg_latency":888,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T18:43:17.541Z","to":"2026-04-12T19:03:19.642Z","count":3,"avg":923,"min":747,"max":1024,"p95":1024,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T19:13:16.163Z","to":"2026-04-12T19:13:16.163Z","count":1,"status":null,"error":"fetch failed","avg_latency":670,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T19:23:09.943Z","to":"2026-04-12T20:13:11.955Z","count":6,"avg":946,"min":565,"max":1169,"p95":1169,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T20:23:08.943Z","to":"2026-04-12T20:23:08.943Z","count":1,"status":null,"error":"fetch failed","avg_latency":707,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T20:33:14.726Z","to":"2026-04-12T22:03:10.312Z","count":10,"avg":841,"min":698,"max":1043,"p95":1043,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T22:13:14.326Z","to":"2026-04-12T22:13:14.326Z","count":1,"status":null,"error":"fetch failed","avg_latency":890,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T22:23:19.063Z","to":"2026-04-12T22:23:19.063Z","count":1,"avg":1048,"min":1048,"max":1048,"p95":1048,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T22:33:21.928Z","to":"2026-04-12T22:33:21.928Z","count":1,"status":null,"error":"fetch failed","avg_latency":881,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T22:43:09.409Z","to":"2026-04-12T23:03:15.390Z","count":3,"avg":806,"min":528,"max":998,"p95":998,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-12T23:13:26.186Z","to":"2026-04-12T23:13:26.186Z","count":1,"status":null,"error":"fetch failed","avg_latency":889,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-12T23:23:17.797Z","to":"2026-04-12T23:53:22.182Z","count":4,"avg":838,"min":762,"max":983,"p95":983,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T00:03:30.041Z","to":"2026-04-13T00:43:23.847Z","count":5,"avg":1069,"min":881,"max":1243,"p95":1243,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T00:53:23.023Z","to":"2026-04-13T00:53:23.023Z","count":1,"status":null,"error":"fetch failed","avg_latency":699,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T01:03:36.745Z","to":"2026-04-13T01:13:35.336Z","count":2,"avg":914,"min":853,"max":974,"p95":974,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T01:23:25.898Z","to":"2026-04-13T01:23:25.898Z","count":1,"status":null,"error":"fetch failed","avg_latency":882,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T01:33:40.196Z","to":"2026-04-13T05:13:49.120Z","count":20,"avg":1117,"min":648,"max":1675,"p95":1675,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T05:23:36.145Z","to":"2026-04-13T05:23:36.145Z","count":1,"status":null,"error":"fetch failed","avg_latency":889,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T05:33:46.267Z","to":"2026-04-13T05:43:46.890Z","count":2,"avg":1018,"min":892,"max":1144,"p95":1144,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T05:53:27.584Z","to":"2026-04-13T05:53:27.584Z","count":1,"status":null,"error":"fetch failed","avg_latency":888,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T06:03:43.405Z","to":"2026-04-13T08:03:57.270Z","count":13,"avg":1101,"min":793,"max":1602,"p95":1602,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T08:13:53.947Z","to":"2026-04-13T08:13:53.947Z","count":1,"status":null,"error":"fetch failed","avg_latency":866,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T08:23:38.091Z","to":"2026-04-13T08:54:00.047Z","count":4,"avg":1032,"min":883,"max":1157,"p95":1157,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T09:23:52.541Z","to":"2026-04-13T09:23:52.541Z","count":1,"status":null,"error":"fetch failed","avg_latency":883,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T09:33:45.324Z","to":"2026-04-13T12:03:54.209Z","count":14,"avg":1187,"min":730,"max":2766,"p95":2766,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T12:13:52.951Z","to":"2026-04-13T12:13:52.951Z","count":1,"status":null,"error":"fetch failed","avg_latency":1055,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T12:23:47.423Z","to":"2026-04-13T12:43:53.272Z","count":3,"avg":977,"min":768,"max":1203,"p95":1203,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T12:54:10.148Z","to":"2026-04-13T13:13:56.688Z","count":3,"status":null,"error":"fetch failed","avg_latency":760,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T13:24:10.118Z","to":"2026-04-13T13:24:10.118Z","count":1,"avg":856,"min":856,"max":856,"p95":856,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T13:34:05.960Z","to":"2026-04-13T13:34:05.960Z","count":1,"status":null,"error":"fetch failed","avg_latency":867,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T13:43:56.351Z","to":"2026-04-13T13:43:56.351Z","count":1,"avg":995,"min":995,"max":995,"p95":995,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T13:54:04.905Z","to":"2026-04-13T13:54:04.905Z","count":1,"status":null,"error":"fetch failed","avg_latency":941,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-13T14:04:09.080Z","to":"2026-04-13T14:34:24.447Z","count":4,"avg":1516,"min":970,"max":2248,"p95":2248,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-13T14:44:13.178Z","to":"2026-04-13T15:04:01.363Z","count":3,"status":null,"error":"fetch failed","avg_latency":772,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T02:28:51.815Z","to":"2026-04-14T02:28:51.815Z","count":1,"avg":1024,"min":1024,"max":1024,"p95":1024,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T02:43:50.139Z","to":"2026-04-14T02:43:50.139Z","count":1,"status":null,"error":"fetch failed","avg_latency":884,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T03:03:47.833Z","to":"2026-04-14T05:23:32.237Z","count":9,"avg":1301,"min":939,"max":2292,"p95":2292,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T05:33:32.485Z","to":"2026-04-14T05:33:32.485Z","count":1,"status":null,"error":"fetch failed","avg_latency":850,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T05:43:48.028Z","to":"2026-04-14T06:03:44.511Z","count":3,"avg":1281,"min":926,"max":1596,"p95":1596,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T06:13:34.733Z","to":"2026-04-14T06:13:34.733Z","count":1,"status":null,"error":"fetch failed","avg_latency":818,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T06:23:43.567Z","to":"2026-04-14T06:23:43.567Z","count":1,"avg":1181,"min":1181,"max":1181,"p95":1181,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T06:33:35.533Z","to":"2026-04-14T06:43:42.067Z","count":2,"status":null,"error":"fetch failed","avg_latency":778,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T06:53:42.249Z","to":"2026-04-14T07:13:46.824Z","count":3,"avg":850,"min":745,"max":978,"p95":978,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T07:26:16.895Z","to":"2026-04-14T07:26:16.895Z","count":1,"status":null,"error":"fetch failed","avg_latency":842,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T07:33:53.315Z","to":"2026-04-14T07:43:42.526Z","count":2,"avg":1066,"min":1033,"max":1098,"p95":1098,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T08:07:09.653Z","to":"2026-04-14T08:13:36.103Z","count":2,"status":null,"error":"fetch failed","avg_latency":850,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T08:23:43.083Z","to":"2026-04-14T09:03:29.767Z","count":5,"avg":1038,"min":747,"max":1354,"p95":1354,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T09:13:34.523Z","to":"2026-04-14T09:13:34.523Z","count":1,"status":null,"error":"fetch failed","avg_latency":843,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T09:23:40.571Z","to":"2026-04-14T09:43:36.040Z","count":3,"avg":1147,"min":822,"max":1671,"p95":1671,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T09:53:41.231Z","to":"2026-04-14T09:53:41.231Z","count":1,"status":null,"error":"fetch failed","avg_latency":897,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T10:03:32.092Z","to":"2026-04-14T11:03:47.815Z","count":7,"avg":1003,"min":807,"max":1474,"p95":1474,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T11:13:39.292Z","to":"2026-04-14T11:13:39.292Z","count":1,"status":null,"error":"fetch failed","avg_latency":973,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T11:23:45.606Z","to":"2026-04-14T11:53:42.206Z","count":4,"avg":1016,"min":676,"max":1603,"p95":1603,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T12:03:55.478Z","to":"2026-04-14T12:03:55.478Z","count":1,"status":null,"error":"fetch failed","avg_latency":705,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T12:13:43.821Z","to":"2026-04-14T12:13:43.821Z","count":1,"avg":854,"min":854,"max":854,"p95":854,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T12:23:48.437Z","to":"2026-04-14T12:23:48.437Z","count":1,"status":null,"error":"fetch failed","avg_latency":626,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T12:33:58.794Z","to":"2026-04-14T13:34:12.441Z","count":7,"avg":1504,"min":1126,"max":2321,"p95":2321,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T13:44:08.222Z","to":"2026-04-14T13:44:08.222Z","count":1,"status":null,"error":"fetch failed","avg_latency":701,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T13:53:50.945Z","to":"2026-04-14T14:44:07.436Z","count":5,"avg":1112,"min":706,"max":1675,"p95":1675,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T14:53:44.256Z","to":"2026-04-14T14:53:44.256Z","count":1,"status":null,"error":"fetch failed","avg_latency":837,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T15:04:08.076Z","to":"2026-04-14T15:04:08.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T15:14:12.553Z","to":"2026-04-14T15:14:12.553Z","count":1,"status":null,"error":"fetch failed","avg_latency":709,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T15:23:53.158Z","to":"2026-04-14T16:34:05.447Z","count":8,"avg":1126,"min":874,"max":1612,"p95":1612,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T16:43:57.558Z","to":"2026-04-14T16:43:57.558Z","count":1,"status":null,"error":"fetch failed","avg_latency":840,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T16:53:46.683Z","to":"2026-04-14T17:03:44.226Z","count":2,"avg":1488,"min":1154,"max":1822,"p95":1822,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T17:13:49.445Z","to":"2026-04-14T17:23:49.103Z","count":2,"status":null,"error":"fetch failed","avg_latency":1372,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T17:33:49.214Z","to":"2026-04-14T19:33:23.803Z","count":13,"avg":851,"min":683,"max":1136,"p95":1136,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T19:43:20.459Z","to":"2026-04-14T19:43:20.459Z","count":1,"status":null,"error":"fetch failed","avg_latency":887,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T19:53:08.822Z","to":"2026-04-14T20:13:11.127Z","count":3,"avg":849,"min":732,"max":970,"p95":970,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T20:23:25.832Z","to":"2026-04-14T20:23:25.832Z","count":1,"status":null,"error":"fetch failed","avg_latency":676,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T20:33:30.695Z","to":"2026-04-14T20:53:18.623Z","count":3,"avg":915,"min":767,"max":1019,"p95":1019,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T21:03:22.450Z","to":"2026-04-14T21:13:30.758Z","count":2,"status":null,"error":"fetch failed","avg_latency":839,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T21:23:26.457Z","to":"2026-04-14T21:23:26.457Z","count":1,"avg":544,"min":544,"max":544,"p95":544,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-14T21:33:25.330Z","to":"2026-04-14T21:33:25.330Z","count":1,"status":null,"error":"fetch failed","avg_latency":876,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-14T21:43:22.269Z","to":"2026-04-14T23:53:17.358Z","count":14,"avg":936,"min":561,"max":1290,"p95":1290,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T00:03:14.573Z","to":"2026-04-15T00:13:36.079Z","count":2,"avg":1460,"min":1139,"max":1780,"p95":1780,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T00:23:23.884Z","to":"2026-04-15T00:23:23.884Z","count":1,"status":null,"error":"fetch failed","avg_latency":672,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T00:33:32.376Z","to":"2026-04-15T02:33:43.833Z","count":13,"avg":1055,"min":711,"max":2536,"p95":2536,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T02:43:38.455Z","to":"2026-04-15T02:53:43.082Z","count":2,"status":null,"error":"fetch failed","avg_latency":886,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T03:03:38.632Z","to":"2026-04-15T04:13:32.626Z","count":8,"avg":881,"min":684,"max":1313,"p95":1313,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T04:23:42.932Z","to":"2026-04-15T04:23:42.932Z","count":1,"status":null,"error":"fetch failed","avg_latency":836,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T04:33:59.546Z","to":"2026-04-15T06:14:37.291Z","count":11,"avg":987,"min":561,"max":1431,"p95":1431,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T06:24:29.601Z","to":"2026-04-15T06:24:29.601Z","count":1,"status":null,"error":"fetch failed","avg_latency":821,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T06:33:48.434Z","to":"2026-04-15T07:44:11.548Z","count":8,"avg":1663,"min":696,"max":4614,"p95":4614,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T07:54:35.360Z","to":"2026-04-15T07:54:35.360Z","count":1,"status":null,"error":"fetch failed","avg_latency":1072,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T08:14:52.351Z","to":"2026-04-15T09:03:51.468Z","count":6,"avg":1042,"min":758,"max":1496,"p95":1496,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T09:24:02.797Z","to":"2026-04-15T09:24:02.797Z","count":1,"status":null,"error":"fetch failed","avg_latency":706,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T09:34:42.886Z","to":"2026-04-15T09:34:42.886Z","count":1,"avg":1275,"min":1275,"max":1275,"p95":1275,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T09:44:26.095Z","to":"2026-04-15T09:44:26.095Z","count":1,"status":null,"error":"fetch failed","avg_latency":699,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T09:54:48.316Z","to":"2026-04-15T12:24:15.546Z","count":15,"avg":1146,"min":594,"max":2152,"p95":2152,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T12:34:06.565Z","to":"2026-04-15T12:54:24.941Z","count":3,"status":null,"error":"fetch failed","avg_latency":890,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T13:04:11.909Z","to":"2026-04-15T13:04:11.909Z","count":1,"avg":871,"min":871,"max":871,"p95":871,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T13:14:17.655Z","to":"2026-04-15T13:44:29.878Z","count":3,"status":null,"error":"fetch failed","avg_latency":835,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T13:54:24.956Z","to":"2026-04-15T14:06:39.723Z","count":2,"avg":936,"min":882,"max":989,"p95":989,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T14:14:14.828Z","to":"2026-04-15T14:24:07.061Z","count":2,"status":null,"error":"fetch failed","avg_latency":1109,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T14:33:58.513Z","to":"2026-04-15T15:53:45.878Z","count":9,"avg":1503,"min":720,"max":2016,"p95":2016,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T16:03:58.822Z","to":"2026-04-15T16:03:58.822Z","count":1,"status":null,"error":"fetch failed","avg_latency":1609,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T16:13:54.982Z","to":"2026-04-15T16:44:30.592Z","count":4,"avg":1564,"min":1243,"max":2359,"p95":2359,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T16:54:03.039Z","to":"2026-04-15T16:54:03.039Z","count":1,"status":null,"error":"fetch failed","avg_latency":1037,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T17:04:21.633Z","to":"2026-04-15T17:13:45.570Z","count":2,"avg":976,"min":970,"max":981,"p95":981,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T17:23:58.465Z","to":"2026-04-15T17:23:58.465Z","count":1,"status":null,"error":"fetch failed","avg_latency":1372,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T17:33:54.969Z","to":"2026-04-15T20:03:33.516Z","count":16,"avg":1210,"min":666,"max":2215,"p95":2215,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T20:13:24.683Z","to":"2026-04-15T20:13:24.683Z","count":1,"status":null,"error":"fetch failed","avg_latency":1290,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T20:23:31.620Z","to":"2026-04-15T23:23:28.800Z","count":19,"avg":1154,"min":685,"max":2231,"p95":2231,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-15T23:33:32.747Z","to":"2026-04-15T23:33:32.747Z","count":1,"status":null,"error":"fetch failed","avg_latency":1045,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-15T23:43:38.761Z","to":"2026-04-15T23:53:34.870Z","count":2,"avg":640,"min":599,"max":681,"p95":681,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T00:03:48.456Z","to":"2026-04-16T00:43:50.319Z","count":5,"avg":1164,"min":796,"max":1636,"p95":1636,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T00:53:47.887Z","to":"2026-04-16T00:53:47.887Z","count":1,"status":null,"error":"fetch failed","avg_latency":930,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T01:03:47.178Z","to":"2026-04-16T01:53:54.141Z","count":6,"avg":1145,"min":1031,"max":1268,"p95":1268,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T02:03:54.395Z","to":"2026-04-16T02:23:57.041Z","count":3,"status":null,"error":"fetch failed","avg_latency":1037,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T02:33:58.246Z","to":"2026-04-16T05:24:06.393Z","count":14,"avg":1155,"min":644,"max":1701,"p95":1701,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T05:45:02.937Z","to":"2026-04-16T05:45:02.937Z","count":1,"status":null,"error":"fetch failed","avg_latency":1124,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T05:53:56.889Z","to":"2026-04-16T11:04:11.512Z","count":28,"avg":1215,"min":697,"max":2727,"p95":2412,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T11:14:04.458Z","to":"2026-04-16T12:04:57.264Z","count":2,"status":null,"error":"fetch failed","avg_latency":782,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T12:14:33.225Z","to":"2026-04-16T12:44:26.895Z","count":4,"avg":1703,"min":1307,"max":2135,"p95":2135,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T12:54:39.695Z","to":"2026-04-16T12:54:39.695Z","count":1,"status":null,"error":"fetch failed","avg_latency":803,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T13:04:36.648Z","to":"2026-04-16T13:04:36.648Z","count":1,"avg":1853,"min":1853,"max":1853,"p95":1853,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T13:14:26.267Z","to":"2026-04-16T13:14:26.267Z","count":1,"status":null,"error":"fetch failed","avg_latency":1045,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T13:24:35.017Z","to":"2026-04-16T13:44:29.905Z","count":3,"avg":1317,"min":884,"max":1798,"p95":1798,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T13:54:33.432Z","to":"2026-04-16T13:54:33.432Z","count":1,"status":null,"error":"fetch failed","avg_latency":1420,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T14:04:47.942Z","to":"2026-04-16T15:04:41.270Z","count":7,"avg":1498,"min":743,"max":3709,"p95":3709,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T15:14:53.280Z","to":"2026-04-16T15:14:53.280Z","count":1,"status":null,"error":"fetch failed","avg_latency":720,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T15:25:15.568Z","to":"2026-04-16T15:25:15.568Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T15:34:34.878Z","to":"2026-04-16T15:54:19.544Z","count":3,"avg":1222,"min":1090,"max":1350,"p95":1350,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T16:04:22.294Z","to":"2026-04-16T16:04:22.294Z","count":1,"status":null,"error":"fetch failed","avg_latency":1176,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T16:14:20.929Z","to":"2026-04-16T18:23:57.200Z","count":14,"avg":1410,"min":747,"max":3159,"p95":3159,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T18:33:50.384Z","to":"2026-04-16T18:33:50.384Z","count":1,"status":null,"error":"fetch failed","avg_latency":903,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T18:44:02.182Z","to":"2026-04-16T23:33:50.359Z","count":30,"avg":1066,"min":595,"max":1893,"p95":1386,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-16T23:44:09.561Z","to":"2026-04-16T23:44:09.561Z","count":1,"status":null,"error":"fetch failed","avg_latency":1028,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-16T23:53:49.877Z","to":"2026-04-16T23:53:49.877Z","count":1,"avg":648,"min":648,"max":648,"p95":648,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T00:04:19.997Z","to":"2026-04-17T00:44:06.680Z","count":5,"avg":1239,"min":984,"max":1422,"p95":1422,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T00:54:10.965Z","to":"2026-04-17T00:54:10.965Z","count":1,"status":null,"error":"fetch failed","avg_latency":845,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T01:04:30.788Z","to":"2026-04-17T01:14:12.794Z","count":2,"avg":1068,"min":892,"max":1244,"p95":1244,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T01:24:13.062Z","to":"2026-04-17T01:24:13.062Z","count":1,"status":null,"error":"fetch failed","avg_latency":1248,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T01:34:21.122Z","to":"2026-04-17T02:34:18.814Z","count":7,"avg":1249,"min":965,"max":1661,"p95":1661,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T02:44:30.937Z","to":"2026-04-17T02:44:30.937Z","count":1,"status":null,"error":"fetch failed","avg_latency":972,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T02:54:10.095Z","to":"2026-04-17T04:04:30.341Z","count":8,"avg":1370,"min":686,"max":1896,"p95":1896,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T04:14:29.149Z","to":"2026-04-17T04:54:38.375Z","count":2,"status":null,"error":"fetch failed","avg_latency":1049,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T05:04:28.592Z","to":"2026-04-17T05:14:08.183Z","count":2,"avg":1412,"min":1340,"max":1484,"p95":1484,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T05:24:28.281Z","to":"2026-04-17T05:24:28.281Z","count":1,"status":null,"error":"fetch failed","avg_latency":955,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T05:34:32.416Z","to":"2026-04-17T07:32:18.359Z","count":13,"avg":1298,"min":948,"max":2420,"p95":2420,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T07:42:13.969Z","to":"2026-04-17T07:42:13.969Z","count":1,"status":null,"error":"fetch failed","avg_latency":1376,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T07:52:15.817Z","to":"2026-04-17T07:52:15.817Z","count":1,"avg":1545,"min":1545,"max":1545,"p95":1545,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T08:02:27.164Z","to":"2026-04-17T08:12:15.193Z","count":2,"status":null,"error":"fetch failed","avg_latency":1330,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T08:22:15.333Z","to":"2026-04-17T10:12:18.821Z","count":11,"avg":1768,"min":1065,"max":3122,"p95":3122,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T10:22:12.674Z","to":"2026-04-17T10:22:12.674Z","count":1,"status":null,"error":"fetch failed","avg_latency":1509,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T10:32:13.769Z","to":"2026-04-17T10:32:13.769Z","count":1,"avg":1668,"min":1668,"max":1668,"p95":1668,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T10:42:08.953Z","to":"2026-04-17T10:42:08.953Z","count":1,"status":null,"error":"fetch failed","avg_latency":1652,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T10:52:18.023Z","to":"2026-04-17T11:52:09.719Z","count":7,"avg":1669,"min":1124,"max":2237,"p95":2237,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T12:02:28.342Z","to":"2026-04-17T12:02:28.342Z","count":1,"status":null,"error":"fetch failed","avg_latency":1918,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T12:12:10.712Z","to":"2026-04-17T12:52:17.526Z","count":5,"avg":2427,"min":1309,"max":3567,"p95":3567,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T13:02:22.001Z","to":"2026-04-17T13:02:22.001Z","count":1,"status":null,"error":"fetch failed","avg_latency":1663,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T13:12:16.105Z","to":"2026-04-17T13:32:20.531Z","count":3,"avg":1419,"min":1015,"max":2058,"p95":2058,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T13:42:11.903Z","to":"2026-04-17T13:52:17.421Z","count":2,"status":null,"error":"fetch failed","avg_latency":1741,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T14:02:24.598Z","to":"2026-04-17T14:12:09.936Z","count":2,"avg":2499,"min":1933,"max":3065,"p95":3065,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T14:22:12.090Z","to":"2026-04-17T14:22:12.090Z","count":1,"status":null,"error":"fetch failed","avg_latency":1111,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T14:32:14.461Z","to":"2026-04-17T14:32:14.461Z","count":1,"avg":2605,"min":2605,"max":2605,"p95":2605,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-17T15:02:21.449Z","to":"2026-04-17T15:22:15.453Z","count":3,"status":null,"error":"fetch failed","avg_latency":1730,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-17T15:32:17.717Z","to":"2026-04-17T23:52:11.896Z","count":51,"avg":1476,"min":873,"max":2593,"p95":2212,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T00:02:24.107Z","to":"2026-04-18T01:12:06.095Z","count":8,"avg":1726,"min":990,"max":2866,"p95":2866,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T01:22:12.823Z","to":"2026-04-18T01:22:12.823Z","count":1,"status":null,"error":"fetch failed","avg_latency":1244,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T01:32:13.376Z","to":"2026-04-18T02:12:09.134Z","count":5,"avg":1495,"min":1255,"max":1883,"p95":1883,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T02:22:14.409Z","to":"2026-04-18T02:22:14.409Z","count":1,"status":null,"error":"fetch failed","avg_latency":1411,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T02:32:19.051Z","to":"2026-04-18T02:42:18.866Z","count":2,"avg":1620,"min":963,"max":2277,"p95":2277,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T02:52:12.976Z","to":"2026-04-18T02:52:12.976Z","count":1,"status":null,"error":"fetch failed","avg_latency":1340,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T03:02:22.744Z","to":"2026-04-18T04:55:15.352Z","count":8,"avg":1295,"min":1042,"max":1649,"p95":1649,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T05:02:25.909Z","to":"2026-04-18T05:02:25.909Z","count":1,"status":null,"error":"fetch failed","avg_latency":966,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T05:12:10.900Z","to":"2026-04-18T05:22:15.430Z","count":2,"avg":1422,"min":893,"max":1950,"p95":1950,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T05:32:17.427Z","to":"2026-04-18T05:32:17.427Z","count":1,"status":null,"error":"fetch failed","avg_latency":1165,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T05:42:11.280Z","to":"2026-04-18T08:32:18.544Z","count":18,"avg":1315,"min":947,"max":1816,"p95":1816,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T08:42:08.905Z","to":"2026-04-18T08:42:08.905Z","count":1,"status":null,"error":"fetch failed","avg_latency":976,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T08:52:13.239Z","to":"2026-04-18T09:32:17.874Z","count":5,"avg":1023,"min":863,"max":1186,"p95":1186,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T09:42:12.203Z","to":"2026-04-18T09:42:12.203Z","count":1,"status":null,"error":"fetch failed","avg_latency":1043,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T09:52:08.109Z","to":"2026-04-18T10:02:22.253Z","count":2,"avg":931,"min":865,"max":996,"p95":996,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T10:14:03.144Z","to":"2026-04-18T10:14:03.144Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5477,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T10:22:10.925Z","to":"2026-04-18T11:02:23.241Z","count":3,"avg":1177,"min":957,"max":1350,"p95":1350,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T11:05:34.362Z","to":"2026-04-18T11:05:34.362Z","count":1,"status":null,"error":"fetch failed","avg_latency":1165,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T11:14:46.752Z","to":"2026-04-18T13:12:06.366Z","count":13,"avg":1452,"min":741,"max":3730,"p95":3730,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T13:22:11.156Z","to":"2026-04-18T13:22:11.156Z","count":1,"status":null,"error":"fetch failed","avg_latency":850,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T13:32:18.157Z","to":"2026-04-18T13:32:18.157Z","count":1,"avg":1374,"min":1374,"max":1374,"p95":1374,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T13:42:10.693Z","to":"2026-04-18T13:42:10.693Z","count":1,"status":null,"error":"fetch failed","avg_latency":913,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T13:52:09.798Z","to":"2026-04-18T14:42:11.863Z","count":6,"avg":1346,"min":845,"max":2664,"p95":2664,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T14:52:05.734Z","to":"2026-04-18T14:52:05.734Z","count":1,"status":null,"error":"fetch failed","avg_latency":917,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T15:02:20.720Z","to":"2026-04-18T16:02:18.006Z","count":7,"avg":1516,"min":786,"max":2827,"p95":2827,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T16:12:10.790Z","to":"2026-04-18T16:12:10.790Z","count":1,"status":null,"error":"fetch failed","avg_latency":1349,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T16:22:10.508Z","to":"2026-04-18T17:22:09.636Z","count":7,"avg":1260,"min":627,"max":2753,"p95":2753,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T17:32:08.990Z","to":"2026-04-18T17:32:08.990Z","count":1,"status":null,"error":"fetch failed","avg_latency":891,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T17:42:05.251Z","to":"2026-04-18T18:12:05.279Z","count":4,"avg":831,"min":569,"max":1035,"p95":1035,"url":"https://www.cucloud.cn"}
+{"type":"fail","from":"2026-04-18T18:21:58.672Z","to":"2026-04-18T18:21:58.672Z","count":1,"status":null,"error":"fetch failed","avg_latency":847,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-18T18:32:12.196Z","to":"2026-04-18T23:52:04.299Z","count":33,"avg":1032,"min":701,"max":4344,"p95":1731,"url":"https://www.cucloud.cn"}
+{"type":"ok","from":"2026-04-19T00:02:16.971Z","to":"2026-04-19T00:11:56.344Z","count":2,"url":"https://www.cucloud.cn","avg":780,"min":760,"max":799,"p95":799}
+{"type":"fail","from":"2026-04-19T00:22:01.494Z","to":"2026-04-19T00:22:01.494Z","count":1,"url":"https://www.cucloud.cn","status":null,"error":"fetch failed","avg_latency":921}
+{"type":"ok","from":"2026-04-19T00:32:06.468Z","to":"2026-04-19T02:02:12.424Z","count":10,"url":"https://www.cucloud.cn","avg":1140,"min":794,"max":1720,"p95":1720}
+{"type":"fail","from":"2026-04-19T02:12:08.198Z","to":"2026-04-19T02:12:08.198Z","count":1,"url":"https://www.cucloud.cn","status":null,"error":"fetch failed","avg_latency":714}
+{"type":"ok","from":"2026-04-19T02:22:04.331Z","to":"2026-04-19T03:12:05.935Z","count":6,"url":"https://www.cucloud.cn","avg":1176,"min":841,"max":2205,"p95":2205}
+{"type":"fail","from":"2026-04-19T03:22:08.049Z","to":"2026-04-19T05:12:02.174Z","count":9,"url":"https://www.cucloud.cn","status":null,"error":"fetch failed","avg_latency":865}
+{"type":"ok","from":"2026-04-19T05:22:02.643Z","to":"2026-04-19T05:22:02.643Z","count":1,"url":"https://www.cucloud.cn","avg":3982,"min":3982,"max":3982,"p95":3982}
+{"type":"fail","from":"2026-04-19T05:32:06.249Z","to":"2026-04-19T05:32:06.249Z","count":1,"url":"https://www.cucloud.cn","status":null,"error":"fetch failed","avg_latency":701}
+{"type":"ok","from":"2026-04-19T05:41:59.229Z","to":"2026-04-19T06:52:07.864Z","count":8,"url":"https://www.cucloud.cn","avg":1449,"min":840,"max":2637,"p95":2637}
+{"type":"fail","from":"2026-04-19T07:02:15.491Z","to":"2026-04-19T07:02:15.491Z","count":1,"url":"https://www.cucloud.cn","status":null,"error":"fetch failed","avg_latency":882}
+{"type":"ok","from":"2026-04-19T07:12:08.598Z","to":"2026-04-19T07:52:08.904Z","count":5,"url":"https://www.cucloud.cn","avg":1157,"min":666,"max":1663,"p95":1663}
+{"type":"fail","from":"2026-04-19T08:14:22.651Z","to":"2026-04-19T23:51:14.000Z","count":48,"url":"https://aigw-jnzs5.cucloud.cn:8443/api/status","status":404,"error":"HTTP 404","avg_latency":null}

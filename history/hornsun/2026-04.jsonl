@@ -1,27 +1,40 @@
-{"url":"http://www.hornsun.com"}
-{"type":"ok","from":"2026-04-01T00:00:54.504Z","to":"2026-04-01T23:50:52.081Z","count":144,"avg":1152,"min":828,"max":2492,"p95":1498}
-{"type":"ok","from":"2026-04-02T00:00:54.607Z","to":"2026-04-02T16:10:54.427Z","count":98,"avg":1339,"min":918,"max":3866,"p95":2308}
-{"type":"fail","from":"2026-04-02T16:20:58.546Z","to":"2026-04-02T16:20:58.546Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T16:30:53.923Z","to":"2026-04-02T23:50:53.338Z","count":45,"avg":1120,"min":850,"max":2150,"p95":1922}
-{"type":"ok","from":"2026-04-03T00:00:53.154Z","to":"2026-04-03T23:50:54.414Z","count":144,"avg":1203,"min":811,"max":2341,"p95":1988}
-{"type":"ok","from":"2026-04-04T00:00:54.427Z","to":"2026-04-04T23:50:05.450Z","count":138,"avg":1229,"min":897,"max":2538,"p95":1853}
-{"type":"ok","from":"2026-04-05T00:00:07.702Z","to":"2026-04-05T23:50:04.308Z","count":144,"avg":1256,"min":803,"max":3403,"p95":1911}
-{"type":"ok","from":"2026-04-06T00:00:07.335Z","to":"2026-04-06T23:50:06.270Z","count":144,"avg":1234,"min":848,"max":3556,"p95":1705}
-{"type":"ok","from":"2026-04-07T00:00:06.819Z","to":"2026-04-07T23:50:07.715Z","count":144,"avg":1172,"min":827,"max":2595,"p95":1460}
-{"type":"ok","from":"2026-04-08T00:00:07.385Z","to":"2026-04-08T23:50:05.161Z","count":144,"avg":1267,"min":921,"max":2581,"p95":1836}
-{"type":"ok","from":"2026-04-09T00:00:05.685Z","to":"2026-04-09T13:50:07.463Z","count":84,"avg":1281,"min":865,"max":1843,"p95":1661}
-{"type":"fail","from":"2026-04-09T14:00:11.702Z","to":"2026-04-09T14:00:11.702Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T14:10:07.785Z","to":"2026-04-09T23:50:07.344Z","count":59,"avg":1058,"min":686,"max":1394,"p95":1297}
-{"type":"ok","from":"2026-04-10T00:00:07.037Z","to":"2026-04-10T23:50:07.329Z","count":144,"avg":1165,"min":615,"max":2709,"p95":1498}
-{"type":"ok","from":"2026-04-11T00:00:06.882Z","to":"2026-04-11T23:50:12.500Z","count":143,"avg":1356,"min":795,"max":3465,"p95":2527}
-{"type":"ok","from":"2026-04-12T00:00:11.449Z","to":"2026-04-12T13:50:11.414Z","count":86,"avg":1331,"min":934,"max":4090,"p95":2191}
-{"type":"fail","from":"2026-04-12T14:00:16.393Z","to":"2026-04-12T14:00:16.393Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T14:10:11.200Z","to":"2026-04-12T23:50:12.449Z","count":59,"avg":1316,"min":791,"max":4615,"p95":3147}
-{"type":"ok","from":"2026-04-13T00:00:12.503Z","to":"2026-04-13T15:00:12.033Z","count":86,"avg":1350,"min":856,"max":3518,"p95":2398}
-{"type":"ok","from":"2026-04-14T02:20:12.886Z","to":"2026-04-14T23:50:08.964Z","count":124,"avg":1038,"min":609,"max":2044,"p95":1281}
-{"type":"ok","from":"2026-04-15T00:00:11.642Z","to":"2026-04-15T23:50:10.100Z","count":141,"avg":1121,"min":869,"max":2289,"p95":1615}
-{"type":"ok","from":"2026-04-16T00:00:11.373Z","to":"2026-04-16T23:50:19.083Z","count":136,"avg":1119,"min":781,"max":2132,"p95":1463}
-{"type":"ok","from":"2026-04-17T00:00:29.516Z","to":"2026-04-17T23:50:11.673Z","count":140,"avg":1644,"min":940,"max":4013,"p95":2367}
-{"type":"ok","from":"2026-04-18T00:00:21.886Z","to":"2026-04-18T05:10:12.993Z","count":29,"avg":1768,"min":1251,"max":3199,"p95":2751}
-{"type":"fail","from":"2026-04-18T05:20:15.643Z","to":"2026-04-18T05:20:15.643Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T05:30:15.977Z","to":"2026-04-18T23:50:11.685Z","count":111,"avg":2162,"min":1112,"max":3916,"p95":2792}
+{"type":"ok","from":"2026-04-01T00:00:54.504Z","to":"2026-04-01T23:50:52.081Z","count":144,"avg":1152,"min":828,"max":2492,"p95":1498,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-02T00:00:54.607Z","to":"2026-04-02T16:10:54.427Z","count":98,"avg":1339,"min":918,"max":3866,"p95":2308,"url":"http://www.hornsun.com"}
+{"type":"fail","from":"2026-04-02T16:20:58.546Z","to":"2026-04-02T16:20:58.546Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-02T16:30:53.923Z","to":"2026-04-02T23:50:53.338Z","count":45,"avg":1120,"min":850,"max":2150,"p95":1922,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-03T00:00:53.154Z","to":"2026-04-03T23:50:54.414Z","count":144,"avg":1203,"min":811,"max":2341,"p95":1988,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-04T00:00:54.427Z","to":"2026-04-04T23:50:05.450Z","count":138,"avg":1229,"min":897,"max":2538,"p95":1853,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-05T00:00:07.702Z","to":"2026-04-05T23:50:04.308Z","count":144,"avg":1256,"min":803,"max":3403,"p95":1911,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-06T00:00:07.335Z","to":"2026-04-06T23:50:06.270Z","count":144,"avg":1234,"min":848,"max":3556,"p95":1705,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-07T00:00:06.819Z","to":"2026-04-07T23:50:07.715Z","count":144,"avg":1172,"min":827,"max":2595,"p95":1460,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-08T00:00:07.385Z","to":"2026-04-08T23:50:05.161Z","count":144,"avg":1267,"min":921,"max":2581,"p95":1836,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-09T00:00:05.685Z","to":"2026-04-09T13:50:07.463Z","count":84,"avg":1281,"min":865,"max":1843,"p95":1661,"url":"http://www.hornsun.com"}
+{"type":"fail","from":"2026-04-09T14:00:11.702Z","to":"2026-04-09T14:00:11.702Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-09T14:10:07.785Z","to":"2026-04-09T23:50:07.344Z","count":59,"avg":1058,"min":686,"max":1394,"p95":1297,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-10T00:00:07.037Z","to":"2026-04-10T23:50:07.329Z","count":144,"avg":1165,"min":615,"max":2709,"p95":1498,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-11T00:00:06.882Z","to":"2026-04-11T23:50:12.500Z","count":143,"avg":1356,"min":795,"max":3465,"p95":2527,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-12T00:00:11.449Z","to":"2026-04-12T13:50:11.414Z","count":86,"avg":1331,"min":934,"max":4090,"p95":2191,"url":"http://www.hornsun.com"}
+{"type":"fail","from":"2026-04-12T14:00:16.393Z","to":"2026-04-12T14:00:16.393Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-12T14:10:11.200Z","to":"2026-04-12T23:50:12.449Z","count":59,"avg":1316,"min":791,"max":4615,"p95":3147,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-13T00:00:12.503Z","to":"2026-04-13T15:00:12.033Z","count":86,"avg":1350,"min":856,"max":3518,"p95":2398,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-14T02:20:12.886Z","to":"2026-04-14T23:50:08.964Z","count":124,"avg":1038,"min":609,"max":2044,"p95":1281,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-15T00:00:11.642Z","to":"2026-04-15T23:50:10.100Z","count":141,"avg":1121,"min":869,"max":2289,"p95":1615,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-16T00:00:11.373Z","to":"2026-04-16T23:50:19.083Z","count":136,"avg":1119,"min":781,"max":2132,"p95":1463,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-17T00:00:29.516Z","to":"2026-04-17T23:50:11.673Z","count":140,"avg":1644,"min":940,"max":4013,"p95":2367,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-18T00:00:21.886Z","to":"2026-04-18T05:10:12.993Z","count":29,"avg":1768,"min":1251,"max":3199,"p95":2751,"url":"http://www.hornsun.com"}
+{"type":"fail","from":"2026-04-18T05:20:15.643Z","to":"2026-04-18T05:20:15.643Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-18T05:30:15.977Z","to":"2026-04-18T23:50:11.685Z","count":111,"avg":2162,"min":1112,"max":3916,"p95":2792,"url":"http://www.hornsun.com"}
+{"type":"ok","from":"2026-04-19T00:00:22.889Z","to":"2026-04-19T07:50:12.278Z","count":45,"url":"http://www.hornsun.com","avg":2065,"min":1501,"max":3312,"p95":2967}
+{"type":"fail","from":"2026-04-19T08:01:13.239Z","to":"2026-04-19T09:20:57.352Z","count":5,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-19T09:41:07.792Z","to":"2026-04-19T09:41:07.792Z","count":1,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-19T10:01:08.090Z","to":"2026-04-19T10:01:08.090Z","count":1,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-19T10:21:07.527Z","to":"2026-04-19T10:21:07.527Z","count":1,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-19T10:40:58.472Z","to":"2026-04-19T11:01:05.494Z","count":2,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-19T11:21:08.371Z","to":"2026-04-19T11:21:08.371Z","count":1,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-19T11:41:06.781Z","to":"2026-04-19T12:21:00.153Z","count":3,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-19T12:41:06.438Z","to":"2026-04-19T13:41:07.623Z","count":4,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-19T14:01:11.087Z","to":"2026-04-19T14:01:11.087Z","count":1,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-19T14:21:05.628Z","to":"2026-04-19T15:01:13.974Z","count":3,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-19T15:20:54.843Z","to":"2026-04-19T15:41:01.401Z","count":2,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-19T16:01:14.838Z","to":"2026-04-19T16:01:14.838Z","count":1,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-19T16:20:59.462Z","to":"2026-04-19T23:40:54.573Z","count":23,"url":"https://iserver.hornsun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}

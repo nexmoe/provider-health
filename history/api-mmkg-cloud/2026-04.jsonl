@@ -1,27 +1,29 @@
-{"url":"https://api.mmkg.cloud"}
-{"type":"ok","from":"2026-04-01T00:04:54.844Z","to":"2026-04-01T14:05:29.429Z","count":85,"avg":589,"min":234,"max":1644,"p95":1063}
-{"type":"fail","from":"2026-04-01T14:15:48.063Z","to":"2026-04-01T14:15:48.063Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-01T14:26:02.735Z","to":"2026-04-01T23:54:50.795Z","count":58,"avg":581,"min":190,"max":1211,"p95":1041}
-{"type":"ok","from":"2026-04-02T00:04:46.379Z","to":"2026-04-02T23:54:41.612Z","count":144,"avg":697,"min":196,"max":2614,"p95":1306}
-{"type":"ok","from":"2026-04-03T00:05:00.958Z","to":"2026-04-03T23:54:56.767Z","count":142,"avg":620,"min":214,"max":1753,"p95":1094}
-{"type":"ok","from":"2026-04-04T00:04:54.164Z","to":"2026-04-04T23:54:42.798Z","count":138,"avg":768,"min":195,"max":3816,"p95":1635}
-{"type":"ok","from":"2026-04-05T00:05:02.295Z","to":"2026-04-05T21:34:30.833Z","count":129,"avg":677,"min":220,"max":1951,"p95":1257}
-{"type":"fail","from":"2026-04-05T21:44:15.910Z","to":"2026-04-05T21:44:15.910Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T21:54:26.921Z","to":"2026-04-05T23:55:18.643Z","count":13,"avg":871,"min":344,"max":1429,"p95":1429}
-{"type":"ok","from":"2026-04-06T00:04:49.122Z","to":"2026-04-06T23:54:09.318Z","count":144,"avg":660,"min":212,"max":3288,"p95":1353}
-{"type":"ok","from":"2026-04-07T00:04:07.807Z","to":"2026-04-07T23:53:47.463Z","count":144,"avg":556,"min":210,"max":1170,"p95":912}
-{"type":"ok","from":"2026-04-08T00:04:23.687Z","to":"2026-04-08T23:54:47.666Z","count":144,"avg":817,"min":247,"max":3513,"p95":1920}
-{"type":"ok","from":"2026-04-09T00:04:27.920Z","to":"2026-04-09T23:54:03.730Z","count":144,"avg":702,"min":232,"max":2791,"p95":1524}
-{"type":"ok","from":"2026-04-10T00:04:05.427Z","to":"2026-04-10T23:54:06.573Z","count":143,"avg":530,"min":213,"max":1370,"p95":989}
-{"type":"ok","from":"2026-04-11T00:03:56.975Z","to":"2026-04-11T23:54:19.304Z","count":143,"avg":401,"min":174,"max":1074,"p95":804}
-{"type":"ok","from":"2026-04-12T00:04:03.216Z","to":"2026-04-12T23:53:44.554Z","count":142,"avg":456,"min":194,"max":1262,"p95":818}
-{"type":"ok","from":"2026-04-13T00:03:57.788Z","to":"2026-04-13T15:04:38.674Z","count":83,"avg":620,"min":209,"max":1849,"p95":1120}
-{"type":"ok","from":"2026-04-14T02:29:25.848Z","to":"2026-04-14T23:53:43.482Z","count":120,"avg":779,"min":217,"max":1720,"p95":1223}
-{"type":"ok","from":"2026-04-15T00:03:38.655Z","to":"2026-04-15T23:54:04.252Z","count":140,"avg":907,"min":286,"max":3413,"p95":1929}
-{"type":"ok","from":"2026-04-16T00:04:15.533Z","to":"2026-04-16T23:54:20.360Z","count":131,"avg":720,"min":183,"max":4995,"p95":1536}
-{"type":"ok","from":"2026-04-17T00:04:47.909Z","to":"2026-04-17T23:52:27.479Z","count":138,"avg":952,"min":286,"max":3156,"p95":2245}
-{"type":"ok","from":"2026-04-18T00:02:42.118Z","to":"2026-04-18T08:22:27.926Z","count":47,"avg":922,"min":207,"max":4388,"p95":2895}
-{"type":"fail","from":"2026-04-18T08:32:44.999Z","to":"2026-04-18T08:32:44.999Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T08:42:26.649Z","to":"2026-04-18T10:02:43.085Z","count":9,"avg":532,"min":264,"max":1052,"p95":1052}
-{"type":"fail","from":"2026-04-18T10:15:11.619Z","to":"2026-04-18T10:15:11.619Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T10:22:31.705Z","to":"2026-04-18T23:52:20.633Z","count":81,"avg":729,"min":240,"max":1379,"p95":1163}
+{"type":"ok","from":"2026-04-01T00:04:54.844Z","to":"2026-04-01T14:05:29.429Z","count":85,"avg":589,"min":234,"max":1644,"p95":1063,"url":"https://api.mmkg.cloud"}
+{"type":"fail","from":"2026-04-01T14:15:48.063Z","to":"2026-04-01T14:15:48.063Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-01T14:26:02.735Z","to":"2026-04-01T23:54:50.795Z","count":58,"avg":581,"min":190,"max":1211,"p95":1041,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-02T00:04:46.379Z","to":"2026-04-02T23:54:41.612Z","count":144,"avg":697,"min":196,"max":2614,"p95":1306,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-03T00:05:00.958Z","to":"2026-04-03T23:54:56.767Z","count":142,"avg":620,"min":214,"max":1753,"p95":1094,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-04T00:04:54.164Z","to":"2026-04-04T23:54:42.798Z","count":138,"avg":768,"min":195,"max":3816,"p95":1635,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-05T00:05:02.295Z","to":"2026-04-05T21:34:30.833Z","count":129,"avg":677,"min":220,"max":1951,"p95":1257,"url":"https://api.mmkg.cloud"}
+{"type":"fail","from":"2026-04-05T21:44:15.910Z","to":"2026-04-05T21:44:15.910Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-05T21:54:26.921Z","to":"2026-04-05T23:55:18.643Z","count":13,"avg":871,"min":344,"max":1429,"p95":1429,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-06T00:04:49.122Z","to":"2026-04-06T23:54:09.318Z","count":144,"avg":660,"min":212,"max":3288,"p95":1353,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-07T00:04:07.807Z","to":"2026-04-07T23:53:47.463Z","count":144,"avg":556,"min":210,"max":1170,"p95":912,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-08T00:04:23.687Z","to":"2026-04-08T23:54:47.666Z","count":144,"avg":817,"min":247,"max":3513,"p95":1920,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-09T00:04:27.920Z","to":"2026-04-09T23:54:03.730Z","count":144,"avg":702,"min":232,"max":2791,"p95":1524,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-10T00:04:05.427Z","to":"2026-04-10T23:54:06.573Z","count":143,"avg":530,"min":213,"max":1370,"p95":989,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-11T00:03:56.975Z","to":"2026-04-11T23:54:19.304Z","count":143,"avg":401,"min":174,"max":1074,"p95":804,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-12T00:04:03.216Z","to":"2026-04-12T23:53:44.554Z","count":142,"avg":456,"min":194,"max":1262,"p95":818,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-13T00:03:57.788Z","to":"2026-04-13T15:04:38.674Z","count":83,"avg":620,"min":209,"max":1849,"p95":1120,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-14T02:29:25.848Z","to":"2026-04-14T23:53:43.482Z","count":120,"avg":779,"min":217,"max":1720,"p95":1223,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-15T00:03:38.655Z","to":"2026-04-15T23:54:04.252Z","count":140,"avg":907,"min":286,"max":3413,"p95":1929,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-16T00:04:15.533Z","to":"2026-04-16T23:54:20.360Z","count":131,"avg":720,"min":183,"max":4995,"p95":1536,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-17T00:04:47.909Z","to":"2026-04-17T23:52:27.479Z","count":138,"avg":952,"min":286,"max":3156,"p95":2245,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-18T00:02:42.118Z","to":"2026-04-18T08:22:27.926Z","count":47,"avg":922,"min":207,"max":4388,"p95":2895,"url":"https://api.mmkg.cloud"}
+{"type":"fail","from":"2026-04-18T08:32:44.999Z","to":"2026-04-18T08:32:44.999Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-18T08:42:26.649Z","to":"2026-04-18T10:02:43.085Z","count":9,"avg":532,"min":264,"max":1052,"p95":1052,"url":"https://api.mmkg.cloud"}
+{"type":"fail","from":"2026-04-18T10:15:11.619Z","to":"2026-04-18T10:15:11.619Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-18T10:22:31.705Z","to":"2026-04-18T23:52:20.633Z","count":81,"avg":729,"min":240,"max":1379,"p95":1163,"url":"https://api.mmkg.cloud"}
+{"type":"ok","from":"2026-04-19T00:02:32.328Z","to":"2026-04-19T04:02:30.554Z","count":22,"url":"https://api.mmkg.cloud","avg":857,"min":349,"max":1336,"p95":1158}
+{"type":"ok","from":"2026-04-19T04:12:24.332Z","to":"2026-04-19T07:52:23.100Z","count":23,"url":"https://mmkg.cloud","avg":902,"min":732,"max":1407,"p95":1213}
+{"type":"ok","from":"2026-04-19T08:15:22.209Z","to":"2026-04-19T23:52:15.580Z","count":48,"url":"https://api.mmkg.cloud/api/status","avg":2019,"min":1171,"max":3871,"p95":3536}

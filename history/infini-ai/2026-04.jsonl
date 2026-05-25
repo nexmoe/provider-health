@@ -1,29 +1,30 @@
-{"url":"https://cloud.infini-ai.com"}
-{"type":"ok","from":"2026-04-01T00:01:37.122Z","to":"2026-04-01T23:51:34.537Z","count":144,"avg":980,"min":925,"max":1549,"p95":1116}
-{"type":"ok","from":"2026-04-02T00:01:36.810Z","to":"2026-04-02T23:51:39.161Z","count":144,"avg":994,"min":921,"max":1794,"p95":1264}
-{"type":"ok","from":"2026-04-03T00:01:37.148Z","to":"2026-04-03T23:51:36.664Z","count":143,"avg":1030,"min":921,"max":2106,"p95":1330}
-{"type":"ok","from":"2026-04-04T00:01:40.130Z","to":"2026-04-04T23:50:56.875Z","count":138,"avg":1062,"min":923,"max":2103,"p95":1314}
-{"type":"ok","from":"2026-04-05T00:00:53.812Z","to":"2026-04-05T23:50:54.101Z","count":144,"avg":1054,"min":924,"max":2159,"p95":1325}
-{"type":"ok","from":"2026-04-06T00:00:58.111Z","to":"2026-04-06T23:50:48.848Z","count":144,"avg":1018,"min":924,"max":2083,"p95":1274}
-{"type":"ok","from":"2026-04-07T00:00:57.277Z","to":"2026-04-07T23:50:48.576Z","count":144,"avg":994,"min":925,"max":2104,"p95":1184}
-{"type":"ok","from":"2026-04-08T00:01:01.420Z","to":"2026-04-08T23:50:55.607Z","count":144,"avg":1068,"min":927,"max":2614,"p95":1409}
-{"type":"ok","from":"2026-04-09T00:00:53.284Z","to":"2026-04-09T23:50:48.001Z","count":144,"avg":1059,"min":926,"max":2542,"p95":1387}
-{"type":"ok","from":"2026-04-10T00:00:49.952Z","to":"2026-04-10T23:50:49.887Z","count":144,"avg":1086,"min":929,"max":2508,"p95":1626}
-{"type":"ok","from":"2026-04-11T00:00:52.040Z","to":"2026-04-11T10:00:55.343Z","count":60,"avg":1636,"min":984,"max":4835,"p95":2954}
-{"type":"fail","from":"2026-04-11T10:11:13.024Z","to":"2026-04-11T10:11:13.024Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-11T10:21:03.968Z","to":"2026-04-11T23:50:50.735Z","count":82,"avg":1491,"min":991,"max":3810,"p95":2704}
-{"type":"ok","from":"2026-04-12T00:00:51.662Z","to":"2026-04-12T23:50:50.899Z","count":144,"avg":1322,"min":976,"max":4025,"p95":2554}
-{"type":"ok","from":"2026-04-13T00:00:54.192Z","to":"2026-04-13T15:00:55.255Z","count":86,"avg":1377,"min":976,"max":3131,"p95":2314}
-{"type":"ok","from":"2026-04-14T02:20:59.867Z","to":"2026-04-14T23:50:43.231Z","count":124,"avg":1028,"min":919,"max":2314,"p95":1282}
-{"type":"ok","from":"2026-04-15T00:00:45.817Z","to":"2026-04-15T23:50:50.411Z","count":141,"avg":1097,"min":971,"max":2196,"p95":1352}
-{"type":"ok","from":"2026-04-16T00:00:50.821Z","to":"2026-04-16T23:51:00.912Z","count":134,"avg":1174,"min":972,"max":2595,"p95":1569}
-{"type":"ok","from":"2026-04-17T00:01:18.961Z","to":"2026-04-17T08:20:33.576Z","count":49,"avg":1420,"min":1005,"max":3838,"p95":2898}
-{"type":"fail","from":"2026-04-17T08:30:41.746Z","to":"2026-04-17T08:30:41.746Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T08:50:33.505Z","to":"2026-04-17T23:50:34.795Z","count":90,"avg":2455,"min":1965,"max":3377,"p95":2938}
-{"type":"ok","from":"2026-04-18T00:00:44.126Z","to":"2026-04-18T03:00:42.932Z","count":19,"avg":2320,"min":1866,"max":2814,"p95":2814}
-{"type":"fail","from":"2026-04-18T03:10:32.960Z","to":"2026-04-18T03:10:32.960Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T03:20:32.918Z","to":"2026-04-18T11:40:34.092Z","count":48,"avg":2394,"min":1891,"max":3182,"p95":2929}
-{"type":"fail","from":"2026-04-18T11:50:35.783Z","to":"2026-04-18T11:50:35.783Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T12:00:41.571Z","to":"2026-04-18T17:30:37.010Z","count":34,"avg":2636,"min":2056,"max":3948,"p95":3781}
-{"type":"fail","from":"2026-04-18T17:40:36.551Z","to":"2026-04-18T17:40:36.551Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T17:50:30.604Z","to":"2026-04-18T23:50:32.469Z","count":37,"avg":2304,"min":1844,"max":3610,"p95":3017}
+{"type":"ok","from":"2026-04-01T00:01:37.122Z","to":"2026-04-01T23:51:34.537Z","count":144,"avg":980,"min":925,"max":1549,"p95":1116,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-02T00:01:36.810Z","to":"2026-04-02T23:51:39.161Z","count":144,"avg":994,"min":921,"max":1794,"p95":1264,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-03T00:01:37.148Z","to":"2026-04-03T23:51:36.664Z","count":143,"avg":1030,"min":921,"max":2106,"p95":1330,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-04T00:01:40.130Z","to":"2026-04-04T23:50:56.875Z","count":138,"avg":1062,"min":923,"max":2103,"p95":1314,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-05T00:00:53.812Z","to":"2026-04-05T23:50:54.101Z","count":144,"avg":1054,"min":924,"max":2159,"p95":1325,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-06T00:00:58.111Z","to":"2026-04-06T23:50:48.848Z","count":144,"avg":1018,"min":924,"max":2083,"p95":1274,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-07T00:00:57.277Z","to":"2026-04-07T23:50:48.576Z","count":144,"avg":994,"min":925,"max":2104,"p95":1184,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-08T00:01:01.420Z","to":"2026-04-08T23:50:55.607Z","count":144,"avg":1068,"min":927,"max":2614,"p95":1409,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-09T00:00:53.284Z","to":"2026-04-09T23:50:48.001Z","count":144,"avg":1059,"min":926,"max":2542,"p95":1387,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-10T00:00:49.952Z","to":"2026-04-10T23:50:49.887Z","count":144,"avg":1086,"min":929,"max":2508,"p95":1626,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-11T00:00:52.040Z","to":"2026-04-11T10:00:55.343Z","count":60,"avg":1636,"min":984,"max":4835,"p95":2954,"url":"https://cloud.infini-ai.com"}
+{"type":"fail","from":"2026-04-11T10:11:13.024Z","to":"2026-04-11T10:11:13.024Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-11T10:21:03.968Z","to":"2026-04-11T23:50:50.735Z","count":82,"avg":1491,"min":991,"max":3810,"p95":2704,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-12T00:00:51.662Z","to":"2026-04-12T23:50:50.899Z","count":144,"avg":1322,"min":976,"max":4025,"p95":2554,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-13T00:00:54.192Z","to":"2026-04-13T15:00:55.255Z","count":86,"avg":1377,"min":976,"max":3131,"p95":2314,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-14T02:20:59.867Z","to":"2026-04-14T23:50:43.231Z","count":124,"avg":1028,"min":919,"max":2314,"p95":1282,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-15T00:00:45.817Z","to":"2026-04-15T23:50:50.411Z","count":141,"avg":1097,"min":971,"max":2196,"p95":1352,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-16T00:00:50.821Z","to":"2026-04-16T23:51:00.912Z","count":134,"avg":1174,"min":972,"max":2595,"p95":1569,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-17T00:01:18.961Z","to":"2026-04-17T08:20:33.576Z","count":49,"avg":1420,"min":1005,"max":3838,"p95":2898,"url":"https://cloud.infini-ai.com"}
+{"type":"fail","from":"2026-04-17T08:30:41.746Z","to":"2026-04-17T08:30:41.746Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-17T08:50:33.505Z","to":"2026-04-17T23:50:34.795Z","count":90,"avg":2455,"min":1965,"max":3377,"p95":2938,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-18T00:00:44.126Z","to":"2026-04-18T03:00:42.932Z","count":19,"avg":2320,"min":1866,"max":2814,"p95":2814,"url":"https://cloud.infini-ai.com"}
+{"type":"fail","from":"2026-04-18T03:10:32.960Z","to":"2026-04-18T03:10:32.960Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-18T03:20:32.918Z","to":"2026-04-18T11:40:34.092Z","count":48,"avg":2394,"min":1891,"max":3182,"p95":2929,"url":"https://cloud.infini-ai.com"}
+{"type":"fail","from":"2026-04-18T11:50:35.783Z","to":"2026-04-18T11:50:35.783Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-18T12:00:41.571Z","to":"2026-04-18T17:30:37.010Z","count":34,"avg":2636,"min":2056,"max":3948,"p95":3781,"url":"https://cloud.infini-ai.com"}
+{"type":"fail","from":"2026-04-18T17:40:36.551Z","to":"2026-04-18T17:40:36.551Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-18T17:50:30.604Z","to":"2026-04-18T23:50:32.469Z","count":37,"avg":2304,"min":1844,"max":3610,"p95":3017,"url":"https://cloud.infini-ai.com"}
+{"type":"ok","from":"2026-04-19T00:00:44.644Z","to":"2026-04-19T07:50:31.270Z","count":45,"url":"https://cloud.infini-ai.com","avg":2508,"min":1865,"max":3761,"p95":3405}
+{"type":"ok","from":"2026-04-19T08:02:13.140Z","to":"2026-04-19T23:41:47.060Z","count":48,"url":"https://cloud.infini-ai.com/v1/models","avg":1273,"min":972,"max":2321,"p95":1654}

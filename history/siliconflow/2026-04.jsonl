@@ -1,297 +1,316 @@
-{"url":"https://account.siliconflow.cn"}
-{"type":"ok","from":"2026-04-01T00:01:39.967Z","to":"2026-04-01T23:51:37.458Z","count":144,"avg":3871,"min":3651,"max":4899,"p95":4248}
-{"type":"ok","from":"2026-04-02T00:01:39.608Z","to":"2026-04-02T13:31:50.256Z","count":82,"avg":3858,"min":3654,"max":4899,"p95":4161}
-{"type":"fail","from":"2026-04-02T13:41:55.815Z","to":"2026-04-02T13:41:55.815Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T13:51:51.030Z","to":"2026-04-02T14:01:42.827Z","count":2,"avg":4154,"min":3813,"max":4494,"p95":4494}
-{"type":"fail","from":"2026-04-02T14:11:52.123Z","to":"2026-04-02T14:11:52.123Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-02T14:21:52.664Z","to":"2026-04-02T18:01:45.592Z","count":23,"avg":3926,"min":3654,"max":4907,"p95":4567}
-{"type":"fail","from":"2026-04-02T18:11:47.540Z","to":"2026-04-02T18:21:48.040Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-02T18:31:42.328Z","to":"2026-04-02T19:01:42.333Z","count":4,"avg":4216,"min":4148,"max":4263,"p95":4263}
-{"type":"fail","from":"2026-04-02T19:11:43.556Z","to":"2026-04-02T19:11:43.556Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-02T19:21:41.104Z","to":"2026-04-02T23:51:41.949Z","count":28,"avg":3743,"min":3632,"max":4384,"p95":3968}
-{"type":"ok","from":"2026-04-03T00:01:39.975Z","to":"2026-04-03T07:21:50.432Z","count":45,"avg":3938,"min":3671,"max":4904,"p95":4477}
-{"type":"fail","from":"2026-04-03T07:31:46.526Z","to":"2026-04-03T07:31:46.526Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T07:41:45.365Z","to":"2026-04-03T07:51:46.157Z","count":2,"avg":4797,"min":4753,"max":4840,"p95":4840}
-{"type":"fail","from":"2026-04-03T08:01:49.774Z","to":"2026-04-03T08:01:49.774Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-03T08:11:46.036Z","to":"2026-04-03T08:11:46.036Z","count":1,"avg":3994,"min":3994,"max":3994,"p95":3994}
-{"type":"fail","from":"2026-04-03T08:21:48.328Z","to":"2026-04-03T08:21:48.328Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T08:31:48.374Z","to":"2026-04-03T08:31:48.374Z","count":1,"avg":3917,"min":3917,"max":3917,"p95":3917}
-{"type":"fail","from":"2026-04-03T08:41:48.010Z","to":"2026-04-03T08:41:48.010Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T08:51:45.728Z","to":"2026-04-03T12:01:46.678Z","count":20,"avg":4008,"min":3671,"max":4379,"p95":4379}
-{"type":"fail","from":"2026-04-03T12:11:49.139Z","to":"2026-04-03T12:11:49.139Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-03T12:21:55.919Z","to":"2026-04-03T12:41:45.770Z","count":3,"avg":4146,"min":4071,"max":4252,"p95":4252}
-{"type":"fail","from":"2026-04-03T12:51:52.868Z","to":"2026-04-03T12:51:52.868Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-03T13:01:52.378Z","to":"2026-04-03T15:01:51.402Z","count":13,"avg":4177,"min":4007,"max":4487,"p95":4487}
-{"type":"fail","from":"2026-04-03T15:11:51.328Z","to":"2026-04-03T15:11:51.328Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-03T15:21:42.138Z","to":"2026-04-03T23:51:39.448Z","count":51,"avg":3816,"min":3621,"max":4878,"p95":4171}
-{"type":"ok","from":"2026-04-04T00:01:42.911Z","to":"2026-04-04T12:00:59.688Z","count":67,"avg":3885,"min":3661,"max":4557,"p95":4166}
-{"type":"fail","from":"2026-04-04T12:11:05.716Z","to":"2026-04-04T12:11:05.716Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T12:21:08.962Z","to":"2026-04-04T12:21:08.962Z","count":1,"avg":4232,"min":4232,"max":4232,"p95":4232}
-{"type":"fail","from":"2026-04-04T12:31:10.278Z","to":"2026-04-04T12:31:10.278Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T12:41:12.765Z","to":"2026-04-04T13:11:07.085Z","count":4,"avg":4332,"min":4218,"max":4481,"p95":4481}
-{"type":"fail","from":"2026-04-04T13:21:00.845Z","to":"2026-04-04T13:21:00.845Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T13:31:05.842Z","to":"2026-04-04T13:51:06.945Z","count":3,"avg":4323,"min":4099,"max":4496,"p95":4496}
-{"type":"fail","from":"2026-04-04T14:01:03.013Z","to":"2026-04-04T14:01:03.013Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-04T14:11:03.132Z","to":"2026-04-04T22:30:55.413Z","count":51,"avg":3909,"min":3639,"max":4633,"p95":4384}
-{"type":"fail","from":"2026-04-04T22:40:57.380Z","to":"2026-04-04T22:40:57.380Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-04T22:50:52.837Z","to":"2026-04-04T23:50:59.675Z","count":7,"avg":3816,"min":3654,"max":3973,"p95":3973}
-{"type":"ok","from":"2026-04-05T00:00:56.571Z","to":"2026-04-05T06:11:03.728Z","count":38,"avg":3894,"min":3642,"max":4447,"p95":4392}
-{"type":"fail","from":"2026-04-05T06:21:09.045Z","to":"2026-04-05T06:21:09.045Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-05T06:31:04.069Z","to":"2026-04-05T06:41:02.488Z","count":2,"avg":3813,"min":3791,"max":3835,"p95":3835}
-{"type":"fail","from":"2026-04-05T06:50:59.822Z","to":"2026-04-05T06:50:59.822Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T07:01:04.542Z","to":"2026-04-05T13:11:07.591Z","count":38,"avg":3961,"min":3684,"max":4902,"p95":4382}
-{"type":"fail","from":"2026-04-05T13:21:05.611Z","to":"2026-04-05T13:21:05.611Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-05T13:31:04.232Z","to":"2026-04-05T23:50:56.889Z","count":63,"avg":3949,"min":3658,"max":5000,"p95":4620}
-{"type":"ok","from":"2026-04-06T00:01:00.866Z","to":"2026-04-06T15:10:59.285Z","count":92,"avg":3926,"min":3649,"max":4849,"p95":4418}
-{"type":"fail","from":"2026-04-06T15:21:02.565Z","to":"2026-04-06T15:21:02.565Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-06T15:31:00.574Z","to":"2026-04-06T23:50:51.602Z","count":51,"avg":3759,"min":3665,"max":4149,"p95":4007}
-{"type":"ok","from":"2026-04-07T00:01:00.352Z","to":"2026-04-07T03:01:01.510Z","count":19,"avg":3848,"min":3695,"max":4069,"p95":4069}
-{"type":"fail","from":"2026-04-07T03:10:56.350Z","to":"2026-04-07T03:10:56.350Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T03:21:01.182Z","to":"2026-04-07T13:10:54.867Z","count":60,"avg":3975,"min":3717,"max":4872,"p95":4615}
-{"type":"fail","from":"2026-04-07T13:21:03.002Z","to":"2026-04-07T13:21:03.002Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T13:30:58.081Z","to":"2026-04-07T13:51:05.374Z","count":3,"avg":4224,"min":4168,"max":4262,"p95":4262}
-{"type":"fail","from":"2026-04-07T14:01:08.379Z","to":"2026-04-07T14:01:08.379Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-07T14:10:58.769Z","to":"2026-04-07T17:00:53.763Z","count":18,"avg":3933,"min":3678,"max":4427,"p95":4427}
-{"type":"fail","from":"2026-04-07T17:10:56.460Z","to":"2026-04-07T17:10:56.460Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-07T17:20:54.836Z","to":"2026-04-07T23:50:51.337Z","count":40,"avg":3780,"min":3657,"max":4139,"p95":4083}
-{"type":"ok","from":"2026-04-08T00:01:04.189Z","to":"2026-04-08T06:30:59.847Z","count":40,"avg":3907,"min":3680,"max":4842,"p95":4368}
-{"type":"fail","from":"2026-04-08T06:41:02.002Z","to":"2026-04-08T06:41:02.002Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T06:50:57.256Z","to":"2026-04-08T10:31:05.258Z","count":23,"avg":3998,"min":3671,"max":4695,"p95":4291}
-{"type":"fail","from":"2026-04-08T10:40:58.608Z","to":"2026-04-08T10:40:58.608Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T10:51:09.117Z","to":"2026-04-08T13:31:09.268Z","count":17,"avg":4188,"min":3748,"max":4798,"p95":4798}
-{"type":"fail","from":"2026-04-08T13:41:06.828Z","to":"2026-04-08T13:51:07.514Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T14:01:04.982Z","to":"2026-04-08T14:01:04.982Z","count":1,"avg":4404,"min":4404,"max":4404,"p95":4404}
-{"type":"fail","from":"2026-04-08T14:11:14.364Z","to":"2026-04-08T14:11:14.364Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-08T14:21:07.812Z","to":"2026-04-08T15:01:03.395Z","count":5,"avg":4416,"min":4064,"max":4952,"p95":4952}
-{"type":"fail","from":"2026-04-08T15:11:10.032Z","to":"2026-04-08T15:11:10.032Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-08T15:21:02.467Z","to":"2026-04-08T22:50:59.334Z","count":46,"avg":3953,"min":3673,"max":4821,"p95":4472}
-{"type":"fail","from":"2026-04-08T23:00:54.524Z","to":"2026-04-08T23:00:54.524Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-08T23:11:04.200Z","to":"2026-04-08T23:50:58.426Z","count":5,"avg":3864,"min":3645,"max":4154,"p95":4154}
-{"type":"ok","from":"2026-04-09T00:00:56.042Z","to":"2026-04-09T02:11:00.324Z","count":14,"avg":4026,"min":3701,"max":4456,"p95":4456}
-{"type":"fail","from":"2026-04-09T02:21:03.189Z","to":"2026-04-09T02:21:03.189Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T02:31:03.570Z","to":"2026-04-09T06:20:52.409Z","count":24,"avg":4203,"min":3698,"max":4816,"p95":4801}
-{"type":"fail","from":"2026-04-09T06:31:01.990Z","to":"2026-04-09T06:31:01.990Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T06:41:03.995Z","to":"2026-04-09T08:01:01.495Z","count":9,"avg":4165,"min":4008,"max":4601,"p95":4601}
-{"type":"fail","from":"2026-04-09T08:11:04.901Z","to":"2026-04-09T08:11:04.901Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T08:21:05.907Z","to":"2026-04-09T11:41:00.878Z","count":21,"avg":3942,"min":3691,"max":4357,"p95":4348}
-{"type":"fail","from":"2026-04-09T11:50:57.511Z","to":"2026-04-09T11:50:57.511Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-09T12:00:55.050Z","to":"2026-04-09T13:31:04.147Z","count":10,"avg":4194,"min":3801,"max":4573,"p95":4573}
-{"type":"fail","from":"2026-04-09T13:41:02.289Z","to":"2026-04-09T13:41:02.289Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T13:51:03.218Z","to":"2026-04-09T14:21:01.264Z","count":4,"avg":4165,"min":4053,"max":4249,"p95":4249}
-{"type":"fail","from":"2026-04-09T14:31:01.603Z","to":"2026-04-09T14:41:03.053Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-09T14:50:58.873Z","to":"2026-04-09T23:50:50.788Z","count":55,"avg":3827,"min":3647,"max":4472,"p95":4254}
-{"type":"ok","from":"2026-04-10T00:00:52.686Z","to":"2026-04-10T02:10:59.495Z","count":14,"avg":3822,"min":3673,"max":4418,"p95":4418}
-{"type":"fail","from":"2026-04-10T02:20:58.590Z","to":"2026-04-10T02:41:00.844Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T02:51:03.872Z","to":"2026-04-10T12:40:59.479Z","count":60,"avg":4000,"min":3661,"max":4630,"p95":4554}
-{"type":"fail","from":"2026-04-10T12:50:59.369Z","to":"2026-04-10T12:50:59.369Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T13:01:01.329Z","to":"2026-04-10T13:30:54.667Z","count":4,"avg":4221,"min":3992,"max":4564,"p95":4564}
-{"type":"fail","from":"2026-04-10T13:41:04.912Z","to":"2026-04-10T13:41:04.912Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T13:50:56.945Z","to":"2026-04-10T13:50:56.945Z","count":1,"avg":4109,"min":4109,"max":4109,"p95":4109}
-{"type":"fail","from":"2026-04-10T14:00:58.629Z","to":"2026-04-10T14:00:58.629Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-10T14:10:55.310Z","to":"2026-04-10T14:30:51.364Z","count":3,"avg":4171,"min":4012,"max":4449,"p95":4449}
-{"type":"fail","from":"2026-04-10T14:40:53.652Z","to":"2026-04-10T14:40:53.652Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-10T14:50:51.209Z","to":"2026-04-10T15:50:57.848Z","count":7,"avg":4229,"min":3958,"max":4998,"p95":4998}
-{"type":"fail","from":"2026-04-10T16:01:10.104Z","to":"2026-04-10T16:21:04.120Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T16:30:59.025Z","to":"2026-04-10T16:30:59.025Z","count":1,"avg":4619,"min":4619,"max":4619,"p95":4619}
-{"type":"fail","from":"2026-04-10T16:40:56.377Z","to":"2026-04-10T16:40:56.377Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T16:51:01.292Z","to":"2026-04-10T17:21:00.875Z","count":4,"avg":4679,"min":4559,"max":4749,"p95":4749}
-{"type":"fail","from":"2026-04-10T17:30:50.796Z","to":"2026-04-10T17:30:50.796Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T17:40:58.422Z","to":"2026-04-10T17:40:58.422Z","count":1,"avg":3818,"min":3818,"max":3818,"p95":3818}
-{"type":"fail","from":"2026-04-10T17:50:52.960Z","to":"2026-04-10T17:50:52.960Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-10T18:00:54.954Z","to":"2026-04-10T23:50:52.604Z","count":36,"avg":3908,"min":3666,"max":4622,"p95":4349}
-{"type":"ok","from":"2026-04-11T00:00:54.987Z","to":"2026-04-11T01:30:55.562Z","count":10,"avg":4226,"min":3764,"max":4941,"p95":4941}
-{"type":"fail","from":"2026-04-11T01:40:59.825Z","to":"2026-04-11T01:40:59.825Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-11T01:50:50.683Z","to":"2026-04-11T01:50:50.683Z","count":1,"avg":4383,"min":4383,"max":4383,"p95":4383}
-{"type":"fail","from":"2026-04-11T02:00:57.578Z","to":"2026-04-11T02:00:57.578Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-11T02:11:00.327Z","to":"2026-04-11T02:21:03.698Z","count":2,"avg":4466,"min":4260,"max":4671,"p95":4671}
-{"type":"fail","from":"2026-04-11T02:31:00.999Z","to":"2026-04-11T02:31:00.999Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-11T02:40:53.900Z","to":"2026-04-11T02:40:53.900Z","count":1,"avg":4306,"min":4306,"max":4306,"p95":4306}
-{"type":"fail","from":"2026-04-11T02:50:59.792Z","to":"2026-04-11T03:00:56.991Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T03:10:59.597Z","to":"2026-04-11T03:10:59.597Z","count":1,"avg":4371,"min":4371,"max":4371,"p95":4371}
-{"type":"fail","from":"2026-04-11T03:21:00.221Z","to":"2026-04-11T03:41:02.087Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T03:50:59.493Z","to":"2026-04-11T04:01:03.221Z","count":2,"avg":4406,"min":4308,"max":4504,"p95":4504}
-{"type":"fail","from":"2026-04-11T04:11:03.898Z","to":"2026-04-11T06:21:07.140Z","count":14,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T06:31:00.890Z","to":"2026-04-11T06:31:00.890Z","count":1,"avg":4779,"min":4779,"max":4779,"p95":4779}
-{"type":"fail","from":"2026-04-11T06:41:00.646Z","to":"2026-04-11T07:31:07.114Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-11T07:41:07.923Z","to":"2026-04-11T07:41:07.923Z","count":1,"avg":4719,"min":4719,"max":4719,"p95":4719}
-{"type":"fail","from":"2026-04-11T08:01:02.761Z","to":"2026-04-11T08:41:00.305Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-11T08:51:04.305Z","to":"2026-04-11T08:51:04.305Z","count":1,"avg":4344,"min":4344,"max":4344,"p95":4344}
-{"type":"fail","from":"2026-04-11T09:00:57.686Z","to":"2026-04-11T09:20:55.096Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T09:31:02.413Z","to":"2026-04-11T09:31:02.413Z","count":1,"avg":4258,"min":4258,"max":4258,"p95":4258}
-{"type":"fail","from":"2026-04-11T09:41:05.019Z","to":"2026-04-11T10:30:57.548Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T10:40:53.590Z","to":"2026-04-11T10:40:53.590Z","count":1,"avg":4276,"min":4276,"max":4276,"p95":4276}
-{"type":"fail","from":"2026-04-11T10:51:00.252Z","to":"2026-04-11T11:11:02.352Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T11:21:05.571Z","to":"2026-04-11T11:21:05.571Z","count":1,"avg":4497,"min":4497,"max":4497,"p95":4497}
-{"type":"fail","from":"2026-04-11T11:31:06.296Z","to":"2026-04-11T13:11:09.566Z","count":11,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T13:21:06.650Z","to":"2026-04-11T13:21:06.650Z","count":1,"avg":4950,"min":4950,"max":4950,"p95":4950}
-{"type":"fail","from":"2026-04-11T13:31:09.360Z","to":"2026-04-11T16:21:04.546Z","count":18,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T16:31:00.974Z","to":"2026-04-11T16:31:00.974Z","count":1,"avg":4501,"min":4501,"max":4501,"p95":4501}
-{"type":"fail","from":"2026-04-11T16:41:03.349Z","to":"2026-04-11T16:41:03.349Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-11T16:50:58.193Z","to":"2026-04-11T17:01:08.055Z","count":2,"avg":4367,"min":4293,"max":4441,"p95":4441}
-{"type":"fail","from":"2026-04-11T17:11:03.680Z","to":"2026-04-11T17:50:56.455Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-11T18:00:59.280Z","to":"2026-04-11T23:50:54.755Z","count":36,"avg":3950,"min":3718,"max":4353,"p95":4348}
-{"type":"ok","from":"2026-04-12T00:00:55.693Z","to":"2026-04-12T04:00:58.832Z","count":25,"avg":4313,"min":3818,"max":4947,"p95":4917}
-{"type":"fail","from":"2026-04-12T04:11:01.238Z","to":"2026-04-12T04:11:01.238Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T04:20:59.450Z","to":"2026-04-12T05:01:00.829Z","count":5,"avg":4355,"min":3933,"max":4953,"p95":4953}
-{"type":"fail","from":"2026-04-12T05:10:56.360Z","to":"2026-04-12T05:10:56.360Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-12T05:20:53.305Z","to":"2026-04-12T05:20:53.305Z","count":1,"avg":4725,"min":4725,"max":4725,"p95":4725}
-{"type":"fail","from":"2026-04-12T05:31:00.147Z","to":"2026-04-12T05:31:00.147Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T05:40:59.520Z","to":"2026-04-12T06:01:00.139Z","count":3,"avg":4798,"min":4594,"max":4925,"p95":4925}
-{"type":"fail","from":"2026-04-12T06:10:57.412Z","to":"2026-04-12T06:10:57.412Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T06:21:07.087Z","to":"2026-04-12T06:50:58.886Z","count":4,"avg":4244,"min":3903,"max":4901,"p95":4901}
-{"type":"fail","from":"2026-04-12T07:01:01.287Z","to":"2026-04-12T07:01:01.287Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T07:11:04.859Z","to":"2026-04-12T07:21:01.670Z","count":2,"avg":4537,"min":4536,"max":4537,"p95":4537}
-{"type":"fail","from":"2026-04-12T07:31:06.347Z","to":"2026-04-12T07:31:06.347Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T07:40:58.046Z","to":"2026-04-12T07:40:58.046Z","count":1,"avg":4471,"min":4471,"max":4471,"p95":4471}
-{"type":"fail","from":"2026-04-12T07:51:01.711Z","to":"2026-04-12T07:51:01.711Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T08:01:05.003Z","to":"2026-04-12T08:21:00.346Z","count":4,"avg":4486,"min":4391,"max":4626,"p95":4626}
-{"type":"fail","from":"2026-04-12T08:30:58.670Z","to":"2026-04-12T09:00:54.077Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T09:21:01.094Z","to":"2026-04-12T09:21:01.094Z","count":1,"avg":4642,"min":4642,"max":4642,"p95":4642}
-{"type":"fail","from":"2026-04-12T09:31:00.462Z","to":"2026-04-12T09:31:00.462Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-12T09:40:57.523Z","to":"2026-04-12T10:10:49.119Z","count":4,"avg":4398,"min":4174,"max":4606,"p95":4606}
-{"type":"fail","from":"2026-04-12T10:20:55.620Z","to":"2026-04-12T10:20:55.620Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T10:30:56.400Z","to":"2026-04-12T10:41:14.643Z","count":2,"avg":4604,"min":4473,"max":4734,"p95":4734}
-{"type":"fail","from":"2026-04-12T10:51:06.907Z","to":"2026-04-12T10:51:06.907Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-12T11:00:54.722Z","to":"2026-04-12T11:30:57.170Z","count":4,"avg":4533,"min":4250,"max":4775,"p95":4775}
-{"type":"fail","from":"2026-04-12T11:41:02.226Z","to":"2026-04-12T11:50:52.750Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-12T12:00:56.960Z","to":"2026-04-12T12:00:56.960Z","count":1,"avg":4380,"min":4380,"max":4380,"p95":4380}
-{"type":"fail","from":"2026-04-12T12:10:59.073Z","to":"2026-04-12T13:35:17.039Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T13:41:00.675Z","to":"2026-04-12T13:41:00.675Z","count":1,"avg":4931,"min":4931,"max":4931,"p95":4931}
-{"type":"fail","from":"2026-04-12T13:51:01.876Z","to":"2026-04-12T15:40:57.226Z","count":11,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-12T15:50:57.014Z","to":"2026-04-12T16:00:56.117Z","count":2,"avg":4520,"min":4489,"max":4551,"p95":4551}
-{"type":"fail","from":"2026-04-12T16:10:58.252Z","to":"2026-04-12T16:10:58.252Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-12T16:20:58.873Z","to":"2026-04-12T16:20:58.873Z","count":1,"avg":4683,"min":4683,"max":4683,"p95":4683}
-{"type":"fail","from":"2026-04-12T16:30:58.138Z","to":"2026-04-12T16:30:58.138Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-12T16:40:57.843Z","to":"2026-04-12T17:40:50.101Z","count":7,"avg":4327,"min":4031,"max":4604,"p95":4604}
-{"type":"fail","from":"2026-04-12T17:50:58.603Z","to":"2026-04-12T17:50:58.603Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-12T18:00:51.830Z","to":"2026-04-12T23:50:53.750Z","count":36,"avg":3901,"min":3689,"max":4337,"p95":4210}
-{"type":"ok","from":"2026-04-13T00:00:56.967Z","to":"2026-04-13T01:40:57.138Z","count":11,"avg":4223,"min":3746,"max":4784,"p95":4784}
-{"type":"fail","from":"2026-04-13T01:50:56.195Z","to":"2026-04-13T02:10:55.421Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-13T02:21:00.173Z","to":"2026-04-13T02:30:56.476Z","count":2,"avg":4546,"min":4413,"max":4679,"p95":4679}
-{"type":"fail","from":"2026-04-13T02:40:53.812Z","to":"2026-04-13T02:51:03.841Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-13T03:00:53.534Z","to":"2026-04-13T03:50:53.556Z","count":5,"avg":4362,"min":4219,"max":4549,"p95":4549}
-{"type":"fail","from":"2026-04-13T04:01:02.884Z","to":"2026-04-13T04:10:57.434Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T04:34:52.196Z","to":"2026-04-13T04:34:52.196Z","count":1,"avg":4652,"min":4652,"max":4652,"p95":4652}
-{"type":"fail","from":"2026-04-13T04:40:55.073Z","to":"2026-04-13T05:10:56.198Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T05:20:55.592Z","to":"2026-04-13T05:20:55.592Z","count":1,"avg":4225,"min":4225,"max":4225,"p95":4225}
-{"type":"fail","from":"2026-04-13T05:30:57.895Z","to":"2026-04-13T05:30:57.895Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T05:40:53.984Z","to":"2026-04-13T05:40:53.984Z","count":1,"avg":4527,"min":4527,"max":4527,"p95":4527}
-{"type":"fail","from":"2026-04-13T05:51:01.525Z","to":"2026-04-13T05:51:01.525Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T06:00:53.417Z","to":"2026-04-13T06:30:57.486Z","count":4,"avg":4477,"min":4273,"max":4802,"p95":4802}
-{"type":"fail","from":"2026-04-13T06:40:54.777Z","to":"2026-04-13T06:40:54.777Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-13T06:50:55.744Z","to":"2026-04-13T06:50:55.744Z","count":1,"avg":4426,"min":4426,"max":4426,"p95":4426}
-{"type":"fail","from":"2026-04-13T07:01:00.263Z","to":"2026-04-13T07:01:00.263Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-13T07:10:57.500Z","to":"2026-04-13T07:10:57.500Z","count":1,"avg":4509,"min":4509,"max":4509,"p95":4509}
-{"type":"fail","from":"2026-04-13T07:20:55.111Z","to":"2026-04-13T07:20:55.111Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-13T07:30:56.919Z","to":"2026-04-13T07:40:50.364Z","count":2,"avg":4505,"min":4420,"max":4590,"p95":4590}
-{"type":"fail","from":"2026-04-13T07:50:57.360Z","to":"2026-04-13T07:50:57.360Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T08:01:00.701Z","to":"2026-04-13T08:01:00.701Z","count":1,"avg":4325,"min":4325,"max":4325,"p95":4325}
-{"type":"fail","from":"2026-04-13T08:10:55.475Z","to":"2026-04-13T08:20:58.166Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-13T08:30:57.056Z","to":"2026-04-13T08:40:57.818Z","count":2,"avg":4634,"min":4384,"max":4883,"p95":4883}
-{"type":"fail","from":"2026-04-13T08:51:02.112Z","to":"2026-04-13T08:51:02.112Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T09:20:58.362Z","to":"2026-04-13T09:20:58.362Z","count":1,"avg":4231,"min":4231,"max":4231,"p95":4231}
-{"type":"fail","from":"2026-04-13T09:30:57.294Z","to":"2026-04-13T09:30:57.294Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-13T09:40:59.219Z","to":"2026-04-13T10:10:54.173Z","count":2,"avg":4402,"min":4362,"max":4441,"p95":4441}
-{"type":"fail","from":"2026-04-13T10:12:57.106Z","to":"2026-04-13T10:12:57.106Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T10:20:59.243Z","to":"2026-04-13T11:00:55.364Z","count":5,"avg":4400,"min":4180,"max":4764,"p95":4764}
-{"type":"fail","from":"2026-04-13T11:10:58.561Z","to":"2026-04-13T11:40:54.788Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-13T11:50:50.869Z","to":"2026-04-13T12:31:01.816Z","count":5,"avg":4467,"min":4346,"max":4542,"p95":4542}
-{"type":"fail","from":"2026-04-13T12:40:58.103Z","to":"2026-04-13T13:40:58.151Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-13T13:51:02.368Z","to":"2026-04-13T13:51:02.368Z","count":1,"avg":4967,"min":4967,"max":4967,"p95":4967}
-{"type":"fail","from":"2026-04-13T14:01:04.159Z","to":"2026-04-13T15:00:58.811Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T02:21:02.699Z","to":"2026-04-14T02:21:02.699Z","count":1,"avg":3763,"min":3763,"max":3763,"p95":3763}
-{"type":"fail","from":"2026-04-14T02:26:04.807Z","to":"2026-04-14T02:26:04.807Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T02:40:57.545Z","to":"2026-04-14T05:50:53.209Z","count":13,"avg":3818,"min":3691,"max":4133,"p95":4133}
-{"type":"fail","from":"2026-04-14T06:00:58.890Z","to":"2026-04-14T06:00:58.890Z","count":1,"status":null,"error":"fetch failed","avg_latency":2361}
-{"type":"ok","from":"2026-04-14T06:10:54.509Z","to":"2026-04-14T08:33:01.970Z","count":17,"avg":3753,"min":3616,"max":4082,"p95":4082}
-{"type":"fail","from":"2026-04-14T08:41:08.585Z","to":"2026-04-14T08:41:08.585Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T08:50:51.418Z","to":"2026-04-14T12:30:58.962Z","count":23,"avg":3848,"min":3702,"max":4227,"p95":4169}
-{"type":"fail","from":"2026-04-14T12:40:56.402Z","to":"2026-04-14T12:40:56.402Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-14T12:50:57.136Z","to":"2026-04-14T13:10:55.806Z","count":3,"avg":4200,"min":4095,"max":4320,"p95":4320}
-{"type":"fail","from":"2026-04-14T13:20:59.912Z","to":"2026-04-14T13:31:02.165Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-14T13:41:05.458Z","to":"2026-04-14T14:20:58.421Z","count":5,"avg":4177,"min":3958,"max":4867,"p95":4867}
-{"type":"fail","from":"2026-04-14T14:40:59.063Z","to":"2026-04-14T15:01:02.189Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-14T15:11:16.756Z","to":"2026-04-14T19:00:46.625Z","count":24,"avg":3901,"min":3652,"max":4202,"p95":4180}
-{"type":"fail","from":"2026-04-14T19:10:57.443Z","to":"2026-04-14T19:10:57.443Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-14T19:20:48.022Z","to":"2026-04-14T23:50:46.064Z","count":28,"avg":3887,"min":3622,"max":4339,"p95":4250}
-{"type":"ok","from":"2026-04-15T00:00:48.735Z","to":"2026-04-15T13:11:05.806Z","count":77,"avg":4096,"min":3675,"max":4937,"p95":4734}
-{"type":"fail","from":"2026-04-15T13:21:07.826Z","to":"2026-04-15T13:21:07.826Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T13:41:09.364Z","to":"2026-04-15T13:41:09.364Z","count":1,"avg":4206,"min":4206,"max":4206,"p95":4206}
-{"type":"fail","from":"2026-04-15T13:51:06.539Z","to":"2026-04-15T13:51:06.539Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T14:01:06.981Z","to":"2026-04-15T14:01:06.981Z","count":1,"avg":4663,"min":4663,"max":4663,"p95":4663}
-{"type":"fail","from":"2026-04-15T14:03:33.348Z","to":"2026-04-15T14:11:08.329Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-15T14:21:02.835Z","to":"2026-04-15T14:41:03.636Z","count":3,"avg":4356,"min":4267,"max":4530,"p95":4530}
-{"type":"fail","from":"2026-04-15T14:51:26.443Z","to":"2026-04-15T14:51:26.443Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T15:01:10.035Z","to":"2026-04-15T15:41:07.144Z","count":5,"avg":4190,"min":3935,"max":4627,"p95":4627}
-{"type":"fail","from":"2026-04-15T15:51:00.113Z","to":"2026-04-15T15:51:00.113Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999}
-{"type":"ok","from":"2026-04-15T16:01:00.753Z","to":"2026-04-15T23:50:53.408Z","count":48,"avg":3937,"min":3630,"max":4785,"p95":4235}
-{"type":"ok","from":"2026-04-16T00:00:54.000Z","to":"2026-04-16T02:50:59.586Z","count":18,"avg":3959,"min":3753,"max":4336,"p95":4336}
-{"type":"fail","from":"2026-04-16T03:00:55.793Z","to":"2026-04-16T03:10:56.297Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T03:20:54.607Z","to":"2026-04-16T08:41:07.557Z","count":29,"avg":3960,"min":3640,"max":4374,"p95":4275}
-{"type":"fail","from":"2026-04-16T08:51:09.298Z","to":"2026-04-16T08:51:09.298Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T09:01:17.008Z","to":"2026-04-16T14:01:32.946Z","count":25,"avg":4062,"min":3600,"max":4549,"p95":4401}
-{"type":"fail","from":"2026-04-16T14:11:24.221Z","to":"2026-04-16T14:11:24.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-16T14:21:22.593Z","to":"2026-04-16T14:21:22.593Z","count":1,"avg":4040,"min":4040,"max":4040,"p95":4040}
-{"type":"fail","from":"2026-04-16T14:31:22.253Z","to":"2026-04-16T14:31:22.253Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-16T14:41:24.710Z","to":"2026-04-16T23:51:05.150Z","count":56,"avg":3899,"min":3620,"max":4908,"p95":4622}
-{"type":"ok","from":"2026-04-17T00:01:23.490Z","to":"2026-04-17T08:20:40.569Z","count":49,"avg":3838,"min":3625,"max":4230,"p95":4120}
-{"type":"fail","from":"2026-04-17T08:30:47.060Z","to":"2026-04-17T08:30:47.060Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T08:50:40.073Z","to":"2026-04-17T09:50:38.251Z","count":7,"avg":3977,"min":3717,"max":4378,"p95":4378}
-{"type":"fail","from":"2026-04-17T10:00:50.191Z","to":"2026-04-17T10:00:50.191Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T10:10:41.045Z","to":"2026-04-17T12:00:47.874Z","count":13,"avg":4115,"min":3718,"max":4602,"p95":4602}
-{"type":"fail","from":"2026-04-17T12:10:40.358Z","to":"2026-04-17T12:10:40.358Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-17T12:20:36.909Z","to":"2026-04-17T12:20:36.909Z","count":1,"avg":4183,"min":4183,"max":4183,"p95":4183}
-{"type":"fail","from":"2026-04-17T12:30:44.720Z","to":"2026-04-17T12:30:44.720Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T12:40:39.814Z","to":"2026-04-17T13:30:45.249Z","count":6,"avg":4438,"min":4201,"max":4649,"p95":4649}
-{"type":"fail","from":"2026-04-17T13:40:43.602Z","to":"2026-04-17T14:00:50.981Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-17T14:10:36.001Z","to":"2026-04-17T14:10:36.001Z","count":1,"avg":4260,"min":4260,"max":4260,"p95":4260}
-{"type":"fail","from":"2026-04-17T14:20:40.278Z","to":"2026-04-17T14:30:41.933Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-17T15:00:52.245Z","to":"2026-04-17T23:50:39.454Z","count":54,"avg":3980,"min":3647,"max":4925,"p95":4420}
-{"type":"fail","from":"2026-04-18T00:00:49.468Z","to":"2026-04-18T00:00:49.468Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T00:10:37.723Z","to":"2026-04-18T02:30:44.267Z","count":15,"avg":3991,"min":3725,"max":4515,"p95":4515}
-{"type":"fail","from":"2026-04-18T02:40:38.120Z","to":"2026-04-18T03:10:32.958Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T03:20:35.749Z","to":"2026-04-18T03:20:35.749Z","count":1,"avg":4935,"min":4935,"max":4935,"p95":4935}
-{"type":"fail","from":"2026-04-18T03:30:40.335Z","to":"2026-04-18T04:50:35.732Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T04:53:37.150Z","to":"2026-04-18T04:53:37.150Z","count":1,"avg":4789,"min":4789,"max":4789,"p95":4789}
-{"type":"fail","from":"2026-04-18T05:00:45.420Z","to":"2026-04-18T05:20:35.589Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-18T05:30:41.060Z","to":"2026-04-18T05:30:41.060Z","count":1,"avg":4867,"min":4867,"max":4867,"p95":4867}
-{"type":"fail","from":"2026-04-18T05:40:36.196Z","to":"2026-04-18T05:40:36.196Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-18T05:50:36.950Z","to":"2026-04-18T05:50:36.950Z","count":1,"avg":4914,"min":4914,"max":4914,"p95":4914}
-{"type":"fail","from":"2026-04-18T06:00:45.373Z","to":"2026-04-18T06:40:37.327Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T06:50:37.281Z","to":"2026-04-18T06:50:37.281Z","count":1,"avg":4986,"min":4986,"max":4986,"p95":4986}
-{"type":"fail","from":"2026-04-18T07:00:45.180Z","to":"2026-04-18T09:00:44.552Z","count":13,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T09:10:36.033Z","to":"2026-04-18T09:20:35.454Z","count":2,"avg":4900,"min":4813,"max":4986,"p95":4986}
-{"type":"fail","from":"2026-04-18T09:30:39.979Z","to":"2026-04-18T11:13:12.247Z","count":11,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-18T11:20:36.914Z","to":"2026-04-18T11:30:39.572Z","count":2,"avg":4971,"min":4943,"max":4999,"p95":4999}
-{"type":"fail","from":"2026-04-18T11:40:36.692Z","to":"2026-04-18T12:20:33.904Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5003}
-{"type":"ok","from":"2026-04-18T12:30:40.680Z","to":"2026-04-18T12:30:40.680Z","count":1,"avg":4799,"min":4799,"max":4799,"p95":4799}
-{"type":"fail","from":"2026-04-18T12:40:36.390Z","to":"2026-04-18T15:40:36.363Z","count":19,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T15:50:36.200Z","to":"2026-04-18T15:50:36.200Z","count":1,"avg":4937,"min":4937,"max":4937,"p95":4937}
-{"type":"fail","from":"2026-04-18T16:00:45.210Z","to":"2026-04-18T16:00:45.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T16:10:37.570Z","to":"2026-04-18T16:10:37.570Z","count":1,"avg":4940,"min":4940,"max":4940,"p95":4940}
-{"type":"fail","from":"2026-04-18T16:20:35.791Z","to":"2026-04-18T17:20:37.278Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T17:30:39.812Z","to":"2026-04-18T17:30:39.812Z","count":1,"avg":4935,"min":4935,"max":4935,"p95":4935}
-{"type":"fail","from":"2026-04-18T17:40:36.554Z","to":"2026-04-18T17:40:36.554Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003}
-{"type":"ok","from":"2026-04-18T17:50:33.490Z","to":"2026-04-18T17:50:33.490Z","count":1,"avg":4741,"min":4741,"max":4741,"p95":4741}
-{"type":"fail","from":"2026-04-18T18:00:41.816Z","to":"2026-04-18T18:00:41.816Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T18:10:35.851Z","to":"2026-04-18T18:10:35.851Z","count":1,"avg":4753,"min":4753,"max":4753,"p95":4753}
-{"type":"fail","from":"2026-04-18T18:20:36.057Z","to":"2026-04-18T18:30:39.991Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T18:40:35.657Z","to":"2026-04-18T18:40:35.657Z","count":1,"avg":4770,"min":4770,"max":4770,"p95":4770}
-{"type":"fail","from":"2026-04-18T18:50:35.815Z","to":"2026-04-18T18:50:35.815Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T19:00:43.972Z","to":"2026-04-18T19:10:34.588Z","count":2,"avg":4894,"min":4843,"max":4945,"p95":4945}
-{"type":"fail","from":"2026-04-18T19:20:36.036Z","to":"2026-04-18T19:30:40.670Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002}
-{"type":"ok","from":"2026-04-18T19:40:33.412Z","to":"2026-04-18T19:40:33.412Z","count":1,"avg":4781,"min":4781,"max":4781,"p95":4781}
-{"type":"fail","from":"2026-04-18T19:50:35.900Z","to":"2026-04-18T19:50:35.900Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T20:00:44.114Z","to":"2026-04-18T20:10:34.921Z","count":2,"avg":4823,"min":4777,"max":4868,"p95":4868}
-{"type":"fail","from":"2026-04-18T20:20:35.325Z","to":"2026-04-18T20:20:35.325Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T20:30:37.310Z","to":"2026-04-18T20:30:37.310Z","count":1,"avg":4937,"min":4937,"max":4937,"p95":4937}
-{"type":"fail","from":"2026-04-18T20:40:34.072Z","to":"2026-04-18T20:40:34.072Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T20:50:34.572Z","to":"2026-04-18T20:50:34.572Z","count":1,"avg":4871,"min":4871,"max":4871,"p95":4871}
-{"type":"fail","from":"2026-04-18T21:00:44.433Z","to":"2026-04-18T22:00:44.506Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T22:10:35.757Z","to":"2026-04-18T22:30:41.324Z","count":3,"avg":4823,"min":4741,"max":4946,"p95":4946}
-{"type":"fail","from":"2026-04-18T22:40:36.277Z","to":"2026-04-18T22:50:33.612Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-18T23:00:44.644Z","to":"2026-04-18T23:00:44.644Z","count":1,"avg":4884,"min":4884,"max":4884,"p95":4884}
-{"type":"fail","from":"2026-04-18T23:10:38.619Z","to":"2026-04-18T23:10:38.619Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T23:20:36.637Z","to":"2026-04-18T23:20:36.637Z","count":1,"avg":4920,"min":4920,"max":4920,"p95":4920}
-{"type":"fail","from":"2026-04-18T23:30:38.229Z","to":"2026-04-18T23:30:38.229Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-18T23:40:33.373Z","to":"2026-04-18T23:50:35.320Z","count":2,"avg":4782,"min":4694,"max":4869,"p95":4869}
+{"type":"ok","from":"2026-04-01T00:01:39.967Z","to":"2026-04-01T23:51:37.458Z","count":144,"avg":3871,"min":3651,"max":4899,"p95":4248,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-02T00:01:39.608Z","to":"2026-04-02T13:31:50.256Z","count":82,"avg":3858,"min":3654,"max":4899,"p95":4161,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-02T13:41:55.815Z","to":"2026-04-02T13:41:55.815Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-02T13:51:51.030Z","to":"2026-04-02T14:01:42.827Z","count":2,"avg":4154,"min":3813,"max":4494,"p95":4494,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-02T14:11:52.123Z","to":"2026-04-02T14:11:52.123Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-02T14:21:52.664Z","to":"2026-04-02T18:01:45.592Z","count":23,"avg":3926,"min":3654,"max":4907,"p95":4567,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-02T18:11:47.540Z","to":"2026-04-02T18:21:48.040Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-02T18:31:42.328Z","to":"2026-04-02T19:01:42.333Z","count":4,"avg":4216,"min":4148,"max":4263,"p95":4263,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-02T19:11:43.556Z","to":"2026-04-02T19:11:43.556Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-02T19:21:41.104Z","to":"2026-04-02T23:51:41.949Z","count":28,"avg":3743,"min":3632,"max":4384,"p95":3968,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-03T00:01:39.975Z","to":"2026-04-03T07:21:50.432Z","count":45,"avg":3938,"min":3671,"max":4904,"p95":4477,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-03T07:31:46.526Z","to":"2026-04-03T07:31:46.526Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-03T07:41:45.365Z","to":"2026-04-03T07:51:46.157Z","count":2,"avg":4797,"min":4753,"max":4840,"p95":4840,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-03T08:01:49.774Z","to":"2026-04-03T08:01:49.774Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-03T08:11:46.036Z","to":"2026-04-03T08:11:46.036Z","count":1,"avg":3994,"min":3994,"max":3994,"p95":3994,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-03T08:21:48.328Z","to":"2026-04-03T08:21:48.328Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-03T08:31:48.374Z","to":"2026-04-03T08:31:48.374Z","count":1,"avg":3917,"min":3917,"max":3917,"p95":3917,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-03T08:41:48.010Z","to":"2026-04-03T08:41:48.010Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-03T08:51:45.728Z","to":"2026-04-03T12:01:46.678Z","count":20,"avg":4008,"min":3671,"max":4379,"p95":4379,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-03T12:11:49.139Z","to":"2026-04-03T12:11:49.139Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-03T12:21:55.919Z","to":"2026-04-03T12:41:45.770Z","count":3,"avg":4146,"min":4071,"max":4252,"p95":4252,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-03T12:51:52.868Z","to":"2026-04-03T12:51:52.868Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-03T13:01:52.378Z","to":"2026-04-03T15:01:51.402Z","count":13,"avg":4177,"min":4007,"max":4487,"p95":4487,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-03T15:11:51.328Z","to":"2026-04-03T15:11:51.328Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-03T15:21:42.138Z","to":"2026-04-03T23:51:39.448Z","count":51,"avg":3816,"min":3621,"max":4878,"p95":4171,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-04T00:01:42.911Z","to":"2026-04-04T12:00:59.688Z","count":67,"avg":3885,"min":3661,"max":4557,"p95":4166,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-04T12:11:05.716Z","to":"2026-04-04T12:11:05.716Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-04T12:21:08.962Z","to":"2026-04-04T12:21:08.962Z","count":1,"avg":4232,"min":4232,"max":4232,"p95":4232,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-04T12:31:10.278Z","to":"2026-04-04T12:31:10.278Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-04T12:41:12.765Z","to":"2026-04-04T13:11:07.085Z","count":4,"avg":4332,"min":4218,"max":4481,"p95":4481,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-04T13:21:00.845Z","to":"2026-04-04T13:21:00.845Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-04T13:31:05.842Z","to":"2026-04-04T13:51:06.945Z","count":3,"avg":4323,"min":4099,"max":4496,"p95":4496,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-04T14:01:03.013Z","to":"2026-04-04T14:01:03.013Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-04T14:11:03.132Z","to":"2026-04-04T22:30:55.413Z","count":51,"avg":3909,"min":3639,"max":4633,"p95":4384,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-04T22:40:57.380Z","to":"2026-04-04T22:40:57.380Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-04T22:50:52.837Z","to":"2026-04-04T23:50:59.675Z","count":7,"avg":3816,"min":3654,"max":3973,"p95":3973,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-05T00:00:56.571Z","to":"2026-04-05T06:11:03.728Z","count":38,"avg":3894,"min":3642,"max":4447,"p95":4392,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-05T06:21:09.045Z","to":"2026-04-05T06:21:09.045Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-05T06:31:04.069Z","to":"2026-04-05T06:41:02.488Z","count":2,"avg":3813,"min":3791,"max":3835,"p95":3835,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-05T06:50:59.822Z","to":"2026-04-05T06:50:59.822Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-05T07:01:04.542Z","to":"2026-04-05T13:11:07.591Z","count":38,"avg":3961,"min":3684,"max":4902,"p95":4382,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-05T13:21:05.611Z","to":"2026-04-05T13:21:05.611Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-05T13:31:04.232Z","to":"2026-04-05T23:50:56.889Z","count":63,"avg":3949,"min":3658,"max":5000,"p95":4620,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-06T00:01:00.866Z","to":"2026-04-06T15:10:59.285Z","count":92,"avg":3926,"min":3649,"max":4849,"p95":4418,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-06T15:21:02.565Z","to":"2026-04-06T15:21:02.565Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-06T15:31:00.574Z","to":"2026-04-06T23:50:51.602Z","count":51,"avg":3759,"min":3665,"max":4149,"p95":4007,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-07T00:01:00.352Z","to":"2026-04-07T03:01:01.510Z","count":19,"avg":3848,"min":3695,"max":4069,"p95":4069,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-07T03:10:56.350Z","to":"2026-04-07T03:10:56.350Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-07T03:21:01.182Z","to":"2026-04-07T13:10:54.867Z","count":60,"avg":3975,"min":3717,"max":4872,"p95":4615,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-07T13:21:03.002Z","to":"2026-04-07T13:21:03.002Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-07T13:30:58.081Z","to":"2026-04-07T13:51:05.374Z","count":3,"avg":4224,"min":4168,"max":4262,"p95":4262,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-07T14:01:08.379Z","to":"2026-04-07T14:01:08.379Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-07T14:10:58.769Z","to":"2026-04-07T17:00:53.763Z","count":18,"avg":3933,"min":3678,"max":4427,"p95":4427,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-07T17:10:56.460Z","to":"2026-04-07T17:10:56.460Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-07T17:20:54.836Z","to":"2026-04-07T23:50:51.337Z","count":40,"avg":3780,"min":3657,"max":4139,"p95":4083,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-08T00:01:04.189Z","to":"2026-04-08T06:30:59.847Z","count":40,"avg":3907,"min":3680,"max":4842,"p95":4368,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-08T06:41:02.002Z","to":"2026-04-08T06:41:02.002Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-08T06:50:57.256Z","to":"2026-04-08T10:31:05.258Z","count":23,"avg":3998,"min":3671,"max":4695,"p95":4291,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-08T10:40:58.608Z","to":"2026-04-08T10:40:58.608Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-08T10:51:09.117Z","to":"2026-04-08T13:31:09.268Z","count":17,"avg":4188,"min":3748,"max":4798,"p95":4798,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-08T13:41:06.828Z","to":"2026-04-08T13:51:07.514Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-08T14:01:04.982Z","to":"2026-04-08T14:01:04.982Z","count":1,"avg":4404,"min":4404,"max":4404,"p95":4404,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-08T14:11:14.364Z","to":"2026-04-08T14:11:14.364Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-08T14:21:07.812Z","to":"2026-04-08T15:01:03.395Z","count":5,"avg":4416,"min":4064,"max":4952,"p95":4952,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-08T15:11:10.032Z","to":"2026-04-08T15:11:10.032Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-08T15:21:02.467Z","to":"2026-04-08T22:50:59.334Z","count":46,"avg":3953,"min":3673,"max":4821,"p95":4472,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-08T23:00:54.524Z","to":"2026-04-08T23:00:54.524Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-08T23:11:04.200Z","to":"2026-04-08T23:50:58.426Z","count":5,"avg":3864,"min":3645,"max":4154,"p95":4154,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-09T00:00:56.042Z","to":"2026-04-09T02:11:00.324Z","count":14,"avg":4026,"min":3701,"max":4456,"p95":4456,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-09T02:21:03.189Z","to":"2026-04-09T02:21:03.189Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-09T02:31:03.570Z","to":"2026-04-09T06:20:52.409Z","count":24,"avg":4203,"min":3698,"max":4816,"p95":4801,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-09T06:31:01.990Z","to":"2026-04-09T06:31:01.990Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-09T06:41:03.995Z","to":"2026-04-09T08:01:01.495Z","count":9,"avg":4165,"min":4008,"max":4601,"p95":4601,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-09T08:11:04.901Z","to":"2026-04-09T08:11:04.901Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-09T08:21:05.907Z","to":"2026-04-09T11:41:00.878Z","count":21,"avg":3942,"min":3691,"max":4357,"p95":4348,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-09T11:50:57.511Z","to":"2026-04-09T11:50:57.511Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-09T12:00:55.050Z","to":"2026-04-09T13:31:04.147Z","count":10,"avg":4194,"min":3801,"max":4573,"p95":4573,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-09T13:41:02.289Z","to":"2026-04-09T13:41:02.289Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-09T13:51:03.218Z","to":"2026-04-09T14:21:01.264Z","count":4,"avg":4165,"min":4053,"max":4249,"p95":4249,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-09T14:31:01.603Z","to":"2026-04-09T14:41:03.053Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-09T14:50:58.873Z","to":"2026-04-09T23:50:50.788Z","count":55,"avg":3827,"min":3647,"max":4472,"p95":4254,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T00:00:52.686Z","to":"2026-04-10T02:10:59.495Z","count":14,"avg":3822,"min":3673,"max":4418,"p95":4418,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T02:20:58.590Z","to":"2026-04-10T02:41:00.844Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T02:51:03.872Z","to":"2026-04-10T12:40:59.479Z","count":60,"avg":4000,"min":3661,"max":4630,"p95":4554,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T12:50:59.369Z","to":"2026-04-10T12:50:59.369Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T13:01:01.329Z","to":"2026-04-10T13:30:54.667Z","count":4,"avg":4221,"min":3992,"max":4564,"p95":4564,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T13:41:04.912Z","to":"2026-04-10T13:41:04.912Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T13:50:56.945Z","to":"2026-04-10T13:50:56.945Z","count":1,"avg":4109,"min":4109,"max":4109,"p95":4109,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T14:00:58.629Z","to":"2026-04-10T14:00:58.629Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T14:10:55.310Z","to":"2026-04-10T14:30:51.364Z","count":3,"avg":4171,"min":4012,"max":4449,"p95":4449,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T14:40:53.652Z","to":"2026-04-10T14:40:53.652Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T14:50:51.209Z","to":"2026-04-10T15:50:57.848Z","count":7,"avg":4229,"min":3958,"max":4998,"p95":4998,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T16:01:10.104Z","to":"2026-04-10T16:21:04.120Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T16:30:59.025Z","to":"2026-04-10T16:30:59.025Z","count":1,"avg":4619,"min":4619,"max":4619,"p95":4619,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T16:40:56.377Z","to":"2026-04-10T16:40:56.377Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T16:51:01.292Z","to":"2026-04-10T17:21:00.875Z","count":4,"avg":4679,"min":4559,"max":4749,"p95":4749,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T17:30:50.796Z","to":"2026-04-10T17:30:50.796Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T17:40:58.422Z","to":"2026-04-10T17:40:58.422Z","count":1,"avg":3818,"min":3818,"max":3818,"p95":3818,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-10T17:50:52.960Z","to":"2026-04-10T17:50:52.960Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-10T18:00:54.954Z","to":"2026-04-10T23:50:52.604Z","count":36,"avg":3908,"min":3666,"max":4622,"p95":4349,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T00:00:54.987Z","to":"2026-04-11T01:30:55.562Z","count":10,"avg":4226,"min":3764,"max":4941,"p95":4941,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T01:40:59.825Z","to":"2026-04-11T01:40:59.825Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T01:50:50.683Z","to":"2026-04-11T01:50:50.683Z","count":1,"avg":4383,"min":4383,"max":4383,"p95":4383,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T02:00:57.578Z","to":"2026-04-11T02:00:57.578Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T02:11:00.327Z","to":"2026-04-11T02:21:03.698Z","count":2,"avg":4466,"min":4260,"max":4671,"p95":4671,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T02:31:00.999Z","to":"2026-04-11T02:31:00.999Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T02:40:53.900Z","to":"2026-04-11T02:40:53.900Z","count":1,"avg":4306,"min":4306,"max":4306,"p95":4306,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T02:50:59.792Z","to":"2026-04-11T03:00:56.991Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T03:10:59.597Z","to":"2026-04-11T03:10:59.597Z","count":1,"avg":4371,"min":4371,"max":4371,"p95":4371,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T03:21:00.221Z","to":"2026-04-11T03:41:02.087Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T03:50:59.493Z","to":"2026-04-11T04:01:03.221Z","count":2,"avg":4406,"min":4308,"max":4504,"p95":4504,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T04:11:03.898Z","to":"2026-04-11T06:21:07.140Z","count":14,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T06:31:00.890Z","to":"2026-04-11T06:31:00.890Z","count":1,"avg":4779,"min":4779,"max":4779,"p95":4779,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T06:41:00.646Z","to":"2026-04-11T07:31:07.114Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T07:41:07.923Z","to":"2026-04-11T07:41:07.923Z","count":1,"avg":4719,"min":4719,"max":4719,"p95":4719,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T08:01:02.761Z","to":"2026-04-11T08:41:00.305Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T08:51:04.305Z","to":"2026-04-11T08:51:04.305Z","count":1,"avg":4344,"min":4344,"max":4344,"p95":4344,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T09:00:57.686Z","to":"2026-04-11T09:20:55.096Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T09:31:02.413Z","to":"2026-04-11T09:31:02.413Z","count":1,"avg":4258,"min":4258,"max":4258,"p95":4258,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T09:41:05.019Z","to":"2026-04-11T10:30:57.548Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T10:40:53.590Z","to":"2026-04-11T10:40:53.590Z","count":1,"avg":4276,"min":4276,"max":4276,"p95":4276,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T10:51:00.252Z","to":"2026-04-11T11:11:02.352Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T11:21:05.571Z","to":"2026-04-11T11:21:05.571Z","count":1,"avg":4497,"min":4497,"max":4497,"p95":4497,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T11:31:06.296Z","to":"2026-04-11T13:11:09.566Z","count":11,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T13:21:06.650Z","to":"2026-04-11T13:21:06.650Z","count":1,"avg":4950,"min":4950,"max":4950,"p95":4950,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T13:31:09.360Z","to":"2026-04-11T16:21:04.546Z","count":18,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T16:31:00.974Z","to":"2026-04-11T16:31:00.974Z","count":1,"avg":4501,"min":4501,"max":4501,"p95":4501,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T16:41:03.349Z","to":"2026-04-11T16:41:03.349Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T16:50:58.193Z","to":"2026-04-11T17:01:08.055Z","count":2,"avg":4367,"min":4293,"max":4441,"p95":4441,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-11T17:11:03.680Z","to":"2026-04-11T17:50:56.455Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-11T18:00:59.280Z","to":"2026-04-11T23:50:54.755Z","count":36,"avg":3950,"min":3718,"max":4353,"p95":4348,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T00:00:55.693Z","to":"2026-04-12T04:00:58.832Z","count":25,"avg":4313,"min":3818,"max":4947,"p95":4917,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T04:11:01.238Z","to":"2026-04-12T04:11:01.238Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T04:20:59.450Z","to":"2026-04-12T05:01:00.829Z","count":5,"avg":4355,"min":3933,"max":4953,"p95":4953,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T05:10:56.360Z","to":"2026-04-12T05:10:56.360Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T05:20:53.305Z","to":"2026-04-12T05:20:53.305Z","count":1,"avg":4725,"min":4725,"max":4725,"p95":4725,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T05:31:00.147Z","to":"2026-04-12T05:31:00.147Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T05:40:59.520Z","to":"2026-04-12T06:01:00.139Z","count":3,"avg":4798,"min":4594,"max":4925,"p95":4925,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T06:10:57.412Z","to":"2026-04-12T06:10:57.412Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T06:21:07.087Z","to":"2026-04-12T06:50:58.886Z","count":4,"avg":4244,"min":3903,"max":4901,"p95":4901,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T07:01:01.287Z","to":"2026-04-12T07:01:01.287Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T07:11:04.859Z","to":"2026-04-12T07:21:01.670Z","count":2,"avg":4537,"min":4536,"max":4537,"p95":4537,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T07:31:06.347Z","to":"2026-04-12T07:31:06.347Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T07:40:58.046Z","to":"2026-04-12T07:40:58.046Z","count":1,"avg":4471,"min":4471,"max":4471,"p95":4471,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T07:51:01.711Z","to":"2026-04-12T07:51:01.711Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T08:01:05.003Z","to":"2026-04-12T08:21:00.346Z","count":4,"avg":4486,"min":4391,"max":4626,"p95":4626,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T08:30:58.670Z","to":"2026-04-12T09:00:54.077Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T09:21:01.094Z","to":"2026-04-12T09:21:01.094Z","count":1,"avg":4642,"min":4642,"max":4642,"p95":4642,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T09:31:00.462Z","to":"2026-04-12T09:31:00.462Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T09:40:57.523Z","to":"2026-04-12T10:10:49.119Z","count":4,"avg":4398,"min":4174,"max":4606,"p95":4606,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T10:20:55.620Z","to":"2026-04-12T10:20:55.620Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T10:30:56.400Z","to":"2026-04-12T10:41:14.643Z","count":2,"avg":4604,"min":4473,"max":4734,"p95":4734,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T10:51:06.907Z","to":"2026-04-12T10:51:06.907Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T11:00:54.722Z","to":"2026-04-12T11:30:57.170Z","count":4,"avg":4533,"min":4250,"max":4775,"p95":4775,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T11:41:02.226Z","to":"2026-04-12T11:50:52.750Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T12:00:56.960Z","to":"2026-04-12T12:00:56.960Z","count":1,"avg":4380,"min":4380,"max":4380,"p95":4380,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T12:10:59.073Z","to":"2026-04-12T13:35:17.039Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T13:41:00.675Z","to":"2026-04-12T13:41:00.675Z","count":1,"avg":4931,"min":4931,"max":4931,"p95":4931,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T13:51:01.876Z","to":"2026-04-12T15:40:57.226Z","count":11,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T15:50:57.014Z","to":"2026-04-12T16:00:56.117Z","count":2,"avg":4520,"min":4489,"max":4551,"p95":4551,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T16:10:58.252Z","to":"2026-04-12T16:10:58.252Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T16:20:58.873Z","to":"2026-04-12T16:20:58.873Z","count":1,"avg":4683,"min":4683,"max":4683,"p95":4683,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T16:30:58.138Z","to":"2026-04-12T16:30:58.138Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T16:40:57.843Z","to":"2026-04-12T17:40:50.101Z","count":7,"avg":4327,"min":4031,"max":4604,"p95":4604,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-12T17:50:58.603Z","to":"2026-04-12T17:50:58.603Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-12T18:00:51.830Z","to":"2026-04-12T23:50:53.750Z","count":36,"avg":3901,"min":3689,"max":4337,"p95":4210,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T00:00:56.967Z","to":"2026-04-13T01:40:57.138Z","count":11,"avg":4223,"min":3746,"max":4784,"p95":4784,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T01:50:56.195Z","to":"2026-04-13T02:10:55.421Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T02:21:00.173Z","to":"2026-04-13T02:30:56.476Z","count":2,"avg":4546,"min":4413,"max":4679,"p95":4679,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T02:40:53.812Z","to":"2026-04-13T02:51:03.841Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T03:00:53.534Z","to":"2026-04-13T03:50:53.556Z","count":5,"avg":4362,"min":4219,"max":4549,"p95":4549,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T04:01:02.884Z","to":"2026-04-13T04:10:57.434Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T04:34:52.196Z","to":"2026-04-13T04:34:52.196Z","count":1,"avg":4652,"min":4652,"max":4652,"p95":4652,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T04:40:55.073Z","to":"2026-04-13T05:10:56.198Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T05:20:55.592Z","to":"2026-04-13T05:20:55.592Z","count":1,"avg":4225,"min":4225,"max":4225,"p95":4225,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T05:30:57.895Z","to":"2026-04-13T05:30:57.895Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T05:40:53.984Z","to":"2026-04-13T05:40:53.984Z","count":1,"avg":4527,"min":4527,"max":4527,"p95":4527,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T05:51:01.525Z","to":"2026-04-13T05:51:01.525Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T06:00:53.417Z","to":"2026-04-13T06:30:57.486Z","count":4,"avg":4477,"min":4273,"max":4802,"p95":4802,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T06:40:54.777Z","to":"2026-04-13T06:40:54.777Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T06:50:55.744Z","to":"2026-04-13T06:50:55.744Z","count":1,"avg":4426,"min":4426,"max":4426,"p95":4426,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T07:01:00.263Z","to":"2026-04-13T07:01:00.263Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T07:10:57.500Z","to":"2026-04-13T07:10:57.500Z","count":1,"avg":4509,"min":4509,"max":4509,"p95":4509,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T07:20:55.111Z","to":"2026-04-13T07:20:55.111Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T07:30:56.919Z","to":"2026-04-13T07:40:50.364Z","count":2,"avg":4505,"min":4420,"max":4590,"p95":4590,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T07:50:57.360Z","to":"2026-04-13T07:50:57.360Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T08:01:00.701Z","to":"2026-04-13T08:01:00.701Z","count":1,"avg":4325,"min":4325,"max":4325,"p95":4325,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T08:10:55.475Z","to":"2026-04-13T08:20:58.166Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T08:30:57.056Z","to":"2026-04-13T08:40:57.818Z","count":2,"avg":4634,"min":4384,"max":4883,"p95":4883,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T08:51:02.112Z","to":"2026-04-13T08:51:02.112Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T09:20:58.362Z","to":"2026-04-13T09:20:58.362Z","count":1,"avg":4231,"min":4231,"max":4231,"p95":4231,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T09:30:57.294Z","to":"2026-04-13T09:30:57.294Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T09:40:59.219Z","to":"2026-04-13T10:10:54.173Z","count":2,"avg":4402,"min":4362,"max":4441,"p95":4441,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T10:12:57.106Z","to":"2026-04-13T10:12:57.106Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T10:20:59.243Z","to":"2026-04-13T11:00:55.364Z","count":5,"avg":4400,"min":4180,"max":4764,"p95":4764,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T11:10:58.561Z","to":"2026-04-13T11:40:54.788Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T11:50:50.869Z","to":"2026-04-13T12:31:01.816Z","count":5,"avg":4467,"min":4346,"max":4542,"p95":4542,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T12:40:58.103Z","to":"2026-04-13T13:40:58.151Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-13T13:51:02.368Z","to":"2026-04-13T13:51:02.368Z","count":1,"avg":4967,"min":4967,"max":4967,"p95":4967,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-13T14:01:04.159Z","to":"2026-04-13T15:00:58.811Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-14T02:21:02.699Z","to":"2026-04-14T02:21:02.699Z","count":1,"avg":3763,"min":3763,"max":3763,"p95":3763,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-14T02:26:04.807Z","to":"2026-04-14T02:26:04.807Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-14T02:40:57.545Z","to":"2026-04-14T05:50:53.209Z","count":13,"avg":3818,"min":3691,"max":4133,"p95":4133,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-14T06:00:58.890Z","to":"2026-04-14T06:00:58.890Z","count":1,"status":null,"error":"fetch failed","avg_latency":2361,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-14T06:10:54.509Z","to":"2026-04-14T08:33:01.970Z","count":17,"avg":3753,"min":3616,"max":4082,"p95":4082,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-14T08:41:08.585Z","to":"2026-04-14T08:41:08.585Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-14T08:50:51.418Z","to":"2026-04-14T12:30:58.962Z","count":23,"avg":3848,"min":3702,"max":4227,"p95":4169,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-14T12:40:56.402Z","to":"2026-04-14T12:40:56.402Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-14T12:50:57.136Z","to":"2026-04-14T13:10:55.806Z","count":3,"avg":4200,"min":4095,"max":4320,"p95":4320,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-14T13:20:59.912Z","to":"2026-04-14T13:31:02.165Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-14T13:41:05.458Z","to":"2026-04-14T14:20:58.421Z","count":5,"avg":4177,"min":3958,"max":4867,"p95":4867,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-14T14:40:59.063Z","to":"2026-04-14T15:01:02.189Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-14T15:11:16.756Z","to":"2026-04-14T19:00:46.625Z","count":24,"avg":3901,"min":3652,"max":4202,"p95":4180,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-14T19:10:57.443Z","to":"2026-04-14T19:10:57.443Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-14T19:20:48.022Z","to":"2026-04-14T23:50:46.064Z","count":28,"avg":3887,"min":3622,"max":4339,"p95":4250,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-15T00:00:48.735Z","to":"2026-04-15T13:11:05.806Z","count":77,"avg":4096,"min":3675,"max":4937,"p95":4734,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-15T13:21:07.826Z","to":"2026-04-15T13:21:07.826Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-15T13:41:09.364Z","to":"2026-04-15T13:41:09.364Z","count":1,"avg":4206,"min":4206,"max":4206,"p95":4206,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-15T13:51:06.539Z","to":"2026-04-15T13:51:06.539Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-15T14:01:06.981Z","to":"2026-04-15T14:01:06.981Z","count":1,"avg":4663,"min":4663,"max":4663,"p95":4663,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-15T14:03:33.348Z","to":"2026-04-15T14:11:08.329Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-15T14:21:02.835Z","to":"2026-04-15T14:41:03.636Z","count":3,"avg":4356,"min":4267,"max":4530,"p95":4530,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-15T14:51:26.443Z","to":"2026-04-15T14:51:26.443Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-15T15:01:10.035Z","to":"2026-04-15T15:41:07.144Z","count":5,"avg":4190,"min":3935,"max":4627,"p95":4627,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-15T15:51:00.113Z","to":"2026-04-15T15:51:00.113Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":4999,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-15T16:01:00.753Z","to":"2026-04-15T23:50:53.408Z","count":48,"avg":3937,"min":3630,"max":4785,"p95":4235,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-16T00:00:54.000Z","to":"2026-04-16T02:50:59.586Z","count":18,"avg":3959,"min":3753,"max":4336,"p95":4336,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-16T03:00:55.793Z","to":"2026-04-16T03:10:56.297Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-16T03:20:54.607Z","to":"2026-04-16T08:41:07.557Z","count":29,"avg":3960,"min":3640,"max":4374,"p95":4275,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-16T08:51:09.298Z","to":"2026-04-16T08:51:09.298Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-16T09:01:17.008Z","to":"2026-04-16T14:01:32.946Z","count":25,"avg":4062,"min":3600,"max":4549,"p95":4401,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-16T14:11:24.221Z","to":"2026-04-16T14:11:24.221Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-16T14:21:22.593Z","to":"2026-04-16T14:21:22.593Z","count":1,"avg":4040,"min":4040,"max":4040,"p95":4040,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-16T14:31:22.253Z","to":"2026-04-16T14:31:22.253Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-16T14:41:24.710Z","to":"2026-04-16T23:51:05.150Z","count":56,"avg":3899,"min":3620,"max":4908,"p95":4622,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-17T00:01:23.490Z","to":"2026-04-17T08:20:40.569Z","count":49,"avg":3838,"min":3625,"max":4230,"p95":4120,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-17T08:30:47.060Z","to":"2026-04-17T08:30:47.060Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-17T08:50:40.073Z","to":"2026-04-17T09:50:38.251Z","count":7,"avg":3977,"min":3717,"max":4378,"p95":4378,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-17T10:00:50.191Z","to":"2026-04-17T10:00:50.191Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-17T10:10:41.045Z","to":"2026-04-17T12:00:47.874Z","count":13,"avg":4115,"min":3718,"max":4602,"p95":4602,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-17T12:10:40.358Z","to":"2026-04-17T12:10:40.358Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-17T12:20:36.909Z","to":"2026-04-17T12:20:36.909Z","count":1,"avg":4183,"min":4183,"max":4183,"p95":4183,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-17T12:30:44.720Z","to":"2026-04-17T12:30:44.720Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-17T12:40:39.814Z","to":"2026-04-17T13:30:45.249Z","count":6,"avg":4438,"min":4201,"max":4649,"p95":4649,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-17T13:40:43.602Z","to":"2026-04-17T14:00:50.981Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-17T14:10:36.001Z","to":"2026-04-17T14:10:36.001Z","count":1,"avg":4260,"min":4260,"max":4260,"p95":4260,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-17T14:20:40.278Z","to":"2026-04-17T14:30:41.933Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-17T15:00:52.245Z","to":"2026-04-17T23:50:39.454Z","count":54,"avg":3980,"min":3647,"max":4925,"p95":4420,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T00:00:49.468Z","to":"2026-04-18T00:00:49.468Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T00:10:37.723Z","to":"2026-04-18T02:30:44.267Z","count":15,"avg":3991,"min":3725,"max":4515,"p95":4515,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T02:40:38.120Z","to":"2026-04-18T03:10:32.958Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T03:20:35.749Z","to":"2026-04-18T03:20:35.749Z","count":1,"avg":4935,"min":4935,"max":4935,"p95":4935,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T03:30:40.335Z","to":"2026-04-18T04:50:35.732Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T04:53:37.150Z","to":"2026-04-18T04:53:37.150Z","count":1,"avg":4789,"min":4789,"max":4789,"p95":4789,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T05:00:45.420Z","to":"2026-04-18T05:20:35.589Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T05:30:41.060Z","to":"2026-04-18T05:30:41.060Z","count":1,"avg":4867,"min":4867,"max":4867,"p95":4867,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T05:40:36.196Z","to":"2026-04-18T05:40:36.196Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T05:50:36.950Z","to":"2026-04-18T05:50:36.950Z","count":1,"avg":4914,"min":4914,"max":4914,"p95":4914,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T06:00:45.373Z","to":"2026-04-18T06:40:37.327Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T06:50:37.281Z","to":"2026-04-18T06:50:37.281Z","count":1,"avg":4986,"min":4986,"max":4986,"p95":4986,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T07:00:45.180Z","to":"2026-04-18T09:00:44.552Z","count":13,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T09:10:36.033Z","to":"2026-04-18T09:20:35.454Z","count":2,"avg":4900,"min":4813,"max":4986,"p95":4986,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T09:30:39.979Z","to":"2026-04-18T11:13:12.247Z","count":11,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T11:20:36.914Z","to":"2026-04-18T11:30:39.572Z","count":2,"avg":4971,"min":4943,"max":4999,"p95":4999,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T11:40:36.692Z","to":"2026-04-18T12:20:33.904Z","count":5,"status":null,"error":"Healthcheck timeout","avg_latency":5003,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T12:30:40.680Z","to":"2026-04-18T12:30:40.680Z","count":1,"avg":4799,"min":4799,"max":4799,"p95":4799,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T12:40:36.390Z","to":"2026-04-18T15:40:36.363Z","count":19,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T15:50:36.200Z","to":"2026-04-18T15:50:36.200Z","count":1,"avg":4937,"min":4937,"max":4937,"p95":4937,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T16:00:45.210Z","to":"2026-04-18T16:00:45.210Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T16:10:37.570Z","to":"2026-04-18T16:10:37.570Z","count":1,"avg":4940,"min":4940,"max":4940,"p95":4940,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T16:20:35.791Z","to":"2026-04-18T17:20:37.278Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T17:30:39.812Z","to":"2026-04-18T17:30:39.812Z","count":1,"avg":4935,"min":4935,"max":4935,"p95":4935,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T17:40:36.554Z","to":"2026-04-18T17:40:36.554Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5003,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T17:50:33.490Z","to":"2026-04-18T17:50:33.490Z","count":1,"avg":4741,"min":4741,"max":4741,"p95":4741,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T18:00:41.816Z","to":"2026-04-18T18:00:41.816Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T18:10:35.851Z","to":"2026-04-18T18:10:35.851Z","count":1,"avg":4753,"min":4753,"max":4753,"p95":4753,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T18:20:36.057Z","to":"2026-04-18T18:30:39.991Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T18:40:35.657Z","to":"2026-04-18T18:40:35.657Z","count":1,"avg":4770,"min":4770,"max":4770,"p95":4770,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T18:50:35.815Z","to":"2026-04-18T18:50:35.815Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T19:00:43.972Z","to":"2026-04-18T19:10:34.588Z","count":2,"avg":4894,"min":4843,"max":4945,"p95":4945,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T19:20:36.036Z","to":"2026-04-18T19:30:40.670Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5002,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T19:40:33.412Z","to":"2026-04-18T19:40:33.412Z","count":1,"avg":4781,"min":4781,"max":4781,"p95":4781,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T19:50:35.900Z","to":"2026-04-18T19:50:35.900Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T20:00:44.114Z","to":"2026-04-18T20:10:34.921Z","count":2,"avg":4823,"min":4777,"max":4868,"p95":4868,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T20:20:35.325Z","to":"2026-04-18T20:20:35.325Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T20:30:37.310Z","to":"2026-04-18T20:30:37.310Z","count":1,"avg":4937,"min":4937,"max":4937,"p95":4937,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T20:40:34.072Z","to":"2026-04-18T20:40:34.072Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T20:50:34.572Z","to":"2026-04-18T20:50:34.572Z","count":1,"avg":4871,"min":4871,"max":4871,"p95":4871,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T21:00:44.433Z","to":"2026-04-18T22:00:44.506Z","count":7,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T22:10:35.757Z","to":"2026-04-18T22:30:41.324Z","count":3,"avg":4823,"min":4741,"max":4946,"p95":4946,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T22:40:36.277Z","to":"2026-04-18T22:50:33.612Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T23:00:44.644Z","to":"2026-04-18T23:00:44.644Z","count":1,"avg":4884,"min":4884,"max":4884,"p95":4884,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T23:10:38.619Z","to":"2026-04-18T23:10:38.619Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T23:20:36.637Z","to":"2026-04-18T23:20:36.637Z","count":1,"avg":4920,"min":4920,"max":4920,"p95":4920,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-18T23:30:38.229Z","to":"2026-04-18T23:30:38.229Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://account.siliconflow.cn"}
+{"type":"ok","from":"2026-04-18T23:40:33.373Z","to":"2026-04-18T23:50:35.320Z","count":2,"avg":4782,"min":4694,"max":4869,"p95":4869,"url":"https://account.siliconflow.cn"}
+{"type":"fail","from":"2026-04-19T00:00:47.222Z","to":"2026-04-19T00:00:47.222Z","count":1,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T00:10:33.807Z","to":"2026-04-19T00:10:33.807Z","count":1,"url":"https://account.siliconflow.cn","avg":4711,"min":4711,"max":4711,"p95":4711}
+{"type":"fail","from":"2026-04-19T00:20:36.193Z","to":"2026-04-19T01:40:37.412Z","count":9,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T01:50:35.940Z","to":"2026-04-19T01:50:35.940Z","count":1,"url":"https://account.siliconflow.cn","avg":4623,"min":4623,"max":4623,"p95":4623}
+{"type":"fail","from":"2026-04-19T02:00:45.114Z","to":"2026-04-19T02:00:45.114Z","count":1,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5002}
+{"type":"ok","from":"2026-04-19T02:10:36.937Z","to":"2026-04-19T02:20:36.197Z","count":2,"url":"https://account.siliconflow.cn","avg":4823,"min":4726,"max":4919,"p95":4919}
+{"type":"fail","from":"2026-04-19T02:30:40.385Z","to":"2026-04-19T02:50:36.349Z","count":3,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T03:00:45.656Z","to":"2026-04-19T03:00:45.656Z","count":1,"url":"https://account.siliconflow.cn","avg":4918,"min":4918,"max":4918,"p95":4918}
+{"type":"fail","from":"2026-04-19T03:10:36.298Z","to":"2026-04-19T04:10:36.013Z","count":4,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T04:20:29.552Z","to":"2026-04-19T04:20:29.552Z","count":1,"url":"https://account.siliconflow.cn","avg":4712,"min":4712,"max":4712,"p95":4712}
+{"type":"fail","from":"2026-04-19T04:30:37.820Z","to":"2026-04-19T05:00:42.245Z","count":4,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T05:10:32.888Z","to":"2026-04-19T05:10:32.888Z","count":1,"url":"https://account.siliconflow.cn","avg":4946,"min":4946,"max":4946,"p95":4946}
+{"type":"fail","from":"2026-04-19T05:20:31.169Z","to":"2026-04-19T06:00:42.539Z","count":5,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T06:10:33.737Z","to":"2026-04-19T06:10:33.737Z","count":1,"url":"https://account.siliconflow.cn","avg":4975,"min":4975,"max":4975,"p95":4975}
+{"type":"fail","from":"2026-04-19T06:20:32.895Z","to":"2026-04-19T07:00:46.038Z","count":5,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T07:10:34.551Z","to":"2026-04-19T07:10:34.551Z","count":1,"url":"https://account.siliconflow.cn","avg":4922,"min":4922,"max":4922,"p95":4922}
+{"type":"fail","from":"2026-04-19T07:20:33.246Z","to":"2026-04-19T07:30:40.175Z","count":2,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T07:40:33.796Z","to":"2026-04-19T07:40:33.796Z","count":1,"url":"https://account.siliconflow.cn","avg":4840,"min":4840,"max":4840,"p95":4840}
+{"type":"fail","from":"2026-04-19T07:50:33.983Z","to":"2026-04-19T07:50:33.983Z","count":1,"url":"https://account.siliconflow.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
+{"type":"ok","from":"2026-04-19T08:02:16.603Z","to":"2026-04-19T23:41:51.236Z","count":48,"url":"https://account.siliconflow.cn/zh/login?redirect=https%3A%2F%2Fcloud.siliconflow.cn%2Fv1%2Fmodels%3F","avg":2403,"min":2169,"max":3949,"p95":3575}

@@ -1,2 +1,4 @@
-{"url":"https://www.go1c.cn/v1"}
-{"type":"fail","from":"2026-04-18T13:12:46.640Z","to":"2026-04-18T23:52:39.165Z","count":65,"status":404,"error":"HTTP 404","avg_latency":1037}
+{"type":"fail","from":"2026-04-18T13:12:46.640Z","to":"2026-04-18T23:52:39.165Z","count":65,"status":404,"error":"HTTP 404","avg_latency":1037,"url":"https://www.go1c.cn/v1"}
+{"type":"fail","from":"2026-04-19T00:02:50.523Z","to":"2026-04-19T01:52:32.071Z","count":12,"url":"https://www.go1c.cn/v1","status":404,"error":"HTTP 404","avg_latency":952}
+{"type":"ok","from":"2026-04-19T02:02:46.407Z","to":"2026-04-19T07:52:43.306Z","count":33,"url":"https://www.go1c.cn","avg":964,"min":264,"max":1309,"p95":1133}
+{"type":"ok","from":"2026-04-19T08:15:59.039Z","to":"2026-04-19T23:53:17.494Z","count":48,"url":"https://www.go1c.cn/api/status","avg":2498,"min":1837,"max":3931,"p95":3239}

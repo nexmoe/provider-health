@@ -1,43 +1,44 @@
-{"url":"https://sufy.com"}
-{"type":"ok","from":"2026-04-01T00:01:18.276Z","to":"2026-04-01T23:51:14.852Z","count":144,"avg":415,"min":226,"max":2634,"p95":664}
-{"type":"ok","from":"2026-04-02T00:01:14.821Z","to":"2026-04-02T23:51:16.181Z","count":144,"avg":423,"min":199,"max":1980,"p95":834}
-{"type":"ok","from":"2026-04-03T00:01:15.307Z","to":"2026-04-03T23:51:15.577Z","count":143,"avg":402,"min":216,"max":1574,"p95":687}
-{"type":"ok","from":"2026-04-04T00:01:15.665Z","to":"2026-04-04T23:50:29.164Z","count":138,"avg":506,"min":221,"max":3165,"p95":995}
-{"type":"ok","from":"2026-04-05T00:00:29.422Z","to":"2026-04-05T01:20:31.128Z","count":9,"avg":599,"min":364,"max":911,"p95":911}
-{"type":"fail","from":"2026-04-05T01:30:33.514Z","to":"2026-04-05T01:30:33.514Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3251}
-{"type":"ok","from":"2026-04-05T01:40:32.147Z","to":"2026-04-05T01:50:33.163Z","count":2,"avg":1456,"min":1057,"max":1855,"p95":1855}
-{"type":"fail","from":"2026-04-05T02:00:33.232Z","to":"2026-04-05T02:00:33.232Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3283}
-{"type":"ok","from":"2026-04-05T02:10:28.269Z","to":"2026-04-05T02:40:31.243Z","count":4,"avg":755,"min":553,"max":945,"p95":945}
-{"type":"fail","from":"2026-04-05T02:50:33.575Z","to":"2026-04-05T02:50:33.575Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3234}
-{"type":"ok","from":"2026-04-05T03:00:31.111Z","to":"2026-04-05T03:00:31.111Z","count":1,"avg":1058,"min":1058,"max":1058,"p95":1058}
-{"type":"fail","from":"2026-04-05T03:10:31.439Z","to":"2026-04-05T03:10:31.439Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3206}
-{"type":"ok","from":"2026-04-05T03:20:28.559Z","to":"2026-04-05T03:40:30.267Z","count":3,"avg":843,"min":548,"max":1297,"p95":1297}
-{"type":"fail","from":"2026-04-05T03:50:32.587Z","to":"2026-04-05T03:50:32.587Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-05T04:00:30.929Z","to":"2026-04-05T23:50:26.383Z","count":120,"avg":471,"min":211,"max":1279,"p95":1027}
-{"type":"ok","from":"2026-04-06T00:00:36.461Z","to":"2026-04-06T23:50:27.777Z","count":144,"avg":465,"min":219,"max":1287,"p95":833}
-{"type":"ok","from":"2026-04-07T00:00:31.635Z","to":"2026-04-07T23:50:26.874Z","count":144,"avg":482,"min":218,"max":1486,"p95":895}
-{"type":"ok","from":"2026-04-08T00:00:31.126Z","to":"2026-04-08T23:50:28.019Z","count":144,"avg":501,"min":229,"max":1414,"p95":984}
-{"type":"ok","from":"2026-04-09T00:00:28.200Z","to":"2026-04-09T01:30:34.549Z","count":10,"avg":664,"min":372,"max":1016,"p95":1016}
-{"type":"fail","from":"2026-04-09T01:40:33.733Z","to":"2026-04-09T01:40:33.733Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3257}
-{"type":"ok","from":"2026-04-09T01:50:34.416Z","to":"2026-04-09T02:20:31.588Z","count":4,"avg":476,"min":352,"max":634,"p95":634}
-{"type":"fail","from":"2026-04-09T02:30:35.376Z","to":"2026-04-09T02:30:35.376Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"ok","from":"2026-04-09T02:40:28.381Z","to":"2026-04-09T02:50:35.102Z","count":2,"avg":886,"min":567,"max":1204,"p95":1204}
-{"type":"fail","from":"2026-04-09T03:00:35.990Z","to":"2026-04-09T03:30:34.193Z","count":4,"status":502,"error":"HTTP 502","avg_latency":3396}
-{"type":"fail","from":"2026-04-09T03:40:37.974Z","to":"2026-04-09T03:40:37.974Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-09T03:50:32.227Z","to":"2026-04-09T03:50:32.227Z","count":1,"avg":882,"min":882,"max":882,"p95":882}
-{"type":"fail","from":"2026-04-09T04:00:37.137Z","to":"2026-04-09T04:00:37.137Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001}
-{"type":"fail","from":"2026-04-09T04:10:35.346Z","to":"2026-04-09T04:30:38.698Z","count":3,"status":502,"error":"HTTP 502","avg_latency":3376}
-{"type":"ok","from":"2026-04-09T04:40:35.014Z","to":"2026-04-09T05:20:35.081Z","count":5,"avg":544,"min":236,"max":824,"p95":824}
-{"type":"fail","from":"2026-04-09T05:30:40.147Z","to":"2026-04-09T05:30:40.147Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3287}
-{"type":"ok","from":"2026-04-09T05:40:37.760Z","to":"2026-04-09T23:50:26.137Z","count":110,"avg":407,"min":209,"max":3202,"p95":770}
-{"type":"ok","from":"2026-04-10T00:00:28.449Z","to":"2026-04-10T23:50:26.002Z","count":144,"avg":345,"min":215,"max":692,"p95":611}
-{"type":"ok","from":"2026-04-11T00:00:31.718Z","to":"2026-04-11T23:50:30.471Z","count":143,"avg":313,"min":204,"max":879,"p95":481}
-{"type":"ok","from":"2026-04-12T00:00:30.040Z","to":"2026-04-12T23:50:30.273Z","count":145,"avg":335,"min":202,"max":2375,"p95":532}
-{"type":"ok","from":"2026-04-13T00:00:32.542Z","to":"2026-04-13T15:00:31.214Z","count":86,"avg":330,"min":210,"max":656,"p95":487}
-{"type":"ok","from":"2026-04-14T02:20:35.215Z","to":"2026-04-14T23:50:26.694Z","count":124,"avg":448,"min":199,"max":3178,"p95":1064}
-{"type":"ok","from":"2026-04-15T00:00:29.194Z","to":"2026-04-15T11:50:30.213Z","count":70,"avg":417,"min":219,"max":1367,"p95":707}
-{"type":"fail","from":"2026-04-15T12:10:34.405Z","to":"2026-04-15T12:10:34.405Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000}
-{"type":"ok","from":"2026-04-15T12:20:34.788Z","to":"2026-04-15T23:50:29.197Z","count":70,"avg":445,"min":212,"max":2370,"p95":742}
-{"type":"ok","from":"2026-04-16T00:00:31.034Z","to":"2026-04-16T23:50:38.084Z","count":135,"avg":408,"min":227,"max":972,"p95":682}
-{"type":"ok","from":"2026-04-17T00:00:55.975Z","to":"2026-04-17T23:50:22.917Z","count":140,"avg":648,"min":239,"max":4770,"p95":1225}
-{"type":"ok","from":"2026-04-18T00:00:31.665Z","to":"2026-04-18T23:50:20.549Z","count":141,"avg":488,"min":244,"max":2860,"p95":850}
+{"type":"ok","from":"2026-04-01T00:01:18.276Z","to":"2026-04-01T23:51:14.852Z","count":144,"avg":415,"min":226,"max":2634,"p95":664,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-02T00:01:14.821Z","to":"2026-04-02T23:51:16.181Z","count":144,"avg":423,"min":199,"max":1980,"p95":834,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-03T00:01:15.307Z","to":"2026-04-03T23:51:15.577Z","count":143,"avg":402,"min":216,"max":1574,"p95":687,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-04T00:01:15.665Z","to":"2026-04-04T23:50:29.164Z","count":138,"avg":506,"min":221,"max":3165,"p95":995,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-05T00:00:29.422Z","to":"2026-04-05T01:20:31.128Z","count":9,"avg":599,"min":364,"max":911,"p95":911,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-05T01:30:33.514Z","to":"2026-04-05T01:30:33.514Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3251,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-05T01:40:32.147Z","to":"2026-04-05T01:50:33.163Z","count":2,"avg":1456,"min":1057,"max":1855,"p95":1855,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-05T02:00:33.232Z","to":"2026-04-05T02:00:33.232Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3283,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-05T02:10:28.269Z","to":"2026-04-05T02:40:31.243Z","count":4,"avg":755,"min":553,"max":945,"p95":945,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-05T02:50:33.575Z","to":"2026-04-05T02:50:33.575Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3234,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-05T03:00:31.111Z","to":"2026-04-05T03:00:31.111Z","count":1,"avg":1058,"min":1058,"max":1058,"p95":1058,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-05T03:10:31.439Z","to":"2026-04-05T03:10:31.439Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3206,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-05T03:20:28.559Z","to":"2026-04-05T03:40:30.267Z","count":3,"avg":843,"min":548,"max":1297,"p95":1297,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-05T03:50:32.587Z","to":"2026-04-05T03:50:32.587Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-05T04:00:30.929Z","to":"2026-04-05T23:50:26.383Z","count":120,"avg":471,"min":211,"max":1279,"p95":1027,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-06T00:00:36.461Z","to":"2026-04-06T23:50:27.777Z","count":144,"avg":465,"min":219,"max":1287,"p95":833,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-07T00:00:31.635Z","to":"2026-04-07T23:50:26.874Z","count":144,"avg":482,"min":218,"max":1486,"p95":895,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-08T00:00:31.126Z","to":"2026-04-08T23:50:28.019Z","count":144,"avg":501,"min":229,"max":1414,"p95":984,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-09T00:00:28.200Z","to":"2026-04-09T01:30:34.549Z","count":10,"avg":664,"min":372,"max":1016,"p95":1016,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-09T01:40:33.733Z","to":"2026-04-09T01:40:33.733Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3257,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-09T01:50:34.416Z","to":"2026-04-09T02:20:31.588Z","count":4,"avg":476,"min":352,"max":634,"p95":634,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-09T02:30:35.376Z","to":"2026-04-09T02:30:35.376Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-09T02:40:28.381Z","to":"2026-04-09T02:50:35.102Z","count":2,"avg":886,"min":567,"max":1204,"p95":1204,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-09T03:00:35.990Z","to":"2026-04-09T03:30:34.193Z","count":4,"status":502,"error":"HTTP 502","avg_latency":3396,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-09T03:40:37.974Z","to":"2026-04-09T03:40:37.974Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-09T03:50:32.227Z","to":"2026-04-09T03:50:32.227Z","count":1,"avg":882,"min":882,"max":882,"p95":882,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-09T04:00:37.137Z","to":"2026-04-09T04:00:37.137Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5001,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-09T04:10:35.346Z","to":"2026-04-09T04:30:38.698Z","count":3,"status":502,"error":"HTTP 502","avg_latency":3376,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-09T04:40:35.014Z","to":"2026-04-09T05:20:35.081Z","count":5,"avg":544,"min":236,"max":824,"p95":824,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-09T05:30:40.147Z","to":"2026-04-09T05:30:40.147Z","count":1,"status":502,"error":"HTTP 502","avg_latency":3287,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-09T05:40:37.760Z","to":"2026-04-09T23:50:26.137Z","count":110,"avg":407,"min":209,"max":3202,"p95":770,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-10T00:00:28.449Z","to":"2026-04-10T23:50:26.002Z","count":144,"avg":345,"min":215,"max":692,"p95":611,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-11T00:00:31.718Z","to":"2026-04-11T23:50:30.471Z","count":143,"avg":313,"min":204,"max":879,"p95":481,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-12T00:00:30.040Z","to":"2026-04-12T23:50:30.273Z","count":145,"avg":335,"min":202,"max":2375,"p95":532,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-13T00:00:32.542Z","to":"2026-04-13T15:00:31.214Z","count":86,"avg":330,"min":210,"max":656,"p95":487,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-14T02:20:35.215Z","to":"2026-04-14T23:50:26.694Z","count":124,"avg":448,"min":199,"max":3178,"p95":1064,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-15T00:00:29.194Z","to":"2026-04-15T11:50:30.213Z","count":70,"avg":417,"min":219,"max":1367,"p95":707,"url":"https://sufy.com"}
+{"type":"fail","from":"2026-04-15T12:10:34.405Z","to":"2026-04-15T12:10:34.405Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":5000,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-15T12:20:34.788Z","to":"2026-04-15T23:50:29.197Z","count":70,"avg":445,"min":212,"max":2370,"p95":742,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-16T00:00:31.034Z","to":"2026-04-16T23:50:38.084Z","count":135,"avg":408,"min":227,"max":972,"p95":682,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-17T00:00:55.975Z","to":"2026-04-17T23:50:22.917Z","count":140,"avg":648,"min":239,"max":4770,"p95":1225,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-18T00:00:31.665Z","to":"2026-04-18T23:50:20.549Z","count":141,"avg":488,"min":244,"max":2860,"p95":850,"url":"https://sufy.com"}
+{"type":"ok","from":"2026-04-19T00:00:31.580Z","to":"2026-04-19T07:50:21.442Z","count":45,"url":"https://sufy.com","avg":545,"min":257,"max":1451,"p95":1111}
+{"type":"ok","from":"2026-04-19T08:01:31.297Z","to":"2026-04-19T23:41:16.739Z","count":48,"url":"https://sufy.com/","avg":637,"min":434,"max":1389,"p95":914}
