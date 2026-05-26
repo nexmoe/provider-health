@@ -27,3 +27,7 @@
 {"type":"ok","from":"2026-04-18T02:41:38.168Z","to":"2026-04-18T23:51:27.885Z","count":125,"avg":1190,"min":236,"max":3245,"p95":2165,"url":"https://ngrok.com"}
 {"type":"ok","from":"2026-04-19T00:01:39.552Z","to":"2026-04-19T07:51:26.886Z","count":45,"url":"https://ngrok.com","avg":1578,"min":1126,"max":2621,"p95":2481}
 {"type":"fail","from":"2026-04-19T08:12:00.976Z","to":"2026-04-19T23:48:46.010Z","count":48,"url":"https://incontrovertible-unattempting-jesse.ngrok-free.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-04-20T00:09:16.120Z","to":"2026-04-20T13:00:13.494Z","count":29,"url":"https://incontrovertible-unattempting-jesse.ngrok-free.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-04-20T13:27:04.323Z","to":"2026-04-20T14:00:24.668Z","count":2,"url":"https://incontrovertible-unattempting-jesse.ngrok-free.dev/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-20T14:29:44.876Z","to":"2026-04-20T17:59:07.424Z","count":11,"url":"https://incontrovertible-unattempting-jesse.ngrok-free.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-04-20T18:20:41.837Z","to":"2026-04-20T23:59:47.850Z","count":18,"url":"https://incontrovertible-unattempting-jesse.ngrok-free.dev/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

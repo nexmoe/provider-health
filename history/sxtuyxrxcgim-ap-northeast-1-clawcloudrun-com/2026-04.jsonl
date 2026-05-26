@@ -10,3 +10,7 @@
 {"type":"ok","from":"2026-04-18T00:02:52.141Z","to":"2026-04-18T23:52:30.650Z","count":138,"url":"https://sxtuyxrxcgim.ap-northeast-1.clawcloudrun.com","avg":193,"min":161,"max":309,"p95":244}
 {"type":"ok","from":"2026-04-19T00:02:41.971Z","to":"2026-04-19T07:52:33.684Z","count":45,"url":"https://sxtuyxrxcgim.ap-northeast-1.clawcloudrun.com","avg":194,"min":162,"max":255,"p95":245}
 {"type":"ok","from":"2026-04-19T08:15:50.112Z","to":"2026-04-19T23:53:09.369Z","count":48,"url":"https://sxtuyxrxcgim.ap-northeast-1.clawcloudrun.com/api/status","avg":773,"min":322,"max":1321,"p95":1076}
+{"type":"ok","from":"2026-04-20T00:13:40.471Z","to":"2026-04-20T07:45:28.951Z","count":21,"url":"https://sxtuyxrxcgim.ap-northeast-1.clawcloudrun.com/api/status","avg":738,"min":574,"max":1381,"p95":938}
+{"type":"fail","from":"2026-04-20T09:24:50.743Z","to":"2026-04-20T18:42:47.102Z","count":20,"url":"https://sxtuyxrxcgim.ap-northeast-1.clawcloudrun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-20T19:03:00.431Z","to":"2026-04-20T19:03:00.431Z","count":1,"url":"https://sxtuyxrxcgim.ap-northeast-1.clawcloudrun.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-20T19:22:32.664Z","to":"2026-04-20T23:43:36.806Z","count":14,"url":"https://sxtuyxrxcgim.ap-northeast-1.clawcloudrun.com/api/status","status":null,"error":"fetch failed","avg_latency":null}

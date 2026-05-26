@@ -37,3 +37,6 @@
 {"type":"ok","from":"2026-04-18T10:22:32.995Z","to":"2026-04-18T23:52:20.966Z","count":81,"url":"https://mutt.qzz.io","avg":1278,"min":747,"max":3323,"p95":2248}
 {"type":"ok","from":"2026-04-19T00:02:32.502Z","to":"2026-04-19T07:52:23.249Z","count":45,"url":"https://mutt.qzz.io","avg":1469,"min":908,"max":3216,"p95":2275}
 {"type":"ok","from":"2026-04-19T08:15:22.726Z","to":"2026-04-19T23:52:16.622Z","count":48,"url":"https://mutt.qzz.io/v1/models","avg":666,"min":361,"max":1627,"p95":761}
+{"type":"ok","from":"2026-04-20T00:12:50.856Z","to":"2026-04-20T04:54:47.464Z","count":15,"url":"https://mutt.qzz.io/v1/models","avg":630,"min":369,"max":732,"p95":732}
+{"type":"fail","from":"2026-04-20T05:14:38.851Z","to":"2026-04-20T05:14:38.851Z","count":1,"url":"https://mutt.qzz.io/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-20T05:34:29.795Z","to":"2026-04-20T23:43:25.329Z","count":41,"url":"https://mutt.qzz.io/v1/models","avg":615,"min":359,"max":759,"p95":745}

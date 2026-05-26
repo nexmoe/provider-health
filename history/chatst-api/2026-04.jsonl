@@ -35,3 +35,6 @@
 {"type":"ok","from":"2026-04-19T00:00:31.837Z","to":"2026-04-19T04:00:30.281Z","count":22,"url":"https://api.chatst.org","avg":505,"min":441,"max":579,"p95":561}
 {"type":"fail","from":"2026-04-19T04:10:20.114Z","to":"2026-04-19T07:50:21.066Z","count":23,"url":"https://chatst.org","status":403,"error":"HTTP 403","avg_latency":76}
 {"type":"ok","from":"2026-04-19T08:01:31.275Z","to":"2026-04-19T23:41:16.688Z","count":48,"url":"https://api.chatst.org/api/status","avg":519,"min":458,"max":645,"p95":633}
+{"type":"ok","from":"2026-04-20T00:01:36.413Z","to":"2026-04-20T07:32:12.995Z","count":24,"url":"https://api.chatst.org/api/status","avg":531,"min":450,"max":990,"p95":620}
+{"type":"fail","from":"2026-04-20T09:12:02.269Z","to":"2026-04-20T09:12:02.269Z","count":1,"url":"https://api.chatst.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-20T09:31:21.727Z","to":"2026-04-20T23:51:21.751Z","count":47,"url":"https://api.chatst.org/api/status","avg":510,"min":442,"max":614,"p95":596}

@@ -1408,3 +1408,35 @@
 {"type":"ok","from":"2026-04-19T22:50:50.299Z","to":"2026-04-19T22:50:50.299Z","count":1,"url":"http://yiyunweb.cloud:52333/v1/models","avg":489,"min":489,"max":489,"p95":489}
 {"type":"fail","from":"2026-04-19T23:11:42.297Z","to":"2026-04-19T23:11:42.297Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
 {"type":"ok","from":"2026-04-19T23:31:01.779Z","to":"2026-04-19T23:50:51.919Z","count":2,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1630,"min":768,"max":2492,"p95":2492}
+{"type":"ok","from":"2026-04-20T00:11:23.290Z","to":"2026-04-20T00:51:54.962Z","count":3,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1280,"min":505,"max":1800,"p95":1800}
+{"type":"fail","from":"2026-04-20T01:12:51.621Z","to":"2026-04-20T01:12:51.621Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T01:32:45.799Z","to":"2026-04-20T01:32:45.799Z","count":1,"url":"http://yiyunweb.cloud:52333/v1/models","avg":496,"min":496,"max":496,"p95":496}
+{"type":"fail","from":"2026-04-20T01:52:35.429Z","to":"2026-04-20T01:52:35.429Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T02:12:38.161Z","to":"2026-04-20T02:32:25.819Z","count":2,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1649,"min":778,"max":2519,"p95":2519}
+{"type":"fail","from":"2026-04-20T02:52:18.081Z","to":"2026-04-20T02:52:18.081Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T03:12:18.435Z","to":"2026-04-20T03:36:01.470Z","count":2,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1426,"min":1097,"max":1755,"p95":1755}
+{"type":"fail","from":"2026-04-20T03:52:30.398Z","to":"2026-04-20T03:52:30.398Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-20T04:12:09.729Z","to":"2026-04-20T04:12:09.729Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-20T04:32:39.759Z","to":"2026-04-20T04:32:39.759Z","count":1,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1782,"min":1782,"max":1782,"p95":1782}
+{"type":"fail","from":"2026-04-20T04:53:27.900Z","to":"2026-04-20T04:53:27.900Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T05:13:01.474Z","to":"2026-04-20T05:13:01.474Z","count":1,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1564,"min":1564,"max":1564,"p95":1564}
+{"type":"fail","from":"2026-04-20T05:33:03.713Z","to":"2026-04-20T05:50:06.113Z","count":2,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T06:21:10.596Z","to":"2026-04-20T10:11:04.228Z","count":5,"url":"http://yiyunweb.cloud:52333/v1/models","avg":2567,"min":2319,"max":2830,"p95":2830}
+{"type":"fail","from":"2026-04-20T10:36:34.901Z","to":"2026-04-20T10:36:34.901Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T11:45:26.421Z","to":"2026-04-20T11:45:26.421Z","count":1,"url":"http://yiyunweb.cloud:52333/v1/models","avg":2807,"min":2807,"max":2807,"p95":2807}
+{"type":"fail","from":"2026-04-20T12:08:27.164Z","to":"2026-04-20T12:38:54.734Z","count":2,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T13:02:23.313Z","to":"2026-04-20T14:53:03.180Z","count":5,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1533,"min":486,"max":2855,"p95":2855}
+{"type":"fail","from":"2026-04-20T15:13:22.656Z","to":"2026-04-20T15:29:43.064Z","count":2,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T16:02:29.428Z","to":"2026-04-20T16:02:29.428Z","count":1,"url":"http://yiyunweb.cloud:52333/v1/models","avg":2861,"min":2861,"max":2861,"p95":2861}
+{"type":"fail","from":"2026-04-20T16:22:38.430Z","to":"2026-04-20T16:22:38.430Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T16:42:01.235Z","to":"2026-04-20T17:01:55.078Z","count":2,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1523,"min":756,"max":2290,"p95":2290}
+{"type":"fail","from":"2026-04-20T17:22:25.646Z","to":"2026-04-20T18:01:06.882Z","count":3,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-20T18:22:29.014Z","to":"2026-04-20T18:22:29.014Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-20T18:41:01.467Z","to":"2026-04-20T19:01:09.574Z","count":2,"url":"http://yiyunweb.cloud:52333/v1/models","avg":905,"min":749,"max":1061,"p95":1061}
+{"type":"fail","from":"2026-04-20T19:20:49.148Z","to":"2026-04-20T20:01:07.890Z","count":3,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T20:20:33.681Z","to":"2026-04-20T20:40:52.634Z","count":2,"url":"http://yiyunweb.cloud:52333/v1/models","avg":743,"min":739,"max":747,"p95":747}
+{"type":"fail","from":"2026-04-20T21:00:22.989Z","to":"2026-04-20T21:20:52.013Z","count":2,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T21:41:09.201Z","to":"2026-04-20T22:00:50.594Z","count":2,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1340,"min":818,"max":1861,"p95":1861}
+{"type":"fail","from":"2026-04-20T22:21:28.073Z","to":"2026-04-20T22:41:02.857Z","count":2,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-20T23:01:48.397Z","to":"2026-04-20T23:21:38.073Z","count":2,"url":"http://yiyunweb.cloud:52333/v1/models","avg":1003,"min":498,"max":1508,"p95":1508}
+{"type":"fail","from":"2026-04-20T23:42:12.879Z","to":"2026-04-20T23:42:12.879Z","count":1,"url":"https://yiyunweb.cloud:52333/api/status","status":null,"error":"fetch failed","avg_latency":null}

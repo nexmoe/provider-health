@@ -29,3 +29,4 @@
 {"type":"fail","from":"2026-04-19T05:01:19.975Z","to":"2026-04-19T05:01:19.975Z","count":1,"url":"https://fireworks.ai","status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"ok","from":"2026-04-19T05:11:05.989Z","to":"2026-04-19T07:51:07.760Z","count":17,"url":"https://fireworks.ai","avg":676,"min":348,"max":1183,"p95":1183}
 {"type":"fail","from":"2026-04-19T08:05:19.092Z","to":"2026-04-19T23:44:27.153Z","count":48,"url":"https://api.fireworks.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-04-20T00:04:44.752Z","to":"2026-04-20T23:54:49.908Z","count":69,"url":"https://api.fireworks.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}

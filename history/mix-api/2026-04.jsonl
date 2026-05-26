@@ -97,3 +97,5 @@
 {"type":"fail","from":"2026-04-19T06:31:52.001Z","to":"2026-04-19T06:31:52.001Z","count":1,"url":"https://openapi.imikufans.cn","status":null,"error":"Healthcheck timeout","avg_latency":5001}
 {"type":"ok","from":"2026-04-19T06:41:41.648Z","to":"2026-04-19T07:51:43.179Z","count":8,"url":"https://openapi.imikufans.cn","avg":1612,"min":1303,"max":2058,"p95":2058}
 {"type":"fail","from":"2026-04-19T08:13:11.065Z","to":"2026-04-19T23:50:19.324Z","count":48,"url":"https://openapi.imikufans.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-20T00:10:49.424Z","to":"2026-04-20T04:11:20.652Z","count":13,"url":"https://openapi.imikufans.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-04-20T04:32:04.689Z","to":"2026-04-20T23:41:32.257Z","count":45,"url":"https://openapi.imikufans.cn/api/status","avg":1417,"min":858,"max":3643,"p95":2048}

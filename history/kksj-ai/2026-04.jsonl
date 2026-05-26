@@ -20,3 +20,6 @@
 {"type":"ok","from":"2026-04-18T00:00:37.688Z","to":"2026-04-18T23:50:26.564Z","count":141,"avg":842,"min":675,"max":1786,"p95":1051,"url":"https://api.kksj.org"}
 {"type":"ok","from":"2026-04-19T00:00:37.774Z","to":"2026-04-19T07:50:25.137Z","count":45,"url":"https://api.kksj.org","avg":794,"min":686,"max":1135,"p95":955}
 {"type":"ok","from":"2026-04-19T08:01:53.136Z","to":"2026-04-19T23:41:38.530Z","count":48,"url":"https://api.kksj.org/api/status","avg":808,"min":669,"max":1111,"p95":956}
+{"type":"ok","from":"2026-04-20T00:01:58.393Z","to":"2026-04-20T05:21:41.822Z","count":18,"url":"https://api.kksj.org/api/status","avg":782,"min":679,"max":970,"p95":970}
+{"type":"fail","from":"2026-04-20T05:38:15.743Z","to":"2026-04-20T05:38:15.743Z","count":1,"url":"https://api.kksj.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-20T06:01:49.067Z","to":"2026-04-20T23:51:43.555Z","count":53,"url":"https://api.kksj.org/api/status","avg":805,"min":689,"max":951,"p95":903}

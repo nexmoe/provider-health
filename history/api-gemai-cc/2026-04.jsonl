@@ -116,3 +116,14 @@
 {"type":"ok","from":"2026-04-19T16:50:56.275Z","to":"2026-04-19T22:29:24.575Z","count":18,"url":"https://api.gemai.cc/api/status","avg":859,"min":509,"max":3840,"p95":3840}
 {"type":"ok","from":"2026-04-19T22:49:39.025Z","to":"2026-04-19T22:49:39.025Z","count":1,"url":"https://api.gemai.cc/v1/models","avg":1526,"min":1526,"max":1526,"p95":1526}
 {"type":"ok","from":"2026-04-19T23:10:24.883Z","to":"2026-04-19T23:49:35.173Z","count":3,"url":"https://api.gemai.cc/api/status","avg":726,"min":664,"max":778,"p95":778}
+{"type":"ok","from":"2026-04-20T00:10:09.777Z","to":"2026-04-20T00:10:09.777Z","count":1,"url":"https://api.gemai.cc/v1/models","avg":748,"min":748,"max":748,"p95":748}
+{"type":"ok","from":"2026-04-20T00:30:15.082Z","to":"2026-04-20T18:59:55.434Z","count":43,"url":"https://api.gemai.cc/api/status","avg":807,"min":522,"max":3418,"p95":2750}
+{"type":"ok","from":"2026-04-20T19:19:51.112Z","to":"2026-04-20T19:19:51.112Z","count":1,"url":"https://api.gemai.cc/health","avg":4504,"min":4504,"max":4504,"p95":4504}
+{"type":"fail","from":"2026-04-20T19:39:58.984Z","to":"2026-04-20T20:00:11.237Z","count":2,"url":"https://api.gemai.cc/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-20T20:19:31.962Z","to":"2026-04-20T20:19:31.962Z","count":1,"url":"https://api.gemai.cc/health","avg":3668,"min":3668,"max":3668,"p95":3668}
+{"type":"ok","from":"2026-04-20T20:39:43.000Z","to":"2026-04-20T21:39:56.092Z","count":4,"url":"https://api.gemai.cc/api/status","avg":3948,"min":3726,"max":4288,"p95":4288}
+{"type":"ok","from":"2026-04-20T21:59:45.788Z","to":"2026-04-20T21:59:45.788Z","count":1,"url":"https://api.gemai.cc/v1/models","avg":4261,"min":4261,"max":4261,"p95":4261}
+{"type":"ok","from":"2026-04-20T22:20:01.666Z","to":"2026-04-20T22:20:01.666Z","count":1,"url":"https://api.gemai.cc/api/status","avg":3897,"min":3897,"max":3897,"p95":3897}
+{"type":"fail","from":"2026-04-20T22:40:04.276Z","to":"2026-04-20T23:00:54.841Z","count":2,"url":"https://api.gemai.cc/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-20T23:20:10.766Z","to":"2026-04-20T23:20:10.766Z","count":1,"url":"https://api.gemai.cc/v1/models","avg":2608,"min":2608,"max":2608,"p95":2608}
+{"type":"fail","from":"2026-04-20T23:41:10.519Z","to":"2026-04-20T23:41:10.519Z","count":1,"url":"https://api.gemai.cc/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

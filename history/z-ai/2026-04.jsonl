@@ -41,3 +41,6 @@
 {"type":"ok","from":"2026-04-18T10:21:21.954Z","to":"2026-04-18T23:51:20.077Z","count":82,"url":"https://z.ai","avg":1317,"min":751,"max":2138,"p95":1964}
 {"type":"ok","from":"2026-04-19T00:01:32.043Z","to":"2026-04-19T07:51:18.761Z","count":45,"url":"https://z.ai","avg":1269,"min":838,"max":1760,"p95":1649}
 {"type":"ok","from":"2026-04-19T08:06:20.162Z","to":"2026-04-19T23:45:29.648Z","count":48,"url":"https://api.z.ai/api/status","avg":1405,"min":895,"max":2025,"p95":1910}
+{"type":"ok","from":"2026-04-20T00:05:47.680Z","to":"2026-04-20T11:36:25.880Z","count":32,"url":"https://api.z.ai/api/status","avg":1334,"min":903,"max":1751,"p95":1737}
+{"type":"fail","from":"2026-04-20T12:01:17.699Z","to":"2026-04-20T12:01:17.699Z","count":1,"url":"https://api.z.ai/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-20T12:31:51.224Z","to":"2026-04-20T23:55:52.487Z","count":34,"url":"https://api.z.ai/api/status","avg":1335,"min":922,"max":2158,"p95":2093}

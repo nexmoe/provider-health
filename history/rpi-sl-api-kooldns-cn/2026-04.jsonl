@@ -90,3 +90,6 @@
 {"type":"fail","from":"2026-04-18T22:00:56.813Z","to":"2026-04-18T23:50:47.802Z","count":12,"status":503,"error":"HTTP 503","avg_latency":1134,"url":"https://rpi-sl-api.kooldns.cn"}
 {"type":"fail","from":"2026-04-19T00:00:59.371Z","to":"2026-04-19T07:50:46.719Z","count":45,"url":"https://rpi-sl-api.kooldns.cn","status":503,"error":"HTTP 503","avg_latency":1613}
 {"type":"fail","from":"2026-04-19T08:03:01.487Z","to":"2026-04-19T23:42:35.066Z","count":48,"url":"https://rpi-sl-api.kooldns.cn/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-04-20T00:02:56.275Z","to":"2026-04-20T15:52:54.343Z","count":47,"url":"https://rpi-sl-api.kooldns.cn/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-04-20T16:13:00.552Z","to":"2026-04-20T16:13:00.552Z","count":1,"url":"https://rpi-sl-api.kooldns.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-20T16:32:52.919Z","to":"2026-04-20T23:52:43.642Z","count":23,"url":"https://rpi-sl-api.kooldns.cn/api/status","status":503,"error":"HTTP 503","avg_latency":null}

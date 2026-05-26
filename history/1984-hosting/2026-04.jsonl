@@ -28,3 +28,6 @@
 {"type":"ok","from":"2026-04-18T17:50:30.740Z","to":"2026-04-18T23:50:32.374Z","count":37,"avg":2359,"min":1750,"max":3523,"p95":3190,"url":"https://1984.hosting"}
 {"type":"ok","from":"2026-04-19T00:00:44.549Z","to":"2026-04-19T07:50:31.168Z","count":45,"url":"https://1984.hosting","avg":2453,"min":1731,"max":3610,"p95":3293}
 {"type":"fail","from":"2026-04-19T08:02:13.756Z","to":"2026-04-19T23:41:47.703Z","count":48,"url":"https://chat.x29-jp.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-20T00:02:07.908Z","to":"2026-04-20T04:41:52.986Z","count":16,"url":"https://chat.x29-jp.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-20T05:02:19.859Z","to":"2026-04-20T05:02:19.859Z","count":1,"url":"https://chat.x29-jp.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-20T05:21:53.855Z","to":"2026-04-20T23:51:54.908Z","count":55,"url":"https://chat.x29-jp.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
