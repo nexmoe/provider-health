@@ -144,3 +144,8 @@
 {"type":"fail","from":"2026-04-19T20:53:44.288Z","to":"2026-04-19T20:53:44.288Z","count":1,"url":"https://mars-hk.duckdns.org:38317/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-04-19T21:11:36.975Z","to":"2026-04-19T23:52:15.564Z","count":9,"url":"https://mars-hk.duckdns.org:38317/v1/models","avg":1814,"min":1194,"max":2188,"p95":2188}
 {"type":"ok","from":"2026-04-20T00:12:49.653Z","to":"2026-04-20T23:43:24.174Z","count":57,"url":"https://mars-hk.duckdns.org:38317/v1/models","avg":1564,"min":221,"max":3231,"p95":2409}
+{"type":"ok","from":"2026-04-21T00:02:52.439Z","to":"2026-04-21T10:18:05.380Z","count":29,"url":"https://mars-hk.duckdns.org:38317/v1/models","avg":1673,"min":402,"max":3228,"p95":2721}
+{"type":"fail","from":"2026-04-21T10:35:18.747Z","to":"2026-04-21T10:35:18.747Z","count":1,"url":"https://mars-hk.duckdns.org:38317/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-21T10:54:46.056Z","to":"2026-04-21T15:15:24.085Z","count":13,"url":"https://mars-hk.duckdns.org:38317/v1/models","avg":1608,"min":927,"max":2631,"p95":2631}
+{"type":"fail","from":"2026-04-21T15:35:49.530Z","to":"2026-04-21T15:35:49.530Z","count":1,"url":"https://mars-hk.duckdns.org:38317/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-21T15:55:32.434Z","to":"2026-04-21T23:52:59.999Z","count":25,"url":"https://mars-hk.duckdns.org:38317/v1/models","avg":1642,"min":834,"max":2767,"p95":2711}

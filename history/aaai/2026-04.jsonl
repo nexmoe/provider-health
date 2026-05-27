@@ -263,3 +263,6 @@
 {"type":"ok","from":"2026-04-19T04:10:16.649Z","to":"2026-04-19T07:50:18.213Z","count":23,"url":"https://aaai.vip","avg":1982,"min":1355,"max":3122,"p95":2935}
 {"type":"ok","from":"2026-04-19T08:01:16.961Z","to":"2026-04-19T23:40:59.221Z","count":48,"url":"https://api.aaai.vip/api/status","avg":1110,"min":717,"max":1570,"p95":1495}
 {"type":"ok","from":"2026-04-20T00:01:20.653Z","to":"2026-04-20T23:51:05.505Z","count":72,"url":"https://api.aaai.vip/api/status","avg":1139,"min":796,"max":1964,"p95":1439}
+{"type":"ok","from":"2026-04-21T00:11:06.376Z","to":"2026-04-21T02:11:01.289Z","count":8,"url":"https://api.aaai.vip/api/status","avg":1042,"min":896,"max":1282,"p95":1282}
+{"type":"fail","from":"2026-04-21T02:31:25.069Z","to":"2026-04-21T02:31:25.069Z","count":1,"url":"https://api.aaai.vip/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-21T02:37:35.865Z","to":"2026-04-21T23:40:59.625Z","count":65,"url":"https://api.aaai.vip/api/status","avg":1237,"min":937,"max":2397,"p95":1696}
