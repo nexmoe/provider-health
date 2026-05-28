@@ -197,3 +197,8 @@
 {"type":"ok","from":"2026-04-19T08:15:33.975Z","to":"2026-04-19T23:52:26.978Z","count":48,"url":"https://aiapi.yanami.vip/api/status","avg":174,"min":74,"max":520,"p95":431}
 {"type":"ok","from":"2026-04-20T00:12:58.149Z","to":"2026-04-20T23:43:31.969Z","count":56,"url":"https://aiapi.yanami.vip/api/status","avg":139,"min":70,"max":924,"p95":371}
 {"type":"ok","from":"2026-04-21T00:03:03.867Z","to":"2026-04-21T23:53:11.211Z","count":69,"url":"https://aiapi.yanami.vip/api/status","avg":124,"min":72,"max":501,"p95":270}
+{"type":"ok","from":"2026-04-22T00:13:42.920Z","to":"2026-04-22T06:45:12.472Z","count":18,"url":"https://aiapi.yanami.vip/api/status","avg":206,"min":68,"max":594,"p95":594}
+{"type":"fail","from":"2026-04-22T07:05:20.222Z","to":"2026-04-22T07:05:20.222Z","count":1,"url":"https://aiapi.yanami.vip/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T07:24:33.332Z","to":"2026-04-22T18:43:36.619Z","count":35,"url":"https://aiapi.yanami.vip/api/status","avg":234,"min":73,"max":568,"p95":527}
+{"type":"ok","from":"2026-04-22T19:02:18.498Z","to":"2026-04-22T19:02:18.498Z","count":1,"url":"https://aiapi.yanami.vip/health","avg":195,"min":195,"max":195,"p95":195}
+{"type":"ok","from":"2026-04-22T19:21:49.838Z","to":"2026-04-22T23:43:40.767Z","count":14,"url":"https://aiapi.yanami.vip/api/status","avg":289,"min":191,"max":798,"p95":798}

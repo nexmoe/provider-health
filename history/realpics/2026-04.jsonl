@@ -272,3 +272,8 @@
 {"type":"ok","from":"2026-04-21T15:05:11.462Z","to":"2026-04-21T15:05:11.462Z","count":1,"url":"http://realpics.cn:5001/health","avg":3767,"min":3767,"max":3767,"p95":3767}
 {"type":"fail","from":"2026-04-21T15:25:11.328Z","to":"2026-04-21T20:04:25.834Z","count":15,"url":"https://realpics.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-04-21T20:24:30.036Z","to":"2026-04-21T23:44:28.707Z","count":11,"url":"http://realpics.cn:5001/v1/models","avg":1714,"min":536,"max":4681,"p95":4681}
+{"type":"ok","from":"2026-04-22T00:05:03.993Z","to":"2026-04-22T01:05:17.875Z","count":4,"url":"http://realpics.cn:5001/v1/models","avg":2107,"min":549,"max":3692,"p95":3692}
+{"type":"ok","from":"2026-04-22T01:25:10.469Z","to":"2026-04-22T01:25:10.469Z","count":1,"url":"http://realpics.cn:5001/health","avg":2669,"min":2669,"max":2669,"p95":2669}
+{"type":"ok","from":"2026-04-22T01:44:45.543Z","to":"2026-04-22T03:14:50.125Z","count":5,"url":"http://realpics.cn:5001/v1/models","avg":1640,"min":553,"max":4033,"p95":4033}
+{"type":"fail","from":"2026-04-22T03:34:42.983Z","to":"2026-04-22T22:14:18.060Z","count":55,"url":"https://realpics.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T22:34:53.896Z","to":"2026-04-22T23:55:01.761Z","count":5,"url":"http://realpics.cn:5001/v1/models","avg":1593,"min":584,"max":4622,"p95":4622}

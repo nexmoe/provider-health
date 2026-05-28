@@ -295,3 +295,45 @@
 {"type":"ok","from":"2026-04-21T23:04:38.961Z","to":"2026-04-21T23:04:38.961Z","count":1,"url":"https://api.voct.dev/v1/models","avg":589,"min":589,"max":589,"p95":589}
 {"type":"ok","from":"2026-04-21T23:24:31.789Z","to":"2026-04-21T23:24:31.789Z","count":1,"url":"https://api.voct.dev/status","avg":583,"min":583,"max":583,"p95":583}
 {"type":"ok","from":"2026-04-21T23:44:31.742Z","to":"2026-04-21T23:44:31.742Z","count":1,"url":"https://api.voct.dev/api/status","avg":673,"min":673,"max":673,"p95":673}
+{"type":"fail","from":"2026-04-22T00:05:18.127Z","to":"2026-04-22T00:05:18.127Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-22T00:24:49.271Z","to":"2026-04-22T00:24:49.271Z","count":1,"url":"https://api.voct.dev/api/status","avg":682,"min":682,"max":682,"p95":682}
+{"type":"fail","from":"2026-04-22T00:44:55.233Z","to":"2026-04-22T01:05:28.454Z","count":2,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-22T01:25:13.405Z","to":"2026-04-22T01:44:48.902Z","count":2,"url":"https://api.voct.dev/api/status","avg":783,"min":677,"max":888,"p95":888}
+{"type":"ok","from":"2026-04-22T02:05:01.179Z","to":"2026-04-22T02:05:01.179Z","count":1,"url":"https://api.voct.dev/health","avg":200,"min":200,"max":200,"p95":200}
+{"type":"ok","from":"2026-04-22T02:24:40.354Z","to":"2026-04-22T02:54:43.464Z","count":2,"url":"https://api.voct.dev/api/status","avg":746,"min":706,"max":785,"p95":785}
+{"type":"fail","from":"2026-04-22T03:14:57.419Z","to":"2026-04-22T03:14:57.419Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-22T03:34:46.939Z","to":"2026-04-22T03:34:46.939Z","count":1,"url":"https://api.voct.dev/health","avg":584,"min":584,"max":584,"p95":584}
+{"type":"ok","from":"2026-04-22T03:54:22.453Z","to":"2026-04-22T03:54:22.453Z","count":1,"url":"https://api.voct.dev/api/status","avg":871,"min":871,"max":871,"p95":871}
+{"type":"ok","from":"2026-04-22T04:14:49.116Z","to":"2026-04-22T04:14:49.116Z","count":1,"url":"https://api.voct.dev/health","avg":586,"min":586,"max":586,"p95":586}
+{"type":"ok","from":"2026-04-22T05:14:53.936Z","to":"2026-04-22T06:14:55.909Z","count":4,"url":"https://api.voct.dev/api/status","avg":701,"min":648,"max":815,"p95":815}
+{"type":"ok","from":"2026-04-22T06:34:52.650Z","to":"2026-04-22T06:55:05.266Z","count":2,"url":"https://api.voct.dev/v1/models","avg":620,"min":593,"max":647,"p95":647}
+{"type":"ok","from":"2026-04-22T07:15:03.212Z","to":"2026-04-22T09:35:07.753Z","count":8,"url":"https://api.voct.dev/api/status","avg":1040,"min":638,"max":2512,"p95":2512}
+{"type":"ok","from":"2026-04-22T09:54:44.821Z","to":"2026-04-22T10:54:55.201Z","count":4,"url":"https://api.voct.dev/v1/models","avg":585,"min":582,"max":591,"p95":591}
+{"type":"ok","from":"2026-04-22T11:15:06.084Z","to":"2026-04-22T11:15:06.084Z","count":1,"url":"https://api.voct.dev/health","avg":584,"min":584,"max":584,"p95":584}
+{"type":"ok","from":"2026-04-22T11:34:52.697Z","to":"2026-04-22T11:34:52.697Z","count":1,"url":"https://api.voct.dev/api/status","avg":3117,"min":3117,"max":3117,"p95":3117}
+{"type":"ok","from":"2026-04-22T11:54:49.389Z","to":"2026-04-22T12:34:57.003Z","count":3,"url":"https://api.voct.dev/v1/models","avg":585,"min":584,"max":586,"p95":586}
+{"type":"ok","from":"2026-04-22T12:55:10.971Z","to":"2026-04-22T13:35:16.868Z","count":3,"url":"https://api.voct.dev/api/status","avg":783,"min":658,"max":892,"p95":892}
+{"type":"ok","from":"2026-04-22T13:55:10.072Z","to":"2026-04-22T13:55:10.072Z","count":1,"url":"https://api.voct.dev/v1/models","avg":581,"min":581,"max":581,"p95":581}
+{"type":"ok","from":"2026-04-22T14:15:28.379Z","to":"2026-04-22T14:15:28.379Z","count":1,"url":"https://api.voct.dev/api/status","avg":880,"min":880,"max":880,"p95":880}
+{"type":"ok","from":"2026-04-22T14:34:58.771Z","to":"2026-04-22T14:55:29.873Z","count":2,"url":"https://api.voct.dev/v1/models","avg":590,"min":588,"max":592,"p95":592}
+{"type":"ok","from":"2026-04-22T15:15:47.166Z","to":"2026-04-22T15:35:07.652Z","count":2,"url":"https://api.voct.dev/api/status","avg":659,"min":638,"max":680,"p95":680}
+{"type":"ok","from":"2026-04-22T15:55:08.447Z","to":"2026-04-22T15:55:08.447Z","count":1,"url":"https://api.voct.dev/v1/models","avg":582,"min":582,"max":582,"p95":582}
+{"type":"ok","from":"2026-04-22T16:14:49.313Z","to":"2026-04-22T16:14:49.313Z","count":1,"url":"https://api.voct.dev/api/status","avg":1076,"min":1076,"max":1076,"p95":1076}
+{"type":"ok","from":"2026-04-22T16:35:41.341Z","to":"2026-04-22T16:35:41.341Z","count":1,"url":"https://api.voct.dev/status","avg":585,"min":585,"max":585,"p95":585}
+{"type":"ok","from":"2026-04-22T16:55:02.444Z","to":"2026-04-22T16:55:02.444Z","count":1,"url":"https://api.voct.dev/api/status","avg":674,"min":674,"max":674,"p95":674}
+{"type":"ok","from":"2026-04-22T17:14:46.305Z","to":"2026-04-22T17:14:46.305Z","count":1,"url":"https://api.voct.dev/health","avg":590,"min":590,"max":590,"p95":590}
+{"type":"ok","from":"2026-04-22T17:35:01.347Z","to":"2026-04-22T17:54:41.785Z","count":2,"url":"https://api.voct.dev/api/status","avg":675,"min":636,"max":713,"p95":713}
+{"type":"ok","from":"2026-04-22T18:14:55.386Z","to":"2026-04-22T18:35:12.077Z","count":2,"url":"https://api.voct.dev/v1/models","avg":585,"min":585,"max":585,"p95":585}
+{"type":"ok","from":"2026-04-22T18:54:37.851Z","to":"2026-04-22T19:54:51.305Z","count":4,"url":"https://api.voct.dev/api/status","avg":854,"min":793,"max":875,"p95":875}
+{"type":"fail","from":"2026-04-22T20:14:48.840Z","to":"2026-04-22T20:14:48.840Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-22T20:34:38.793Z","to":"2026-04-22T20:34:38.793Z","count":1,"url":"https://api.voct.dev/health","avg":589,"min":589,"max":589,"p95":589}
+{"type":"ok","from":"2026-04-22T20:54:28.269Z","to":"2026-04-22T20:54:28.269Z","count":1,"url":"https://api.voct.dev/api/status","avg":636,"min":636,"max":636,"p95":636}
+{"type":"fail","from":"2026-04-22T21:14:24.306Z","to":"2026-04-22T21:14:24.306Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-04-22T21:34:36.224Z","to":"2026-04-22T21:34:36.224Z","count":1,"url":"https://api.voct.dev/health","avg":592,"min":592,"max":592,"p95":592}
+{"type":"ok","from":"2026-04-22T21:54:33.026Z","to":"2026-04-22T21:54:33.026Z","count":1,"url":"https://api.voct.dev/api/status","avg":891,"min":891,"max":891,"p95":891}
+{"type":"ok","from":"2026-04-22T22:14:23.296Z","to":"2026-04-22T22:14:23.296Z","count":1,"url":"https://api.voct.dev/status","avg":582,"min":582,"max":582,"p95":582}
+{"type":"ok","from":"2026-04-22T22:34:57.548Z","to":"2026-04-22T22:34:57.548Z","count":1,"url":"https://api.voct.dev/v1/models","avg":579,"min":579,"max":579,"p95":579}
+{"type":"ok","from":"2026-04-22T22:54:47.624Z","to":"2026-04-22T22:54:47.624Z","count":1,"url":"https://api.voct.dev/api/status","avg":673,"min":673,"max":673,"p95":673}
+{"type":"ok","from":"2026-04-22T23:14:53.219Z","to":"2026-04-22T23:14:53.219Z","count":1,"url":"https://api.voct.dev/v1/models","avg":599,"min":599,"max":599,"p95":599}
+{"type":"ok","from":"2026-04-22T23:34:58.955Z","to":"2026-04-22T23:34:58.955Z","count":1,"url":"https://api.voct.dev/api/status","avg":656,"min":656,"max":656,"p95":656}
+{"type":"fail","from":"2026-04-22T23:55:07.171Z","to":"2026-04-22T23:55:07.171Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}

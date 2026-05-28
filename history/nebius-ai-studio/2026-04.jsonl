@@ -93,3 +93,6 @@
 {"type":"fail","from":"2026-04-20T12:01:18.556Z","to":"2026-04-20T12:01:18.556Z","count":1,"url":"https://api.studio.nebius.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-04-20T12:31:50.875Z","to":"2026-04-20T23:55:53.174Z","count":34,"url":"https://api.studio.nebius.ai/v1/models","avg":1047,"min":635,"max":2056,"p95":1705}
 {"type":"ok","from":"2026-04-21T00:15:49.778Z","to":"2026-04-21T23:45:33.957Z","count":71,"url":"https://api.studio.nebius.ai/v1/models","avg":1107,"min":639,"max":2255,"p95":1629}
+{"type":"ok","from":"2026-04-22T00:06:09.888Z","to":"2026-04-22T05:35:59.778Z","count":15,"url":"https://api.studio.nebius.ai/v1/models","avg":1199,"min":828,"max":2362,"p95":2362}
+{"type":"fail","from":"2026-04-22T05:55:41.333Z","to":"2026-04-22T05:55:41.333Z","count":1,"url":"https://api.studio.nebius.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-22T06:15:56.717Z","to":"2026-04-22T23:56:06.126Z","count":54,"url":"https://api.studio.nebius.ai/v1/models","avg":1472,"min":675,"max":3679,"p95":2962}

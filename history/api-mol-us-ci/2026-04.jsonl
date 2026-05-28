@@ -26,3 +26,6 @@
 {"type":"ok","from":"2026-04-19T08:15:01.241Z","to":"2026-04-19T23:51:53.997Z","count":48,"url":"https://api.mol.us.ci/api/status","avg":1286,"min":971,"max":2064,"p95":1656}
 {"type":"ok","from":"2026-04-20T00:12:29.863Z","to":"2026-04-20T23:43:03.831Z","count":57,"url":"https://api.mol.us.ci/api/status","avg":1295,"min":950,"max":3516,"p95":1781}
 {"type":"ok","from":"2026-04-21T00:02:32.341Z","to":"2026-04-21T23:52:38.656Z","count":69,"url":"https://api.mol.us.ci/api/status","avg":1287,"min":910,"max":2120,"p95":1685}
+{"type":"ok","from":"2026-04-22T00:13:06.463Z","to":"2026-04-22T00:52:50.966Z","count":3,"url":"https://api.mol.us.ci/api/status","avg":1284,"min":1130,"max":1417,"p95":1417}
+{"type":"fail","from":"2026-04-22T01:15:02.312Z","to":"2026-04-22T01:15:02.312Z","count":1,"url":"https://api.mol.us.ci/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T01:34:46.412Z","to":"2026-04-22T23:43:10.793Z","count":65,"url":"https://api.mol.us.ci/api/status","avg":1367,"min":1017,"max":2880,"p95":2010}

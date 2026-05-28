@@ -104,3 +104,9 @@
 {"type":"ok","from":"2026-04-21T00:16:15.874Z","to":"2026-04-21T09:06:43.634Z","count":27,"url":"https://wxkyw.dpdns.org/api/status","avg":2206,"min":1437,"max":3895,"p95":3635}
 {"type":"fail","from":"2026-04-21T09:26:05.521Z","to":"2026-04-21T09:26:05.521Z","count":1,"url":"https://wxkyw.dpdns.org/api/status","status":503,"error":"HTTP 503","avg_latency":null}
 {"type":"ok","from":"2026-04-21T09:46:28.315Z","to":"2026-04-21T23:45:57.993Z","count":43,"url":"https://wxkyw.dpdns.org/api/status","avg":2141,"min":1334,"max":3722,"p95":2925}
+{"type":"ok","from":"2026-04-22T00:06:33.079Z","to":"2026-04-22T05:16:20.748Z","count":14,"url":"https://wxkyw.dpdns.org/api/status","avg":2443,"min":1481,"max":3867,"p95":3867}
+{"type":"fail","from":"2026-04-22T05:36:29.842Z","to":"2026-04-22T05:36:29.842Z","count":1,"url":"https://wxkyw.dpdns.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T05:55:55.882Z","to":"2026-04-22T06:36:19.780Z","count":3,"url":"https://wxkyw.dpdns.org/api/status","avg":3324,"min":2414,"max":4964,"p95":4964}
+{"type":"ok","from":"2026-04-22T06:56:34.488Z","to":"2026-04-22T06:56:34.488Z","count":1,"url":"https://wxkyw.dpdns.org/login","avg":2130,"min":2130,"max":2130,"p95":2130}
+{"type":"ok","from":"2026-04-22T07:16:27.528Z","to":"2026-04-22T07:16:27.528Z","count":1,"url":"https://wxkyw.dpdns.org/api/status","avg":1830,"min":1830,"max":1830,"p95":1830}
+{"type":"fail","from":"2026-04-22T07:36:06.925Z","to":"2026-04-22T23:56:32.297Z","count":50,"url":"https://wxkyw.dpdns.org/api/status","status":null,"error":"fetch failed","avg_latency":null}

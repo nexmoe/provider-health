@@ -73,3 +73,14 @@
 {"type":"ok","from":"2026-04-21T00:11:07.620Z","to":"2026-04-21T09:41:07.213Z","count":32,"url":"https://api.aicnn.cn/api/status","avg":1677,"min":1239,"max":2541,"p95":2475}
 {"type":"ok","from":"2026-04-21T10:01:31.585Z","to":"2026-04-21T10:01:31.585Z","count":1,"url":"https://api.aicnn.cn/health","avg":3043,"min":3043,"max":3043,"p95":3043}
 {"type":"ok","from":"2026-04-21T10:21:05.945Z","to":"2026-04-21T23:41:00.249Z","count":41,"url":"https://api.aicnn.cn/api/status","avg":1804,"min":1410,"max":2749,"p95":2424}
+{"type":"ok","from":"2026-04-22T00:01:20.815Z","to":"2026-04-22T04:11:07.892Z","count":13,"url":"https://api.aicnn.cn/api/status","avg":1609,"min":1244,"max":1902,"p95":1902}
+{"type":"ok","from":"2026-04-22T05:11:11.916Z","to":"2026-04-22T05:11:11.916Z","count":1,"url":"https://api.aicnn.cn/v1/models","avg":3382,"min":3382,"max":3382,"p95":3382}
+{"type":"ok","from":"2026-04-22T05:31:13.806Z","to":"2026-04-22T06:11:04.535Z","count":3,"url":"https://api.aicnn.cn/api/status","avg":3273,"min":2948,"max":3668,"p95":3668}
+{"type":"fail","from":"2026-04-22T06:31:28.028Z","to":"2026-04-22T06:31:28.028Z","count":1,"url":"https://api.aicnn.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T06:51:11.628Z","to":"2026-04-22T06:51:11.628Z","count":1,"url":"https://api.aicnn.cn/api/status","avg":4898,"min":4898,"max":4898,"p95":4898}
+{"type":"ok","from":"2026-04-22T07:11:07.820Z","to":"2026-04-22T07:11:07.820Z","count":1,"url":"https://api.aicnn.cn/v1/models","avg":4221,"min":4221,"max":4221,"p95":4221}
+{"type":"ok","from":"2026-04-22T07:31:07.142Z","to":"2026-04-22T10:31:13.681Z","count":10,"url":"https://api.aicnn.cn/api/status","avg":3609,"min":2433,"max":4887,"p95":4887}
+{"type":"fail","from":"2026-04-22T10:51:25.977Z","to":"2026-04-22T10:51:25.977Z","count":1,"url":"https://api.aicnn.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T11:11:03.226Z","to":"2026-04-22T13:31:13.408Z","count":8,"url":"https://api.aicnn.cn/api/status","avg":2857,"min":1969,"max":3680,"p95":3680}
+{"type":"fail","from":"2026-04-22T13:51:32.175Z","to":"2026-04-22T13:51:32.175Z","count":1,"url":"https://api.aicnn.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T14:11:14.041Z","to":"2026-04-22T23:51:07.749Z","count":30,"url":"https://api.aicnn.cn/api/status","avg":3086,"min":2291,"max":4703,"p95":4642}

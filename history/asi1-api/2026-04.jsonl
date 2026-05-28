@@ -75,3 +75,6 @@
 {"type":"fail","from":"2026-04-20T12:01:19.234Z","to":"2026-04-20T12:01:19.234Z","count":1,"url":"https://api.asi1.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-04-20T12:31:51.793Z","to":"2026-04-20T23:55:52.177Z","count":34,"url":"https://api.asi1.ai/v1/models","avg":1082,"min":374,"max":1721,"p95":1626}
 {"type":"ok","from":"2026-04-21T00:15:50.902Z","to":"2026-04-21T23:45:32.922Z","count":71,"url":"https://api.asi1.ai/v1/models","avg":1146,"min":360,"max":2079,"p95":1669}
+{"type":"ok","from":"2026-04-22T00:06:10.049Z","to":"2026-04-22T05:35:59.759Z","count":15,"url":"https://api.asi1.ai/v1/models","avg":1325,"min":371,"max":2076,"p95":2076}
+{"type":"fail","from":"2026-04-22T05:55:37.151Z","to":"2026-04-22T05:55:37.151Z","count":1,"url":"https://api.asi1.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-22T06:15:57.164Z","to":"2026-04-22T23:56:06.875Z","count":54,"url":"https://api.asi1.ai/v1/models","avg":1506,"min":368,"max":3930,"p95":2926}

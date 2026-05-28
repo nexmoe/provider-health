@@ -84,3 +84,6 @@
 {"type":"ok","from":"2026-04-21T00:02:52.491Z","to":"2026-04-21T10:18:05.408Z","count":29,"url":"https://api.heabl.top/api/status","avg":2082,"min":1042,"max":3413,"p95":3380}
 {"type":"ok","from":"2026-04-21T10:35:12.931Z","to":"2026-04-21T10:35:12.931Z","count":1,"url":"https://api.heabl.top/v1/models","avg":3906,"min":3906,"max":3906,"p95":3906}
 {"type":"ok","from":"2026-04-21T10:54:46.282Z","to":"2026-04-21T23:53:00.045Z","count":39,"url":"https://api.heabl.top/api/status","avg":1933,"min":1216,"max":2874,"p95":2808}
+{"type":"ok","from":"2026-04-22T00:13:29.793Z","to":"2026-04-22T06:44:55.861Z","count":18,"url":"https://api.heabl.top/api/status","avg":2455,"min":1335,"max":4723,"p95":4723}
+{"type":"fail","from":"2026-04-22T07:04:20.927Z","to":"2026-04-22T07:44:39.493Z","count":3,"url":"https://api.heabl.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T08:03:40.628Z","to":"2026-04-22T23:43:32.590Z","count":48,"url":"https://api.heabl.top/api/status","avg":2492,"min":756,"max":4241,"p95":2904}

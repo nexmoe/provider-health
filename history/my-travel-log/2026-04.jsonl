@@ -909,3 +909,32 @@
 {"type":"ok","from":"2026-04-19T08:02:58.834Z","to":"2026-04-19T23:42:33.446Z","count":48,"url":"https://openapi.llcloud.vip/api/status","avg":117,"min":29,"max":538,"p95":458}
 {"type":"ok","from":"2026-04-20T00:02:53.854Z","to":"2026-04-20T23:52:41.089Z","count":71,"url":"https://openapi.llcloud.vip/api/status","avg":86,"min":29,"max":553,"p95":245}
 {"type":"ok","from":"2026-04-21T00:12:41.684Z","to":"2026-04-21T23:42:28.672Z","count":74,"url":"https://openapi.llcloud.vip/api/status","avg":106,"min":28,"max":837,"p95":404}
+{"type":"ok","from":"2026-04-22T00:02:49.088Z","to":"2026-04-22T05:33:02.509Z","count":15,"url":"https://openapi.llcloud.vip/api/status","avg":110,"min":31,"max":410,"p95":410}
+{"type":"ok","from":"2026-04-22T05:52:45.066Z","to":"2026-04-22T05:52:45.066Z","count":1,"url":"https://openapi.llcloud.vip/v1/models","avg":539,"min":539,"max":539,"p95":539}
+{"type":"fail","from":"2026-04-22T06:13:00.988Z","to":"2026-04-22T06:13:00.988Z","count":1,"url":"https://openapi.llcloud.vip/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T06:32:57.613Z","to":"2026-04-22T08:12:58.551Z","count":6,"url":"https://openapi.llcloud.vip/api/status","avg":736,"min":96,"max":3503,"p95":3503}
+{"type":"ok","from":"2026-04-22T08:33:12.270Z","to":"2026-04-22T08:33:12.270Z","count":1,"url":"https://openapi.llcloud.vip/status","avg":335,"min":335,"max":335,"p95":335}
+{"type":"ok","from":"2026-04-22T08:52:58.353Z","to":"2026-04-22T08:52:58.353Z","count":1,"url":"https://openapi.llcloud.vip/api/status","avg":99,"min":99,"max":99,"p95":99}
+{"type":"fail","from":"2026-04-22T09:13:08.201Z","to":"2026-04-22T09:13:08.201Z","count":1,"url":"https://openapi.llcloud.vip/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T09:33:07.350Z","to":"2026-04-22T09:33:07.350Z","count":1,"url":"https://openapi.llcloud.vip/v1/models","avg":972,"min":972,"max":972,"p95":972}
+{"type":"ok","from":"2026-04-22T09:52:42.347Z","to":"2026-04-22T10:12:43.876Z","count":2,"url":"https://openapi.llcloud.vip/api/status","avg":229,"min":222,"max":236,"p95":236}
+{"type":"ok","from":"2026-04-22T10:33:10.498Z","to":"2026-04-22T10:33:10.498Z","count":1,"url":"https://openapi.llcloud.vip/status","avg":418,"min":418,"max":418,"p95":418}
+{"type":"ok","from":"2026-04-22T10:52:50.808Z","to":"2026-04-22T11:12:41.636Z","count":2,"url":"https://openapi.llcloud.vip/api/status","avg":128,"min":104,"max":151,"p95":151}
+{"type":"ok","from":"2026-04-22T11:33:03.213Z","to":"2026-04-22T11:33:03.213Z","count":1,"url":"https://openapi.llcloud.vip/status","avg":1099,"min":1099,"max":1099,"p95":1099}
+{"type":"ok","from":"2026-04-22T11:52:58.899Z","to":"2026-04-22T11:52:58.899Z","count":1,"url":"https://openapi.llcloud.vip/health","avg":86,"min":86,"max":86,"p95":86}
+{"type":"ok","from":"2026-04-22T12:12:45.097Z","to":"2026-04-22T12:12:45.097Z","count":1,"url":"https://openapi.llcloud.vip/api/status","avg":276,"min":276,"max":276,"p95":276}
+{"type":"fail","from":"2026-04-22T12:33:14.460Z","to":"2026-04-22T12:33:14.460Z","count":1,"url":"https://openapi.llcloud.vip/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-22T12:52:55.827Z","to":"2026-04-22T13:12:50.241Z","count":2,"url":"https://openapi.llcloud.vip/api/status","avg":346,"min":284,"max":407,"p95":407}
+{"type":"ok","from":"2026-04-22T13:33:12.948Z","to":"2026-04-22T13:33:12.948Z","count":1,"url":"https://openapi.llcloud.vip/status","avg":371,"min":371,"max":371,"p95":371}
+{"type":"ok","from":"2026-04-22T13:53:04.724Z","to":"2026-04-22T13:53:04.724Z","count":1,"url":"https://openapi.llcloud.vip/v1/models","avg":523,"min":523,"max":523,"p95":523}
+{"type":"ok","from":"2026-04-22T14:12:53.276Z","to":"2026-04-22T14:12:53.276Z","count":1,"url":"https://openapi.llcloud.vip/api/status","avg":183,"min":183,"max":183,"p95":183}
+{"type":"ok","from":"2026-04-22T14:32:49.125Z","to":"2026-04-22T14:32:49.125Z","count":1,"url":"https://openapi.llcloud.vip/v1/models","avg":592,"min":592,"max":592,"p95":592}
+{"type":"ok","from":"2026-04-22T14:52:47.065Z","to":"2026-04-22T14:52:47.065Z","count":1,"url":"https://openapi.llcloud.vip/api/status","avg":142,"min":142,"max":142,"p95":142}
+{"type":"ok","from":"2026-04-22T15:13:12.594Z","to":"2026-04-22T15:13:12.594Z","count":1,"url":"https://openapi.llcloud.vip/health","avg":341,"min":341,"max":341,"p95":341}
+{"type":"ok","from":"2026-04-22T15:33:02.708Z","to":"2026-04-22T15:53:01.864Z","count":2,"url":"https://openapi.llcloud.vip/api/status","avg":377,"min":136,"max":617,"p95":617}
+{"type":"ok","from":"2026-04-22T16:13:03.071Z","to":"2026-04-22T16:13:03.071Z","count":1,"url":"https://openapi.llcloud.vip/v1/models","avg":417,"min":417,"max":417,"p95":417}
+{"type":"ok","from":"2026-04-22T16:33:03.856Z","to":"2026-04-22T18:32:43.460Z","count":7,"url":"https://openapi.llcloud.vip/api/status","avg":197,"min":91,"max":381,"p95":381}
+{"type":"ok","from":"2026-04-22T18:52:56.279Z","to":"2026-04-22T18:52:56.279Z","count":1,"url":"https://openapi.llcloud.vip/health","avg":593,"min":593,"max":593,"p95":593}
+{"type":"ok","from":"2026-04-22T19:12:42.825Z","to":"2026-04-22T20:12:46.517Z","count":4,"url":"https://openapi.llcloud.vip/api/status","avg":215,"min":170,"max":322,"p95":322}
+{"type":"ok","from":"2026-04-22T20:32:45.828Z","to":"2026-04-22T20:32:45.828Z","count":1,"url":"https://openapi.llcloud.vip/v1/models","avg":185,"min":185,"max":185,"p95":185}
+{"type":"ok","from":"2026-04-22T20:52:35.354Z","to":"2026-04-22T23:52:49.247Z","count":10,"url":"https://openapi.llcloud.vip/api/status","avg":257,"min":80,"max":446,"p95":446}
