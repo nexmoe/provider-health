@@ -35,3 +35,12 @@
 {"type":"ok","from":"2026-04-20T00:12:49.619Z","to":"2026-04-20T23:43:24.142Z","count":57,"url":"https://apipool.dev/v1/models","avg":1597,"min":940,"max":2590,"p95":2415}
 {"type":"ok","from":"2026-04-21T00:02:52.407Z","to":"2026-04-21T23:52:59.956Z","count":69,"url":"https://apipool.dev/v1/models","avg":1746,"min":796,"max":3156,"p95":2852}
 {"type":"ok","from":"2026-04-22T00:13:29.701Z","to":"2026-04-22T23:43:31.981Z","count":69,"url":"https://apipool.dev/v1/models","avg":2203,"min":479,"max":4451,"p95":3955}
+{"type":"ok","from":"2026-04-23T00:02:45.337Z","to":"2026-04-23T02:44:29.854Z","count":9,"url":"https://apipool.dev/v1/models","avg":2472,"min":1850,"max":3793,"p95":3793}
+{"type":"fail","from":"2026-04-23T03:00:07.870Z","to":"2026-04-23T03:00:07.870Z","count":1,"url":"https://apipool.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-23T03:24:43.030Z","to":"2026-04-23T03:24:43.030Z","count":1,"url":"https://apipool.dev/v1/models","avg":2166,"min":2166,"max":2166,"p95":2166}
+{"type":"fail","from":"2026-04-23T03:44:16.583Z","to":"2026-04-23T03:44:16.583Z","count":1,"url":"https://apipool.dev/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"ok","from":"2026-04-23T04:03:25.882Z","to":"2026-04-23T15:35:26.598Z","count":33,"url":"https://apipool.dev/v1/models","avg":2354,"min":1373,"max":4047,"p95":2881}
+{"type":"fail","from":"2026-04-23T15:55:25.722Z","to":"2026-04-23T15:55:25.722Z","count":1,"url":"https://apipool.dev/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"ok","from":"2026-04-23T16:14:28.318Z","to":"2026-04-23T21:11:53.491Z","count":16,"url":"https://apipool.dev/v1/models","avg":2171,"min":1523,"max":3055,"p95":3055}
+{"type":"fail","from":"2026-04-23T21:32:02.506Z","to":"2026-04-23T21:32:02.506Z","count":1,"url":"https://apipool.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-23T21:52:15.681Z","to":"2026-04-23T23:52:19.457Z","count":7,"url":"https://apipool.dev/v1/models","avg":1953,"min":1658,"max":2237,"p95":2237}

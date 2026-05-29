@@ -110,3 +110,6 @@
 {"type":"ok","from":"2026-04-22T06:56:34.488Z","to":"2026-04-22T06:56:34.488Z","count":1,"url":"https://wxkyw.dpdns.org/login","avg":2130,"min":2130,"max":2130,"p95":2130}
 {"type":"ok","from":"2026-04-22T07:16:27.528Z","to":"2026-04-22T07:16:27.528Z","count":1,"url":"https://wxkyw.dpdns.org/api/status","avg":1830,"min":1830,"max":1830,"p95":1830}
 {"type":"fail","from":"2026-04-22T07:36:06.925Z","to":"2026-04-22T23:56:32.297Z","count":50,"url":"https://wxkyw.dpdns.org/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-23T00:16:15.284Z","to":"2026-04-23T07:46:07.317Z","count":22,"url":"https://wxkyw.dpdns.org/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-23T08:07:03.906Z","to":"2026-04-23T08:07:03.906Z","count":1,"url":"https://wxkyw.dpdns.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-23T08:26:58.578Z","to":"2026-04-23T23:46:25.772Z","count":47,"url":"https://wxkyw.dpdns.org/api/status","status":null,"error":"fetch failed","avg_latency":null}

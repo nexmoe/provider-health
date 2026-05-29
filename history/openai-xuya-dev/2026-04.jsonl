@@ -37,3 +37,7 @@
 {"type":"ok","from":"2026-04-20T00:12:50.325Z","to":"2026-04-20T23:43:25.055Z","count":57,"url":"https://openai.xuya.dev/v1/models","avg":660,"min":439,"max":1242,"p95":960}
 {"type":"ok","from":"2026-04-21T00:02:53.974Z","to":"2026-04-21T23:53:01.438Z","count":69,"url":"https://openai.xuya.dev/v1/models","avg":676,"min":435,"max":1212,"p95":976}
 {"type":"ok","from":"2026-04-22T00:13:30.186Z","to":"2026-04-22T23:43:32.681Z","count":69,"url":"https://openai.xuya.dev/v1/models","avg":792,"min":448,"max":1445,"p95":1278}
+{"type":"ok","from":"2026-04-23T00:02:47.042Z","to":"2026-04-23T02:44:30.805Z","count":9,"url":"https://openai.xuya.dev/v1/models","avg":804,"min":458,"max":1432,"p95":1432}
+{"type":"fail","from":"2026-04-23T03:00:10.603Z","to":"2026-04-23T03:00:10.603Z","count":1,"url":"https://openai.xuya.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-23T03:24:43.944Z","to":"2026-04-23T06:54:19.889Z","count":10,"url":"https://openai.xuya.dev/v1/models","avg":739,"min":449,"max":947,"p95":947}
+{"type":"fail","from":"2026-04-23T07:13:23.265Z","to":"2026-04-23T23:52:20.311Z","count":50,"url":"https://openai.xuya.dev/api/status","status":null,"error":"fetch failed","avg_latency":null}

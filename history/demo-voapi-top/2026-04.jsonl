@@ -67,3 +67,8 @@
 {"type":"ok","from":"2026-04-20T00:12:50.187Z","to":"2026-04-20T23:43:24.607Z","count":57,"url":"https://demo.voapi.top/health","avg":168,"min":147,"max":572,"p95":177}
 {"type":"ok","from":"2026-04-21T00:02:53.150Z","to":"2026-04-21T23:53:00.434Z","count":69,"url":"https://demo.voapi.top/health","avg":158,"min":149,"max":190,"p95":170}
 {"type":"ok","from":"2026-04-22T00:13:30.126Z","to":"2026-04-22T23:43:32.506Z","count":69,"url":"https://demo.voapi.top/health","avg":158,"min":147,"max":177,"p95":167}
+{"type":"ok","from":"2026-04-23T00:02:45.853Z","to":"2026-04-23T02:44:30.724Z","count":9,"url":"https://demo.voapi.top/health","avg":158,"min":149,"max":175,"p95":175}
+{"type":"fail","from":"2026-04-23T03:00:09.152Z","to":"2026-04-23T03:00:09.152Z","count":1,"url":"https://demo.voapi.top/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-23T03:24:43.579Z","to":"2026-04-23T21:11:54.135Z","count":52,"url":"https://demo.voapi.top/health","avg":158,"min":149,"max":185,"p95":176}
+{"type":"fail","from":"2026-04-23T21:32:03.438Z","to":"2026-04-23T21:32:03.438Z","count":1,"url":"https://demo.voapi.top/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-23T21:52:16.322Z","to":"2026-04-23T23:52:19.920Z","count":7,"url":"https://demo.voapi.top/health","avg":155,"min":152,"max":163,"p95":163}
