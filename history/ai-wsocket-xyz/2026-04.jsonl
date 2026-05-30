@@ -859,3 +859,6 @@
 {"type":"ok","from":"2026-04-22T10:24:22.919Z","to":"2026-04-22T23:43:31.081Z","count":41,"url":"https://ai.wsocket.xyz/api/status","avg":1463,"min":1117,"max":2356,"p95":2125}
 {"type":"ok","from":"2026-04-23T00:02:43.960Z","to":"2026-04-23T20:51:34.316Z","count":61,"url":"https://ai.wsocket.xyz/api/status","avg":1500,"min":1079,"max":2673,"p95":1963}
 {"type":"fail","from":"2026-04-23T21:12:32.283Z","to":"2026-04-23T23:52:58.280Z","count":9,"url":"https://ai.wsocket.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-24T00:13:35.518Z","to":"2026-04-24T04:13:36.295Z","count":12,"url":"https://ai.wsocket.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-24T04:33:22.390Z","to":"2026-04-24T04:33:22.390Z","count":1,"url":"https://ai.wsocket.xyz/health","avg":276,"min":276,"max":276,"p95":276}
+{"type":"ok","from":"2026-04-24T04:52:40.511Z","to":"2026-04-24T23:51:50.918Z","count":58,"url":"https://ai.wsocket.xyz/api/status","avg":1597,"min":803,"max":4701,"p95":3087}

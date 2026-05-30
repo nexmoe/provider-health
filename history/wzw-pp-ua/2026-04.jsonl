@@ -34,3 +34,6 @@
 {"type":"fail","from":"2026-04-23T00:19:39.678Z","to":"2026-04-23T08:56:02.315Z","count":25,"url":"https://wzw.pp.ua/api/status","status":null,"error":"fetch failed","avg_latency":null}
 {"type":"ok","from":"2026-04-23T09:19:36.844Z","to":"2026-04-23T09:19:36.844Z","count":1,"url":"https://wzw.pp.ua/v1/models","avg":526,"min":526,"max":526,"p95":526}
 {"type":"ok","from":"2026-04-23T09:40:25.348Z","to":"2026-04-23T23:49:02.619Z","count":44,"url":"https://wzw.pp.ua/api/status","avg":1506,"min":983,"max":3605,"p95":1868}
+{"type":"ok","from":"2026-04-24T00:09:13.776Z","to":"2026-04-24T06:30:57.625Z","count":19,"url":"https://wzw.pp.ua/api/status","avg":2191,"min":990,"max":4834,"p95":4834}
+{"type":"fail","from":"2026-04-24T06:50:53.865Z","to":"2026-04-24T06:50:53.865Z","count":1,"url":"https://wzw.pp.ua/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-24T07:11:11.929Z","to":"2026-04-24T23:48:43.125Z","count":51,"url":"https://wzw.pp.ua/api/status","avg":1637,"min":1106,"max":3303,"p95":2625}

@@ -41,3 +41,6 @@
 {"type":"fail","from":"2026-04-23T03:00:10.603Z","to":"2026-04-23T03:00:10.603Z","count":1,"url":"https://openai.xuya.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-04-23T03:24:43.944Z","to":"2026-04-23T06:54:19.889Z","count":10,"url":"https://openai.xuya.dev/v1/models","avg":739,"min":449,"max":947,"p95":947}
 {"type":"fail","from":"2026-04-23T07:13:23.265Z","to":"2026-04-23T23:52:20.311Z","count":50,"url":"https://openai.xuya.dev/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-24T00:12:58.806Z","to":"2026-04-24T14:35:35.899Z","count":43,"url":"https://openai.xuya.dev/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-04-24T14:54:04.988Z","to":"2026-04-24T14:54:04.988Z","count":1,"url":"https://openai.xuya.dev/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-24T15:15:13.673Z","to":"2026-04-24T23:51:52.383Z","count":27,"url":"https://openai.xuya.dev/api/status","status":null,"error":"fetch failed","avg_latency":null}

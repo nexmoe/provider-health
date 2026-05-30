@@ -247,3 +247,12 @@
 {"type":"ok","from":"2026-04-23T10:23:20.055Z","to":"2026-04-23T21:11:54.561Z","count":33,"url":"https://new.api.koru.ink/api/status","avg":2807,"min":2001,"max":3519,"p95":3337}
 {"type":"ok","from":"2026-04-23T21:32:05.697Z","to":"2026-04-23T21:32:05.697Z","count":1,"url":"https://new.api.koru.ink/status","avg":3399,"min":3399,"max":3399,"p95":3399}
 {"type":"ok","from":"2026-04-23T21:52:16.238Z","to":"2026-04-23T23:52:19.800Z","count":7,"url":"https://new.api.koru.ink/api/status","avg":2568,"min":2120,"max":2799,"p95":2799}
+{"type":"ok","from":"2026-04-24T00:12:58.093Z","to":"2026-04-24T05:52:59.501Z","count":17,"url":"https://new.api.koru.ink/api/status","avg":2804,"min":2250,"max":4418,"p95":4418}
+{"type":"ok","from":"2026-04-24T06:15:11.286Z","to":"2026-04-24T06:15:11.286Z","count":1,"url":"https://new.api.koru.ink/status","avg":3992,"min":3992,"max":3992,"p95":3992}
+{"type":"ok","from":"2026-04-24T06:34:43.650Z","to":"2026-04-24T06:34:43.650Z","count":1,"url":"https://new.api.koru.ink/v1/models","avg":4351,"min":4351,"max":4351,"p95":4351}
+{"type":"ok","from":"2026-04-24T06:54:24.785Z","to":"2026-04-24T06:54:24.785Z","count":1,"url":"https://new.api.koru.ink/health","avg":2292,"min":2292,"max":2292,"p95":2292}
+{"type":"ok","from":"2026-04-24T07:14:55.410Z","to":"2026-04-24T11:57:15.254Z","count":15,"url":"https://new.api.koru.ink/api/status","avg":2703,"min":1953,"max":3311,"p95":3311}
+{"type":"fail","from":"2026-04-24T12:17:04.242Z","to":"2026-04-24T12:34:42.542Z","count":2,"url":"https://new.api.koru.ink/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-24T12:53:44.404Z","to":"2026-04-24T14:16:14.252Z","count":5,"url":"https://new.api.koru.ink/api/status","avg":4524,"min":3596,"max":4980,"p95":4980}
+{"type":"ok","from":"2026-04-24T14:35:35.912Z","to":"2026-04-24T15:15:14.373Z","count":3,"url":"https://new.api.koru.ink/v1/models","avg":943,"min":583,"max":1455,"p95":1455}
+{"type":"ok","from":"2026-04-24T15:35:21.764Z","to":"2026-04-24T23:51:51.852Z","count":26,"url":"https://new.api.koru.ink/api/status","avg":2673,"min":2226,"max":4879,"p95":3442}

@@ -252,3 +252,8 @@
 {"type":"ok","from":"2026-04-23T00:11:55.876Z","to":"2026-04-23T08:02:14.254Z","count":23,"url":"https://api-s1.aiearth.vip/api/status","avg":1038,"min":879,"max":1651,"p95":1288}
 {"type":"ok","from":"2026-04-23T08:22:13.806Z","to":"2026-04-23T08:22:13.806Z","count":1,"url":"https://api-s1.aiearth.vip/v1/models","avg":2920,"min":2920,"max":2920,"p95":2920}
 {"type":"ok","from":"2026-04-23T08:42:07.866Z","to":"2026-04-23T23:41:50.392Z","count":47,"url":"https://api-s1.aiearth.vip/api/status","avg":1084,"min":684,"max":2146,"p95":1377}
+{"type":"ok","from":"2026-04-24T00:02:04.863Z","to":"2026-04-24T07:21:53.674Z","count":23,"url":"https://api-s1.aiearth.vip/api/status","avg":1162,"min":783,"max":4970,"p95":1370}
+{"type":"ok","from":"2026-04-24T07:42:07.279Z","to":"2026-04-24T07:42:07.279Z","count":1,"url":"https://api-s1.aiearth.vip/health","avg":1905,"min":1905,"max":1905,"p95":1905}
+{"type":"ok","from":"2026-04-24T08:02:07.285Z","to":"2026-04-24T14:02:13.923Z","count":19,"url":"https://api-s1.aiearth.vip/api/status","avg":1113,"min":919,"max":1724,"p95":1724}
+{"type":"fail","from":"2026-04-24T14:22:22.968Z","to":"2026-04-24T14:22:22.968Z","count":1,"url":"https://api-s1.aiearth.vip/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-24T14:42:06.543Z","to":"2026-04-24T23:41:47.633Z","count":28,"url":"https://api-s1.aiearth.vip/api/status","avg":1112,"min":851,"max":1844,"p95":1746}
