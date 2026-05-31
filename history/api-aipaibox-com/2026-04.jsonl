@@ -34,3 +34,7 @@
 {"type":"fail","from":"2026-04-23T07:54:28.750Z","to":"2026-04-23T07:54:28.750Z","count":1,"url":"https://api.aipaibox.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-04-23T08:14:43.271Z","to":"2026-04-23T23:53:09.192Z","count":47,"url":"https://api.aipaibox.com/api/status","avg":705,"min":230,"max":3175,"p95":1569}
 {"type":"ok","from":"2026-04-24T00:13:44.915Z","to":"2026-04-24T23:52:06.042Z","count":71,"url":"https://api.aipaibox.com/api/status","avg":487,"min":195,"max":2170,"p95":907}
+{"type":"ok","from":"2026-04-25T00:12:25.623Z","to":"2026-04-25T01:53:14.940Z","count":6,"url":"https://api.aipaibox.com/api/status","avg":463,"min":204,"max":809,"p95":809}
+{"type":"ok","from":"2026-04-25T02:12:36.345Z","to":"2026-04-25T02:12:36.345Z","count":1,"url":"https://api.aipaibox.com/v1/models","avg":2819,"min":2819,"max":2819,"p95":2819}
+{"type":"ok","from":"2026-04-25T02:33:20.813Z","to":"2026-04-25T23:49:11.315Z","count":93,"url":"https://api.aipaibox.com/api/status","avg":1174,"min":212,"max":2823,"p95":2154}
+{"type":"ok","from":"2026-04-25T23:59:26.717Z","to":"2026-04-25T23:59:26.717Z","count":1,"url":"https://api.aipaibox.com/health","avg":3636,"min":3636,"max":3636,"p95":3636}

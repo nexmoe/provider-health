@@ -25,3 +25,6 @@
 {"type":"ok","from":"2026-04-24T00:02:04.781Z","to":"2026-04-24T04:02:13.697Z","count":13,"url":"https://api.yuegle.com/api/status","avg":1048,"min":544,"max":1311,"p95":1311}
 {"type":"fail","from":"2026-04-24T04:21:58.425Z","to":"2026-04-24T08:42:01.191Z","count":14,"url":"https://api.yuegle.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
 {"type":"ok","from":"2026-04-24T09:02:16.986Z","to":"2026-04-24T23:41:47.515Z","count":45,"url":"https://api.yuegle.com/api/status","avg":1030,"min":642,"max":1759,"p95":1425}
+{"type":"ok","from":"2026-04-25T00:02:03.997Z","to":"2026-04-25T12:41:39.644Z","count":48,"url":"https://api.yuegle.com/api/status","avg":837,"min":339,"max":2631,"p95":1625}
+{"type":"fail","from":"2026-04-25T13:02:00.095Z","to":"2026-04-25T13:02:00.095Z","count":1,"url":"https://api.yuegle.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-25T13:21:41.637Z","to":"2026-04-25T23:51:30.701Z","count":54,"url":"https://api.yuegle.com/api/status","avg":629,"min":303,"max":1466,"p95":1345}

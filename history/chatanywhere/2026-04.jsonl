@@ -119,3 +119,9 @@
 {"type":"ok","from":"2026-04-24T22:41:12.077Z","to":"2026-04-24T22:41:12.077Z","count":1,"url":"https://api.chatanywhere.tech/v1/models","avg":3064,"min":3064,"max":3064,"p95":3064}
 {"type":"ok","from":"2026-04-24T23:01:25.481Z","to":"2026-04-24T23:01:25.481Z","count":1,"url":"https://api.chatanywhere.org/v1/models","avg":208,"min":208,"max":208,"p95":208}
 {"type":"ok","from":"2026-04-24T23:21:03.176Z","to":"2026-04-24T23:41:05.708Z","count":2,"url":"https://api.chatanywhere.tech/v1/models","avg":1486,"min":491,"max":2480,"p95":2480}
+{"type":"ok","from":"2026-04-25T00:01:23.237Z","to":"2026-04-25T00:21:05.115Z","count":2,"url":"https://api.chatanywhere.tech/v1/models","avg":3533,"min":3449,"max":3617,"p95":3617}
+{"type":"ok","from":"2026-04-25T00:41:15.402Z","to":"2026-04-25T00:41:15.402Z","count":1,"url":"https://api.chatanywhere.org/v1/models","avg":206,"min":206,"max":206,"p95":206}
+{"type":"ok","from":"2026-04-25T01:01:17.723Z","to":"2026-04-25T03:11:10.757Z","count":8,"url":"https://api.chatanywhere.tech/v1/models","avg":2061,"min":558,"max":3260,"p95":3260}
+{"type":"ok","from":"2026-04-25T03:31:21.003Z","to":"2026-04-25T03:40:55.052Z","count":2,"url":"https://api.chatanywhere.org/v1/models","avg":232,"min":216,"max":247,"p95":247}
+{"type":"fail","from":"2026-04-25T05:11:36.922Z","to":"2026-04-25T05:11:36.922Z","count":1,"url":"https://api.chatanywhere.tech/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-25T05:40:59.440Z","to":"2026-04-25T23:50:56.290Z","count":89,"url":"https://api.chatanywhere.tech/v1/models","avg":337,"min":51,"max":1722,"p95":711}

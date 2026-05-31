@@ -53,3 +53,14 @@
 {"type":"ok","from":"2026-04-22T00:05:06.246Z","to":"2026-04-22T23:55:04.336Z","count":70,"url":"https://api.tokenpony.cn/v1/models","avg":581,"min":160,"max":2062,"p95":1256}
 {"type":"ok","from":"2026-04-23T00:14:48.237Z","to":"2026-04-23T23:44:57.884Z","count":70,"url":"https://api.tokenpony.cn/v1/models","avg":498,"min":166,"max":1482,"p95":1000}
 {"type":"ok","from":"2026-04-24T00:04:57.128Z","to":"2026-04-24T23:44:36.389Z","count":72,"url":"https://api.tokenpony.cn/v1/models","avg":540,"min":154,"max":1571,"p95":1218}
+{"type":"ok","from":"2026-04-25T00:04:59.584Z","to":"2026-04-25T14:04:29.773Z","count":52,"url":"https://api.tokenpony.cn/v1/models","avg":741,"min":194,"max":1801,"p95":1318}
+{"type":"fail","from":"2026-04-25T14:24:35.452Z","to":"2026-04-25T15:54:16.849Z","count":6,"url":"https://api.tokenpony.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-25T16:04:32.175Z","to":"2026-04-25T16:24:16.165Z","count":2,"url":"https://api.tokenpony.cn/v1/models","avg":865,"min":807,"max":922,"p95":922}
+{"type":"fail","from":"2026-04-25T16:34:24.039Z","to":"2026-04-25T17:34:14.319Z","count":7,"url":"https://api.tokenpony.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-25T17:44:07.415Z","to":"2026-04-25T17:44:07.415Z","count":1,"url":"https://api.tokenpony.cn/v1/models","avg":641,"min":641,"max":641,"p95":641}
+{"type":"fail","from":"2026-04-25T17:54:14.500Z","to":"2026-04-25T19:54:16.154Z","count":13,"url":"https://api.tokenpony.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-25T20:04:17.315Z","to":"2026-04-25T20:04:17.315Z","count":1,"url":"https://api.tokenpony.cn/v1/models","avg":1841,"min":1841,"max":1841,"p95":1841}
+{"type":"fail","from":"2026-04-25T20:14:05.368Z","to":"2026-04-25T22:14:16.922Z","count":13,"url":"https://api.tokenpony.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-25T22:34:14.147Z","to":"2026-04-25T22:34:14.147Z","count":1,"url":"https://api.tokenpony.cn/v1/models","avg":2689,"min":2689,"max":2689,"p95":2689}
+{"type":"fail","from":"2026-04-25T22:54:15.623Z","to":"2026-04-25T23:14:13.945Z","count":3,"url":"https://api.tokenpony.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-25T23:24:09.432Z","to":"2026-04-25T23:54:01.437Z","count":4,"url":"https://api.tokenpony.cn/v1/models","avg":657,"min":644,"max":669,"p95":669}

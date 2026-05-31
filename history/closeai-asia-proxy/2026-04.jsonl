@@ -8,3 +8,8 @@
 {"type":"ok","from":"2026-04-22T00:01:53.815Z","to":"2026-04-22T23:51:45.015Z","count":70,"url":"https://api.openai-proxy.org/v1/models","avg":287,"min":235,"max":593,"p95":433}
 {"type":"ok","from":"2026-04-23T00:11:44.306Z","to":"2026-04-23T23:41:44.413Z","count":71,"url":"https://api.openai-proxy.org/v1/models","avg":326,"min":230,"max":2310,"p95":726}
 {"type":"ok","from":"2026-04-24T00:01:59.025Z","to":"2026-04-24T23:41:37.386Z","count":72,"url":"https://api.openai-proxy.org/v1/models","avg":271,"min":236,"max":514,"p95":339}
+{"type":"ok","from":"2026-04-25T00:01:56.461Z","to":"2026-04-25T00:21:40.384Z","count":2,"url":"https://api.openai-proxy.org/v1/models","avg":246,"min":235,"max":257,"p95":257}
+{"type":"fail","from":"2026-04-25T00:41:54.043Z","to":"2026-04-25T00:41:54.043Z","count":1,"url":"https://api.openai-proxy.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-25T01:01:51.149Z","to":"2026-04-25T13:01:35.937Z","count":46,"url":"https://api.openai-proxy.org/v1/models","avg":218,"min":82,"max":615,"p95":375}
+{"type":"fail","from":"2026-04-25T13:21:37.483Z","to":"2026-04-25T13:21:37.483Z","count":1,"url":"https://api.openai-proxy.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-25T13:41:27.881Z","to":"2026-04-25T23:51:27.904Z","count":53,"url":"https://api.openai-proxy.org/v1/models","avg":212,"min":82,"max":1039,"p95":448}
