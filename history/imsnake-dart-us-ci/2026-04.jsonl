@@ -36,3 +36,8 @@
 {"type":"fail","from":"2026-04-25T18:38:00.159Z","to":"2026-04-25T21:37:48.187Z","count":19,"url":"https://imsnake.dart.us.ci/api/status","status":525,"error":"HTTP 525","avg_latency":null}
 {"type":"fail","from":"2026-04-25T21:47:54.342Z","to":"2026-04-25T21:47:54.342Z","count":1,"url":"https://imsnake.dart.us.ci/health","status":525,"error":"HTTP 525","avg_latency":null}
 {"type":"fail","from":"2026-04-25T21:57:37.241Z","to":"2026-04-25T23:57:35.464Z","count":11,"url":"https://imsnake.dart.us.ci/api/status","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-04-26T00:07:47.013Z","to":"2026-04-26T01:48:01.505Z","count":10,"url":"https://imsnake.dart.us.ci/api/status","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-04-26T01:57:35.895Z","to":"2026-04-26T04:18:40.725Z","count":15,"url":"https://imsnake.dart.us.ci/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-04-26T04:38:04.244Z","to":"2026-04-26T09:08:06.446Z","count":21,"url":"https://imsnake.dart.us.ci/api/status","avg":422,"min":196,"max":528,"p95":525}
+{"type":"ok","from":"2026-04-26T09:18:06.707Z","to":"2026-04-26T09:18:06.707Z","count":1,"url":"https://imsnake.dart.us.ci/v1/models","avg":499,"min":499,"max":499,"p95":499}
+{"type":"ok","from":"2026-04-26T09:28:00.674Z","to":"2026-04-26T23:50:06.352Z","count":49,"url":"https://imsnake.dart.us.ci/api/status","avg":191,"min":39,"max":1049,"p95":540}

@@ -112,3 +112,12 @@
 {"type":"fail","from":"2026-04-24T12:17:03.867Z","to":"2026-04-24T12:17:03.867Z","count":1,"url":"https://smz6.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-04-24T12:34:27.879Z","to":"2026-04-24T23:51:51.689Z","count":35,"url":"https://smz6.com/v1/models","avg":818,"min":416,"max":1698,"p95":1349}
 {"type":"ok","from":"2026-04-25T00:12:16.467Z","to":"2026-04-25T23:59:08.908Z","count":101,"url":"https://smz6.com/v1/models","avg":575,"min":427,"max":3134,"p95":1193}
+{"type":"ok","from":"2026-04-26T00:09:20.837Z","to":"2026-04-26T05:39:08.281Z","count":31,"url":"https://smz6.com/v1/models","avg":571,"min":437,"max":2186,"p95":1077}
+{"type":"fail","from":"2026-04-26T05:50:27.278Z","to":"2026-04-26T05:50:27.278Z","count":1,"url":"https://smz6.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-26T06:09:52.207Z","to":"2026-04-26T09:29:02.761Z","count":16,"url":"https://smz6.com/v1/models","avg":899,"min":439,"max":4009,"p95":4009}
+{"type":"fail","from":"2026-04-26T09:39:22.489Z","to":"2026-04-26T09:39:22.489Z","count":1,"url":"https://smz6.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-26T09:59:06.964Z","to":"2026-04-26T13:33:26.799Z","count":16,"url":"https://smz6.com/v1/models","avg":659,"min":438,"max":1472,"p95":1472}
+{"type":"ok","from":"2026-04-26T13:54:47.565Z","to":"2026-04-26T13:54:47.565Z","count":1,"url":"https://smz6.com/status","avg":3334,"min":3334,"max":3334,"p95":3334}
+{"type":"ok","from":"2026-04-26T14:15:00.559Z","to":"2026-04-26T16:13:54.521Z","count":7,"url":"https://smz6.com/v1/models","avg":802,"min":451,"max":1060,"p95":1060}
+{"type":"fail","from":"2026-04-26T16:35:21.488Z","to":"2026-04-26T16:35:21.488Z","count":1,"url":"https://smz6.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-26T16:52:48.037Z","to":"2026-04-26T23:51:08.145Z","count":22,"url":"https://smz6.com/v1/models","avg":787,"min":476,"max":1855,"p95":1093}

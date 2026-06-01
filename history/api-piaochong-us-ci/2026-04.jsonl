@@ -96,3 +96,10 @@
 {"type":"ok","from":"2026-04-24T02:26:34.418Z","to":"2026-04-24T02:26:34.418Z","count":1,"url":"http://api.piaochong.us.ci/status","avg":2072,"min":2072,"max":2072,"p95":2072}
 {"type":"ok","from":"2026-04-24T02:52:55.145Z","to":"2026-04-24T23:52:05.993Z","count":64,"url":"http://api.piaochong.us.ci/api/status","avg":878,"min":646,"max":2303,"p95":1937}
 {"type":"ok","from":"2026-04-25T00:12:25.913Z","to":"2026-04-25T23:59:13.473Z","count":101,"url":"http://api.piaochong.us.ci/api/status","avg":594,"min":355,"max":4034,"p95":1410}
+{"type":"ok","from":"2026-04-26T00:09:25.368Z","to":"2026-04-26T02:09:22.744Z","count":12,"url":"http://api.piaochong.us.ci/api/status","avg":409,"min":368,"max":577,"p95":577}
+{"type":"ok","from":"2026-04-26T02:18:53.797Z","to":"2026-04-26T02:18:53.797Z","count":1,"url":"http://api.piaochong.us.ci/v1/models","avg":917,"min":917,"max":917,"p95":917}
+{"type":"ok","from":"2026-04-26T02:28:48.114Z","to":"2026-04-26T06:59:23.119Z","count":23,"url":"http://api.piaochong.us.ci/api/status","avg":456,"min":376,"max":846,"p95":558}
+{"type":"fail","from":"2026-04-26T07:20:41.418Z","to":"2026-04-26T07:20:41.418Z","count":1,"url":"https://api.piaochong.us.ci/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-04-26T07:39:14.836Z","to":"2026-04-26T14:34:42.017Z","count":31,"url":"http://api.piaochong.us.ci/api/status","avg":855,"min":370,"max":4983,"p95":2204}
+{"type":"fail","from":"2026-04-26T14:55:51.370Z","to":"2026-04-26T14:55:51.370Z","count":1,"url":"https://api.piaochong.us.ci/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-04-26T15:14:57.258Z","to":"2026-04-26T23:51:20.037Z","count":27,"url":"http://api.piaochong.us.ci/api/status","avg":797,"min":646,"max":1725,"p95":1716}
