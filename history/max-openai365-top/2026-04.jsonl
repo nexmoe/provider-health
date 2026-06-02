@@ -54,3 +54,6 @@
 {"type":"fail","from":"2026-04-25T13:09:00.541Z","to":"2026-04-25T13:09:00.541Z","count":1,"url":"https://max.openai365.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-04-25T13:28:31.270Z","to":"2026-04-25T23:57:26.199Z","count":54,"url":"https://max.openai365.top/api/status","avg":1771,"min":976,"max":3621,"p95":2688}
 {"type":"ok","from":"2026-04-26T00:07:40.108Z","to":"2026-04-26T23:49:51.662Z","count":96,"url":"https://max.openai365.top/api/status","avg":1680,"min":870,"max":2804,"p95":2713}
+{"type":"ok","from":"2026-04-27T00:10:48.879Z","to":"2026-04-27T21:29:44.140Z","count":65,"url":"https://max.openai365.top/api/status","avg":1600,"min":928,"max":3226,"p95":2372}
+{"type":"ok","from":"2026-04-27T21:49:54.458Z","to":"2026-04-27T21:49:54.458Z","count":1,"url":"https://max.openai365.top/v1/models","avg":218,"min":218,"max":218,"p95":218}
+{"type":"ok","from":"2026-04-27T22:10:40.261Z","to":"2026-04-27T23:51:37.660Z","count":6,"url":"https://max.openai365.top/api/status","avg":1405,"min":1033,"max":1832,"p95":1832}

@@ -206,3 +206,33 @@
 {"type":"ok","from":"2026-04-26T16:40:16.601Z","to":"2026-04-26T19:00:21.905Z","count":8,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":1966,"min":782,"max":3833,"p95":3833}
 {"type":"ok","from":"2026-04-26T19:20:19.738Z","to":"2026-04-26T19:20:19.738Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":835,"min":835,"max":835,"p95":835}
 {"type":"ok","from":"2026-04-26T19:40:14.631Z","to":"2026-04-26T23:40:15.777Z","count":13,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":1859,"min":884,"max":3340,"p95":3340}
+{"type":"ok","from":"2026-04-27T00:00:27.587Z","to":"2026-04-27T01:00:27.935Z","count":4,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2407,"min":786,"max":4413,"p95":4413}
+{"type":"ok","from":"2026-04-27T01:20:27.564Z","to":"2026-04-27T01:20:27.564Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":3656,"min":3656,"max":3656,"p95":3656}
+{"type":"ok","from":"2026-04-27T01:40:19.768Z","to":"2026-04-27T04:00:23.462Z","count":8,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2468,"min":1570,"max":3611,"p95":3611}
+{"type":"ok","from":"2026-04-27T04:10:25.018Z","to":"2026-04-27T04:10:25.018Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":1850,"min":1850,"max":1850,"p95":1850}
+{"type":"ok","from":"2026-04-27T04:30:20.479Z","to":"2026-04-27T06:30:18.845Z","count":7,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2084,"min":814,"max":4304,"p95":4304}
+{"type":"ok","from":"2026-04-27T06:50:20.600Z","to":"2026-04-27T07:10:24.820Z","count":2,"url":"https://spark-api-open.xf-yun.com/api/status","avg":1188,"min":819,"max":1557,"p95":1557}
+{"type":"ok","from":"2026-04-27T07:30:20.706Z","to":"2026-04-27T07:50:17.901Z","count":2,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2423,"min":2408,"max":2437,"p95":2437}
+{"type":"ok","from":"2026-04-27T08:10:25.134Z","to":"2026-04-27T08:10:25.134Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":1569,"min":1569,"max":1569,"p95":1569}
+{"type":"ok","from":"2026-04-27T08:30:20.751Z","to":"2026-04-27T09:30:20.347Z","count":4,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2534,"min":804,"max":4083,"p95":4083}
+{"type":"ok","from":"2026-04-27T09:50:26.444Z","to":"2026-04-27T09:50:26.444Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":1875,"min":1875,"max":1875,"p95":1875}
+{"type":"ok","from":"2026-04-27T10:10:16.296Z","to":"2026-04-27T10:10:16.296Z","count":1,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2554,"min":2554,"max":2554,"p95":2554}
+{"type":"fail","from":"2026-04-27T10:31:05.900Z","to":"2026-04-27T10:31:05.900Z","count":1,"url":"https://maas-api.cn-huabei-1.xf-yun.com/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-04-27T10:50:14.455Z","to":"2026-04-27T11:00:24.358Z","count":2,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":1235,"min":858,"max":1611,"p95":1611}
+{"type":"fail","from":"2026-04-27T11:21:12.143Z","to":"2026-04-27T11:21:12.143Z","count":1,"url":"https://maas-api.cn-huabei-1.xf-yun.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-27T11:40:18.302Z","to":"2026-04-27T12:00:26.850Z","count":2,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2746,"min":2731,"max":2761,"p95":2761}
+{"type":"ok","from":"2026-04-27T12:20:31.781Z","to":"2026-04-27T12:20:31.781Z","count":1,"url":"https://spark-api-open.xf-yun.com/v1/models","avg":817,"min":817,"max":817,"p95":817}
+{"type":"ok","from":"2026-04-27T12:40:21.251Z","to":"2026-04-27T12:40:21.251Z","count":1,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":4571,"min":4571,"max":4571,"p95":4571}
+{"type":"ok","from":"2026-04-27T13:00:47.303Z","to":"2026-04-27T13:00:47.303Z","count":1,"url":"https://maas-coding-api.cn-huabei-1.xf-yun.com/v1/models","avg":1874,"min":1874,"max":1874,"p95":1874}
+{"type":"ok","from":"2026-04-27T13:20:26.167Z","to":"2026-04-27T13:40:24.790Z","count":2,"url":"https://spark-api-open.xf-yun.com/api/status","avg":1648,"min":1640,"max":1656,"p95":1656}
+{"type":"ok","from":"2026-04-27T14:00:24.430Z","to":"2026-04-27T14:20:16.547Z","count":2,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":1867,"min":1525,"max":2209,"p95":2209}
+{"type":"ok","from":"2026-04-27T14:40:33.669Z","to":"2026-04-27T14:40:33.669Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":2428,"min":2428,"max":2428,"p95":2428}
+{"type":"ok","from":"2026-04-27T15:00:29.451Z","to":"2026-04-27T15:00:29.451Z","count":1,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2425,"min":2425,"max":2425,"p95":2425}
+{"type":"ok","from":"2026-04-27T15:20:31.289Z","to":"2026-04-27T15:20:31.289Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":1562,"min":1562,"max":1562,"p95":1562}
+{"type":"ok","from":"2026-04-27T15:40:18.283Z","to":"2026-04-27T15:40:18.283Z","count":1,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":1837,"min":1837,"max":1837,"p95":1837}
+{"type":"ok","from":"2026-04-27T16:00:45.155Z","to":"2026-04-27T16:00:45.155Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":4134,"min":4134,"max":4134,"p95":4134}
+{"type":"ok","from":"2026-04-27T16:20:38.608Z","to":"2026-04-27T16:20:38.608Z","count":1,"url":"https://spark-api-open.xf-yun.com/v1/models","avg":2385,"min":2385,"max":2385,"p95":2385}
+{"type":"ok","from":"2026-04-27T16:40:14.890Z","to":"2026-04-27T16:40:14.890Z","count":1,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":2064,"min":2064,"max":2064,"p95":2064}
+{"type":"ok","from":"2026-04-27T17:00:41.656Z","to":"2026-04-27T17:00:41.656Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":4938,"min":4938,"max":4938,"p95":4938}
+{"type":"ok","from":"2026-04-27T17:20:19.381Z","to":"2026-04-27T23:20:13.966Z","count":19,"url":"https://maas-api.cn-huabei-1.xf-yun.com/v1/models","avg":1992,"min":813,"max":3809,"p95":3809}
+{"type":"ok","from":"2026-04-27T23:40:31.446Z","to":"2026-04-27T23:40:31.446Z","count":1,"url":"https://spark-api-open.xf-yun.com/api/status","avg":1595,"min":1595,"max":1595,"p95":1595}

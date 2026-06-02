@@ -33,3 +33,6 @@
 {"type":"ok","from":"2026-04-24T00:13:37.020Z","to":"2026-04-24T23:51:54.826Z","count":71,"url":"https://api.wataruu.me/v1/models","avg":651,"min":163,"max":1403,"p95":1122}
 {"type":"ok","from":"2026-04-25T00:12:19.022Z","to":"2026-04-25T23:59:10.015Z","count":101,"url":"https://api.wataruu.me/v1/models","avg":477,"min":318,"max":1335,"p95":999}
 {"type":"ok","from":"2026-04-26T00:09:22.381Z","to":"2026-04-26T23:51:10.611Z","count":96,"url":"https://api.wataruu.me/v1/models","avg":513,"min":214,"max":1411,"p95":929}
+{"type":"ok","from":"2026-04-27T00:12:11.293Z","to":"2026-04-27T11:33:11.890Z","count":35,"url":"https://api.wataruu.me/v1/models","avg":622,"min":270,"max":1197,"p95":1130}
+{"type":"fail","from":"2026-04-27T11:53:43.799Z","to":"2026-04-27T11:53:43.799Z","count":1,"url":"https://api.wataruu.me/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-27T12:13:10.490Z","to":"2026-04-27T23:53:18.615Z","count":36,"url":"https://api.wataruu.me/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

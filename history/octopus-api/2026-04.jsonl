@@ -36,3 +36,8 @@
 {"type":"ok","from":"2026-04-26T00:09:01.102Z","to":"2026-04-26T04:58:30.383Z","count":28,"url":"https://api.neujz.xyz/v1/models","avg":1233,"min":554,"max":2860,"p95":2067}
 {"type":"fail","from":"2026-04-26T05:09:27.228Z","to":"2026-04-26T05:09:27.228Z","count":1,"url":"https://api.neujz.xyz/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-04-26T05:28:47.079Z","to":"2026-04-26T23:50:46.952Z","count":67,"url":"https://api.neujz.xyz/v1/models","avg":1688,"min":720,"max":3936,"p95":3029}
+{"type":"ok","from":"2026-04-27T00:11:48.270Z","to":"2026-04-27T03:51:23.779Z","count":12,"url":"https://api.neujz.xyz/v1/models","avg":1458,"min":1073,"max":2056,"p95":2056}
+{"type":"fail","from":"2026-04-27T04:12:25.814Z","to":"2026-04-27T04:12:25.814Z","count":1,"url":"https://api.neujz.xyz/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-27T04:21:53.744Z","to":"2026-04-27T04:43:04.091Z","count":2,"url":"https://api.neujz.xyz/v1/models","avg":1219,"min":855,"max":1582,"p95":1582}
+{"type":"fail","from":"2026-04-27T05:03:24.971Z","to":"2026-04-27T05:22:08.996Z","count":2,"url":"https://api.neujz.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-27T05:41:51.644Z","to":"2026-04-27T23:52:35.738Z","count":55,"url":"https://api.neujz.xyz/v1/models","avg":1473,"min":872,"max":3589,"p95":2691}

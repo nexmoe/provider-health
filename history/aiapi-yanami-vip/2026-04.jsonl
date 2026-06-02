@@ -243,3 +243,4 @@
 {"type":"fail","from":"2026-04-26T06:39:54.607Z","to":"2026-04-26T12:09:41.775Z","count":26,"url":"https://aiapi.yanami.vip/api/status","status":502,"error":"HTTP 502","avg_latency":null}
 {"type":"fail","from":"2026-04-26T12:19:39.528Z","to":"2026-04-26T12:19:39.528Z","count":1,"url":"https://aiapi.yanami.vip/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-04-26T12:33:17.258Z","to":"2026-04-26T23:51:20.358Z","count":35,"url":"https://aiapi.yanami.vip/api/status","avg":267,"min":164,"max":1015,"p95":593}
+{"type":"ok","from":"2026-04-27T00:12:22.163Z","to":"2026-04-27T23:53:20.605Z","count":72,"url":"https://aiapi.yanami.vip/api/status","avg":272,"min":111,"max":1536,"p95":619}

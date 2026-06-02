@@ -177,3 +177,6 @@
 {"type":"ok","from":"2026-04-26T14:15:02.476Z","to":"2026-04-26T16:13:56.026Z","count":7,"url":"https://api.yidvps.cn/v1/models","avg":1013,"min":931,"max":1137,"p95":1137}
 {"type":"fail","from":"2026-04-26T16:35:21.484Z","to":"2026-04-26T16:35:21.484Z","count":1,"url":"https://api.yidvps.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-04-26T16:52:49.728Z","to":"2026-04-26T23:51:09.689Z","count":22,"url":"https://api.yidvps.cn/v1/models","avg":1104,"min":925,"max":2845,"p95":1395}
+{"type":"ok","from":"2026-04-27T00:12:10.114Z","to":"2026-04-27T08:44:12.175Z","count":27,"url":"https://api.yidvps.cn/v1/models","avg":1302,"min":927,"max":2856,"p95":2789}
+{"type":"fail","from":"2026-04-27T09:04:03.663Z","to":"2026-04-27T09:04:03.663Z","count":1,"url":"https://api.yidvps.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-27T09:25:30.011Z","to":"2026-04-27T23:52:58.305Z","count":44,"url":"https://api.yidvps.cn/v1/models","avg":975,"min":921,"max":1143,"p95":1087}
