@@ -24,3 +24,6 @@
 {"type":"ok","from":"2026-04-25T00:12:28.721Z","to":"2026-04-25T23:59:27.672Z","count":101,"url":"https://api.102298.xyz/api/status","avg":618,"min":295,"max":1736,"p95":1230}
 {"type":"ok","from":"2026-04-26T00:09:38.805Z","to":"2026-04-26T23:51:24.409Z","count":96,"url":"https://api.102298.xyz/api/status","avg":824,"min":304,"max":1708,"p95":1537}
 {"type":"ok","from":"2026-04-27T00:12:25.629Z","to":"2026-04-27T23:53:24.044Z","count":72,"url":"https://api.102298.xyz/api/status","avg":1181,"min":945,"max":1731,"p95":1534}
+{"type":"ok","from":"2026-04-28T00:13:04.158Z","to":"2026-04-28T13:04:15.912Z","count":38,"url":"https://api.102298.xyz/api/status","avg":1280,"min":1005,"max":2627,"p95":2238}
+{"type":"fail","from":"2026-04-28T13:23:23.852Z","to":"2026-04-28T13:23:23.852Z","count":1,"url":"https://api.102298.xyz/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-28T13:57:53.140Z","to":"2026-04-28T23:53:27.478Z","count":31,"url":"https://api.102298.xyz/api/status","status":530,"error":"HTTP 530","avg_latency":null}

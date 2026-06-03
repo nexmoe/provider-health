@@ -26,3 +26,11 @@
 {"type":"ok","from":"2026-04-26T06:59:40.985Z","to":"2026-04-26T06:59:40.985Z","count":1,"url":"https://gpt-agent.cc/v1/models","avg":186,"min":186,"max":186,"p95":186}
 {"type":"ok","from":"2026-04-26T07:20:41.723Z","to":"2026-04-26T23:51:24.230Z","count":60,"url":"https://gpt-agent.cc/api/status","avg":543,"min":54,"max":1294,"p95":1181}
 {"type":"ok","from":"2026-04-27T00:12:25.289Z","to":"2026-04-27T23:53:23.778Z","count":72,"url":"https://gpt-agent.cc/api/status","avg":738,"min":511,"max":1182,"p95":1039}
+{"type":"ok","from":"2026-04-28T00:13:03.661Z","to":"2026-04-28T00:53:48.443Z","count":3,"url":"https://gpt-agent.cc/api/status","avg":638,"min":608,"max":673,"p95":673}
+{"type":"fail","from":"2026-04-28T01:14:20.265Z","to":"2026-04-28T01:54:40.881Z","count":3,"url":"https://gpt-agent.cc/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-28T02:14:38.203Z","to":"2026-04-28T13:04:17.644Z","count":32,"url":"https://gpt-agent.cc/api/status","avg":736,"min":559,"max":1459,"p95":1287}
+{"type":"fail","from":"2026-04-28T13:23:38.063Z","to":"2026-04-28T13:23:38.063Z","count":1,"url":"https://gpt-agent.cc/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-28T13:57:53.847Z","to":"2026-04-28T13:57:53.847Z","count":1,"url":"https://gpt-agent.cc/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-04-28T14:16:58.896Z","to":"2026-04-28T14:16:58.896Z","count":1,"url":"https://gpt-agent.cc/api/status","avg":903,"min":903,"max":903,"p95":903}
+{"type":"ok","from":"2026-04-28T14:35:31.427Z","to":"2026-04-28T14:35:31.427Z","count":1,"url":"https://gpt-agent.cc/v1/models","avg":1454,"min":1454,"max":1454,"p95":1454}
+{"type":"ok","from":"2026-04-28T14:55:33.107Z","to":"2026-04-28T23:53:27.034Z","count":28,"url":"https://gpt-agent.cc/api/status","avg":747,"min":379,"max":1522,"p95":1088}
