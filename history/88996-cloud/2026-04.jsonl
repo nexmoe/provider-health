@@ -96,3 +96,6 @@
 {"type":"ok","from":"2026-04-28T05:26:24.234Z","to":"2026-04-28T11:56:47.224Z","count":20,"url":"https://88996.cloud/api/status","avg":1955,"min":1129,"max":3529,"p95":3529}
 {"type":"ok","from":"2026-04-28T12:17:16.299Z","to":"2026-04-28T12:17:16.299Z","count":1,"url":"https://88996.cloud/health","avg":761,"min":761,"max":761,"p95":761}
 {"type":"ok","from":"2026-04-28T12:47:00.887Z","to":"2026-04-28T23:46:21.045Z","count":33,"url":"https://88996.cloud/api/status","avg":1869,"min":1145,"max":3144,"p95":2981}
+{"type":"ok","from":"2026-04-29T00:06:40.424Z","to":"2026-04-29T18:06:39.206Z","count":58,"url":"https://88996.cloud/api/status","avg":2135,"min":754,"max":4705,"p95":3853}
+{"type":"fail","from":"2026-04-29T18:26:53.641Z","to":"2026-04-29T18:26:53.641Z","count":1,"url":"https://88996.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-29T18:46:10.327Z","to":"2026-04-29T23:45:52.870Z","count":16,"url":"https://88996.cloud/api/status","avg":1522,"min":991,"max":2328,"p95":2328}

@@ -14,3 +14,8 @@
 {"type":"ok","from":"2026-04-26T00:09:45.160Z","to":"2026-04-26T23:51:33.202Z","count":96,"url":"https://cpa.illsky.com/v1/models","avg":620,"min":146,"max":1472,"p95":1224}
 {"type":"ok","from":"2026-04-27T00:12:34.168Z","to":"2026-04-27T23:53:36.132Z","count":72,"url":"https://cpa.illsky.com/v1/models","avg":759,"min":172,"max":1532,"p95":1245}
 {"type":"ok","from":"2026-04-28T00:13:14.321Z","to":"2026-04-28T23:53:36.546Z","count":70,"url":"https://cpa.illsky.com/v1/models","avg":899,"min":394,"max":2081,"p95":1444}
+{"type":"ok","from":"2026-04-29T00:13:15.979Z","to":"2026-04-29T04:30:09.509Z","count":16,"url":"https://cpa.illsky.com/v1/models","avg":1198,"min":427,"max":4526,"p95":4526}
+{"type":"fail","from":"2026-04-29T04:54:32.601Z","to":"2026-04-29T04:54:32.601Z","count":1,"url":"https://cpa.illsky.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-29T05:05:56.476Z","to":"2026-04-29T09:58:35.339Z","count":16,"url":"https://cpa.illsky.com/v1/models","avg":1384,"min":530,"max":2400,"p95":2400}
+{"type":"fail","from":"2026-04-29T10:15:02.781Z","to":"2026-04-29T10:15:02.781Z","count":1,"url":"https://cpa.illsky.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-29T10:34:12.920Z","to":"2026-04-29T23:52:09.239Z","count":41,"url":"https://cpa.illsky.com/v1/models","avg":1023,"min":83,"max":3330,"p95":2031}
