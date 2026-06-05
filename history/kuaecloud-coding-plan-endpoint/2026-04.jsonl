@@ -93,3 +93,6 @@
 {"type":"ok","from":"2026-04-27T00:11:14.614Z","to":"2026-04-27T23:51:58.903Z","count":72,"url":"https://coding-plan-endpoint.kuaecloud.net/health","avg":246,"min":174,"max":2673,"p95":586}
 {"type":"ok","from":"2026-04-28T00:11:42.662Z","to":"2026-04-28T23:52:02.979Z","count":70,"url":"https://coding-plan-endpoint.kuaecloud.net/health","avg":246,"min":174,"max":1886,"p95":712}
 {"type":"ok","from":"2026-04-29T00:11:45.577Z","to":"2026-04-29T23:50:56.459Z","count":75,"url":"https://coding-plan-endpoint.kuaecloud.net/health","avg":197,"min":167,"max":689,"p95":201}
+{"type":"ok","from":"2026-04-30T00:11:47.565Z","to":"2026-04-30T09:41:20.983Z","count":29,"url":"https://coding-plan-endpoint.kuaecloud.net/health","avg":182,"min":175,"max":190,"p95":186}
+{"type":"fail","from":"2026-04-30T10:04:17.373Z","to":"2026-04-30T10:04:17.373Z","count":1,"url":"https://coding-plan-endpoint.kuaecloud.net/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-30T10:23:05.981Z","to":"2026-04-30T23:40:48.624Z","count":41,"url":"https://coding-plan-endpoint.kuaecloud.net/health","avg":232,"min":175,"max":689,"p95":660}

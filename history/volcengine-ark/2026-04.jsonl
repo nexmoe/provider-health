@@ -73,3 +73,7 @@
 {"type":"ok","from":"2026-04-28T12:40:16.872Z","to":"2026-04-28T12:40:16.872Z","count":1,"url":"https://ark.cn-beijing.volces.com/v1/models","avg":541,"min":541,"max":541,"p95":541}
 {"type":"ok","from":"2026-04-28T13:04:56.775Z","to":"2026-04-28T23:40:13.157Z","count":32,"url":"https://ark.cn-beijing.volces.com/api/status","avg":1100,"min":549,"max":4994,"p95":2495}
 {"type":"ok","from":"2026-04-29T00:00:22.495Z","to":"2026-04-29T23:40:12.012Z","count":75,"url":"https://ark.cn-beijing.volces.com/api/status","avg":1134,"min":548,"max":4793,"p95":2410}
+{"type":"fail","from":"2026-04-30T00:00:35.108Z","to":"2026-04-30T00:00:35.108Z","count":1,"url":"https://ark.cn-beijing.volces.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-30T00:20:12.616Z","to":"2026-04-30T01:40:12.742Z","count":5,"url":"https://ark.cn-beijing.volces.com/api/status","avg":741,"min":570,"max":1046,"p95":1046}
+{"type":"ok","from":"2026-04-30T02:00:26.672Z","to":"2026-04-30T02:00:26.672Z","count":1,"url":"https://ark.cn-beijing.volces.com/v1/models","avg":2169,"min":2169,"max":2169,"p95":2169}
+{"type":"ok","from":"2026-04-30T02:20:13.446Z","to":"2026-04-30T23:50:12.258Z","count":65,"url":"https://ark.cn-beijing.volces.com/api/status","avg":951,"min":550,"max":3099,"p95":2459}

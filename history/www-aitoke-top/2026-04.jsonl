@@ -22,3 +22,8 @@
 {"type":"ok","from":"2026-04-29T04:54:32.904Z","to":"2026-04-29T04:54:32.904Z","count":1,"url":"https://www.aitoke.top/status","avg":1707,"min":1707,"max":1707,"p95":1707}
 {"type":"ok","from":"2026-04-29T05:05:56.003Z","to":"2026-04-29T22:12:25.024Z","count":53,"url":"https://www.aitoke.top/api/status","avg":1193,"min":194,"max":3197,"p95":2751}
 {"type":"fail","from":"2026-04-29T22:31:53.859Z","to":"2026-04-29T23:52:28.624Z","count":5,"url":"https://www.aitoke.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T00:13:20.720Z","to":"2026-04-30T02:13:29.352Z","count":7,"url":"https://www.aitoke.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-30T02:34:01.158Z","to":"2026-04-30T14:26:25.436Z","count":36,"url":"https://www.aitoke.top/api/status","avg":404,"min":209,"max":908,"p95":679}
+{"type":"fail","from":"2026-04-30T14:46:03.277Z","to":"2026-04-30T14:46:03.277Z","count":1,"url":"https://www.aitoke.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T15:06:23.670Z","to":"2026-04-30T15:06:23.670Z","count":1,"url":"https://www.aitoke.top/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-04-30T15:25:46.748Z","to":"2026-04-30T23:42:02.824Z","count":26,"url":"https://www.aitoke.top/api/status","avg":318,"min":177,"max":529,"p95":457}

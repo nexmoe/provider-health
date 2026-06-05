@@ -31,3 +31,31 @@
 {"type":"ok","from":"2026-04-29T10:15:02.560Z","to":"2026-04-29T12:56:42.746Z","count":9,"url":"https://api.chengmo.cc.cd/api/status","avg":2424,"min":1001,"max":4135,"p95":4135}
 {"type":"ok","from":"2026-04-29T13:16:31.128Z","to":"2026-04-29T13:16:31.128Z","count":1,"url":"https://api.chengmo.cc.cd/v1/models","avg":926,"min":926,"max":926,"p95":926}
 {"type":"ok","from":"2026-04-29T13:36:06.088Z","to":"2026-04-29T23:52:30.149Z","count":32,"url":"https://api.chengmo.cc.cd/api/status","avg":1785,"min":284,"max":4662,"p95":4473}
+{"type":"ok","from":"2026-04-30T00:13:22.280Z","to":"2026-04-30T05:44:43.324Z","count":17,"url":"https://api.chengmo.cc.cd/api/status","avg":1205,"min":294,"max":3539,"p95":3539}
+{"type":"fail","from":"2026-04-30T06:03:21.108Z","to":"2026-04-30T06:23:49.393Z","count":2,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T06:44:44.629Z","to":"2026-04-30T06:44:44.629Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-30T07:04:39.617Z","to":"2026-04-30T07:24:43.347Z","count":2,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T07:44:30.190Z","to":"2026-04-30T08:24:08.180Z","count":3,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-30T08:44:09.886Z","to":"2026-04-30T08:44:09.886Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T09:04:01.939Z","to":"2026-04-30T09:04:01.939Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-30T09:23:26.992Z","to":"2026-04-30T09:43:02.919Z","count":2,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T10:05:51.087Z","to":"2026-04-30T10:05:51.087Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-30T10:25:00.326Z","to":"2026-04-30T11:03:23.227Z","count":3,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T11:28:11.208Z","to":"2026-04-30T11:28:11.208Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-30T11:46:17.113Z","to":"2026-04-30T12:28:18.191Z","count":3,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T12:47:32.151Z","to":"2026-04-30T12:47:32.151Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-30T13:09:16.916Z","to":"2026-04-30T14:06:52.215Z","count":4,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T14:26:56.558Z","to":"2026-04-30T16:09:37.162Z","count":6,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-30T16:26:29.102Z","to":"2026-04-30T16:26:29.102Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-04-30T16:47:11.791Z","to":"2026-04-30T17:05:54.149Z","count":2,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-04-30T17:24:51.925Z","to":"2026-04-30T17:44:15.596Z","count":2,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-30T18:06:11.266Z","to":"2026-04-30T19:05:22.960Z","count":4,"url":"https://api.chengmo.cc.cd/api/status","avg":1317,"min":1041,"max":2043,"p95":2043}
+{"type":"ok","from":"2026-04-30T19:22:04.953Z","to":"2026-04-30T19:22:04.953Z","count":1,"url":"https://api.chengmo.cc.cd/v1/models","avg":271,"min":271,"max":271,"p95":271}
+{"type":"ok","from":"2026-04-30T19:42:56.041Z","to":"2026-04-30T19:42:56.041Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","avg":1016,"min":1016,"max":1016,"p95":1016}
+{"type":"ok","from":"2026-04-30T20:01:04.146Z","to":"2026-04-30T20:41:26.012Z","count":3,"url":"https://api.chengmo.cc.cd/v1/models","avg":276,"min":272,"max":279,"p95":279}
+{"type":"ok","from":"2026-04-30T21:01:57.003Z","to":"2026-04-30T21:42:01.797Z","count":3,"url":"https://api.chengmo.cc.cd/api/status","avg":1247,"min":1040,"max":1653,"p95":1653}
+{"type":"ok","from":"2026-04-30T22:01:41.765Z","to":"2026-04-30T22:01:41.765Z","count":1,"url":"https://api.chengmo.cc.cd/v1/models","avg":273,"min":273,"max":273,"p95":273}
+{"type":"ok","from":"2026-04-30T22:22:06.825Z","to":"2026-04-30T22:22:06.825Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","avg":283,"min":283,"max":283,"p95":283}
+{"type":"ok","from":"2026-04-30T22:42:33.558Z","to":"2026-04-30T23:02:18.373Z","count":2,"url":"https://api.chengmo.cc.cd/v1/models","avg":279,"min":277,"max":281,"p95":281}
+{"type":"ok","from":"2026-04-30T23:23:16.098Z","to":"2026-04-30T23:23:16.098Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","avg":1398,"min":1398,"max":1398,"p95":1398}
+{"type":"ok","from":"2026-04-30T23:42:29.060Z","to":"2026-04-30T23:42:29.060Z","count":1,"url":"https://api.chengmo.cc.cd/v1/models","avg":277,"min":277,"max":277,"p95":277}

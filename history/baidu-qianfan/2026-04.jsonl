@@ -596,3 +596,9 @@
 {"type":"ok","from":"2026-04-29T05:00:24.283Z","to":"2026-04-29T09:40:13.199Z","count":15,"url":"https://qianfan.baidubce.com/v1/models","avg":2142,"min":1229,"max":3163,"p95":3163}
 {"type":"fail","from":"2026-04-29T10:00:34.198Z","to":"2026-04-29T10:00:34.198Z","count":1,"url":"https://qianfan.baidubce.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-04-29T10:20:12.926Z","to":"2026-04-29T23:40:13.211Z","count":41,"url":"https://qianfan.baidubce.com/v1/models","avg":1729,"min":559,"max":4561,"p95":3271}
+{"type":"fail","from":"2026-04-30T00:00:34.872Z","to":"2026-04-30T00:00:34.872Z","count":1,"url":"https://qianfan.baidubce.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-04-30T00:20:13.741Z","to":"2026-04-30T00:40:12.960Z","count":2,"url":"https://qianfan.baidubce.com/v1/models","avg":1276,"min":1008,"max":1543,"p95":1543}
+{"type":"fail","from":"2026-04-30T01:00:26.382Z","to":"2026-04-30T01:00:26.382Z","count":1,"url":"https://qianfan.baidubce.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-30T01:20:13.650Z","to":"2026-04-30T01:40:14.427Z","count":2,"url":"https://qianfan.baidubce.com/v1/models","avg":1519,"min":1486,"max":1552,"p95":1552}
+{"type":"fail","from":"2026-04-30T02:00:35.239Z","to":"2026-04-30T02:20:18.924Z","count":2,"url":"https://qianfan.baidubce.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-04-30T02:40:13.844Z","to":"2026-04-30T23:50:13.485Z","count":64,"url":"https://qianfan.baidubce.com/v1/models","avg":1822,"min":865,"max":3266,"p95":2741}
