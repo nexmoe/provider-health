@@ -7,3 +7,10 @@
 {"type":"ok","from":"2026-05-01T22:31:18.844Z","to":"2026-05-01T22:31:18.844Z","count":1,"url":"https://api.aicnn.cn/api/status","avg":3147,"min":3147,"max":3147,"p95":3147}
 {"type":"ok","from":"2026-05-01T22:51:18.526Z","to":"2026-05-01T22:51:18.526Z","count":1,"url":"https://api.aicnn.cn/v1/models","avg":1579,"min":1579,"max":1579,"p95":1579}
 {"type":"ok","from":"2026-05-01T23:11:14.442Z","to":"2026-05-01T23:51:14.265Z","count":3,"url":"https://api.aicnn.cn/api/status","avg":2497,"min":2030,"max":3338,"p95":3338}
+{"type":"ok","from":"2026-05-02T00:11:14.509Z","to":"2026-05-02T08:01:33.954Z","count":26,"url":"https://api.aicnn.cn/api/status","avg":2776,"min":1697,"max":4249,"p95":3858}
+{"type":"ok","from":"2026-05-02T08:31:40.523Z","to":"2026-05-02T08:31:40.523Z","count":1,"url":"https://api.aicnn.cn/status","avg":3838,"min":3838,"max":3838,"p95":3838}
+{"type":"ok","from":"2026-05-02T08:41:21.781Z","to":"2026-05-02T09:21:19.796Z","count":3,"url":"https://api.aicnn.cn/api/status","avg":4133,"min":3895,"max":4559,"p95":4559}
+{"type":"ok","from":"2026-05-02T09:51:23.504Z","to":"2026-05-02T09:51:23.504Z","count":1,"url":"https://api.aicnn.cn/v1/models","avg":2059,"min":2059,"max":2059,"p95":2059}
+{"type":"fail","from":"2026-05-02T10:11:32.765Z","to":"2026-05-02T10:11:32.765Z","count":1,"url":"https://api.aicnn.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T10:31:26.177Z","to":"2026-05-02T10:31:26.177Z","count":1,"url":"https://api.aicnn.cn/health","avg":1172,"min":1172,"max":1172,"p95":1172}
+{"type":"ok","from":"2026-05-02T10:51:17.281Z","to":"2026-05-02T23:51:15.095Z","count":40,"url":"https://api.aicnn.cn/api/status","avg":2669,"min":1400,"max":4951,"p95":4648}

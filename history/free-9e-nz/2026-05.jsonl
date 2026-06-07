@@ -1,2 +1,11 @@
-{"url":"https://free.9e.nz/api/status"}
-{"type":"fail","from":"2026-05-01T00:01:21.513Z","to":"2026-05-01T23:41:31.904Z","count":72,"status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-01T00:01:21.513Z","to":"2026-05-01T23:41:31.904Z","count":72,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://free.9e.nz/api/status"}
+{"type":"fail","from":"2026-05-02T00:02:30.771Z","to":"2026-05-02T12:04:03.922Z","count":32,"url":"https://free.9e.nz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T12:24:01.809Z","to":"2026-05-02T13:06:05.149Z","count":3,"url":"https://free.9e.nz/api/status","avg":2345,"min":1638,"max":3135,"p95":3135}
+{"type":"ok","from":"2026-05-02T13:25:48.278Z","to":"2026-05-02T13:25:48.278Z","count":1,"url":"https://free.9e.nz/health","avg":2060,"min":2060,"max":2060,"p95":2060}
+{"type":"ok","from":"2026-05-02T13:46:34.917Z","to":"2026-05-02T14:25:18.588Z","count":3,"url":"https://free.9e.nz/api/status","avg":3868,"min":3202,"max":4768,"p95":4768}
+{"type":"ok","from":"2026-05-02T14:46:11.339Z","to":"2026-05-02T14:46:11.339Z","count":1,"url":"https://free.9e.nz/v1/models","avg":4106,"min":4106,"max":4106,"p95":4106}
+{"type":"ok","from":"2026-05-02T15:04:55.345Z","to":"2026-05-02T20:40:33.180Z","count":18,"url":"https://free.9e.nz/api/status","avg":2000,"min":1057,"max":3628,"p95":3628}
+{"type":"ok","from":"2026-05-02T21:00:56.920Z","to":"2026-05-02T21:00:56.920Z","count":1,"url":"https://free.9e.nz/v1/models","avg":1909,"min":1909,"max":1909,"p95":1909}
+{"type":"ok","from":"2026-05-02T21:20:09.594Z","to":"2026-05-02T22:41:02.594Z","count":5,"url":"https://free.9e.nz/api/status","avg":1477,"min":1194,"max":1816,"p95":1816}
+{"type":"ok","from":"2026-05-02T23:00:45.358Z","to":"2026-05-02T23:00:45.358Z","count":1,"url":"https://free.9e.nz/v1/models","avg":1792,"min":1792,"max":1792,"p95":1792}
+{"type":"ok","from":"2026-05-02T23:21:57.626Z","to":"2026-05-02T23:41:45.905Z","count":2,"url":"https://free.9e.nz/api/status","avg":2431,"min":2337,"max":2525,"p95":2525}

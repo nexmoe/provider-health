@@ -32,3 +32,33 @@
 {"type":"ok","from":"2026-05-01T21:15:30.088Z","to":"2026-05-01T21:15:30.088Z","count":1,"url":"https://ai.airoe.cn/v1/models","avg":1697,"min":1697,"max":1697,"p95":1697}
 {"type":"ok","from":"2026-05-01T21:35:25.922Z","to":"2026-05-01T21:35:25.922Z","count":1,"url":"https://ai.airoe.cn/health","avg":1145,"min":1145,"max":1145,"p95":1145}
 {"type":"ok","from":"2026-05-01T21:55:03.328Z","to":"2026-05-01T23:55:15.974Z","count":7,"url":"https://ai.airoe.cn/v1/models","avg":1964,"min":1037,"max":4037,"p95":4037}
+{"type":"ok","from":"2026-05-02T00:15:14.895Z","to":"2026-05-02T00:15:14.895Z","count":1,"url":"https://ai.airoe.cn/health","avg":2623,"min":2623,"max":2623,"p95":2623}
+{"type":"ok","from":"2026-05-02T00:35:22.643Z","to":"2026-05-02T02:15:05.439Z","count":6,"url":"https://ai.airoe.cn/v1/models","avg":2790,"min":1049,"max":4958,"p95":4958}
+{"type":"ok","from":"2026-05-02T02:35:44.459Z","to":"2026-05-02T02:35:44.459Z","count":1,"url":"https://ai.airoe.cn/status","avg":4065,"min":4065,"max":4065,"p95":4065}
+{"type":"ok","from":"2026-05-02T02:55:35.198Z","to":"2026-05-02T03:15:35.759Z","count":2,"url":"https://ai.airoe.cn/v1/models","avg":3060,"min":2296,"max":3824,"p95":3824}
+{"type":"fail","from":"2026-05-02T03:35:56.625Z","to":"2026-05-02T03:35:56.625Z","count":1,"url":"https://ai.airoe.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T03:55:21.247Z","to":"2026-05-02T06:15:36.136Z","count":8,"url":"https://ai.airoe.cn/v1/models","avg":2620,"min":828,"max":4486,"p95":4486}
+{"type":"fail","from":"2026-05-02T06:36:09.815Z","to":"2026-05-02T06:36:09.815Z","count":1,"url":"https://ai.airoe.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-02T06:55:37.458Z","to":"2026-05-02T07:15:37.251Z","count":2,"url":"https://ai.airoe.cn/v1/models","avg":1773,"min":869,"max":2676,"p95":2676}
+{"type":"fail","from":"2026-05-02T08:07:49.214Z","to":"2026-05-02T08:07:49.214Z","count":1,"url":"https://ai.airoe.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T08:57:01.388Z","to":"2026-05-02T08:57:01.388Z","count":1,"url":"https://ai.airoe.cn/status","avg":298,"min":298,"max":298,"p95":298}
+{"type":"fail","from":"2026-05-02T09:27:30.609Z","to":"2026-05-02T09:57:25.524Z","count":2,"url":"https://ai.airoe.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T10:16:12.455Z","to":"2026-05-02T10:16:12.455Z","count":1,"url":"https://ai.airoe.cn/health","avg":4109,"min":4109,"max":4109,"p95":4109}
+{"type":"ok","from":"2026-05-02T10:35:24.557Z","to":"2026-05-02T10:35:24.557Z","count":1,"url":"https://ai.airoe.cn/status","avg":975,"min":975,"max":975,"p95":975}
+{"type":"ok","from":"2026-05-02T10:55:21.361Z","to":"2026-05-02T10:55:21.361Z","count":1,"url":"https://ai.airoe.cn/health","avg":1513,"min":1513,"max":1513,"p95":1513}
+{"type":"ok","from":"2026-05-02T11:14:58.696Z","to":"2026-05-02T11:35:41.214Z","count":2,"url":"https://ai.airoe.cn/v1/models","avg":1755,"min":895,"max":2615,"p95":2615}
+{"type":"ok","from":"2026-05-02T11:55:34.880Z","to":"2026-05-02T11:55:34.880Z","count":1,"url":"https://ai.airoe.cn/status","avg":3680,"min":3680,"max":3680,"p95":3680}
+{"type":"ok","from":"2026-05-02T12:15:17.306Z","to":"2026-05-02T12:35:34.498Z","count":2,"url":"https://ai.airoe.cn/v1/models","avg":3608,"min":3116,"max":4100,"p95":4100}
+{"type":"ok","from":"2026-05-02T12:56:01.648Z","to":"2026-05-02T12:56:01.648Z","count":1,"url":"https://ai.airoe.cn/health","avg":3020,"min":3020,"max":3020,"p95":3020}
+{"type":"ok","from":"2026-05-02T13:15:56.690Z","to":"2026-05-02T14:36:11.895Z","count":5,"url":"https://ai.airoe.cn/v1/models","avg":3665,"min":1889,"max":4755,"p95":4755}
+{"type":"ok","from":"2026-05-02T14:56:20.952Z","to":"2026-05-02T14:56:20.952Z","count":1,"url":"https://ai.airoe.cn/health","avg":3129,"min":3129,"max":3129,"p95":3129}
+{"type":"fail","from":"2026-05-02T15:16:19.831Z","to":"2026-05-02T15:16:19.831Z","count":1,"url":"https://ai.airoe.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T15:35:03.207Z","to":"2026-05-02T15:55:33.920Z","count":2,"url":"https://ai.airoe.cn/v1/models","avg":2797,"min":870,"max":4723,"p95":4723}
+{"type":"fail","from":"2026-05-02T16:16:40.115Z","to":"2026-05-02T16:16:40.115Z","count":1,"url":"https://ai.airoe.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T16:35:38.972Z","to":"2026-05-02T16:55:07.872Z","count":2,"url":"https://ai.airoe.cn/v1/models","avg":2291,"min":1223,"max":3358,"p95":3358}
+{"type":"ok","from":"2026-05-02T17:15:17.218Z","to":"2026-05-02T17:15:17.218Z","count":1,"url":"https://ai.airoe.cn/health","avg":3065,"min":3065,"max":3065,"p95":3065}
+{"type":"ok","from":"2026-05-02T17:35:23.350Z","to":"2026-05-02T18:15:18.157Z","count":3,"url":"https://ai.airoe.cn/v1/models","avg":2322,"min":1522,"max":2864,"p95":2864}
+{"type":"ok","from":"2026-05-02T18:35:47.042Z","to":"2026-05-02T18:35:47.042Z","count":1,"url":"https://ai.airoe.cn/health","avg":1545,"min":1545,"max":1545,"p95":1545}
+{"type":"ok","from":"2026-05-02T18:55:13.809Z","to":"2026-05-02T22:35:02.682Z","count":12,"url":"https://ai.airoe.cn/v1/models","avg":2007,"min":741,"max":4323,"p95":4323}
+{"type":"ok","from":"2026-05-02T22:55:01.836Z","to":"2026-05-02T22:55:01.836Z","count":1,"url":"https://ai.airoe.cn/health","avg":1721,"min":1721,"max":1721,"p95":1721}
+{"type":"ok","from":"2026-05-02T23:15:06.132Z","to":"2026-05-02T23:55:14.438Z","count":3,"url":"https://ai.airoe.cn/v1/models","avg":2684,"min":1084,"max":4503,"p95":4503}

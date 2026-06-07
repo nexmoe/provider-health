@@ -1,2 +1,7 @@
-{"url":"https://ai-gateway.vercel.sh/v1/models"}
-{"type":"ok","from":"2026-05-01T00:01:04.286Z","to":"2026-05-01T23:41:15.260Z","count":72,"avg":826,"min":282,"max":2959,"p95":1978}
+{"type":"ok","from":"2026-05-01T00:01:04.286Z","to":"2026-05-01T23:41:15.260Z","count":72,"avg":826,"min":282,"max":2959,"p95":1978,"url":"https://ai-gateway.vercel.sh/v1/models"}
+{"type":"fail","from":"2026-05-02T00:02:19.912Z","to":"2026-05-02T00:02:19.912Z","count":1,"url":"https://ai-gateway.vercel.sh/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-02T00:22:28.952Z","to":"2026-05-02T01:22:30.662Z","count":4,"url":"https://ai-gateway.vercel.sh/v1/models","avg":778,"min":241,"max":1306,"p95":1306}
+{"type":"fail","from":"2026-05-02T01:42:25.577Z","to":"2026-05-02T01:42:25.577Z","count":1,"url":"https://ai-gateway.vercel.sh/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-02T02:04:02.064Z","to":"2026-05-02T13:06:05.276Z","count":29,"url":"https://ai-gateway.vercel.sh/v1/models","avg":935,"min":415,"max":1791,"p95":1700}
+{"type":"fail","from":"2026-05-02T13:25:47.982Z","to":"2026-05-02T13:25:47.982Z","count":1,"url":"https://ai-gateway.vercel.sh/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T13:46:36.562Z","to":"2026-05-02T23:41:45.684Z","count":31,"url":"https://ai-gateway.vercel.sh/v1/models","avg":781,"min":317,"max":2030,"p95":1870}

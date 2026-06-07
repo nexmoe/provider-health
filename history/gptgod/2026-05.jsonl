@@ -1,2 +1,8 @@
-{"url":"https://api.gptgod.online/v1/models"}
-{"type":"ok","from":"2026-05-01T00:11:25.197Z","to":"2026-05-01T23:51:34.172Z","count":72,"avg":806,"min":565,"max":2844,"p95":2010}
+{"type":"ok","from":"2026-05-01T00:11:25.197Z","to":"2026-05-01T23:51:34.172Z","count":72,"avg":806,"min":565,"max":2844,"p95":2010,"url":"https://api.gptgod.online/v1/models"}
+{"type":"ok","from":"2026-05-02T00:11:27.837Z","to":"2026-05-02T08:32:02.152Z","count":27,"url":"https://api.gptgod.online/v1/models","avg":1140,"min":583,"max":3295,"p95":2887}
+{"type":"fail","from":"2026-05-02T08:51:56.577Z","to":"2026-05-02T08:51:56.577Z","count":1,"url":"https://api.gptgod.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T09:21:47.470Z","to":"2026-05-02T09:21:47.470Z","count":1,"url":"https://api.gptgod.online/v1/models","avg":3362,"min":3362,"max":3362,"p95":3362}
+{"type":"fail","from":"2026-05-02T09:51:55.130Z","to":"2026-05-02T09:51:55.130Z","count":1,"url":"https://api.gptgod.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T10:11:49.699Z","to":"2026-05-02T10:31:33.341Z","count":2,"url":"https://api.gptgod.online/v1/models","avg":952,"min":904,"max":999,"p95":999}
+{"type":"fail","from":"2026-05-02T10:51:36.182Z","to":"2026-05-02T10:51:36.182Z","count":1,"url":"https://api.gptgod.online/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-02T11:11:19.814Z","to":"2026-05-02T23:51:26.904Z","count":39,"url":"https://api.gptgod.online/v1/models","avg":612,"min":564,"max":1083,"p95":711}

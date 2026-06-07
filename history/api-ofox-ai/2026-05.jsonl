@@ -1,2 +1,5 @@
-{"url":"https://api.ofox.ai/v1/models"}
-{"type":"ok","from":"2026-05-01T00:01:04.071Z","to":"2026-05-01T23:41:15.024Z","count":72,"avg":515,"min":46,"max":2760,"p95":1695}
+{"type":"ok","from":"2026-05-01T00:01:04.071Z","to":"2026-05-01T23:41:15.024Z","count":72,"avg":515,"min":46,"max":2760,"p95":1695,"url":"https://api.ofox.ai/v1/models"}
+{"type":"fail","from":"2026-05-02T00:02:19.908Z","to":"2026-05-02T00:02:19.908Z","count":1,"url":"https://api.ofox.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-02T00:22:28.469Z","to":"2026-05-02T13:06:04.989Z","count":34,"url":"https://api.ofox.ai/v1/models","avg":727,"min":33,"max":4885,"p95":1514}
+{"type":"fail","from":"2026-05-02T13:25:47.991Z","to":"2026-05-02T13:25:47.991Z","count":1,"url":"https://api.ofox.ai/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-02T13:46:36.406Z","to":"2026-05-02T23:41:45.622Z","count":31,"url":"https://api.ofox.ai/v1/models","avg":519,"min":23,"max":1817,"p95":1732}

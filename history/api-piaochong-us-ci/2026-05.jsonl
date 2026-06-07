@@ -5,3 +5,14 @@
 {"type":"ok","from":"2026-05-01T11:45:30.359Z","to":"2026-05-01T12:47:03.051Z","count":4,"url":"http://api.piaochong.us.ci/api/status","avg":848,"min":727,"max":1023,"p95":1023}
 {"type":"ok","from":"2026-05-01T13:06:07.869Z","to":"2026-05-01T13:25:21.062Z","count":2,"url":"http://api.piaochong.us.ci/v1/models","avg":946,"min":678,"max":1214,"p95":1214}
 {"type":"ok","from":"2026-05-01T13:45:33.040Z","to":"2026-05-01T23:42:16.628Z","count":31,"url":"http://api.piaochong.us.ci/api/status","avg":839,"min":638,"max":3639,"p95":2224}
+{"type":"ok","from":"2026-05-02T00:03:18.631Z","to":"2026-05-02T08:21:10.579Z","count":23,"url":"http://api.piaochong.us.ci/api/status","avg":795,"min":648,"max":2350,"p95":1002}
+{"type":"ok","from":"2026-05-02T09:13:00.173Z","to":"2026-05-02T09:13:00.173Z","count":1,"url":"http://api.piaochong.us.ci/v1/models","avg":2417,"min":2417,"max":2417,"p95":2417}
+{"type":"ok","from":"2026-05-02T09:40:19.400Z","to":"2026-05-02T11:45:01.389Z","count":7,"url":"http://api.piaochong.us.ci/api/status","avg":706,"min":659,"max":841,"p95":841}
+{"type":"ok","from":"2026-05-02T12:04:58.527Z","to":"2026-05-02T12:04:58.527Z","count":1,"url":"http://api.piaochong.us.ci/v1/models","avg":4956,"min":4956,"max":4956,"p95":4956}
+{"type":"ok","from":"2026-05-02T12:25:13.189Z","to":"2026-05-02T12:25:13.189Z","count":1,"url":"http://api.piaochong.us.ci/api/status","avg":721,"min":721,"max":721,"p95":721}
+{"type":"fail","from":"2026-05-02T12:45:04.234Z","to":"2026-05-02T12:45:04.234Z","count":1,"url":"https://api.piaochong.us.ci/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-05-02T13:07:02.778Z","to":"2026-05-02T14:26:13.791Z","count":5,"url":"http://api.piaochong.us.ci/api/status","avg":1134,"min":705,"max":2633,"p95":2633}
+{"type":"fail","from":"2026-05-02T14:47:35.077Z","to":"2026-05-02T14:47:35.077Z","count":1,"url":"https://api.piaochong.us.ci/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-05-02T15:05:57.864Z","to":"2026-05-02T16:04:51.235Z","count":4,"url":"http://api.piaochong.us.ci/api/status","avg":1137,"min":689,"max":1748,"p95":1748}
+{"type":"fail","from":"2026-05-02T16:26:45.206Z","to":"2026-05-02T16:26:45.206Z","count":1,"url":"https://api.piaochong.us.ci/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-05-02T16:46:07.354Z","to":"2026-05-02T23:42:35.145Z","count":22,"url":"http://api.piaochong.us.ci/api/status","avg":721,"min":646,"max":1718,"p95":734}

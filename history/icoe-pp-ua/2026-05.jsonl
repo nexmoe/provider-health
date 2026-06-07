@@ -1,2 +1,5 @@
-{"url":"https://icoe.pp.ua/v1/models"}
-{"type":"ok","from":"2026-05-01T00:02:10.070Z","to":"2026-05-01T23:42:23.796Z","count":72,"avg":978,"min":590,"max":1683,"p95":1457}
+{"type":"ok","from":"2026-05-01T00:02:10.070Z","to":"2026-05-01T23:42:23.796Z","count":72,"avg":978,"min":590,"max":1683,"p95":1457,"url":"https://icoe.pp.ua/v1/models"}
+{"type":"ok","from":"2026-05-02T00:03:22.898Z","to":"2026-05-02T08:21:30.804Z","count":23,"url":"https://icoe.pp.ua/v1/models","avg":1157,"min":604,"max":2359,"p95":1717}
+{"type":"ok","from":"2026-05-02T09:13:11.395Z","to":"2026-05-02T09:13:11.395Z","count":1,"url":"https://icoe.pp.ua/health","avg":2034,"min":2034,"max":2034,"p95":2034}
+{"type":"ok","from":"2026-05-02T09:40:28.450Z","to":"2026-05-02T11:04:38.046Z","count":5,"url":"https://icoe.pp.ua/v1/models","avg":1354,"min":901,"max":1970,"p95":1970}
+{"type":"fail","from":"2026-05-02T11:24:24.813Z","to":"2026-05-02T23:42:58.824Z","count":38,"url":"https://icoe.pp.ua/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
