@@ -10,3 +10,15 @@
 {"type":"ok","from":"2026-05-02T09:40:00.886Z","to":"2026-05-02T10:06:41.298Z","count":2,"url":"https://ai.e-larex.com/api/status","avg":4117,"min":3699,"max":4534,"p95":4534}
 {"type":"ok","from":"2026-05-02T10:25:02.863Z","to":"2026-05-02T10:25:02.863Z","count":1,"url":"https://ai.e-larex.com/health","avg":3021,"min":3021,"max":3021,"p95":3021}
 {"type":"ok","from":"2026-05-02T10:44:46.728Z","to":"2026-05-02T23:42:15.584Z","count":40,"url":"https://ai.e-larex.com/api/status","avg":1726,"min":1057,"max":3357,"p95":3008}
+{"type":"ok","from":"2026-05-03T00:02:31.743Z","to":"2026-05-03T03:47:19.295Z","count":12,"url":"https://ai.e-larex.com/api/status","avg":1522,"min":1267,"max":1988,"p95":1988}
+{"type":"fail","from":"2026-05-03T04:03:49.902Z","to":"2026-05-03T04:03:49.902Z","count":1,"url":"https://ai.e-larex.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T04:23:12.225Z","to":"2026-05-03T10:04:51.745Z","count":18,"url":"https://ai.e-larex.com/api/status","avg":2092,"min":1042,"max":4494,"p95":4494}
+{"type":"ok","from":"2026-05-03T10:24:24.278Z","to":"2026-05-03T10:24:24.278Z","count":1,"url":"https://ai.e-larex.com/health","avg":4765,"min":4765,"max":4765,"p95":4765}
+{"type":"ok","from":"2026-05-03T10:43:59.008Z","to":"2026-05-03T14:15:17.939Z","count":11,"url":"https://ai.e-larex.com/api/status","avg":2588,"min":1775,"max":4025,"p95":4025}
+{"type":"ok","from":"2026-05-03T14:34:16.234Z","to":"2026-05-03T14:34:16.234Z","count":1,"url":"https://ai.e-larex.com/health","avg":4514,"min":4514,"max":4514,"p95":4514}
+{"type":"ok","from":"2026-05-03T14:54:39.673Z","to":"2026-05-03T15:13:38.134Z","count":2,"url":"https://ai.e-larex.com/api/status","avg":2665,"min":1781,"max":3548,"p95":3548}
+{"type":"ok","from":"2026-05-03T15:33:59.265Z","to":"2026-05-03T15:33:59.265Z","count":1,"url":"https://ai.e-larex.com/v1/models","avg":2316,"min":2316,"max":2316,"p95":2316}
+{"type":"ok","from":"2026-05-03T15:53:50.311Z","to":"2026-05-03T15:53:50.311Z","count":1,"url":"https://ai.e-larex.com/api/status","avg":4191,"min":4191,"max":4191,"p95":4191}
+{"type":"ok","from":"2026-05-03T16:15:10.848Z","to":"2026-05-03T16:15:10.848Z","count":1,"url":"https://ai.e-larex.com/v1/models","avg":2936,"min":2936,"max":2936,"p95":2936}
+{"type":"ok","from":"2026-05-03T16:35:03.190Z","to":"2026-05-03T23:52:10.416Z","count":23,"url":"https://ai.e-larex.com/api/status","avg":1523,"min":713,"max":4579,"p95":3998}
+{"type":"ok","from":"2026-05-04T00:12:27.946Z","to":"2026-05-04T23:40:15.084Z","count":69,"url":"https://ai.e-larex.com/api/status","avg":794,"min":687,"max":969,"p95":906}

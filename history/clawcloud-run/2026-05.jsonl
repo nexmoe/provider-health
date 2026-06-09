@@ -1,5 +1,9 @@
-{"url":"https://run.claw.cloud/api/status"}
-{"type":"fail","from":"2026-05-01T00:11:13.742Z","to":"2026-05-01T22:31:19.273Z","count":69,"status":404,"error":"HTTP 404","avg_latency":null}
-{"type":"fail","from":"2026-05-01T22:51:18.866Z","to":"2026-05-01T22:51:18.866Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-05-01T23:11:14.311Z","to":"2026-05-01T23:51:14.499Z","count":3,"status":404,"error":"HTTP 404","avg_latency":null}
-{"type":"fail","from":"2026-05-02T00:11:15.795Z","to":"2026-05-02T23:51:15.462Z","count":73,"status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-01T00:11:13.742Z","to":"2026-05-01T22:31:19.273Z","count":69,"status":404,"error":"HTTP 404","avg_latency":null,"url":"https://run.claw.cloud/api/status"}
+{"type":"fail","from":"2026-05-01T22:51:18.866Z","to":"2026-05-01T22:51:18.866Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://run.claw.cloud/api/status"}
+{"type":"fail","from":"2026-05-01T23:11:14.311Z","to":"2026-05-01T23:51:14.499Z","count":3,"status":404,"error":"HTTP 404","avg_latency":null,"url":"https://run.claw.cloud/api/status"}
+{"type":"fail","from":"2026-05-02T00:11:15.795Z","to":"2026-05-02T23:51:15.462Z","count":73,"status":404,"error":"HTTP 404","avg_latency":null,"url":"https://run.claw.cloud/api/status"}
+{"type":"fail","from":"2026-05-03T00:11:15.014Z","to":"2026-05-03T04:11:15.652Z","count":13,"url":"https://run.claw.cloud/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-03T04:31:23.376Z","to":"2026-05-03T15:01:39.658Z","count":32,"url":"https://uugbzvhsraif.us-west-1.clawcloudrun.com/v1/models","avg":700,"min":465,"max":2471,"p95":1944}
+{"type":"fail","from":"2026-05-03T15:21:40.149Z","to":"2026-05-03T15:21:40.149Z","count":1,"url":"https://run.claw.cloud/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-03T15:41:22.422Z","to":"2026-05-03T23:41:21.090Z","count":25,"url":"https://uugbzvhsraif.us-west-1.clawcloudrun.com/v1/models","avg":662,"min":465,"max":2181,"p95":1550}
+{"type":"ok","from":"2026-05-04T00:01:36.664Z","to":"2026-05-04T23:51:16.328Z","count":72,"url":"https://uugbzvhsraif.us-west-1.clawcloudrun.com/v1/models","avg":613,"min":464,"max":2784,"p95":1632}

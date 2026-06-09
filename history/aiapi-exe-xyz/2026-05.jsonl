@@ -1,2 +1,9 @@
-{"url":"https://aiapi.exe.xyz/api/status"}
-{"type":"ok","from":"2026-05-02T19:22:41.875Z","to":"2026-05-02T23:43:43.467Z","count":14,"avg":771,"min":374,"max":1976,"p95":1976}
+{"type":"ok","from":"2026-05-02T19:22:41.875Z","to":"2026-05-02T23:43:43.467Z","count":14,"avg":771,"min":374,"max":1976,"p95":1976,"url":"https://aiapi.exe.xyz/api/status"}
+{"type":"ok","from":"2026-05-03T00:03:58.402Z","to":"2026-05-03T09:04:11.050Z","count":28,"avg":763,"min":402,"max":3620,"p95":1255,"url":"https://aiapi.exe.xyz/api/status"}
+{"type":"fail","from":"2026-05-03T09:25:34.344Z","to":"2026-05-03T09:25:34.344Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://aiapi.exe.xyz/api/status"}
+{"type":"ok","from":"2026-05-03T09:45:42.990Z","to":"2026-05-03T10:25:24.526Z","count":3,"avg":977,"min":429,"max":1729,"p95":1729,"url":"https://aiapi.exe.xyz/api/status"}
+{"type":"fail","from":"2026-05-03T10:45:49.795Z","to":"2026-05-03T10:45:49.795Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://aiapi.exe.xyz/api/status"}
+{"type":"ok","from":"2026-05-03T11:04:56.030Z","to":"2026-05-03T23:53:17.191Z","count":39,"avg":635,"min":328,"max":1980,"p95":1521,"url":"https://aiapi.exe.xyz/api/status"}
+{"type":"ok","from":"2026-05-04T00:13:30.058Z","to":"2026-05-04T10:34:38.681Z","count":31,"url":"https://aiapi.exe.xyz/api/status","avg":789,"min":325,"max":3178,"p95":2673}
+{"type":"ok","from":"2026-05-04T10:53:20.670Z","to":"2026-05-04T10:53:20.670Z","count":1,"url":"https://aiapi.exe.xyz/v1/models","avg":2276,"min":2276,"max":2276,"p95":2276}
+{"type":"ok","from":"2026-05-04T11:14:36.774Z","to":"2026-05-04T23:41:13.058Z","count":37,"url":"https://aiapi.exe.xyz/api/status","avg":490,"min":328,"max":1137,"p95":871}

@@ -1,3 +1,8 @@
-{"url":"https://models.github.ai/v1/models"}
-{"type":"ok","from":"2026-05-01T00:12:37.528Z","to":"2026-05-01T23:52:45.752Z","count":72,"avg":1142,"min":668,"max":3721,"p95":2365}
-{"type":"ok","from":"2026-05-02T00:12:40.627Z","to":"2026-05-02T23:52:39.290Z","count":71,"avg":1146,"min":643,"max":2672,"p95":1844}
+{"type":"ok","from":"2026-05-01T00:12:37.528Z","to":"2026-05-01T23:52:45.752Z","count":72,"avg":1142,"min":668,"max":3721,"p95":2365,"url":"https://models.github.ai/v1/models"}
+{"type":"ok","from":"2026-05-02T00:12:40.627Z","to":"2026-05-02T23:52:39.290Z","count":71,"avg":1146,"min":643,"max":2672,"p95":1844,"url":"https://models.github.ai/v1/models"}
+{"type":"ok","from":"2026-05-03T00:12:38.878Z","to":"2026-05-03T05:12:44.302Z","count":16,"url":"https://models.github.ai/v1/models","avg":1166,"min":779,"max":2164,"p95":2164}
+{"type":"fail","from":"2026-05-03T05:33:04.030Z","to":"2026-05-03T05:33:04.030Z","count":1,"url":"https://models.github.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-03T05:52:45.490Z","to":"2026-05-03T13:12:43.749Z","count":23,"url":"https://models.github.ai/v1/models","avg":1646,"min":859,"max":3294,"p95":3048}
+{"type":"fail","from":"2026-05-03T13:33:07.133Z","to":"2026-05-03T13:33:07.133Z","count":1,"url":"https://models.github.ai/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T14:02:57.824Z","to":"2026-05-03T23:42:45.192Z","count":30,"url":"https://models.github.ai/v1/models","avg":1770,"min":726,"max":4219,"p95":3509}
+{"type":"ok","from":"2026-05-04T00:02:56.974Z","to":"2026-05-04T23:52:34.779Z","count":72,"url":"https://models.github.ai/v1/models","avg":1079,"min":652,"max":3136,"p95":2207}

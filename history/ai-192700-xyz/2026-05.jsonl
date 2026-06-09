@@ -1,3 +1,14 @@
-{"url":"https://ai.192700.xyz/v1/models"}
-{"type":"ok","from":"2026-05-01T00:02:05.791Z","to":"2026-05-01T23:42:16.701Z","count":72,"avg":768,"min":27,"max":3016,"p95":2191}
-{"type":"ok","from":"2026-05-02T00:03:18.434Z","to":"2026-05-02T23:42:35.704Z","count":67,"avg":716,"min":104,"max":1919,"p95":1174}
+{"type":"ok","from":"2026-05-01T00:02:05.791Z","to":"2026-05-01T23:42:16.701Z","count":72,"avg":768,"min":27,"max":3016,"p95":2191,"url":"https://ai.192700.xyz/v1/models"}
+{"type":"ok","from":"2026-05-02T00:03:18.434Z","to":"2026-05-02T23:42:35.704Z","count":67,"avg":716,"min":104,"max":1919,"p95":1174,"url":"https://ai.192700.xyz/v1/models"}
+{"type":"ok","from":"2026-05-03T00:02:51.418Z","to":"2026-05-03T10:04:51.880Z","count":31,"url":"https://ai.192700.xyz/v1/models","avg":588,"min":115,"max":2169,"p95":1552}
+{"type":"ok","from":"2026-05-03T10:24:24.490Z","to":"2026-05-03T10:24:24.490Z","count":1,"url":"https://ai.192700.xyz/status","avg":190,"min":190,"max":190,"p95":190}
+{"type":"ok","from":"2026-05-03T10:43:59.412Z","to":"2026-05-03T13:44:20.829Z","count":10,"url":"https://ai.192700.xyz/v1/models","avg":461,"min":63,"max":883,"p95":883}
+{"type":"fail","from":"2026-05-03T14:15:25.826Z","to":"2026-05-03T14:34:15.594Z","count":2,"url":"https://ai.192700.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-03T14:54:40.457Z","to":"2026-05-03T15:13:39.300Z","count":2,"url":"https://ai.192700.xyz/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-03T15:33:58.969Z","to":"2026-05-03T15:33:58.969Z","count":1,"url":"https://ai.192700.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-03T15:53:50.857Z","to":"2026-05-03T15:53:50.857Z","count":1,"url":"https://ai.192700.xyz/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-03T16:15:11.247Z","to":"2026-05-03T16:15:11.247Z","count":1,"url":"https://ai.192700.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-03T16:35:03.388Z","to":"2026-05-03T18:11:51.726Z","count":6,"url":"https://ai.192700.xyz/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-03T18:31:40.542Z","to":"2026-05-03T18:31:40.542Z","count":1,"url":"https://ai.192700.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-03T18:50:52.750Z","to":"2026-05-03T23:52:10.995Z","count":16,"url":"https://ai.192700.xyz/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-04T00:12:29.443Z","to":"2026-05-04T23:40:15.580Z","count":69,"url":"https://ai.192700.xyz/api/status","status":null,"error":"fetch failed","avg_latency":null}

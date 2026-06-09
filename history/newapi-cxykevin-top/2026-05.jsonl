@@ -1,5 +1,10 @@
-{"url":"https://newapi.cxykevin.top/api/status"}
-{"type":"ok","from":"2026-05-01T00:00:30.222Z","to":"2026-05-01T23:40:31.537Z","count":72,"avg":201,"min":43,"max":2362,"p95":523}
-{"type":"ok","from":"2026-05-02T00:01:32.134Z","to":"2026-05-02T02:42:45.185Z","count":9,"avg":159,"min":48,"max":374,"p95":374}
-{"type":"fail","from":"2026-05-02T03:02:33.604Z","to":"2026-05-02T04:02:58.832Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-05-02T04:22:40.469Z","to":"2026-05-02T23:40:53.508Z","count":54,"avg":204,"min":44,"max":1879,"p95":768}
+{"type":"ok","from":"2026-05-01T00:00:30.222Z","to":"2026-05-01T23:40:31.537Z","count":72,"avg":201,"min":43,"max":2362,"p95":523,"url":"https://newapi.cxykevin.top/api/status"}
+{"type":"ok","from":"2026-05-02T00:01:32.134Z","to":"2026-05-02T02:42:45.185Z","count":9,"avg":159,"min":48,"max":374,"p95":374,"url":"https://newapi.cxykevin.top/api/status"}
+{"type":"fail","from":"2026-05-02T03:02:33.604Z","to":"2026-05-02T04:02:58.832Z","count":4,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://newapi.cxykevin.top/api/status"}
+{"type":"ok","from":"2026-05-02T04:22:40.469Z","to":"2026-05-02T23:40:53.508Z","count":54,"avg":204,"min":44,"max":1879,"p95":768,"url":"https://newapi.cxykevin.top/api/status"}
+{"type":"ok","from":"2026-05-03T00:01:10.406Z","to":"2026-05-03T18:49:19.678Z","count":57,"url":"https://newapi.cxykevin.top/api/status","avg":329,"min":55,"max":3858,"p95":1255}
+{"type":"ok","from":"2026-05-03T19:11:09.382Z","to":"2026-05-03T19:11:09.382Z","count":1,"url":"https://newapi.cxykevin.top/health","avg":4191,"min":4191,"max":4191,"p95":4191}
+{"type":"ok","from":"2026-05-03T19:30:08.161Z","to":"2026-05-03T23:50:31.559Z","count":14,"url":"https://newapi.cxykevin.top/api/status","avg":507,"min":376,"max":789,"p95":789}
+{"type":"ok","from":"2026-05-04T00:10:46.349Z","to":"2026-05-04T01:51:17.659Z","count":6,"url":"https://newapi.cxykevin.top/api/status","avg":508,"min":299,"max":784,"p95":784}
+{"type":"fail","from":"2026-05-04T02:11:23.430Z","to":"2026-05-04T03:14:00.040Z","count":4,"url":"https://newapi.cxykevin.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T03:33:23.325Z","to":"2026-05-04T23:59:35.355Z","count":60,"url":"https://newapi.cxykevin.top/api/status","avg":508,"min":138,"max":1087,"p95":951}

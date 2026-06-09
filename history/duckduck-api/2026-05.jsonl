@@ -1,3 +1,6 @@
-{"url":"https://duck2api.com/api/status"}
-{"type":"ok","from":"2026-05-01T00:12:07.526Z","to":"2026-05-01T23:52:16.257Z","count":72,"avg":2413,"min":1353,"max":4871,"p95":3786}
-{"type":"ok","from":"2026-05-02T00:12:10.408Z","to":"2026-05-02T23:52:09.659Z","count":72,"avg":2421,"min":1165,"max":4297,"p95":3541}
+{"type":"ok","from":"2026-05-01T00:12:07.526Z","to":"2026-05-01T23:52:16.257Z","count":72,"avg":2413,"min":1353,"max":4871,"p95":3786,"url":"https://duck2api.com/api/status"}
+{"type":"ok","from":"2026-05-02T00:12:10.408Z","to":"2026-05-02T23:52:09.659Z","count":72,"avg":2421,"min":1165,"max":4297,"p95":3541,"url":"https://duck2api.com/api/status"}
+{"type":"ok","from":"2026-05-03T00:12:09.123Z","to":"2026-05-03T23:42:12.749Z","count":71,"avg":2390,"min":1336,"max":4682,"p95":3595,"url":"https://duck2api.com/api/status"}
+{"type":"ok","from":"2026-05-04T00:02:27.862Z","to":"2026-05-04T12:42:12.853Z","count":39,"url":"https://duck2api.com/api/status","avg":2628,"min":1475,"max":4762,"p95":3973}
+{"type":"fail","from":"2026-05-04T13:02:20.927Z","to":"2026-05-04T13:02:20.927Z","count":1,"url":"https://duck2api.com/v1/models","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-05-04T13:22:10.098Z","to":"2026-05-04T23:52:05.505Z","count":32,"url":"https://duck2api.com/api/status","avg":1813,"min":1235,"max":3420,"p95":2769}

@@ -2,3 +2,13 @@
 {"type":"fail","from":"2026-05-01T19:52:06.850Z","to":"2026-05-01T19:52:06.850Z","count":1,"url":"https://api.openai-proxy.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-01T20:11:57.437Z","to":"2026-05-01T23:51:56.532Z","count":12,"url":"https://api.openai-proxy.org/v1/models","avg":436,"min":244,"max":912,"p95":912}
 {"type":"ok","from":"2026-05-02T00:11:49.680Z","to":"2026-05-02T23:51:49.215Z","count":72,"url":"https://api.openai-proxy.org/v1/models","avg":536,"min":222,"max":4680,"p95":1053}
+{"type":"ok","from":"2026-05-03T00:11:49.101Z","to":"2026-05-03T07:11:57.889Z","count":22,"url":"https://api.openai-proxy.org/v1/models","avg":389,"min":241,"max":804,"p95":762}
+{"type":"fail","from":"2026-05-03T07:32:06.577Z","to":"2026-05-03T07:32:06.577Z","count":1,"url":"https://api.openai-proxy.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T07:51:50.974Z","to":"2026-05-03T10:51:52.669Z","count":10,"url":"https://api.openai-proxy.org/v1/models","avg":593,"min":238,"max":1794,"p95":1794}
+{"type":"fail","from":"2026-05-03T11:12:17.054Z","to":"2026-05-03T11:12:17.054Z","count":1,"url":"https://api.openai-proxy.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T11:32:13.679Z","to":"2026-05-03T19:21:58.248Z","count":24,"url":"https://api.openai-proxy.org/v1/models","avg":1185,"min":216,"max":4987,"p95":4856}
+{"type":"fail","from":"2026-05-03T19:42:02.427Z","to":"2026-05-03T19:42:02.427Z","count":1,"url":"https://api.openai-proxy.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T20:02:02.459Z","to":"2026-05-03T23:41:52.300Z","count":12,"url":"https://api.openai-proxy.org/v1/models","avg":597,"min":234,"max":2135,"p95":2135}
+{"type":"ok","from":"2026-05-04T00:02:09.319Z","to":"2026-05-04T05:41:52.393Z","count":18,"url":"https://api.openai-proxy.org/v1/models","avg":959,"min":235,"max":4087,"p95":4087}
+{"type":"fail","from":"2026-05-04T06:02:26.708Z","to":"2026-05-04T06:02:26.708Z","count":1,"url":"https://api.openai-proxy.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T06:21:52.168Z","to":"2026-05-04T23:51:44.976Z","count":53,"url":"https://api.openai-proxy.org/v1/models","avg":320,"min":218,"max":741,"p95":606}

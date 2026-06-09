@@ -1,3 +1,14 @@
-{"url":"https://integrate.api.nvidia.com/v1/models"}
-{"type":"ok","from":"2026-05-01T00:12:36.527Z","to":"2026-05-01T23:52:44.517Z","count":72,"avg":1566,"min":750,"max":4608,"p95":3550}
-{"type":"ok","from":"2026-05-02T00:12:38.646Z","to":"2026-05-02T23:52:38.417Z","count":71,"avg":1513,"min":759,"max":4986,"p95":2317}
+{"type":"ok","from":"2026-05-01T00:12:36.527Z","to":"2026-05-01T23:52:44.517Z","count":72,"avg":1566,"min":750,"max":4608,"p95":3550,"url":"https://integrate.api.nvidia.com/v1/models"}
+{"type":"ok","from":"2026-05-02T00:12:38.646Z","to":"2026-05-02T23:52:38.417Z","count":71,"avg":1513,"min":759,"max":4986,"p95":2317,"url":"https://integrate.api.nvidia.com/v1/models"}
+{"type":"ok","from":"2026-05-03T00:12:38.434Z","to":"2026-05-03T05:12:43.288Z","count":16,"url":"https://integrate.api.nvidia.com/v1/models","avg":1547,"min":728,"max":2207,"p95":2207}
+{"type":"fail","from":"2026-05-03T05:33:02.322Z","to":"2026-05-03T05:33:02.322Z","count":1,"url":"https://integrate.api.nvidia.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-03T05:52:44.676Z","to":"2026-05-03T12:32:54.965Z","count":21,"url":"https://integrate.api.nvidia.com/v1/models","avg":2203,"min":836,"max":4483,"p95":4075}
+{"type":"ok","from":"2026-05-03T12:52:59.190Z","to":"2026-05-03T12:52:59.190Z","count":1,"url":"https://integrate.api.nvidia.com/health","avg":2263,"min":2263,"max":2263,"p95":2263}
+{"type":"ok","from":"2026-05-03T13:12:42.285Z","to":"2026-05-03T13:12:42.285Z","count":1,"url":"https://integrate.api.nvidia.com/v1/models","avg":1205,"min":1205,"max":1205,"p95":1205}
+{"type":"fail","from":"2026-05-03T13:33:04.380Z","to":"2026-05-03T13:33:04.380Z","count":1,"url":"https://integrate.api.nvidia.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-03T14:02:57.102Z","to":"2026-05-03T16:22:44.314Z","count":8,"url":"https://integrate.api.nvidia.com/v1/models","avg":2544,"min":1176,"max":4270,"p95":4270}
+{"type":"ok","from":"2026-05-03T16:42:57.131Z","to":"2026-05-03T16:42:57.131Z","count":1,"url":"https://integrate.api.nvidia.com/health","avg":3945,"min":3945,"max":3945,"p95":3945}
+{"type":"ok","from":"2026-05-03T17:02:49.948Z","to":"2026-05-03T21:42:51.830Z","count":15,"url":"https://integrate.api.nvidia.com/v1/models","avg":2158,"min":898,"max":4107,"p95":4107}
+{"type":"ok","from":"2026-05-03T22:02:50.373Z","to":"2026-05-03T22:02:50.373Z","count":1,"url":"https://integrate.api.nvidia.com/health","avg":2727,"min":2727,"max":2727,"p95":2727}
+{"type":"ok","from":"2026-05-03T22:22:45.434Z","to":"2026-05-03T23:42:44.267Z","count":5,"url":"https://integrate.api.nvidia.com/v1/models","avg":2432,"min":1881,"max":3759,"p95":3759}
+{"type":"ok","from":"2026-05-04T00:02:56.087Z","to":"2026-05-04T23:52:34.281Z","count":72,"url":"https://integrate.api.nvidia.com/v1/models","avg":1455,"min":640,"max":3947,"p95":2792}

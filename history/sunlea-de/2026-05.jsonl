@@ -1,3 +1,28 @@
-{"url":"https://sunlea.de/api/status"}
-{"type":"ok","from":"2026-05-01T00:02:18.388Z","to":"2026-05-01T23:43:00.771Z","count":72,"avg":843,"min":518,"max":1738,"p95":1577}
-{"type":"ok","from":"2026-05-02T00:03:47.572Z","to":"2026-05-02T23:43:42.298Z","count":67,"avg":762,"min":254,"max":1801,"p95":1281}
+{"type":"ok","from":"2026-05-01T00:02:18.388Z","to":"2026-05-01T23:43:00.771Z","count":72,"avg":843,"min":518,"max":1738,"p95":1577,"url":"https://sunlea.de/api/status"}
+{"type":"ok","from":"2026-05-02T00:03:47.572Z","to":"2026-05-02T23:43:42.298Z","count":67,"avg":762,"min":254,"max":1801,"p95":1281,"url":"https://sunlea.de/api/status"}
+{"type":"ok","from":"2026-05-03T00:03:58.054Z","to":"2026-05-03T19:13:56.864Z","count":58,"url":"https://sunlea.de/api/status","avg":366,"min":228,"max":3467,"p95":501}
+{"type":"fail","from":"2026-05-03T19:32:35.343Z","to":"2026-05-03T19:32:35.343Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T19:52:21.991Z","to":"2026-05-03T19:52:21.991Z","count":1,"url":"https://sunlea.de/health","avg":4216,"min":4216,"max":4216,"p95":4216}
+{"type":"fail","from":"2026-05-03T20:12:12.720Z","to":"2026-05-03T20:12:12.720Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T20:31:00.979Z","to":"2026-05-03T20:31:00.979Z","count":1,"url":"https://sunlea.de/api/status","avg":3015,"min":3015,"max":3015,"p95":3015}
+{"type":"fail","from":"2026-05-03T20:52:20.895Z","to":"2026-05-03T21:12:55.876Z","count":2,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T21:32:21.792Z","to":"2026-05-03T21:32:21.792Z","count":1,"url":"https://sunlea.de/api/status","avg":3378,"min":3378,"max":3378,"p95":3378}
+{"type":"fail","from":"2026-05-03T21:52:10.912Z","to":"2026-05-03T22:52:34.141Z","count":4,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T23:12:16.204Z","to":"2026-05-03T23:12:16.204Z","count":1,"url":"https://sunlea.de/api/status","avg":2616,"min":2616,"max":2616,"p95":2616}
+{"type":"ok","from":"2026-05-03T23:33:26.801Z","to":"2026-05-03T23:33:26.801Z","count":1,"url":"https://sunlea.de/health","avg":4161,"min":4161,"max":4161,"p95":4161}
+{"type":"fail","from":"2026-05-03T23:53:13.078Z","to":"2026-05-03T23:53:13.078Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-04T00:13:24.468Z","to":"2026-05-04T00:13:24.468Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T00:32:57.008Z","to":"2026-05-04T00:32:57.008Z","count":1,"url":"https://sunlea.de/api/status","avg":1912,"min":1912,"max":1912,"p95":1912}
+{"type":"fail","from":"2026-05-04T00:54:35.830Z","to":"2026-05-04T00:54:35.830Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T01:14:38.826Z","to":"2026-05-04T01:34:07.083Z","count":2,"url":"https://sunlea.de/v1/models","avg":2745,"min":2215,"max":3274,"p95":3274}
+{"type":"ok","from":"2026-05-04T01:53:44.900Z","to":"2026-05-04T01:53:44.900Z","count":1,"url":"https://sunlea.de/api/status","avg":2415,"min":2415,"max":2415,"p95":2415}
+{"type":"fail","from":"2026-05-04T02:14:03.535Z","to":"2026-05-04T02:14:03.535Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T02:33:17.790Z","to":"2026-05-04T02:33:17.790Z","count":1,"url":"https://sunlea.de/api/status","avg":3668,"min":3668,"max":3668,"p95":3668}
+{"type":"fail","from":"2026-05-04T02:56:45.068Z","to":"2026-05-04T03:55:36.264Z","count":4,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T04:16:12.645Z","to":"2026-05-04T05:18:16.867Z","count":4,"url":"https://sunlea.de/api/status","avg":3002,"min":2414,"max":3681,"p95":3681}
+{"type":"fail","from":"2026-05-04T05:36:27.825Z","to":"2026-05-04T05:36:27.825Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T05:55:11.158Z","to":"2026-05-04T05:55:11.158Z","count":1,"url":"https://sunlea.de/api/status","avg":2190,"min":2190,"max":2190,"p95":2190}
+{"type":"fail","from":"2026-05-04T06:16:34.846Z","to":"2026-05-04T06:16:34.846Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T06:55:40.442Z","to":"2026-05-04T06:55:40.442Z","count":1,"url":"https://sunlea.de/v1/models","avg":4696,"min":4696,"max":4696,"p95":4696}
+{"type":"fail","from":"2026-05-04T07:17:43.244Z","to":"2026-05-04T07:17:43.244Z","count":1,"url":"https://sunlea.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T07:36:22.244Z","to":"2026-05-04T23:40:53.517Z","count":48,"url":"https://sunlea.de/api/status","avg":1510,"min":796,"max":4783,"p95":2908}

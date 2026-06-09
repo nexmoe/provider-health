@@ -1,3 +1,6 @@
-{"url":"https://llm.chutes.ai/v1/models"}
-{"type":"ok","from":"2026-05-01T00:12:37.619Z","to":"2026-05-01T23:52:45.874Z","count":72,"avg":1352,"min":261,"max":4348,"p95":2957}
-{"type":"ok","from":"2026-05-02T00:12:40.847Z","to":"2026-05-02T23:52:39.297Z","count":71,"avg":1242,"min":270,"max":3375,"p95":2163}
+{"type":"ok","from":"2026-05-01T00:12:37.619Z","to":"2026-05-01T23:52:45.874Z","count":72,"avg":1352,"min":261,"max":4348,"p95":2957,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-05-02T00:12:40.847Z","to":"2026-05-02T23:52:39.297Z","count":71,"avg":1242,"min":270,"max":3375,"p95":2163,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-05-03T00:12:38.499Z","to":"2026-05-03T05:12:43.849Z","count":16,"url":"https://llm.chutes.ai/v1/models","avg":1103,"min":285,"max":2002,"p95":2002}
+{"type":"fail","from":"2026-05-03T05:33:03.821Z","to":"2026-05-03T05:33:03.821Z","count":1,"url":"https://llm.chutes.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-03T05:52:45.268Z","to":"2026-05-03T23:42:44.737Z","count":54,"url":"https://llm.chutes.ai/v1/models","avg":1872,"min":552,"max":4970,"p95":3590}
+{"type":"ok","from":"2026-05-04T00:02:56.873Z","to":"2026-05-04T23:52:34.820Z","count":72,"url":"https://llm.chutes.ai/v1/models","avg":1206,"min":280,"max":3202,"p95":2434}

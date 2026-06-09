@@ -1,5 +1,10 @@
-{"url":"https://api.071572.xyz/api/status"}
-{"type":"fail","from":"2026-05-01T00:16:09.839Z","to":"2026-05-01T23:56:20.780Z","count":72,"status":null,"error":"fetch failed","avg_latency":null}
-{"type":"fail","from":"2026-05-02T00:16:19.204Z","to":"2026-05-02T13:37:25.984Z","count":37,"status":null,"error":"fetch failed","avg_latency":null}
-{"type":"fail","from":"2026-05-02T13:56:49.475Z","to":"2026-05-02T13:56:49.475Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-05-02T14:17:33.337Z","to":"2026-05-02T23:56:19.422Z","count":30,"status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-01T00:16:09.839Z","to":"2026-05-01T23:56:20.780Z","count":72,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://api.071572.xyz/api/status"}
+{"type":"fail","from":"2026-05-02T00:16:19.204Z","to":"2026-05-02T13:37:25.984Z","count":37,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://api.071572.xyz/api/status"}
+{"type":"fail","from":"2026-05-02T13:56:49.475Z","to":"2026-05-02T13:56:49.475Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.071572.xyz/api/status"}
+{"type":"fail","from":"2026-05-02T14:17:33.337Z","to":"2026-05-02T23:56:19.422Z","count":30,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://api.071572.xyz/api/status"}
+{"type":"fail","from":"2026-05-03T00:16:29.811Z","to":"2026-05-03T03:56:10.868Z","count":12,"url":"https://api.071572.xyz/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-05-03T04:16:19.052Z","to":"2026-05-03T12:36:49.534Z","count":26,"url":"http://ai.071572.xyz/api/status","avg":661,"min":332,"max":4117,"p95":2721}
+{"type":"ok","from":"2026-05-03T12:56:44.599Z","to":"2026-05-03T23:46:22.814Z","count":33,"url":"https://ai.071572.xyz/api/status","avg":1265,"min":509,"max":4939,"p95":2568}
+{"type":"ok","from":"2026-05-04T00:06:49.846Z","to":"2026-05-04T00:26:59.292Z","count":2,"url":"https://ai.071572.xyz/api/status","avg":519,"min":512,"max":525,"p95":525}
+{"type":"ok","from":"2026-05-04T00:47:09.314Z","to":"2026-05-04T00:47:09.314Z","count":1,"url":"https://ai.071572.xyz/v1/models","avg":2338,"min":2338,"max":2338,"p95":2338}
+{"type":"ok","from":"2026-05-04T01:07:11.600Z","to":"2026-05-04T23:56:10.472Z","count":69,"url":"https://ai.071572.xyz/api/status","avg":787,"min":505,"max":3709,"p95":1669}

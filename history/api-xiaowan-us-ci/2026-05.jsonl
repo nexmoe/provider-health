@@ -6,3 +6,13 @@
 {"type":"ok","from":"2026-05-02T18:21:21.264Z","to":"2026-05-02T21:40:07.023Z","count":11,"url":"https://api.xiaowan.us.ci/v1/models","avg":1454,"min":871,"max":3040,"p95":3040}
 {"type":"ok","from":"2026-05-02T22:00:18.021Z","to":"2026-05-02T22:00:18.021Z","count":1,"url":"https://api.xiaowan.us.ci/health","avg":1146,"min":1146,"max":1146,"p95":1146}
 {"type":"ok","from":"2026-05-02T22:19:41.426Z","to":"2026-05-02T23:40:55.749Z","count":5,"url":"https://api.xiaowan.us.ci/v1/models","avg":1264,"min":1025,"max":1779,"p95":1779}
+{"type":"ok","from":"2026-05-03T00:01:12.315Z","to":"2026-05-03T10:03:21.022Z","count":31,"url":"https://api.xiaowan.us.ci/v1/models","avg":1836,"min":875,"max":4626,"p95":3544}
+{"type":"fail","from":"2026-05-03T10:22:43.012Z","to":"2026-05-03T10:22:43.012Z","count":1,"url":"https://api.xiaowan.us.ci/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T10:42:42.285Z","to":"2026-05-03T10:42:42.285Z","count":1,"url":"https://api.xiaowan.us.ci/v1/models","avg":1068,"min":1068,"max":1068,"p95":1068}
+{"type":"fail","from":"2026-05-03T11:02:11.329Z","to":"2026-05-03T11:22:58.046Z","count":2,"url":"https://api.xiaowan.us.ci/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T11:42:19.299Z","to":"2026-05-03T12:02:35.293Z","count":2,"url":"https://api.xiaowan.us.ci/v1/models","avg":2018,"min":1687,"max":2349,"p95":2349}
+{"type":"fail","from":"2026-05-03T12:24:19.446Z","to":"2026-05-03T13:23:14.039Z","count":4,"url":"https://api.xiaowan.us.ci/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T13:42:30.554Z","to":"2026-05-03T23:50:33.500Z","count":31,"url":"https://api.xiaowan.us.ci/v1/models","avg":1750,"min":505,"max":4188,"p95":3107}
+{"type":"ok","from":"2026-05-04T00:10:48.093Z","to":"2026-05-04T02:30:42.024Z","count":8,"url":"https://api.xiaowan.us.ci/v1/models","avg":1001,"min":582,"max":1798,"p95":1798}
+{"type":"ok","from":"2026-05-04T02:53:30.541Z","to":"2026-05-04T02:53:30.541Z","count":1,"url":"https://api.xiaowan.us.ci/health","avg":4416,"min":4416,"max":4416,"p95":4416}
+{"type":"ok","from":"2026-05-04T03:13:42.131Z","to":"2026-05-04T23:59:37.049Z","count":61,"url":"https://api.xiaowan.us.ci/v1/models","avg":722,"min":461,"max":2267,"p95":1158}

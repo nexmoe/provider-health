@@ -1,3 +1,8 @@
-{"url":"https://rb6k9jv.9router.com/health"}
-{"type":"ok","from":"2026-05-01T00:02:14.208Z","to":"2026-05-01T23:42:27.329Z","count":72,"avg":348,"min":42,"max":1890,"p95":1191}
-{"type":"ok","from":"2026-05-02T00:03:42.376Z","to":"2026-05-02T23:43:00.724Z","count":67,"avg":297,"min":18,"max":1619,"p95":1172}
+{"type":"ok","from":"2026-05-01T00:02:14.208Z","to":"2026-05-01T23:42:27.329Z","count":72,"avg":348,"min":42,"max":1890,"p95":1191,"url":"https://rb6k9jv.9router.com/health"}
+{"type":"ok","from":"2026-05-02T00:03:42.376Z","to":"2026-05-02T23:43:00.724Z","count":67,"avg":297,"min":18,"max":1619,"p95":1172,"url":"https://rb6k9jv.9router.com/health"}
+{"type":"ok","from":"2026-05-03T00:03:17.212Z","to":"2026-05-03T14:55:29.290Z","count":45,"url":"https://rb6k9jv.9router.com/health","avg":523,"min":17,"max":2587,"p95":1972}
+{"type":"fail","from":"2026-05-03T15:14:33.932Z","to":"2026-05-03T15:14:33.932Z","count":1,"url":"https://rb6k9jv.9router.com/api/status","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"ok","from":"2026-05-03T15:34:40.287Z","to":"2026-05-03T16:35:57.941Z","count":4,"url":"https://rb6k9jv.9router.com/health","avg":158,"min":99,"max":245,"p95":245}
+{"type":"fail","from":"2026-05-03T16:55:10.700Z","to":"2026-05-03T16:55:10.700Z","count":1,"url":"https://rb6k9jv.9router.com/api/status","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"ok","from":"2026-05-03T17:13:50.955Z","to":"2026-05-03T23:52:45.118Z","count":21,"url":"https://rb6k9jv.9router.com/health","avg":222,"min":20,"max":744,"p95":625}
+{"type":"ok","from":"2026-05-04T00:12:55.715Z","to":"2026-05-04T23:40:42.436Z","count":69,"url":"https://rb6k9jv.9router.com/health","avg":204,"min":12,"max":2061,"p95":644}

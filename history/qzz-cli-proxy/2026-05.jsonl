@@ -2,3 +2,18 @@
 {"type":"fail","from":"2026-05-01T23:22:21.615Z","to":"2026-05-01T23:22:21.615Z","count":1,"url":"https://mutt.qzz.io/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-05-01T23:41:59.256Z","to":"2026-05-01T23:41:59.256Z","count":1,"url":"https://mutt.qzz.io/v1/models","avg":2514,"min":2514,"max":2514,"p95":2514}
 {"type":"ok","from":"2026-05-02T00:03:00.513Z","to":"2026-05-02T23:42:16.579Z","count":67,"url":"https://mutt.qzz.io/v1/models","avg":1443,"min":547,"max":4517,"p95":3021}
+{"type":"ok","from":"2026-05-03T00:02:32.404Z","to":"2026-05-03T07:03:26.117Z","count":22,"url":"https://mutt.qzz.io/v1/models","avg":1545,"min":563,"max":3777,"p95":3315}
+{"type":"fail","from":"2026-05-03T07:24:08.056Z","to":"2026-05-03T07:24:08.056Z","count":1,"url":"https://mutt.qzz.io/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-03T07:44:40.211Z","to":"2026-05-03T13:44:21.509Z","count":19,"url":"https://mutt.qzz.io/v1/models","avg":2225,"min":665,"max":4642,"p95":4642}
+{"type":"fail","from":"2026-05-03T14:15:26.507Z","to":"2026-05-03T14:15:26.507Z","count":1,"url":"https://mutt.qzz.io/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-03T14:34:16.855Z","to":"2026-05-03T14:34:16.855Z","count":1,"url":"https://mutt.qzz.io/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T14:54:40.831Z","to":"2026-05-03T20:51:03.069Z","count":19,"url":"https://mutt.qzz.io/v1/models","avg":1950,"min":624,"max":4798,"p95":4798}
+{"type":"fail","from":"2026-05-03T21:11:48.670Z","to":"2026-05-03T21:11:48.670Z","count":1,"url":"https://mutt.qzz.io/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T21:31:25.896Z","to":"2026-05-03T22:31:24.844Z","count":4,"url":"https://mutt.qzz.io/v1/models","avg":997,"min":661,"max":1492,"p95":1492}
+{"type":"fail","from":"2026-05-03T22:51:29.543Z","to":"2026-05-03T22:51:29.543Z","count":1,"url":"https://mutt.qzz.io/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-03T23:11:10.344Z","to":"2026-05-03T23:51:56.159Z","count":3,"url":"https://mutt.qzz.io/v1/models","avg":1469,"min":914,"max":2027,"p95":2027}
+{"type":"ok","from":"2026-05-04T00:12:11.811Z","to":"2026-05-04T00:53:20.285Z","count":3,"url":"https://mutt.qzz.io/v1/models","avg":899,"min":719,"max":1137,"p95":1137}
+{"type":"fail","from":"2026-05-04T01:13:33.119Z","to":"2026-05-04T01:13:33.119Z","count":1,"url":"https://mutt.qzz.io/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-04T01:32:55.015Z","to":"2026-05-04T02:55:12.742Z","count":5,"url":"https://mutt.qzz.io/v1/models","avg":2044,"min":806,"max":3082,"p95":3082}
+{"type":"fail","from":"2026-05-04T03:15:22.175Z","to":"2026-05-04T03:15:22.175Z","count":1,"url":"https://mutt.qzz.io/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-04T03:34:58.174Z","to":"2026-05-04T23:40:07.865Z","count":59,"url":"https://mutt.qzz.io/v1/models","avg":1112,"min":338,"max":4297,"p95":3353}
