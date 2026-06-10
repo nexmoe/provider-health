@@ -17,3 +17,8 @@
 {"type":"ok","from":"2026-05-04T02:33:53.286Z","to":"2026-05-04T04:57:14.445Z","count":8,"url":"https://crs.802011.xyz/v1/models","avg":2523,"min":1999,"max":3401,"p95":3401}
 {"type":"ok","from":"2026-05-04T05:19:10.999Z","to":"2026-05-04T05:37:12.902Z","count":2,"url":"https://crs.802011.xyz/zh-CN/login?from=%2Fhealth","avg":2460,"min":1732,"max":3187,"p95":3187}
 {"type":"ok","from":"2026-05-04T05:55:55.994Z","to":"2026-05-04T23:41:27.520Z","count":52,"url":"https://crs.802011.xyz/v1/models","avg":1170,"min":456,"max":4761,"p95":2933}
+{"type":"ok","from":"2026-05-05T00:02:19.860Z","to":"2026-05-05T07:45:29.731Z","count":24,"url":"https://crs.802011.xyz/v1/models","avg":987,"min":475,"max":1585,"p95":1530}
+{"type":"fail","from":"2026-05-05T08:07:18.426Z","to":"2026-05-05T08:07:18.426Z","count":1,"url":"https://crs.802011.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T08:25:58.859Z","to":"2026-05-05T18:21:52.414Z","count":31,"url":"https://crs.802011.xyz/v1/models","avg":784,"min":464,"max":1433,"p95":1406}
+{"type":"fail","from":"2026-05-05T18:41:43.271Z","to":"2026-05-05T18:41:43.271Z","count":1,"url":"https://crs.802011.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T19:01:48.068Z","to":"2026-05-05T23:42:20.407Z","count":15,"url":"https://crs.802011.xyz/v1/models","avg":717,"min":462,"max":1168,"p95":1168}

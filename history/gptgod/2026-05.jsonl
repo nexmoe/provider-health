@@ -14,3 +14,6 @@
 {"type":"ok","from":"2026-05-04T00:01:49.028Z","to":"2026-05-04T07:41:33.789Z","count":24,"url":"https://api.gptgod.online/v1/models","avg":1722,"min":588,"max":4692,"p95":4637}
 {"type":"fail","from":"2026-05-04T08:01:54.170Z","to":"2026-05-04T08:01:54.170Z","count":1,"url":"https://api.gptgod.online/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-05-04T08:21:30.204Z","to":"2026-05-04T23:51:23.006Z","count":47,"url":"https://api.gptgod.online/v1/models","avg":742,"min":564,"max":1170,"p95":907}
+{"type":"ok","from":"2026-05-05T00:11:26.313Z","to":"2026-05-05T14:31:33.426Z","count":45,"url":"https://api.gptgod.online/v1/models","avg":661,"min":567,"max":944,"p95":846}
+{"type":"fail","from":"2026-05-05T14:51:40.429Z","to":"2026-05-05T14:51:40.429Z","count":1,"url":"https://api.gptgod.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T15:11:30.398Z","to":"2026-05-05T23:51:26.736Z","count":27,"url":"https://api.gptgod.online/v1/models","avg":587,"min":566,"max":623,"p95":610}

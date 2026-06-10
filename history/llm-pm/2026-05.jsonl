@@ -5,3 +5,12 @@
 {"type":"ok","from":"2026-05-02T08:34:54.740Z","to":"2026-05-02T23:53:42.252Z","count":46,"url":"https://api-proxy.me/api/status","avg":1030,"min":629,"max":4774,"p95":3075}
 {"type":"ok","from":"2026-05-03T00:13:43.889Z","to":"2026-05-03T23:43:46.909Z","count":71,"url":"https://api-proxy.me/api/status","avg":818,"min":634,"max":1125,"p95":1034}
 {"type":"ok","from":"2026-05-04T00:04:01.440Z","to":"2026-05-04T23:53:47.878Z","count":72,"url":"https://api-proxy.me/api/status","avg":878,"min":652,"max":4183,"p95":1180}
+{"type":"ok","from":"2026-05-05T00:13:54.192Z","to":"2026-05-05T12:34:00.486Z","count":38,"url":"https://api-proxy.me/api/status","avg":832,"min":664,"max":1932,"p95":1417}
+{"type":"fail","from":"2026-05-05T12:54:10.057Z","to":"2026-05-05T14:54:20.982Z","count":7,"url":"https://api-proxy.me/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T15:14:02.504Z","to":"2026-05-05T15:14:02.504Z","count":1,"url":"https://api-proxy.me/v1/models","avg":2992,"min":2992,"max":2992,"p95":2992}
+{"type":"ok","from":"2026-05-05T15:34:13.688Z","to":"2026-05-05T15:34:13.688Z","count":1,"url":"https://api-proxy.me/health","avg":3442,"min":3442,"max":3442,"p95":3442}
+{"type":"ok","from":"2026-05-05T15:53:53.614Z","to":"2026-05-05T15:53:53.614Z","count":1,"url":"https://api-proxy.me/v1/models","avg":1899,"min":1899,"max":1899,"p95":1899}
+{"type":"fail","from":"2026-05-05T16:14:04.207Z","to":"2026-05-05T17:14:04.277Z","count":4,"url":"https://api-proxy.me/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T17:33:51.392Z","to":"2026-05-05T17:33:51.392Z","count":1,"url":"https://api-proxy.me/v1/models","avg":2325,"min":2325,"max":2325,"p95":2325}
+{"type":"fail","from":"2026-05-05T17:54:04.474Z","to":"2026-05-05T17:54:04.474Z","count":1,"url":"https://api-proxy.me/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T18:13:41.364Z","to":"2026-05-05T23:53:50.077Z","count":18,"url":"https://api-proxy.me/api/status","avg":878,"min":678,"max":1696,"p95":1696}

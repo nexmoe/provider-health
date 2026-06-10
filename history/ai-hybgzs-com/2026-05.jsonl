@@ -1,6 +1,8 @@
-{"url":"https://ai.hybgzs.com/api/status"}
-{"type":"fail","from":"2026-05-01T00:15:47.833Z","to":"2026-05-01T23:55:57.028Z","count":72,"status":404,"error":"HTTP 404","avg_latency":null}
-{"type":"fail","from":"2026-05-02T00:15:51.480Z","to":"2026-05-02T23:55:52.869Z","count":68,"status":404,"error":"HTTP 404","avg_latency":null}
-{"type":"fail","from":"2026-05-03T00:15:58.829Z","to":"2026-05-03T17:06:28.274Z","count":51,"status":404,"error":"HTTP 404","avg_latency":null}
-{"type":"ok","from":"2026-05-03T17:25:41.306Z","to":"2026-05-03T23:45:33.992Z","count":20,"avg":349,"min":273,"max":815,"p95":815}
-{"type":"ok","from":"2026-05-04T00:06:00.170Z","to":"2026-05-04T23:55:38.596Z","count":72,"avg":332,"min":268,"max":1102,"p95":515}
+{"type":"fail","from":"2026-05-01T00:15:47.833Z","to":"2026-05-01T23:55:57.028Z","count":72,"status":404,"error":"HTTP 404","avg_latency":null,"url":"https://ai.hybgzs.com/api/status"}
+{"type":"fail","from":"2026-05-02T00:15:51.480Z","to":"2026-05-02T23:55:52.869Z","count":68,"status":404,"error":"HTTP 404","avg_latency":null,"url":"https://ai.hybgzs.com/api/status"}
+{"type":"fail","from":"2026-05-03T00:15:58.829Z","to":"2026-05-03T17:06:28.274Z","count":51,"status":404,"error":"HTTP 404","avg_latency":null,"url":"https://ai.hybgzs.com/api/status"}
+{"type":"ok","from":"2026-05-03T17:25:41.306Z","to":"2026-05-03T23:45:33.992Z","count":20,"avg":349,"min":273,"max":815,"p95":815,"url":"https://ai.hybgzs.com/api/status"}
+{"type":"ok","from":"2026-05-04T00:06:00.170Z","to":"2026-05-04T23:55:38.596Z","count":72,"avg":332,"min":268,"max":1102,"p95":515,"url":"https://ai.hybgzs.com/api/status"}
+{"type":"ok","from":"2026-05-05T00:16:06.243Z","to":"2026-05-05T10:15:59.186Z","count":31,"url":"https://ai.hybgzs.com/api/status","avg":306,"min":266,"max":499,"p95":441}
+{"type":"ok","from":"2026-05-05T10:36:13.838Z","to":"2026-05-05T10:36:13.838Z","count":1,"url":"https://ai.hybgzs.com/v1/models","avg":2062,"min":2062,"max":2062,"p95":2062}
+{"type":"ok","from":"2026-05-05T10:55:43.495Z","to":"2026-05-05T23:55:52.855Z","count":40,"url":"https://ai.hybgzs.com/api/status","avg":301,"min":265,"max":660,"p95":475}

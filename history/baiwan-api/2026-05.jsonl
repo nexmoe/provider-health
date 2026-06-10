@@ -7,3 +7,9 @@
 {"type":"ok","from":"2026-05-02T09:52:34.969Z","to":"2026-05-02T23:52:09.393Z","count":43,"url":"https://api.zhubaiwan.xyz/api/status","avg":2095,"min":1667,"max":4478,"p95":2950}
 {"type":"ok","from":"2026-05-03T00:12:09.419Z","to":"2026-05-03T23:42:12.002Z","count":71,"url":"https://api.zhubaiwan.xyz/api/status","avg":2043,"min":1644,"max":3380,"p95":2858}
 {"type":"ok","from":"2026-05-04T00:02:27.545Z","to":"2026-05-04T23:52:05.477Z","count":72,"url":"https://api.zhubaiwan.xyz/api/status","avg":2072,"min":1619,"max":4981,"p95":2884}
+{"type":"ok","from":"2026-05-05T00:12:08.508Z","to":"2026-05-05T13:12:17.699Z","count":41,"url":"https://api.zhubaiwan.xyz/api/status","avg":1991,"min":1576,"max":3451,"p95":2715}
+{"type":"ok","from":"2026-05-05T13:32:25.706Z","to":"2026-05-05T13:32:25.706Z","count":1,"url":"https://api.zhubaiwan.xyz/v1/models","avg":1521,"min":1521,"max":1521,"p95":1521}
+{"type":"ok","from":"2026-05-05T13:52:09.360Z","to":"2026-05-05T15:12:13.254Z","count":5,"url":"https://api.zhubaiwan.xyz/api/status","avg":2257,"min":1941,"max":2789,"p95":2789}
+{"type":"fail","from":"2026-05-05T15:32:18.480Z","to":"2026-05-05T16:12:13.869Z","count":3,"url":"https://api.zhubaiwan.xyz/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-05T16:32:19.154Z","to":"2026-05-05T16:32:19.154Z","count":1,"url":"https://api.zhubaiwan.xyz/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-05T16:52:07.119Z","to":"2026-05-05T23:52:09.182Z","count":22,"url":"https://api.zhubaiwan.xyz/api/status","avg":1849,"min":1561,"max":2353,"p95":2224}

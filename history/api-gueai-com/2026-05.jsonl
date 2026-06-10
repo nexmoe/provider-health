@@ -39,3 +39,11 @@
 {"type":"ok","from":"2026-05-04T14:04:25.549Z","to":"2026-05-04T17:33:54.697Z","count":11,"url":"https://api.gueai.com/api/status","avg":2705,"min":2019,"max":3970,"p95":3970}
 {"type":"ok","from":"2026-05-04T17:53:52.128Z","to":"2026-05-04T17:53:52.128Z","count":1,"url":"https://api.gueai.com/health","avg":260,"min":260,"max":260,"p95":260}
 {"type":"ok","from":"2026-05-04T18:13:48.303Z","to":"2026-05-04T23:53:49.570Z","count":18,"url":"https://api.gueai.com/api/status","avg":2199,"min":1882,"max":2520,"p95":2520}
+{"type":"ok","from":"2026-05-05T00:13:55.606Z","to":"2026-05-05T12:34:01.987Z","count":38,"url":"https://api.gueai.com/api/status","avg":2662,"min":2014,"max":4766,"p95":4242}
+{"type":"fail","from":"2026-05-05T12:54:10.071Z","to":"2026-05-05T14:54:20.987Z","count":7,"url":"https://api.gueai.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T15:14:08.279Z","to":"2026-05-05T15:34:14.843Z","count":2,"url":"https://api.gueai.com/health","avg":4168,"min":3758,"max":4578,"p95":4578}
+{"type":"ok","from":"2026-05-05T15:53:55.242Z","to":"2026-05-05T15:53:55.242Z","count":1,"url":"https://api.gueai.com/v1/models","avg":3521,"min":3521,"max":3521,"p95":3521}
+{"type":"fail","from":"2026-05-05T16:14:04.215Z","to":"2026-05-05T17:14:04.287Z","count":4,"url":"https://api.gueai.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T17:33:53.073Z","to":"2026-05-05T17:33:53.073Z","count":1,"url":"https://api.gueai.com/v1/models","avg":3999,"min":3999,"max":3999,"p95":3999}
+{"type":"fail","from":"2026-05-05T17:54:04.478Z","to":"2026-05-05T17:54:04.478Z","count":1,"url":"https://api.gueai.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T18:13:42.680Z","to":"2026-05-05T23:53:51.473Z","count":18,"url":"https://api.gueai.com/api/status","avg":2293,"min":2000,"max":3185,"p95":3185}

@@ -1,3 +1,5 @@
-{"url":"https://sub2api.wtxlab.com/v1/models"}
-{"type":"ok","from":"2026-05-03T19:14:19.042Z","to":"2026-05-03T23:53:30.061Z","count":15,"avg":1140,"min":340,"max":2484,"p95":2484}
-{"type":"ok","from":"2026-05-04T00:13:47.823Z","to":"2026-05-04T23:41:22.886Z","count":69,"avg":1249,"min":444,"max":2325,"p95":2005}
+{"type":"ok","from":"2026-05-03T19:14:19.042Z","to":"2026-05-03T23:53:30.061Z","count":15,"avg":1140,"min":340,"max":2484,"p95":2484,"url":"https://sub2api.wtxlab.com/v1/models"}
+{"type":"ok","from":"2026-05-04T00:13:47.823Z","to":"2026-05-04T23:41:22.886Z","count":69,"avg":1249,"min":444,"max":2325,"p95":2005,"url":"https://sub2api.wtxlab.com/v1/models"}
+{"type":"ok","from":"2026-05-05T00:02:14.129Z","to":"2026-05-05T15:45:36.998Z","count":48,"url":"https://sub2api.wtxlab.com/v1/models","avg":1269,"min":536,"max":3607,"p95":2277}
+{"type":"fail","from":"2026-05-05T16:05:49.458Z","to":"2026-05-05T16:25:23.528Z","count":2,"url":"https://sub2api.wtxlab.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-05T16:47:21.141Z","to":"2026-05-05T23:42:14.433Z","count":22,"url":"https://sub2api.wtxlab.com/v1/models","avg":1126,"min":553,"max":3293,"p95":2021}
