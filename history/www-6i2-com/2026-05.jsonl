@@ -106,3 +106,34 @@
 {"type":"ok","from":"2026-05-05T19:21:28.757Z","to":"2026-05-05T19:21:28.757Z","count":1,"url":"https://www.6i2.com/api/status","avg":4136,"min":4136,"max":4136,"p95":4136}
 {"type":"ok","from":"2026-05-05T19:43:11.338Z","to":"2026-05-05T19:43:11.338Z","count":1,"url":"https://www.6i2.com/health","avg":2407,"min":2407,"max":2407,"p95":2407}
 {"type":"ok","from":"2026-05-05T20:01:42.956Z","to":"2026-05-05T23:42:22.186Z","count":12,"url":"https://www.6i2.com/api/status","avg":2786,"min":1222,"max":4550,"p95":4550}
+{"type":"ok","from":"2026-05-06T00:03:10.443Z","to":"2026-05-06T00:23:03.851Z","count":2,"url":"https://www.6i2.com/api/status","avg":3790,"min":3373,"max":4207,"p95":4207}
+{"type":"ok","from":"2026-05-06T00:43:21.938Z","to":"2026-05-06T00:43:21.938Z","count":1,"url":"https://www.6i2.com/v1/models","avg":4674,"min":4674,"max":4674,"p95":4674}
+{"type":"ok","from":"2026-05-06T01:03:12.491Z","to":"2026-05-06T02:43:45.397Z","count":6,"url":"https://www.6i2.com/api/status","avg":3401,"min":2270,"max":4717,"p95":4717}
+{"type":"ok","from":"2026-05-06T03:05:08.148Z","to":"2026-05-06T03:05:08.148Z","count":1,"url":"https://www.6i2.com/v1/models","avg":2616,"min":2616,"max":2616,"p95":2616}
+{"type":"ok","from":"2026-05-06T03:24:00.600Z","to":"2026-05-06T03:43:43.927Z","count":2,"url":"https://www.6i2.com/api/status","avg":2716,"min":2222,"max":3210,"p95":3210}
+{"type":"ok","from":"2026-05-06T04:04:22.901Z","to":"2026-05-06T04:04:22.901Z","count":1,"url":"https://www.6i2.com/v1/models","avg":885,"min":885,"max":885,"p95":885}
+{"type":"ok","from":"2026-05-06T04:23:48.781Z","to":"2026-05-06T04:44:11.085Z","count":2,"url":"https://www.6i2.com/api/status","avg":2389,"min":1701,"max":3076,"p95":3076}
+{"type":"ok","from":"2026-05-06T05:04:57.520Z","to":"2026-05-06T05:04:57.520Z","count":1,"url":"https://www.6i2.com/v1/models","avg":2593,"min":2593,"max":2593,"p95":2593}
+{"type":"ok","from":"2026-05-06T05:24:23.863Z","to":"2026-05-06T05:24:23.863Z","count":1,"url":"https://www.6i2.com/api/status","avg":2624,"min":2624,"max":2624,"p95":2624}
+{"type":"ok","from":"2026-05-06T05:44:37.196Z","to":"2026-05-06T05:44:37.196Z","count":1,"url":"https://www.6i2.com/v1/models","avg":2966,"min":2966,"max":2966,"p95":2966}
+{"type":"fail","from":"2026-05-06T06:05:10.453Z","to":"2026-05-06T06:05:10.453Z","count":1,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-06T06:24:26.067Z","to":"2026-05-06T06:24:26.067Z","count":1,"url":"https://www.6i2.com/api/status","avg":2555,"min":2555,"max":2555,"p95":2555}
+{"type":"fail","from":"2026-05-06T06:45:22.079Z","to":"2026-05-06T07:03:27.390Z","count":2,"url":"https://www.6i2.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-06T07:25:36.162Z","to":"2026-05-06T07:25:36.162Z","count":1,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T07:45:54.784Z","to":"2026-05-06T08:25:15.375Z","count":3,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-06T08:44:58.992Z","to":"2026-05-06T09:24:27.616Z","count":3,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T09:43:13.155Z","to":"2026-05-06T10:03:55.373Z","count":2,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-06T10:24:00.477Z","to":"2026-05-06T10:24:00.477Z","count":1,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T10:46:15.070Z","to":"2026-05-06T12:23:53.113Z","count":6,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-06T12:44:27.481Z","to":"2026-05-06T12:44:27.481Z","count":1,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T13:04:28.919Z","to":"2026-05-06T14:05:09.612Z","count":4,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-06T14:25:43.678Z","to":"2026-05-06T14:47:57.024Z","count":2,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T15:03:55.802Z","to":"2026-05-06T15:03:55.802Z","count":1,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-06T15:25:38.005Z","to":"2026-05-06T15:25:38.005Z","count":1,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T15:46:03.245Z","to":"2026-05-06T16:45:25.765Z","count":4,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-06T17:06:26.930Z","to":"2026-05-06T17:06:26.930Z","count":1,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T17:25:20.189Z","to":"2026-05-06T17:25:20.189Z","count":1,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-06T17:45:25.628Z","to":"2026-05-06T18:04:53.410Z","count":2,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T18:22:53.038Z","to":"2026-05-06T22:02:05.747Z","count":12,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-06T22:22:43.644Z","to":"2026-05-06T22:22:43.644Z","count":1,"url":"https://www.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-06T22:42:22.120Z","to":"2026-05-06T23:42:23.647Z","count":4,"url":"https://www.6i2.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}

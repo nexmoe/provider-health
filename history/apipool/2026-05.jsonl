@@ -38,3 +38,6 @@
 {"type":"fail","from":"2026-05-04T07:15:32.927Z","to":"2026-05-04T07:15:32.927Z","count":1,"url":"https://apipool.dev/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-04T07:34:49.878Z","to":"2026-05-04T23:39:47.602Z","count":48,"url":"https://apipool.dev/v1/models","avg":1270,"min":610,"max":4605,"p95":2423}
 {"type":"ok","from":"2026-05-05T00:00:35.723Z","to":"2026-05-05T23:40:40.153Z","count":72,"url":"https://apipool.dev/v1/models","avg":1337,"min":473,"max":3022,"p95":2238}
+{"type":"ok","from":"2026-05-06T00:01:24.824Z","to":"2026-05-06T14:23:28.281Z","count":44,"url":"https://apipool.dev/v1/models","avg":1213,"min":537,"max":3014,"p95":1877}
+{"type":"ok","from":"2026-05-06T14:45:48.130Z","to":"2026-05-06T14:45:48.130Z","count":1,"url":"https://apipool.dev/health","avg":1212,"min":1212,"max":1212,"p95":1212}
+{"type":"ok","from":"2026-05-06T15:01:47.542Z","to":"2026-05-06T23:40:23.460Z","count":27,"url":"https://apipool.dev/v1/models","avg":1409,"min":624,"max":3005,"p95":1977}

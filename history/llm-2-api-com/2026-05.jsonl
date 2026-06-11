@@ -5,3 +5,7 @@
 {"type":"ok","from":"2026-05-03T00:02:56.433Z","to":"2026-05-03T23:52:41.204Z","count":72,"url":"https://llm-2-api.com/api/status","avg":1727,"min":370,"max":4774,"p95":3197}
 {"type":"ok","from":"2026-05-04T00:12:53.928Z","to":"2026-05-04T23:40:40.836Z","count":69,"url":"https://llm-2-api.com/api/status","avg":545,"min":358,"max":899,"p95":732}
 {"type":"ok","from":"2026-05-05T00:01:33.325Z","to":"2026-05-05T23:41:33.650Z","count":72,"url":"https://llm-2-api.com/api/status","avg":476,"min":213,"max":1703,"p95":670}
+{"type":"ok","from":"2026-05-06T00:02:23.160Z","to":"2026-05-06T07:24:19.914Z","count":23,"url":"https://llm-2-api.com/api/status","avg":541,"min":237,"max":956,"p95":665}
+{"type":"fail","from":"2026-05-06T07:44:58.490Z","to":"2026-05-06T07:44:58.490Z","count":1,"url":"https://llm-2-api.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-06T08:03:05.080Z","to":"2026-05-06T08:03:05.080Z","count":1,"url":"https://llm-2-api.com/v1/models","avg":974,"min":974,"max":974,"p95":974}
+{"type":"ok","from":"2026-05-06T08:23:52.443Z","to":"2026-05-06T23:41:15.170Z","count":47,"url":"https://llm-2-api.com/api/status","avg":530,"min":375,"max":974,"p95":722}

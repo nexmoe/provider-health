@@ -21,3 +21,10 @@
 {"type":"ok","from":"2026-05-03T16:52:01.660Z","to":"2026-05-03T23:50:23.330Z","count":22,"url":"https://openapi.imikufans.cn/api/status","avg":1491,"min":691,"max":2955,"p95":2583}
 {"type":"ok","from":"2026-05-04T00:10:36.092Z","to":"2026-05-04T23:59:32.455Z","count":70,"url":"https://openapi.imikufans.cn/api/status","avg":1120,"min":604,"max":2470,"p95":2005}
 {"type":"ok","from":"2026-05-05T00:20:27.248Z","to":"2026-05-05T23:39:44.780Z","count":71,"url":"https://openapi.imikufans.cn/api/status","avg":1135,"min":584,"max":2364,"p95":1841}
+{"type":"ok","from":"2026-05-06T00:00:28.398Z","to":"2026-05-06T04:40:57.149Z","count":15,"url":"https://openapi.imikufans.cn/api/status","avg":1161,"min":645,"max":2736,"p95":2736}
+{"type":"fail","from":"2026-05-06T05:01:39.809Z","to":"2026-05-06T05:21:33.107Z","count":2,"url":"https://openapi.imikufans.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-06T05:41:35.388Z","to":"2026-05-06T05:41:35.388Z","count":1,"url":"https://openapi.imikufans.cn/api/status","avg":1413,"min":1413,"max":1413,"p95":1413}
+{"type":"fail","from":"2026-05-06T06:01:13.014Z","to":"2026-05-06T06:21:36.069Z","count":2,"url":"https://openapi.imikufans.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-06T06:42:02.479Z","to":"2026-05-06T06:42:02.479Z","count":1,"url":"https://openapi.imikufans.cn/api/status","avg":2058,"min":2058,"max":2058,"p95":2058}
+{"type":"fail","from":"2026-05-06T07:00:15.221Z","to":"2026-05-06T08:21:48.647Z","count":5,"url":"https://openapi.imikufans.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-06T08:41:16.582Z","to":"2026-05-06T23:59:17.727Z","count":47,"url":"https://openapi.imikufans.cn/api/status","avg":1255,"min":558,"max":2432,"p95":2379}

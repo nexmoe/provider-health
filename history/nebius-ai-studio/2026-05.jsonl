@@ -1,6 +1,8 @@
-{"url":"https://api.studio.nebius.ai/v1/models"}
-{"type":"ok","from":"2026-05-01T00:15:05.128Z","to":"2026-05-01T23:55:13.236Z","count":72,"avg":769,"min":624,"max":1344,"p95":1045}
-{"type":"ok","from":"2026-05-02T00:15:11.598Z","to":"2026-05-02T23:55:10.332Z","count":68,"avg":759,"min":626,"max":1600,"p95":909}
-{"type":"ok","from":"2026-05-03T00:15:14.908Z","to":"2026-05-03T23:44:52.378Z","count":71,"avg":819,"min":629,"max":2622,"p95":1371}
-{"type":"ok","from":"2026-05-04T00:05:18.646Z","to":"2026-05-04T23:54:57.070Z","count":72,"avg":758,"min":626,"max":3172,"p95":1317}
-{"type":"ok","from":"2026-05-05T00:15:24.774Z","to":"2026-05-05T23:55:11.199Z","count":72,"avg":681,"min":630,"max":920,"p95":803}
+{"type":"ok","from":"2026-05-01T00:15:05.128Z","to":"2026-05-01T23:55:13.236Z","count":72,"avg":769,"min":624,"max":1344,"p95":1045,"url":"https://api.studio.nebius.ai/v1/models"}
+{"type":"ok","from":"2026-05-02T00:15:11.598Z","to":"2026-05-02T23:55:10.332Z","count":68,"avg":759,"min":626,"max":1600,"p95":909,"url":"https://api.studio.nebius.ai/v1/models"}
+{"type":"ok","from":"2026-05-03T00:15:14.908Z","to":"2026-05-03T23:44:52.378Z","count":71,"avg":819,"min":629,"max":2622,"p95":1371,"url":"https://api.studio.nebius.ai/v1/models"}
+{"type":"ok","from":"2026-05-04T00:05:18.646Z","to":"2026-05-04T23:54:57.070Z","count":72,"avg":758,"min":626,"max":3172,"p95":1317,"url":"https://api.studio.nebius.ai/v1/models"}
+{"type":"ok","from":"2026-05-05T00:15:24.774Z","to":"2026-05-05T23:55:11.199Z","count":72,"avg":681,"min":630,"max":920,"p95":803,"url":"https://api.studio.nebius.ai/v1/models"}
+{"type":"ok","from":"2026-05-06T00:15:00.010Z","to":"2026-05-06T16:35:08.481Z","count":50,"url":"https://api.studio.nebius.ai/v1/models","avg":698,"min":629,"max":937,"p95":867}
+{"type":"fail","from":"2026-05-06T16:55:58.795Z","to":"2026-05-06T16:55:58.795Z","count":1,"url":"https://api.studio.nebius.ai/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-06T17:14:54.181Z","to":"2026-05-06T23:54:51.429Z","count":21,"url":"https://api.studio.nebius.ai/v1/models","avg":769,"min":628,"max":952,"p95":937}
