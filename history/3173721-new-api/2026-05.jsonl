@@ -1,10 +1,11 @@
-{"url":"https://newapi.3173721.xyz/api/status"}
-{"type":"fail","from":"2026-05-01T00:19:55.750Z","to":"2026-05-01T04:40:53.394Z","count":14,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-05-01T05:00:01.295Z","to":"2026-05-01T16:01:38.195Z","count":34,"avg":1280,"min":163,"max":2913,"p95":2804}
-{"type":"fail","from":"2026-05-01T16:22:52.019Z","to":"2026-05-01T19:22:31.430Z","count":10,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-05-01T19:40:47.065Z","to":"2026-05-01T23:39:41.605Z","count":13,"avg":832,"min":281,"max":1113,"p95":1113}
-{"type":"ok","from":"2026-05-02T00:00:36.253Z","to":"2026-05-02T23:39:55.330Z","count":68,"avg":792,"min":95,"max":1896,"p95":1793}
-{"type":"ok","from":"2026-05-03T00:00:17.090Z","to":"2026-05-03T23:50:12.507Z","count":72,"avg":1096,"min":146,"max":3280,"p95":1855}
-{"type":"ok","from":"2026-05-04T00:10:12.431Z","to":"2026-05-04T23:59:22.140Z","count":71,"avg":1274,"min":615,"max":2779,"p95":2370}
-{"type":"ok","from":"2026-05-05T00:20:17.712Z","to":"2026-05-05T23:39:28.915Z","count":71,"avg":1095,"min":460,"max":3035,"p95":1810}
-{"type":"ok","from":"2026-05-06T00:00:17.633Z","to":"2026-05-06T23:59:08.527Z","count":73,"avg":1271,"min":277,"max":3434,"p95":2412}
+{"type":"fail","from":"2026-05-01T00:19:55.750Z","to":"2026-05-01T04:40:53.394Z","count":14,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"ok","from":"2026-05-01T05:00:01.295Z","to":"2026-05-01T16:01:38.195Z","count":34,"avg":1280,"min":163,"max":2913,"p95":2804,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"fail","from":"2026-05-01T16:22:52.019Z","to":"2026-05-01T19:22:31.430Z","count":10,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"ok","from":"2026-05-01T19:40:47.065Z","to":"2026-05-01T23:39:41.605Z","count":13,"avg":832,"min":281,"max":1113,"p95":1113,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"ok","from":"2026-05-02T00:00:36.253Z","to":"2026-05-02T23:39:55.330Z","count":68,"avg":792,"min":95,"max":1896,"p95":1793,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"ok","from":"2026-05-03T00:00:17.090Z","to":"2026-05-03T23:50:12.507Z","count":72,"avg":1096,"min":146,"max":3280,"p95":1855,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"ok","from":"2026-05-04T00:10:12.431Z","to":"2026-05-04T23:59:22.140Z","count":71,"avg":1274,"min":615,"max":2779,"p95":2370,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"ok","from":"2026-05-05T00:20:17.712Z","to":"2026-05-05T23:39:28.915Z","count":71,"avg":1095,"min":460,"max":3035,"p95":1810,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"ok","from":"2026-05-06T00:00:17.633Z","to":"2026-05-06T23:59:08.527Z","count":73,"avg":1271,"min":277,"max":3434,"p95":2412,"url":"https://newapi.3173721.xyz/api/status"}
+{"type":"ok","from":"2026-05-07T00:19:51.854Z","to":"2026-05-07T23:39:19.070Z","count":70,"url":"https://newapi.3173721.xyz/api/status","avg":1274,"min":624,"max":4539,"p95":2409}
+{"type":"ok","from":"2026-05-07T23:59:09.753Z","to":"2026-05-07T23:59:09.753Z","count":1,"url":"https://newapi.3173721.xyz/health","avg":877,"min":877,"max":877,"p95":877}

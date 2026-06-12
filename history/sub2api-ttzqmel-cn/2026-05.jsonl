@@ -52,3 +52,5 @@
 {"type":"ok","from":"2026-05-05T08:25:28.889Z","to":"2026-05-05T08:25:28.889Z","count":1,"url":"https://sub2api.ttzqmel.cn/health","avg":917,"min":917,"max":917,"p95":917}
 {"type":"ok","from":"2026-05-05T08:43:57.211Z","to":"2026-05-05T23:41:46.630Z","count":46,"url":"https://sub2api.ttzqmel.cn/v1/models","avg":1187,"min":601,"max":3596,"p95":1671}
 {"type":"ok","from":"2026-05-06T00:02:36.447Z","to":"2026-05-06T23:41:31.047Z","count":72,"url":"https://sub2api.ttzqmel.cn/v1/models","avg":1525,"min":600,"max":3983,"p95":3133}
+{"type":"ok","from":"2026-05-07T00:01:43.046Z","to":"2026-05-07T03:04:15.077Z","count":10,"url":"https://sub2api.ttzqmel.cn/v1/models","avg":1705,"min":965,"max":3523,"p95":3523}
+{"type":"fail","from":"2026-05-07T03:23:59.307Z","to":"2026-05-07T23:43:26.606Z","count":61,"url":"https://sub2api.ttzqmel.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}

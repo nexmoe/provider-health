@@ -1,9 +1,11 @@
-{"url":"https://api.ericterminal.com/api/status"}
-{"type":"ok","from":"2026-05-01T00:19:27.338Z","to":"2026-05-01T23:39:14.753Z","count":71,"avg":865,"min":431,"max":4128,"p95":1213}
-{"type":"ok","from":"2026-05-02T00:00:10.019Z","to":"2026-05-02T23:59:50.355Z","count":69,"avg":924,"min":438,"max":3415,"p95":1809}
-{"type":"ok","from":"2026-05-03T00:20:13.591Z","to":"2026-05-03T23:50:11.666Z","count":71,"avg":888,"min":173,"max":3019,"p95":1777}
-{"type":"ok","from":"2026-05-04T00:10:11.111Z","to":"2026-05-04T23:59:21.562Z","count":71,"avg":319,"min":61,"max":1710,"p95":703}
-{"type":"ok","from":"2026-05-05T00:20:16.859Z","to":"2026-05-05T23:39:28.180Z","count":71,"avg":308,"min":61,"max":4189,"p95":560}
-{"type":"ok","from":"2026-05-06T00:00:17.005Z","to":"2026-05-06T13:20:45.115Z","count":41,"avg":302,"min":76,"max":2222,"p95":519}
-{"type":"fail","from":"2026-05-06T13:41:30.072Z","to":"2026-05-06T15:21:54.544Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-05-06T15:41:51.118Z","to":"2026-05-06T23:59:07.777Z","count":26,"avg":263,"min":67,"max":664,"p95":536}
+{"type":"ok","from":"2026-05-01T00:19:27.338Z","to":"2026-05-01T23:39:14.753Z","count":71,"avg":865,"min":431,"max":4128,"p95":1213,"url":"https://api.ericterminal.com/api/status"}
+{"type":"ok","from":"2026-05-02T00:00:10.019Z","to":"2026-05-02T23:59:50.355Z","count":69,"avg":924,"min":438,"max":3415,"p95":1809,"url":"https://api.ericterminal.com/api/status"}
+{"type":"ok","from":"2026-05-03T00:20:13.591Z","to":"2026-05-03T23:50:11.666Z","count":71,"avg":888,"min":173,"max":3019,"p95":1777,"url":"https://api.ericterminal.com/api/status"}
+{"type":"ok","from":"2026-05-04T00:10:11.111Z","to":"2026-05-04T23:59:21.562Z","count":71,"avg":319,"min":61,"max":1710,"p95":703,"url":"https://api.ericterminal.com/api/status"}
+{"type":"ok","from":"2026-05-05T00:20:16.859Z","to":"2026-05-05T23:39:28.180Z","count":71,"avg":308,"min":61,"max":4189,"p95":560,"url":"https://api.ericterminal.com/api/status"}
+{"type":"ok","from":"2026-05-06T00:00:17.005Z","to":"2026-05-06T13:20:45.115Z","count":41,"avg":302,"min":76,"max":2222,"p95":519,"url":"https://api.ericterminal.com/api/status"}
+{"type":"fail","from":"2026-05-06T13:41:30.072Z","to":"2026-05-06T15:21:54.544Z","count":6,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.ericterminal.com/api/status"}
+{"type":"ok","from":"2026-05-06T15:41:51.118Z","to":"2026-05-06T23:59:07.777Z","count":26,"avg":263,"min":67,"max":664,"p95":536,"url":"https://api.ericterminal.com/api/status"}
+{"type":"ok","from":"2026-05-07T00:19:51.390Z","to":"2026-05-07T15:41:44.585Z","count":46,"url":"https://api.ericterminal.com/api/status","avg":270,"min":81,"max":585,"p95":571}
+{"type":"ok","from":"2026-05-07T16:02:34.870Z","to":"2026-05-07T16:02:34.870Z","count":1,"url":"https://api.ericterminal.com/health","avg":49,"min":49,"max":49,"p95":49}
+{"type":"ok","from":"2026-05-07T16:22:17.671Z","to":"2026-05-07T23:59:00.302Z","count":24,"url":"https://api.ericterminal.com/api/status","avg":233,"min":62,"max":1431,"p95":526}

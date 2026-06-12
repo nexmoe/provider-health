@@ -187,3 +187,35 @@
 {"type":"ok","from":"2026-05-06T17:10:16.396Z","to":"2026-05-06T18:30:20.524Z","count":5,"url":"https://api.suanli.cn/api/status","avg":2705,"min":925,"max":4495,"p95":4495}
 {"type":"ok","from":"2026-05-06T18:50:18.239Z","to":"2026-05-06T18:50:18.239Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":876,"min":876,"max":876,"p95":876}
 {"type":"ok","from":"2026-05-06T19:10:13.516Z","to":"2026-05-06T23:50:14.134Z","count":15,"url":"https://api.suanli.cn/api/status","avg":1903,"min":848,"max":3734,"p95":3734}
+{"type":"ok","from":"2026-05-07T00:10:15.329Z","to":"2026-05-07T01:50:12.619Z","count":6,"url":"https://api.suanli.cn/api/status","avg":1988,"min":1400,"max":2877,"p95":2877}
+{"type":"ok","from":"2026-05-07T02:10:23.730Z","to":"2026-05-07T02:30:26.118Z","count":2,"url":"https://api.suanli.cn/health","avg":1123,"min":551,"max":1694,"p95":1694}
+{"type":"ok","from":"2026-05-07T02:50:15.224Z","to":"2026-05-07T03:30:18.717Z","count":3,"url":"https://api.suanli.cn/api/status","avg":3696,"min":3127,"max":4579,"p95":4579}
+{"type":"ok","from":"2026-05-07T03:50:18.784Z","to":"2026-05-07T03:50:18.784Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":2675,"min":2675,"max":2675,"p95":2675}
+{"type":"ok","from":"2026-05-07T04:10:31.478Z","to":"2026-05-07T04:30:30.785Z","count":2,"url":"https://api.suanli.cn/status","avg":2354,"min":267,"max":4440,"p95":4440}
+{"type":"ok","from":"2026-05-07T04:50:14.872Z","to":"2026-05-07T06:50:14.316Z","count":7,"url":"https://api.suanli.cn/api/status","avg":2892,"min":1841,"max":4082,"p95":4082}
+{"type":"ok","from":"2026-05-07T07:10:18.779Z","to":"2026-05-07T07:10:18.779Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":1778,"min":1778,"max":1778,"p95":1778}
+{"type":"ok","from":"2026-05-07T07:30:18.286Z","to":"2026-05-07T08:20:15.394Z","count":3,"url":"https://api.suanli.cn/api/status","avg":2155,"min":1795,"max":2608,"p95":2608}
+{"type":"ok","from":"2026-05-07T08:40:22.293Z","to":"2026-05-07T08:40:22.293Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":4866,"min":4866,"max":4866,"p95":4866}
+{"type":"ok","from":"2026-05-07T09:00:21.543Z","to":"2026-05-07T09:40:15.260Z","count":3,"url":"https://api.suanli.cn/api/status","avg":2347,"min":1112,"max":3248,"p95":3248}
+{"type":"fail","from":"2026-05-07T10:00:36.431Z","to":"2026-05-07T10:00:36.431Z","count":1,"url":"https://api.suanli.cn/status","status":429,"error":"HTTP 429","avg_latency":null}
+{"type":"ok","from":"2026-05-07T10:20:12.725Z","to":"2026-05-07T10:20:12.725Z","count":1,"url":"https://api.suanli.cn/api/status","avg":976,"min":976,"max":976,"p95":976}
+{"type":"ok","from":"2026-05-07T10:40:18.129Z","to":"2026-05-07T10:40:18.129Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":1852,"min":1852,"max":1852,"p95":1852}
+{"type":"ok","from":"2026-05-07T11:00:23.182Z","to":"2026-05-07T11:20:13.387Z","count":2,"url":"https://api.suanli.cn/api/status","avg":1721,"min":1666,"max":1776,"p95":1776}
+{"type":"ok","from":"2026-05-07T11:40:17.479Z","to":"2026-05-07T11:40:17.479Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":792,"min":792,"max":792,"p95":792}
+{"type":"ok","from":"2026-05-07T12:00:23.993Z","to":"2026-05-07T12:30:17.301Z","count":2,"url":"https://api.suanli.cn/api/status","avg":2333,"min":1537,"max":3128,"p95":3128}
+{"type":"ok","from":"2026-05-07T12:50:20.128Z","to":"2026-05-07T12:50:20.128Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":3433,"min":3433,"max":3433,"p95":3433}
+{"type":"ok","from":"2026-05-07T13:10:13.219Z","to":"2026-05-07T13:10:13.219Z","count":1,"url":"https://api.suanli.cn/api/status","avg":1542,"min":1542,"max":1542,"p95":1542}
+{"type":"ok","from":"2026-05-07T13:30:25.392Z","to":"2026-05-07T13:30:25.392Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":4638,"min":4638,"max":4638,"p95":4638}
+{"type":"ok","from":"2026-05-07T13:50:14.226Z","to":"2026-05-07T14:10:14.976Z","count":2,"url":"https://api.suanli.cn/api/status","avg":2754,"min":2561,"max":2947,"p95":2947}
+{"type":"fail","from":"2026-05-07T14:30:36.317Z","to":"2026-05-07T14:30:36.317Z","count":1,"url":"https://api.suanli.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-07T14:50:15.201Z","to":"2026-05-07T15:30:17.634Z","count":3,"url":"https://api.suanli.cn/api/status","avg":2076,"min":1273,"max":3164,"p95":3164}
+{"type":"ok","from":"2026-05-07T15:50:18.139Z","to":"2026-05-07T15:50:18.139Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":871,"min":871,"max":871,"p95":871}
+{"type":"ok","from":"2026-05-07T16:10:14.295Z","to":"2026-05-07T16:30:20.220Z","count":2,"url":"https://api.suanli.cn/api/status","avg":3622,"min":3155,"max":4089,"p95":4089}
+{"type":"fail","from":"2026-05-07T16:50:31.632Z","to":"2026-05-07T16:50:31.632Z","count":1,"url":"https://api.suanli.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-07T17:10:15.415Z","to":"2026-05-07T17:10:15.415Z","count":1,"url":"https://api.suanli.cn/api/status","avg":3540,"min":3540,"max":3540,"p95":3540}
+{"type":"ok","from":"2026-05-07T17:30:33.052Z","to":"2026-05-07T17:30:33.052Z","count":1,"url":"https://api.suanli.cn/status","avg":2487,"min":2487,"max":2487,"p95":2487}
+{"type":"ok","from":"2026-05-07T17:50:13.632Z","to":"2026-05-07T17:50:13.632Z","count":1,"url":"https://api.suanli.cn/api/status","avg":1871,"min":1871,"max":1871,"p95":1871}
+{"type":"ok","from":"2026-05-07T18:10:20.544Z","to":"2026-05-07T18:30:22.910Z","count":2,"url":"https://api.suanli.cn/v1/models","avg":2532,"min":1613,"max":3450,"p95":3450}
+{"type":"ok","from":"2026-05-07T18:50:14.295Z","to":"2026-05-07T18:50:14.295Z","count":1,"url":"https://api.suanli.cn/api/status","avg":2366,"min":2366,"max":2366,"p95":2366}
+{"type":"ok","from":"2026-05-07T19:10:19.882Z","to":"2026-05-07T19:10:19.882Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":3571,"min":3571,"max":3571,"p95":3571}
+{"type":"ok","from":"2026-05-07T19:30:18.462Z","to":"2026-05-07T23:50:13.316Z","count":14,"url":"https://api.suanli.cn/api/status","avg":1965,"min":817,"max":4169,"p95":4169}
