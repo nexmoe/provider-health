@@ -19,3 +19,7 @@
 {"type":"ok","from":"2026-05-06T11:42:57.310Z","to":"2026-05-06T23:41:16.278Z","count":37,"url":"https://wzjself.org/v1/models","avg":1080,"min":332,"max":4221,"p95":2312}
 {"type":"ok","from":"2026-05-07T00:01:28.758Z","to":"2026-05-07T13:03:54.311Z","count":39,"url":"https://wzjself.org/v1/models","avg":987,"min":291,"max":3259,"p95":1819}
 {"type":"ok","from":"2026-05-07T13:25:20.586Z","to":"2026-05-07T23:42:44.507Z","count":32,"url":"https://api.wzjself.org/api/status","avg":410,"min":205,"max":710,"p95":568}
+{"type":"ok","from":"2026-05-08T00:02:25.273Z","to":"2026-05-08T06:13:55.466Z","count":19,"url":"https://api.wzjself.org/api/status","avg":641,"min":275,"max":3805,"p95":3805}
+{"type":"ok","from":"2026-05-08T06:34:13.282Z","to":"2026-05-08T06:34:13.282Z","count":1,"url":"https://api.wzjself.org/v1/models","avg":467,"min":467,"max":467,"p95":467}
+{"type":"fail","from":"2026-05-08T06:55:13.432Z","to":"2026-05-08T06:55:13.432Z","count":1,"url":"https://wzjself.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-08T07:13:15.081Z","to":"2026-05-08T23:42:46.059Z","count":50,"url":"https://api.wzjself.org/api/status","avg":779,"min":462,"max":3194,"p95":1117}

@@ -29,3 +29,6 @@
 {"type":"ok","from":"2026-05-05T00:01:12.964Z","to":"2026-05-05T23:41:13.268Z","count":72,"url":"https://api.sliam.site/api/status","avg":491,"min":232,"max":1337,"p95":661}
 {"type":"ok","from":"2026-05-06T00:02:02.619Z","to":"2026-05-06T23:40:55.138Z","count":72,"url":"https://api.sliam.site/api/status","avg":551,"min":264,"max":1367,"p95":917}
 {"type":"ok","from":"2026-05-07T00:01:06.412Z","to":"2026-05-07T23:41:23.730Z","count":71,"url":"https://api.sliam.site/api/status","avg":576,"min":273,"max":1638,"p95":1046}
+{"type":"ok","from":"2026-05-08T00:01:05.095Z","to":"2026-05-08T04:32:13.074Z","count":14,"url":"https://api.sliam.site/api/status","avg":515,"min":287,"max":774,"p95":774}
+{"type":"fail","from":"2026-05-08T04:52:30.962Z","to":"2026-05-08T16:43:17.097Z","count":36,"url":"https://api.sliam.site/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-08T17:02:44.442Z","to":"2026-05-08T23:42:05.535Z","count":21,"url":"https://api.sliam.site/v1/models","avg":651,"min":345,"max":960,"p95":919}

@@ -68,3 +68,8 @@
 {"type":"ok","from":"2026-05-07T00:11:08.170Z","to":"2026-05-07T04:11:08.901Z","count":13,"url":"https://aistack.hwecc.com.cn/v1/models","avg":1760,"min":957,"max":3446,"p95":3446}
 {"type":"fail","from":"2026-05-07T04:31:20.136Z","to":"2026-05-07T04:31:20.136Z","count":1,"url":"https://aistack.hwecc.com.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-05-07T04:51:13.257Z","to":"2026-05-07T23:51:09.391Z","count":57,"url":"https://aistack.hwecc.com.cn/v1/models","avg":1884,"min":936,"max":4521,"p95":3449}
+{"type":"ok","from":"2026-05-08T00:11:15.973Z","to":"2026-05-08T09:41:10.988Z","count":30,"url":"https://aistack.hwecc.com.cn/v1/models","avg":1828,"min":1006,"max":3852,"p95":3345}
+{"type":"fail","from":"2026-05-08T10:01:25.943Z","to":"2026-05-08T10:01:25.943Z","count":1,"url":"https://aistack.hwecc.com.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-08T10:21:09.805Z","to":"2026-05-08T15:31:17.128Z","count":16,"url":"https://aistack.hwecc.com.cn/v1/models","avg":2274,"min":1179,"max":3442,"p95":3442}
+{"type":"fail","from":"2026-05-08T15:51:18.406Z","to":"2026-05-08T15:51:18.406Z","count":1,"url":"https://aistack.hwecc.com.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-08T16:11:08.426Z","to":"2026-05-08T23:51:05.683Z","count":24,"url":"https://aistack.hwecc.com.cn/v1/models","avg":1486,"min":936,"max":3113,"p95":2674}

@@ -84,3 +84,12 @@
 {"type":"ok","from":"2026-05-05T00:01:46.997Z","to":"2026-05-05T23:41:45.831Z","count":72,"url":"https://sub.adrenjc.cn/v1/models","avg":1150,"min":514,"max":4151,"p95":2131}
 {"type":"ok","from":"2026-05-06T00:02:35.759Z","to":"2026-05-06T23:41:30.231Z","count":72,"url":"https://sub.adrenjc.cn/v1/models","avg":1310,"min":299,"max":3997,"p95":2682}
 {"type":"ok","from":"2026-05-07T00:01:42.087Z","to":"2026-05-07T23:43:24.979Z","count":71,"url":"https://sub.adrenjc.cn/v1/models","avg":1344,"min":624,"max":3163,"p95":2523}
+{"type":"ok","from":"2026-05-08T00:02:48.587Z","to":"2026-05-08T03:05:36.087Z","count":10,"url":"https://sub.adrenjc.cn/v1/models","avg":1456,"min":697,"max":3126,"p95":3126}
+{"type":"ok","from":"2026-05-08T03:25:10.611Z","to":"2026-05-08T04:34:01.717Z","count":4,"url":"https://sub.adrenjc.cn/health","avg":1879,"min":880,"max":2608,"p95":2608}
+{"type":"ok","from":"2026-05-08T04:53:57.915Z","to":"2026-05-08T04:53:57.915Z","count":1,"url":"https://sub.adrenjc.cn/v1/models","avg":3309,"min":3309,"max":3309,"p95":3309}
+{"type":"ok","from":"2026-05-08T05:15:26.707Z","to":"2026-05-08T06:55:42.806Z","count":6,"url":"https://sub.adrenjc.cn/health","avg":1354,"min":990,"max":2082,"p95":2082}
+{"type":"ok","from":"2026-05-08T07:13:41.526Z","to":"2026-05-08T07:13:41.526Z","count":1,"url":"https://sub.adrenjc.cn/v1/models","avg":3824,"min":3824,"max":3824,"p95":3824}
+{"type":"ok","from":"2026-05-08T07:34:11.605Z","to":"2026-05-08T07:53:51.416Z","count":2,"url":"https://sub.adrenjc.cn/health","avg":2137,"min":1490,"max":2783,"p95":2783}
+{"type":"ok","from":"2026-05-08T08:15:25.412Z","to":"2026-05-08T08:34:51.934Z","count":2,"url":"https://sub.adrenjc.cn/v1/models","avg":1273,"min":1022,"max":1524,"p95":1524}
+{"type":"ok","from":"2026-05-08T08:54:09.125Z","to":"2026-05-08T09:35:00.511Z","count":3,"url":"https://sub.adrenjc.cn/health","avg":686,"min":583,"max":781,"p95":781}
+{"type":"fail","from":"2026-05-08T09:55:13.982Z","to":"2026-05-08T23:43:17.342Z","count":42,"url":"https://sub.adrenjc.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
