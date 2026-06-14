@@ -22,3 +22,7 @@
 {"type":"fail","from":"2026-05-08T14:22:22.403Z","to":"2026-05-08T23:12:18.181Z","count":27,"url":"https://hk-api.gptbest.vip/api/status","status":502,"error":"HTTP 502","avg_latency":null}
 {"type":"fail","from":"2026-05-08T23:32:32.229Z","to":"2026-05-08T23:32:32.229Z","count":1,"url":"https://hk-api.gptbest.vip/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"fail","from":"2026-05-08T23:52:14.917Z","to":"2026-05-08T23:52:14.917Z","count":1,"url":"https://hk-api.gptbest.vip/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-05-09T00:12:20.802Z","to":"2026-05-09T06:42:26.566Z","count":17,"url":"https://hk-api.gptbest.vip/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-09T07:02:20.554Z","to":"2026-05-09T11:12:12.838Z","count":13,"url":"https://hk-api.gptbest.vip/v1/models","avg":766,"min":573,"max":2366,"p95":2366}
+{"type":"fail","from":"2026-05-09T11:32:24.444Z","to":"2026-05-09T11:32:24.444Z","count":1,"url":"https://hk-api.gptbest.vip/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-09T12:02:21.319Z","to":"2026-05-09T23:42:10.691Z","count":36,"url":"https://hk-api.gptbest.vip/v1/models","avg":647,"min":570,"max":940,"p95":934}

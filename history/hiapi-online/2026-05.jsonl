@@ -32,3 +32,10 @@
 {"type":"ok","from":"2026-05-08T05:11:18.491Z","to":"2026-05-08T17:40:41.063Z","count":38,"url":"https://hiapi.online/api/status","avg":794,"min":627,"max":2016,"p95":1749}
 {"type":"ok","from":"2026-05-08T18:01:00.124Z","to":"2026-05-08T18:01:00.124Z","count":1,"url":"https://hiapi.online/v1/models","avg":739,"min":739,"max":739,"p95":739}
 {"type":"ok","from":"2026-05-08T18:20:53.015Z","to":"2026-05-08T23:40:02.288Z","count":17,"url":"https://hiapi.online/api/status","avg":806,"min":646,"max":1655,"p95":1655}
+{"type":"ok","from":"2026-05-09T00:00:17.122Z","to":"2026-05-09T00:00:17.122Z","count":1,"url":"https://hiapi.online/status","avg":162,"min":162,"max":162,"p95":162}
+{"type":"fail","from":"2026-05-09T00:19:54.670Z","to":"2026-05-09T00:19:54.670Z","count":1,"url":"https://hiapi.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-09T00:40:09.486Z","to":"2026-05-09T08:40:48.653Z","count":20,"url":"https://hiapi.online/api/status","avg":806,"min":655,"max":1651,"p95":1651}
+{"type":"ok","from":"2026-05-09T09:00:45.655Z","to":"2026-05-09T09:00:45.655Z","count":1,"url":"https://hiapi.online/health","avg":717,"min":717,"max":717,"p95":717}
+{"type":"ok","from":"2026-05-09T09:20:51.373Z","to":"2026-05-09T10:19:54.230Z","count":4,"url":"https://hiapi.online/api/status","avg":942,"min":668,"max":1716,"p95":1716}
+{"type":"fail","from":"2026-05-09T10:41:52.391Z","to":"2026-05-09T10:41:52.391Z","count":1,"url":"https://hiapi.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-09T11:01:37.852Z","to":"2026-05-09T23:49:35.222Z","count":39,"url":"https://hiapi.online/api/status","avg":791,"min":544,"max":1706,"p95":1651}
