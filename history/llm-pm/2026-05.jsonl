@@ -31,3 +31,6 @@
 {"type":"fail","from":"2026-05-08T08:24:03.577Z","to":"2026-05-08T11:23:56.366Z","count":10,"url":"https://api-proxy.me/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-08T11:43:40.276Z","to":"2026-05-08T23:53:29.562Z","count":37,"url":"https://api-proxy.me/api/status","avg":769,"min":641,"max":1013,"p95":910}
 {"type":"ok","from":"2026-05-09T00:13:33.812Z","to":"2026-05-09T23:43:37.682Z","count":67,"url":"https://api-proxy.me/api/status","avg":812,"min":655,"max":1729,"p95":1002}
+{"type":"ok","from":"2026-05-10T00:03:53.398Z","to":"2026-05-10T12:23:46.398Z","count":37,"url":"https://api-proxy.me/api/status","avg":909,"min":712,"max":1803,"p95":1716}
+{"type":"fail","from":"2026-05-10T12:44:10.305Z","to":"2026-05-10T13:14:08.355Z","count":2,"url":"https://api-proxy.me/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-10T13:33:54.103Z","to":"2026-05-10T23:43:27.672Z","count":30,"url":"https://api-proxy.me/api/status","avg":770,"min":647,"max":1252,"p95":947}

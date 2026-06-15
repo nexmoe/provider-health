@@ -40,3 +40,11 @@
 {"type":"fail","from":"2026-05-09T20:10:31.744Z","to":"2026-05-09T21:30:36.154Z","count":5,"url":"https://newapi.exynos.top:8443/api/status","status":502,"error":"HTTP 502","avg_latency":null}
 {"type":"fail","from":"2026-05-09T21:50:08.507Z","to":"2026-05-09T21:50:08.507Z","count":1,"url":"https://newapi.exynos.top:8443/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"fail","from":"2026-05-09T22:10:23.998Z","to":"2026-05-09T23:50:47.728Z","count":6,"url":"https://newapi.exynos.top:8443/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-05-10T00:12:07.151Z","to":"2026-05-10T01:51:55.020Z","count":6,"url":"https://newapi.exynos.top:8443/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-10T02:11:46.433Z","to":"2026-05-10T02:11:46.433Z","count":1,"url":"https://newapi.exynos.top:8443/api/status","avg":1154,"min":1154,"max":1154,"p95":1154}
+{"type":"ok","from":"2026-05-10T02:32:08.139Z","to":"2026-05-10T02:32:08.139Z","count":1,"url":"https://newapi.exynos.top:8443/v1/models","avg":3725,"min":3725,"max":3725,"p95":3725}
+{"type":"ok","from":"2026-05-10T02:52:10.313Z","to":"2026-05-10T16:32:55.501Z","count":39,"url":"https://newapi.exynos.top:8443/api/status","avg":1452,"min":967,"max":3758,"p95":3000}
+{"type":"ok","from":"2026-05-10T16:52:35.285Z","to":"2026-05-10T16:52:35.285Z","count":1,"url":"https://newapi.exynos.top:8443/v1/models","avg":3183,"min":3183,"max":3183,"p95":3183}
+{"type":"ok","from":"2026-05-10T17:11:55.522Z","to":"2026-05-10T19:29:44.401Z","count":8,"url":"https://newapi.exynos.top:8443/api/status","avg":2234,"min":1898,"max":3717,"p95":3717}
+{"type":"ok","from":"2026-05-10T19:50:01.882Z","to":"2026-05-10T19:50:01.882Z","count":1,"url":"https://newapi.exynos.top:8443/v1/models","avg":2021,"min":2021,"max":2021,"p95":2021}
+{"type":"ok","from":"2026-05-10T20:10:30.968Z","to":"2026-05-10T23:50:51.315Z","count":12,"url":"https://newapi.exynos.top:8443/api/status","avg":1982,"min":997,"max":3611,"p95":3611}

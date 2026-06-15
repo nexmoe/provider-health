@@ -15,3 +15,5 @@
 {"type":"fail","from":"2026-05-09T09:43:59.386Z","to":"2026-05-09T09:43:59.386Z","count":1,"url":"https://rb6k9jv.9router.com/api/status","status":530,"error":"HTTP 530","avg_latency":null}
 {"type":"fail","from":"2026-05-09T10:02:32.156Z","to":"2026-05-09T10:22:51.852Z","count":2,"url":"https://rb6k9jv.9router.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
 {"type":"ok","from":"2026-05-09T10:44:16.805Z","to":"2026-05-09T23:52:22.720Z","count":40,"url":"https://rb6k9jv.9router.com/health","avg":107,"min":12,"max":527,"p95":526}
+{"type":"ok","from":"2026-05-10T00:13:37.889Z","to":"2026-05-10T15:06:47.016Z","count":43,"url":"https://rb6k9jv.9router.com/health","avg":141,"min":14,"max":868,"p95":535}
+{"type":"fail","from":"2026-05-10T15:27:13.820Z","to":"2026-05-10T23:52:22.205Z","count":26,"url":"https://rb6k9jv.9router.com/api/status","status":530,"error":"HTTP 530","avg_latency":null}

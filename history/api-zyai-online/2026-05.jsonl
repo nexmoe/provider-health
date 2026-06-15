@@ -66,3 +66,6 @@
 {"type":"ok","from":"2026-05-09T00:00:04.073Z","to":"2026-05-09T09:41:17.212Z","count":25,"url":"https://api.zyai.online/api/status","avg":1210,"min":907,"max":2109,"p95":2083}
 {"type":"ok","from":"2026-05-09T09:59:49.635Z","to":"2026-05-09T09:59:49.635Z","count":1,"url":"https://api.zyai.online/v1/models","avg":746,"min":746,"max":746,"p95":746}
 {"type":"ok","from":"2026-05-09T10:19:54.889Z","to":"2026-05-09T23:49:35.578Z","count":41,"url":"https://api.zyai.online/api/status","avg":1258,"min":792,"max":2476,"p95":2170}
+{"type":"ok","from":"2026-05-10T00:10:43.684Z","to":"2026-05-10T06:33:24.879Z","count":20,"url":"https://api.zyai.online/api/status","avg":1125,"min":935,"max":1491,"p95":1491}
+{"type":"fail","from":"2026-05-10T06:54:41.788Z","to":"2026-05-10T06:54:41.788Z","count":1,"url":"https://api.zyai.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-10T07:20:40.699Z","to":"2026-05-10T23:49:51.143Z","count":48,"url":"https://api.zyai.online/api/status","avg":1174,"min":894,"max":2282,"p95":1993}

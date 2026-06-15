@@ -290,3 +290,33 @@
 {"type":"ok","from":"2026-05-09T19:00:22.944Z","to":"2026-05-09T20:00:23.727Z","count":4,"url":"https://api.suanli.cn/api/status","avg":2120,"min":1088,"max":2797,"p95":2797}
 {"type":"ok","from":"2026-05-09T20:20:19.875Z","to":"2026-05-09T20:20:19.875Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":2939,"min":2939,"max":2939,"p95":2939}
 {"type":"ok","from":"2026-05-09T20:40:16.491Z","to":"2026-05-09T23:40:15.040Z","count":10,"url":"https://api.suanli.cn/api/status","avg":1982,"min":915,"max":3661,"p95":3661}
+{"type":"ok","from":"2026-05-10T00:00:30.443Z","to":"2026-05-10T00:20:20.905Z","count":2,"url":"https://api.suanli.cn/v1/models","avg":2971,"min":2457,"max":3485,"p95":3485}
+{"type":"ok","from":"2026-05-10T00:40:13.171Z","to":"2026-05-10T00:40:13.171Z","count":1,"url":"https://api.suanli.cn/api/status","avg":1657,"min":1657,"max":1657,"p95":1657}
+{"type":"ok","from":"2026-05-10T01:00:31.304Z","to":"2026-05-10T01:00:31.304Z","count":1,"url":"https://api.suanli.cn/health","avg":264,"min":264,"max":264,"p95":264}
+{"type":"ok","from":"2026-05-10T01:20:15.238Z","to":"2026-05-10T01:40:14.425Z","count":2,"url":"https://api.suanli.cn/api/status","avg":2934,"min":2932,"max":2936,"p95":2936}
+{"type":"ok","from":"2026-05-10T02:00:34.609Z","to":"2026-05-10T02:00:34.609Z","count":1,"url":"https://api.suanli.cn/health","avg":3803,"min":3803,"max":3803,"p95":3803}
+{"type":"ok","from":"2026-05-10T02:20:13.908Z","to":"2026-05-10T02:20:13.908Z","count":1,"url":"https://api.suanli.cn/api/status","avg":1395,"min":1395,"max":1395,"p95":1395}
+{"type":"ok","from":"2026-05-10T02:40:18.729Z","to":"2026-05-10T03:20:17.649Z","count":3,"url":"https://api.suanli.cn/v1/models","avg":1759,"min":815,"max":2796,"p95":2796}
+{"type":"ok","from":"2026-05-10T03:40:15.855Z","to":"2026-05-10T04:20:13.823Z","count":3,"url":"https://api.suanli.cn/api/status","avg":2256,"min":1938,"max":2648,"p95":2648}
+{"type":"ok","from":"2026-05-10T04:40:21.429Z","to":"2026-05-10T05:00:26.422Z","count":2,"url":"https://api.suanli.cn/v1/models","avg":2599,"min":867,"max":4331,"p95":4331}
+{"type":"ok","from":"2026-05-10T05:20:15.844Z","to":"2026-05-10T06:00:22.273Z","count":3,"url":"https://api.suanli.cn/api/status","avg":2676,"min":1697,"max":3760,"p95":3760}
+{"type":"ok","from":"2026-05-10T06:20:20.782Z","to":"2026-05-10T06:20:20.782Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":3091,"min":3091,"max":3091,"p95":3091}
+{"type":"fail","from":"2026-05-10T06:40:32.383Z","to":"2026-05-10T07:10:32.141Z","count":2,"url":"https://api.suanli.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-10T07:30:20.637Z","to":"2026-05-10T09:10:15.673Z","count":6,"url":"https://api.suanli.cn/api/status","avg":2721,"min":874,"max":4087,"p95":4087}
+{"type":"ok","from":"2026-05-10T09:30:27.975Z","to":"2026-05-10T09:30:27.975Z","count":1,"url":"https://api.suanli.cn/health","avg":2056,"min":2056,"max":2056,"p95":2056}
+{"type":"ok","from":"2026-05-10T09:50:15.679Z","to":"2026-05-10T10:10:16.762Z","count":2,"url":"https://api.suanli.cn/api/status","avg":3322,"min":3301,"max":3342,"p95":3342}
+{"type":"ok","from":"2026-05-10T10:30:28.287Z","to":"2026-05-10T10:30:28.287Z","count":1,"url":"https://api.suanli.cn/health","avg":2194,"min":2194,"max":2194,"p95":2194}
+{"type":"ok","from":"2026-05-10T10:50:14.173Z","to":"2026-05-10T12:40:14.831Z","count":6,"url":"https://api.suanli.cn/api/status","avg":2379,"min":1234,"max":4338,"p95":4338}
+{"type":"ok","from":"2026-05-10T13:10:26.096Z","to":"2026-05-10T13:30:26.280Z","count":2,"url":"https://api.suanli.cn/health","avg":2339,"min":279,"max":4399,"p95":4399}
+{"type":"fail","from":"2026-05-10T14:00:40.800Z","to":"2026-05-10T14:00:40.800Z","count":1,"url":"https://api.suanli.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-10T14:30:28.598Z","to":"2026-05-10T14:30:28.598Z","count":1,"url":"https://api.suanli.cn/health","avg":2923,"min":2923,"max":2923,"p95":2923}
+{"type":"ok","from":"2026-05-10T14:50:14.535Z","to":"2026-05-10T14:50:14.535Z","count":1,"url":"https://api.suanli.cn/api/status","avg":3143,"min":3143,"max":3143,"p95":3143}
+{"type":"ok","from":"2026-05-10T15:10:21.070Z","to":"2026-05-10T15:10:21.070Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":4619,"min":4619,"max":4619,"p95":4619}
+{"type":"ok","from":"2026-05-10T15:40:15.016Z","to":"2026-05-10T15:40:15.016Z","count":1,"url":"https://api.suanli.cn/api/status","avg":3058,"min":3058,"max":3058,"p95":3058}
+{"type":"ok","from":"2026-05-10T16:00:33.774Z","to":"2026-05-10T16:00:33.774Z","count":1,"url":"https://api.suanli.cn/health","avg":3507,"min":3507,"max":3507,"p95":3507}
+{"type":"ok","from":"2026-05-10T16:20:19.541Z","to":"2026-05-10T16:20:19.541Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":2854,"min":2854,"max":2854,"p95":2854}
+{"type":"ok","from":"2026-05-10T16:40:15.804Z","to":"2026-05-10T17:00:22.035Z","count":2,"url":"https://api.suanli.cn/api/status","avg":2472,"min":1030,"max":3913,"p95":3913}
+{"type":"ok","from":"2026-05-10T17:20:18.941Z","to":"2026-05-10T17:20:18.941Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":1632,"min":1632,"max":1632,"p95":1632}
+{"type":"ok","from":"2026-05-10T17:40:14.025Z","to":"2026-05-10T17:40:14.025Z","count":1,"url":"https://api.suanli.cn/api/status","avg":930,"min":930,"max":930,"p95":930}
+{"type":"ok","from":"2026-05-10T18:00:27.290Z","to":"2026-05-10T18:00:27.290Z","count":1,"url":"https://api.suanli.cn/v1/models","avg":3191,"min":3191,"max":3191,"p95":3191}
+{"type":"ok","from":"2026-05-10T18:20:15.913Z","to":"2026-05-10T23:40:14.565Z","count":17,"url":"https://api.suanli.cn/api/status","avg":2268,"min":843,"max":3773,"p95":3773}

@@ -66,3 +66,6 @@
 {"type":"ok","from":"2026-05-09T00:13:34.975Z","to":"2026-05-09T11:13:42.563Z","count":30,"url":"https://api.gueai.com/api/status","avg":2461,"min":1941,"max":3579,"p95":3547}
 {"type":"ok","from":"2026-05-09T11:33:50.663Z","to":"2026-05-09T11:33:50.663Z","count":1,"url":"https://api.gueai.com/v1/models","avg":2259,"min":2259,"max":2259,"p95":2259}
 {"type":"ok","from":"2026-05-09T12:03:51.163Z","to":"2026-05-09T23:43:39.049Z","count":36,"url":"https://api.gueai.com/api/status","avg":2430,"min":1880,"max":3789,"p95":3430}
+{"type":"ok","from":"2026-05-10T00:03:54.530Z","to":"2026-05-10T12:23:47.877Z","count":37,"url":"https://api.gueai.com/api/status","avg":2692,"min":1901,"max":4696,"p95":4199}
+{"type":"fail","from":"2026-05-10T12:44:10.316Z","to":"2026-05-10T13:14:09.609Z","count":2,"url":"https://api.gueai.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-10T13:33:56.228Z","to":"2026-05-10T23:43:28.682Z","count":30,"url":"https://api.gueai.com/api/status","avg":2310,"min":1841,"max":3468,"p95":3366}
