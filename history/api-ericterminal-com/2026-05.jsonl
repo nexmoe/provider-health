@@ -18,3 +18,5 @@
 {"type":"ok","from":"2026-05-10T00:10:20.271Z","to":"2026-05-10T04:10:53.099Z","count":13,"url":"https://api.ericterminal.com/api/status","avg":193,"min":84,"max":509,"p95":509}
 {"type":"fail","from":"2026-05-10T04:31:20.474Z","to":"2026-05-10T06:11:09.127Z","count":6,"url":"https://api.ericterminal.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-10T06:33:08.053Z","to":"2026-05-10T23:49:32.582Z","count":50,"url":"https://api.ericterminal.com/api/status","avg":202,"min":61,"max":690,"p95":521}
+{"type":"ok","from":"2026-05-11T00:10:04.643Z","to":"2026-05-11T15:50:54.810Z","count":47,"url":"https://api.ericterminal.com/api/status","avg":569,"min":85,"max":1859,"p95":1159}
+{"type":"fail","from":"2026-05-11T16:11:37.677Z","to":"2026-05-11T23:50:46.760Z","count":24,"url":"https://api.ericterminal.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

@@ -63,3 +63,7 @@
 {"type":"ok","from":"2026-05-10T11:41:46.605Z","to":"2026-05-10T12:21:42.584Z","count":3,"url":"https://api.huajinet.link/api/status","avg":589,"min":511,"max":650,"p95":650}
 {"type":"ok","from":"2026-05-10T12:42:00.972Z","to":"2026-05-10T12:42:00.972Z","count":1,"url":"https://api.huajinet.link/status","avg":3565,"min":3565,"max":3565,"p95":3565}
 {"type":"ok","from":"2026-05-10T13:11:42.737Z","to":"2026-05-10T23:41:32.968Z","count":31,"url":"https://api.huajinet.link/api/status","avg":582,"min":490,"max":1549,"p95":740}
+{"type":"ok","from":"2026-05-11T00:01:47.726Z","to":"2026-05-11T09:11:46.132Z","count":28,"url":"https://api.huajinet.link/api/status","avg":584,"min":512,"max":798,"p95":724}
+{"type":"fail","from":"2026-05-11T09:31:59.848Z","to":"2026-05-11T11:52:07.439Z","count":8,"url":"https://api.huajinet.link/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-11T12:21:50.479Z","to":"2026-05-11T18:21:45.144Z","count":19,"url":"https://api.huajinet.link/api/status","avg":929,"min":502,"max":4629,"p95":4629}
+{"type":"fail","from":"2026-05-11T18:41:55.631Z","to":"2026-05-11T23:41:53.918Z","count":16,"url":"https://api.huajinet.link/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

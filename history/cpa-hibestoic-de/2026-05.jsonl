@@ -10,3 +10,6 @@
 {"type":"ok","from":"2026-05-10T00:16:09.245Z","to":"2026-05-10T13:28:35.796Z","count":39,"url":"https://cpa.hibestoic.de/v1/models","avg":2004,"min":1164,"max":4703,"p95":3074}
 {"type":"fail","from":"2026-05-10T13:49:22.665Z","to":"2026-05-10T13:49:22.665Z","count":1,"url":"https://cpa.hibestoic.de/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-05-10T14:19:31.772Z","to":"2026-05-10T23:54:53.360Z","count":29,"url":"https://cpa.hibestoic.de/v1/models","avg":1836,"min":1009,"max":3105,"p95":3010}
+{"type":"ok","from":"2026-05-11T00:15:36.101Z","to":"2026-05-11T22:15:16.577Z","count":66,"url":"https://cpa.hibestoic.de/v1/models","avg":1788,"min":572,"max":4443,"p95":2954}
+{"type":"fail","from":"2026-05-11T22:35:45.247Z","to":"2026-05-11T22:35:45.247Z","count":1,"url":"https://cpa.hibestoic.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-11T22:55:13.158Z","to":"2026-05-11T23:57:04.319Z","count":4,"url":"https://cpa.hibestoic.de/v1/models","avg":1808,"min":1341,"max":2703,"p95":2703}

@@ -10,3 +10,7 @@
 {"type":"ok","from":"2026-05-08T00:20:00.371Z","to":"2026-05-08T23:40:06.763Z","count":70,"url":"https://apiport.cc.cd/v1/models","avg":467,"min":169,"max":1487,"p95":967}
 {"type":"ok","from":"2026-05-09T00:00:27.967Z","to":"2026-05-09T23:49:39.746Z","count":67,"url":"https://apiport.cc.cd/v1/models","avg":620,"min":170,"max":3769,"p95":1337}
 {"type":"ok","from":"2026-05-10T00:10:47.111Z","to":"2026-05-10T23:49:55.031Z","count":69,"url":"https://apiport.cc.cd/v1/models","avg":506,"min":171,"max":2295,"p95":941}
+{"type":"ok","from":"2026-05-11T00:10:18.834Z","to":"2026-05-11T09:21:59.444Z","count":28,"url":"https://apiport.cc.cd/v1/models","avg":576,"min":171,"max":2246,"p95":1368}
+{"type":"fail","from":"2026-05-11T09:40:23.776Z","to":"2026-05-11T09:40:23.776Z","count":1,"url":"https://apiport.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-11T10:00:17.120Z","to":"2026-05-11T10:00:17.120Z","count":1,"url":"https://apiport.cc.cd/health","avg":1353,"min":1353,"max":1353,"p95":1353}
+{"type":"ok","from":"2026-05-11T10:19:55.403Z","to":"2026-05-11T23:50:58.761Z","count":41,"url":"https://apiport.cc.cd/v1/models","avg":442,"min":173,"max":1080,"p95":700}
