@@ -1,22 +1,36 @@
-{"url":"https://ioll.pp.ua/api/status"}
-{"type":"ok","from":"2026-05-01T00:02:18.414Z","to":"2026-05-01T23:43:00.916Z","count":72,"avg":1089,"min":587,"max":2257,"p95":1749}
-{"type":"ok","from":"2026-05-02T00:03:47.621Z","to":"2026-05-02T23:43:43.647Z","count":67,"avg":1166,"min":510,"max":3491,"p95":1881}
-{"type":"ok","from":"2026-05-03T00:03:59.132Z","to":"2026-05-03T23:53:18.622Z","count":72,"avg":1138,"min":351,"max":3762,"p95":2425}
-{"type":"ok","from":"2026-05-04T00:13:30.358Z","to":"2026-05-04T23:41:14.060Z","count":69,"avg":894,"min":233,"max":3422,"p95":1343}
-{"type":"ok","from":"2026-05-05T00:02:05.334Z","to":"2026-05-05T23:42:06.264Z","count":72,"avg":680,"min":227,"max":2494,"p95":1136}
-{"type":"ok","from":"2026-05-06T00:02:56.538Z","to":"2026-05-06T23:41:48.519Z","count":72,"avg":638,"min":231,"max":1200,"p95":1094}
-{"type":"ok","from":"2026-05-07T00:02:01.917Z","to":"2026-05-07T23:43:44.978Z","count":71,"avg":715,"min":235,"max":1274,"p95":1111}
-{"type":"ok","from":"2026-05-08T00:03:08.903Z","to":"2026-05-08T23:43:37.097Z","count":71,"avg":683,"min":257,"max":1319,"p95":1077}
-{"type":"ok","from":"2026-05-09T00:03:57.710Z","to":"2026-05-09T06:34:52.683Z","count":16,"avg":588,"min":225,"max":892,"p95":892}
-{"type":"fail","from":"2026-05-09T06:55:06.550Z","to":"2026-05-09T06:55:06.550Z","count":1,"status":523,"error":"HTTP 523","avg_latency":null}
-{"type":"fail","from":"2026-05-09T07:15:51.026Z","to":"2026-05-09T07:15:51.026Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-05-09T07:38:28.075Z","to":"2026-05-09T07:38:28.075Z","count":1,"status":523,"error":"HTTP 523","avg_latency":null}
-{"type":"fail","from":"2026-05-09T08:05:22.753Z","to":"2026-05-09T08:05:22.753Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-05-09T08:25:15.043Z","to":"2026-05-09T08:44:41.380Z","count":2,"status":523,"error":"HTTP 523","avg_latency":null}
-{"type":"fail","from":"2026-05-09T09:04:54.089Z","to":"2026-05-09T09:25:02.605Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-05-09T09:45:28.615Z","to":"2026-05-09T09:45:28.615Z","count":1,"status":523,"error":"HTTP 523","avg_latency":null}
-{"type":"fail","from":"2026-05-09T10:05:12.649Z","to":"2026-05-09T10:05:12.649Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-05-09T10:25:29.522Z","to":"2026-05-09T11:07:03.331Z","count":3,"status":523,"error":"HTTP 523","avg_latency":null}
-{"type":"ok","from":"2026-05-09T11:26:09.500Z","to":"2026-05-09T23:54:26.024Z","count":38,"avg":627,"min":229,"max":1160,"p95":922}
-{"type":"ok","from":"2026-05-10T00:15:41.087Z","to":"2026-05-10T23:54:25.888Z","count":69,"avg":675,"min":286,"max":1453,"p95":1097}
-{"type":"ok","from":"2026-05-11T00:15:08.172Z","to":"2026-05-11T23:56:35.050Z","count":71,"avg":599,"min":229,"max":1223,"p95":955}
+{"type":"ok","from":"2026-05-01T00:02:18.414Z","to":"2026-05-01T23:43:00.916Z","count":72,"avg":1089,"min":587,"max":2257,"p95":1749,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-02T00:03:47.621Z","to":"2026-05-02T23:43:43.647Z","count":67,"avg":1166,"min":510,"max":3491,"p95":1881,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-03T00:03:59.132Z","to":"2026-05-03T23:53:18.622Z","count":72,"avg":1138,"min":351,"max":3762,"p95":2425,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-04T00:13:30.358Z","to":"2026-05-04T23:41:14.060Z","count":69,"avg":894,"min":233,"max":3422,"p95":1343,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-05T00:02:05.334Z","to":"2026-05-05T23:42:06.264Z","count":72,"avg":680,"min":227,"max":2494,"p95":1136,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-06T00:02:56.538Z","to":"2026-05-06T23:41:48.519Z","count":72,"avg":638,"min":231,"max":1200,"p95":1094,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-07T00:02:01.917Z","to":"2026-05-07T23:43:44.978Z","count":71,"avg":715,"min":235,"max":1274,"p95":1111,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-08T00:03:08.903Z","to":"2026-05-08T23:43:37.097Z","count":71,"avg":683,"min":257,"max":1319,"p95":1077,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-09T00:03:57.710Z","to":"2026-05-09T06:34:52.683Z","count":16,"avg":588,"min":225,"max":892,"p95":892,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T06:55:06.550Z","to":"2026-05-09T06:55:06.550Z","count":1,"status":523,"error":"HTTP 523","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T07:15:51.026Z","to":"2026-05-09T07:15:51.026Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T07:38:28.075Z","to":"2026-05-09T07:38:28.075Z","count":1,"status":523,"error":"HTTP 523","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T08:05:22.753Z","to":"2026-05-09T08:05:22.753Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T08:25:15.043Z","to":"2026-05-09T08:44:41.380Z","count":2,"status":523,"error":"HTTP 523","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T09:04:54.089Z","to":"2026-05-09T09:25:02.605Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T09:45:28.615Z","to":"2026-05-09T09:45:28.615Z","count":1,"status":523,"error":"HTTP 523","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T10:05:12.649Z","to":"2026-05-09T10:05:12.649Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"fail","from":"2026-05-09T10:25:29.522Z","to":"2026-05-09T11:07:03.331Z","count":3,"status":523,"error":"HTTP 523","avg_latency":null,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-09T11:26:09.500Z","to":"2026-05-09T23:54:26.024Z","count":38,"avg":627,"min":229,"max":1160,"p95":922,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-10T00:15:41.087Z","to":"2026-05-10T23:54:25.888Z","count":69,"avg":675,"min":286,"max":1453,"p95":1097,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-11T00:15:08.172Z","to":"2026-05-11T23:56:35.050Z","count":71,"avg":599,"min":229,"max":1223,"p95":955,"url":"https://ioll.pp.ua/api/status"}
+{"type":"ok","from":"2026-05-12T00:16:01.217Z","to":"2026-05-12T15:18:02.666Z","count":43,"url":"https://ioll.pp.ua/api/status","avg":604,"min":256,"max":1117,"p95":1019}
+{"type":"fail","from":"2026-05-12T15:37:32.850Z","to":"2026-05-12T16:58:32.010Z","count":5,"url":"https://ioll.pp.ua/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-05-12T17:17:43.124Z","to":"2026-05-12T17:37:33.759Z","count":2,"url":"https://ioll.pp.ua/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-12T17:57:19.903Z","to":"2026-05-12T18:17:38.219Z","count":2,"url":"https://ioll.pp.ua/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-05-12T18:37:06.984Z","to":"2026-05-12T18:37:06.984Z","count":1,"url":"https://ioll.pp.ua/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-12T18:56:50.580Z","to":"2026-05-12T18:56:50.580Z","count":1,"url":"https://ioll.pp.ua/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-05-12T19:16:04.981Z","to":"2026-05-12T19:35:32.087Z","count":2,"url":"https://ioll.pp.ua/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-12T19:55:13.583Z","to":"2026-05-12T19:55:13.583Z","count":1,"url":"https://ioll.pp.ua/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-05-12T20:14:53.976Z","to":"2026-05-12T20:14:53.976Z","count":1,"url":"https://ioll.pp.ua/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-12T20:35:29.811Z","to":"2026-05-12T20:56:02.766Z","count":2,"url":"https://ioll.pp.ua/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-05-12T21:14:38.967Z","to":"2026-05-12T21:14:38.967Z","count":1,"url":"https://ioll.pp.ua/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-12T21:34:50.384Z","to":"2026-05-12T21:34:50.384Z","count":1,"url":"https://ioll.pp.ua/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-05-12T21:54:16.225Z","to":"2026-05-12T21:54:16.225Z","count":1,"url":"https://ioll.pp.ua/v1/models","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-05-12T22:15:09.548Z","to":"2026-05-12T22:34:28.459Z","count":2,"url":"https://ioll.pp.ua/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-05-12T22:54:56.646Z","to":"2026-05-12T23:55:54.056Z","count":4,"url":"https://ioll.pp.ua/api/status","avg":532,"min":375,"max":689,"p95":689}

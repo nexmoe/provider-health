@@ -57,3 +57,6 @@
 {"type":"ok","from":"2026-05-10T15:52:56.037Z","to":"2026-05-10T15:52:56.037Z","count":1,"url":"https://api.ai5.my/v1/models","avg":1781,"min":1781,"max":1781,"p95":1781}
 {"type":"ok","from":"2026-05-10T16:13:45.874Z","to":"2026-05-10T23:50:55.906Z","count":24,"url":"https://api.ai5.my/api/status","avg":2558,"min":1465,"max":3787,"p95":3570}
 {"type":"ok","from":"2026-05-11T00:11:33.228Z","to":"2026-05-11T23:52:17.575Z","count":71,"url":"https://api.ai5.my/api/status","avg":2668,"min":1635,"max":4952,"p95":4031}
+{"type":"ok","from":"2026-05-12T00:11:48.474Z","to":"2026-05-12T08:02:33.676Z","count":24,"url":"https://api.ai5.my/api/status","avg":2849,"min":1845,"max":4981,"p95":4175}
+{"type":"fail","from":"2026-05-12T08:25:46.192Z","to":"2026-05-12T08:25:46.192Z","count":1,"url":"https://api.ai5.my/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-12T08:52:14.168Z","to":"2026-05-12T23:51:28.586Z","count":44,"url":"https://api.ai5.my/api/status","avg":2509,"min":1352,"max":4148,"p95":3533}

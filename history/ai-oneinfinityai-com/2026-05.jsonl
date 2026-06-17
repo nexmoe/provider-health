@@ -1,12 +1,14 @@
-{"url":"https://ai.oneinfinityai.com/v1/models"}
-{"type":"ok","from":"2026-05-01T00:02:09.783Z","to":"2026-05-01T23:42:23.672Z","count":72,"avg":500,"min":176,"max":1271,"p95":975}
-{"type":"ok","from":"2026-05-02T00:03:22.615Z","to":"2026-05-02T23:42:40.169Z","count":67,"avg":592,"min":174,"max":4683,"p95":1232}
-{"type":"ok","from":"2026-05-03T00:02:56.463Z","to":"2026-05-03T23:52:22.059Z","count":72,"avg":623,"min":173,"max":2000,"p95":1317}
-{"type":"ok","from":"2026-05-04T00:12:35.547Z","to":"2026-05-04T23:40:22.138Z","count":69,"avg":363,"min":171,"max":658,"p95":533}
-{"type":"ok","from":"2026-05-05T00:01:14.777Z","to":"2026-05-05T23:41:14.263Z","count":72,"avg":324,"min":171,"max":538,"p95":527}
-{"type":"ok","from":"2026-05-06T00:02:03.876Z","to":"2026-05-06T23:40:56.602Z","count":72,"avg":423,"min":167,"max":2241,"p95":544}
-{"type":"ok","from":"2026-05-07T00:01:07.796Z","to":"2026-05-07T23:41:25.075Z","count":71,"avg":409,"min":173,"max":1237,"p95":534}
-{"type":"ok","from":"2026-05-08T00:01:06.217Z","to":"2026-05-08T23:42:06.164Z","count":71,"avg":372,"min":174,"max":772,"p95":573}
-{"type":"ok","from":"2026-05-09T00:02:27.848Z","to":"2026-05-09T23:51:41.594Z","count":67,"avg":371,"min":172,"max":748,"p95":640}
-{"type":"ok","from":"2026-05-10T00:12:57.703Z","to":"2026-05-10T23:51:41.328Z","count":69,"avg":360,"min":173,"max":593,"p95":551}
-{"type":"ok","from":"2026-05-11T00:12:24.655Z","to":"2026-05-11T23:53:31.055Z","count":71,"avg":378,"min":176,"max":870,"p95":599}
+{"type":"ok","from":"2026-05-01T00:02:09.783Z","to":"2026-05-01T23:42:23.672Z","count":72,"avg":500,"min":176,"max":1271,"p95":975,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-02T00:03:22.615Z","to":"2026-05-02T23:42:40.169Z","count":67,"avg":592,"min":174,"max":4683,"p95":1232,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-03T00:02:56.463Z","to":"2026-05-03T23:52:22.059Z","count":72,"avg":623,"min":173,"max":2000,"p95":1317,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-04T00:12:35.547Z","to":"2026-05-04T23:40:22.138Z","count":69,"avg":363,"min":171,"max":658,"p95":533,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-05T00:01:14.777Z","to":"2026-05-05T23:41:14.263Z","count":72,"avg":324,"min":171,"max":538,"p95":527,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-06T00:02:03.876Z","to":"2026-05-06T23:40:56.602Z","count":72,"avg":423,"min":167,"max":2241,"p95":544,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-07T00:01:07.796Z","to":"2026-05-07T23:41:25.075Z","count":71,"avg":409,"min":173,"max":1237,"p95":534,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-08T00:01:06.217Z","to":"2026-05-08T23:42:06.164Z","count":71,"avg":372,"min":174,"max":772,"p95":573,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-09T00:02:27.848Z","to":"2026-05-09T23:51:41.594Z","count":67,"avg":371,"min":172,"max":748,"p95":640,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-10T00:12:57.703Z","to":"2026-05-10T23:51:41.328Z","count":69,"avg":360,"min":173,"max":593,"p95":551,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-11T00:12:24.655Z","to":"2026-05-11T23:53:31.055Z","count":71,"avg":378,"min":176,"max":870,"p95":599,"url":"https://ai.oneinfinityai.com/v1/models"}
+{"type":"ok","from":"2026-05-12T00:12:57.342Z","to":"2026-05-12T17:53:45.861Z","count":51,"url":"https://ai.oneinfinityai.com/v1/models","avg":409,"min":173,"max":783,"p95":691}
+{"type":"fail","from":"2026-05-12T18:14:20.758Z","to":"2026-05-12T18:14:20.758Z","count":1,"url":"https://ai.oneinfinityai.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-12T18:33:32.561Z","to":"2026-05-12T23:52:50.664Z","count":17,"url":"https://ai.oneinfinityai.com/v1/models","avg":423,"min":181,"max":655,"p95":655}

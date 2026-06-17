@@ -278,3 +278,35 @@
 {"type":"fail","from":"2026-05-11T21:45:00.611Z","to":"2026-05-11T22:05:24.845Z","count":2,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-05-11T22:24:55.528Z","to":"2026-05-11T23:05:16.106Z","count":3,"url":"https://llmapi.paratera.com/v1/models","avg":545,"min":527,"max":558,"p95":558}
 {"type":"fail","from":"2026-05-11T23:25:06.157Z","to":"2026-05-11T23:44:51.324Z","count":2,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T00:05:11.358Z","to":"2026-05-12T02:25:03.775Z","count":8,"url":"https://llmapi.paratera.com/v1/models","avg":1206,"min":555,"max":3855,"p95":3855}
+{"type":"fail","from":"2026-05-12T02:45:08.261Z","to":"2026-05-12T02:45:08.261Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T03:05:10.891Z","to":"2026-05-12T03:05:10.891Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":611,"min":611,"max":611,"p95":611}
+{"type":"fail","from":"2026-05-12T03:25:16.974Z","to":"2026-05-12T03:25:16.974Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T03:45:07.678Z","to":"2026-05-12T04:15:07.087Z","count":2,"url":"https://llmapi.paratera.com/v1/models","avg":4338,"min":4075,"max":4601,"p95":4601}
+{"type":"fail","from":"2026-05-12T04:35:29.701Z","to":"2026-05-12T04:35:29.701Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T04:55:14.272Z","to":"2026-05-12T05:54:52.512Z","count":4,"url":"https://llmapi.paratera.com/v1/models","avg":1341,"min":561,"max":3542,"p95":3542}
+{"type":"fail","from":"2026-05-12T06:15:17.340Z","to":"2026-05-12T06:15:17.340Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-12T06:35:18.875Z","to":"2026-05-12T07:55:14.904Z","count":5,"url":"https://llmapi.paratera.com/v1/models","avg":710,"min":538,"max":928,"p95":928}
+{"type":"fail","from":"2026-05-12T08:15:49.265Z","to":"2026-05-12T09:05:10.972Z","count":3,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-12T09:25:01.064Z","to":"2026-05-12T09:25:01.064Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-12T09:45:41.379Z","to":"2026-05-12T10:05:38.881Z","count":2,"url":"https://llmapi.paratera.com/v1/models","avg":682,"min":669,"max":694,"p95":694}
+{"type":"fail","from":"2026-05-12T10:36:04.025Z","to":"2026-05-12T10:36:04.025Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-12T11:06:10.094Z","to":"2026-05-12T11:06:10.094Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T11:35:08.270Z","to":"2026-05-12T13:05:18.889Z","count":5,"url":"https://llmapi.paratera.com/v1/models","avg":1261,"min":563,"max":2587,"p95":2587}
+{"type":"fail","from":"2026-05-12T13:25:41.843Z","to":"2026-05-12T14:25:22.729Z","count":4,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-12T14:45:29.425Z","to":"2026-05-12T14:45:29.425Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-12T15:05:32.232Z","to":"2026-05-12T15:05:32.232Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T15:25:01.130Z","to":"2026-05-12T15:25:01.130Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":555,"min":555,"max":555,"p95":555}
+{"type":"fail","from":"2026-05-12T15:45:22.434Z","to":"2026-05-12T15:45:22.434Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T16:05:45.334Z","to":"2026-05-12T16:05:45.334Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":3121,"min":3121,"max":3121,"p95":3121}
+{"type":"fail","from":"2026-05-12T16:25:36.076Z","to":"2026-05-12T16:25:36.076Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T16:45:14.935Z","to":"2026-05-12T16:45:14.935Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":561,"min":561,"max":561,"p95":561}
+{"type":"fail","from":"2026-05-12T17:05:29.094Z","to":"2026-05-12T17:05:29.094Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T17:25:13.106Z","to":"2026-05-12T17:25:13.106Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":569,"min":569,"max":569,"p95":569}
+{"type":"fail","from":"2026-05-12T17:45:35.197Z","to":"2026-05-12T17:45:35.197Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-12T18:05:35.310Z","to":"2026-05-12T19:24:51.909Z","count":5,"url":"https://llmapi.paratera.com/v1/models","avg":1134,"min":549,"max":3397,"p95":3397}
+{"type":"fail","from":"2026-05-12T19:45:25.718Z","to":"2026-05-12T20:05:10.902Z","count":2,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-12T20:25:10.935Z","to":"2026-05-12T20:25:10.935Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-12T20:44:36.762Z","to":"2026-05-12T22:25:02.500Z","count":6,"url":"https://llmapi.paratera.com/v1/models","avg":614,"min":557,"max":716,"p95":716}
+{"type":"fail","from":"2026-05-12T22:45:05.989Z","to":"2026-05-12T22:45:05.989Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-12T23:05:05.205Z","to":"2026-05-12T23:44:58.816Z","count":3,"url":"https://llmapi.paratera.com/v1/models","avg":1428,"min":534,"max":3164,"p95":3164}

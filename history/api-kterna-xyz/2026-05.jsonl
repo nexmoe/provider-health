@@ -9,3 +9,10 @@
 {"type":"ok","from":"2026-05-09T00:14:46.757Z","to":"2026-05-09T23:44:55.282Z","count":66,"url":"http://api.kterna.xyz/api/status","avg":1009,"min":721,"max":1855,"p95":1467}
 {"type":"ok","from":"2026-05-10T00:05:42.408Z","to":"2026-05-10T23:44:53.977Z","count":69,"url":"http://api.kterna.xyz/api/status","avg":1065,"min":738,"max":3452,"p95":1830}
 {"type":"ok","from":"2026-05-11T00:05:07.883Z","to":"2026-05-11T23:44:40.205Z","count":71,"url":"http://api.kterna.xyz/api/status","avg":1049,"min":745,"max":3397,"p95":1702}
+{"type":"ok","from":"2026-05-12T00:05:09.826Z","to":"2026-05-12T06:15:01.442Z","count":19,"url":"http://api.kterna.xyz/api/status","avg":1221,"min":788,"max":3062,"p95":3062}
+{"type":"fail","from":"2026-05-12T06:35:17.810Z","to":"2026-05-12T10:35:49.218Z","count":12,"url":"http://api.kterna.xyz/api/status","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"fail","from":"2026-05-12T11:06:03.807Z","to":"2026-05-12T11:06:03.807Z","count":1,"url":"http://api.kterna.xyz/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-12T11:35:07.727Z","to":"2026-05-12T12:35:23.847Z","count":4,"url":"http://api.kterna.xyz/api/status","avg":1162,"min":1067,"max":1379,"p95":1379}
+{"type":"fail","from":"2026-05-12T13:05:20.327Z","to":"2026-05-12T13:05:20.327Z","count":1,"url":"http://api.kterna.xyz/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-12T13:25:35.025Z","to":"2026-05-12T14:05:32.937Z","count":3,"url":"http://api.kterna.xyz/api/status","avg":1485,"min":923,"max":2439,"p95":2439}
+{"type":"fail","from":"2026-05-12T14:25:19.199Z","to":"2026-05-12T23:45:01.420Z","count":29,"url":"http://api.kterna.xyz/api/status","status":502,"error":"HTTP 502","avg_latency":null}
