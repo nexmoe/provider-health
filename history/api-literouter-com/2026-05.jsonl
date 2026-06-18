@@ -1,14 +1,16 @@
-{"url":"https://api.literouter.com/api/status"}
-{"type":"ok","from":"2026-05-02T19:22:41.092Z","to":"2026-05-02T23:43:41.924Z","count":14,"avg":189,"min":32,"max":1243,"p95":1243}
-{"type":"ok","from":"2026-05-03T00:03:57.798Z","to":"2026-05-03T23:52:53.420Z","count":72,"avg":658,"min":64,"max":2932,"p95":1600}
-{"type":"ok","from":"2026-05-04T00:13:05.504Z","to":"2026-05-04T23:40:52.980Z","count":69,"avg":739,"min":294,"max":2856,"p95":1635}
-{"type":"ok","from":"2026-05-05T00:01:45.292Z","to":"2026-05-05T23:41:45.391Z","count":72,"avg":680,"min":430,"max":1724,"p95":1173}
-{"type":"ok","from":"2026-05-06T00:02:35.211Z","to":"2026-05-06T23:41:29.296Z","count":72,"avg":737,"min":309,"max":2912,"p95":1234}
-{"type":"ok","from":"2026-05-07T00:01:41.503Z","to":"2026-05-07T23:43:24.331Z","count":71,"avg":738,"min":394,"max":2605,"p95":1290}
-{"type":"ok","from":"2026-05-08T00:02:48.001Z","to":"2026-05-08T23:43:16.436Z","count":71,"avg":706,"min":378,"max":2860,"p95":1244}
-{"type":"ok","from":"2026-05-09T00:03:37.360Z","to":"2026-05-09T12:35:54.497Z","count":33,"avg":760,"min":399,"max":1867,"p95":1651}
-{"type":"fail","from":"2026-05-09T12:57:22.962Z","to":"2026-05-09T12:57:22.962Z","count":1,"status":403,"error":"Cloudflare challenge","avg_latency":null}
-{"type":"ok","from":"2026-05-09T13:17:51.732Z","to":"2026-05-09T23:54:06.040Z","count":33,"avg":766,"min":410,"max":1754,"p95":1748}
-{"type":"ok","from":"2026-05-10T00:15:21.043Z","to":"2026-05-10T23:54:04.981Z","count":69,"avg":732,"min":400,"max":1817,"p95":1492}
-{"type":"ok","from":"2026-05-11T00:14:47.912Z","to":"2026-05-11T23:56:15.284Z","count":71,"avg":743,"min":379,"max":2334,"p95":1544}
-{"type":"ok","from":"2026-05-12T00:15:41.446Z","to":"2026-05-12T23:55:34.707Z","count":69,"avg":745,"min":395,"max":2268,"p95":1711}
+{"type":"ok","from":"2026-05-02T19:22:41.092Z","to":"2026-05-02T23:43:41.924Z","count":14,"avg":189,"min":32,"max":1243,"p95":1243,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-03T00:03:57.798Z","to":"2026-05-03T23:52:53.420Z","count":72,"avg":658,"min":64,"max":2932,"p95":1600,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-04T00:13:05.504Z","to":"2026-05-04T23:40:52.980Z","count":69,"avg":739,"min":294,"max":2856,"p95":1635,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-05T00:01:45.292Z","to":"2026-05-05T23:41:45.391Z","count":72,"avg":680,"min":430,"max":1724,"p95":1173,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-06T00:02:35.211Z","to":"2026-05-06T23:41:29.296Z","count":72,"avg":737,"min":309,"max":2912,"p95":1234,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-07T00:01:41.503Z","to":"2026-05-07T23:43:24.331Z","count":71,"avg":738,"min":394,"max":2605,"p95":1290,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-08T00:02:48.001Z","to":"2026-05-08T23:43:16.436Z","count":71,"avg":706,"min":378,"max":2860,"p95":1244,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-09T00:03:37.360Z","to":"2026-05-09T12:35:54.497Z","count":33,"avg":760,"min":399,"max":1867,"p95":1651,"url":"https://api.literouter.com/api/status"}
+{"type":"fail","from":"2026-05-09T12:57:22.962Z","to":"2026-05-09T12:57:22.962Z","count":1,"status":403,"error":"Cloudflare challenge","avg_latency":null,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-09T13:17:51.732Z","to":"2026-05-09T23:54:06.040Z","count":33,"avg":766,"min":410,"max":1754,"p95":1748,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-10T00:15:21.043Z","to":"2026-05-10T23:54:04.981Z","count":69,"avg":732,"min":400,"max":1817,"p95":1492,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-11T00:14:47.912Z","to":"2026-05-11T23:56:15.284Z","count":71,"avg":743,"min":379,"max":2334,"p95":1544,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-12T00:15:41.446Z","to":"2026-05-12T23:55:34.707Z","count":69,"avg":745,"min":395,"max":2268,"p95":1711,"url":"https://api.literouter.com/api/status"}
+{"type":"ok","from":"2026-05-13T00:16:06.088Z","to":"2026-05-13T12:49:46.166Z","count":38,"url":"https://api.literouter.com/api/status","avg":787,"min":455,"max":1851,"p95":1768}
+{"type":"ok","from":"2026-05-13T13:20:13.208Z","to":"2026-05-13T13:20:13.208Z","count":1,"url":"https://api.literouter.com/v1/models","avg":1712,"min":1712,"max":1712,"p95":1712}
+{"type":"ok","from":"2026-05-13T13:49:20.329Z","to":"2026-05-13T23:54:35.196Z","count":31,"url":"https://api.literouter.com/api/status","avg":672,"min":334,"max":2474,"p95":1164}

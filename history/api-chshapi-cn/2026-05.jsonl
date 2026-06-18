@@ -48,3 +48,8 @@
 {"type":"ok","from":"2026-05-12T10:20:15.937Z","to":"2026-05-12T12:07:12.824Z","count":5,"url":"https://api.chshapi.cn/api/status","avg":1298,"min":893,"max":1643,"p95":1643}
 {"type":"fail","from":"2026-05-12T12:28:24.061Z","to":"2026-05-12T12:28:24.061Z","count":1,"url":"https://api.chshapi.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
 {"type":"ok","from":"2026-05-12T12:49:39.276Z","to":"2026-05-12T23:56:30.755Z","count":34,"url":"https://api.chshapi.cn/api/status","avg":1038,"min":690,"max":2061,"p95":1876}
+{"type":"ok","from":"2026-05-13T00:17:10.929Z","to":"2026-05-13T16:18:22.747Z","count":47,"url":"https://api.chshapi.cn/api/status","avg":1169,"min":635,"max":3499,"p95":1746}
+{"type":"fail","from":"2026-05-13T16:39:07.514Z","to":"2026-05-13T16:39:07.514Z","count":1,"url":"https://api.chshapi.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-05-13T16:57:54.379Z","to":"2026-05-13T16:57:54.379Z","count":1,"url":"https://api.chshapi.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-13T17:18:22.918Z","to":"2026-05-13T17:57:11.857Z","count":3,"url":"https://api.chshapi.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-13T18:16:30.248Z","to":"2026-05-13T23:55:30.157Z","count":18,"url":"https://api.chshapi.cn/api/status","avg":879,"min":671,"max":2092,"p95":2092}

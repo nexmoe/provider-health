@@ -1,17 +1,19 @@
-{"url":"https://api.aipaibox.com/api/status"}
-{"type":"ok","from":"2026-05-01T00:02:05.781Z","to":"2026-05-01T20:22:08.660Z","count":62,"avg":699,"min":182,"max":3114,"p95":1692}
-{"type":"fail","from":"2026-05-01T20:42:45.307Z","to":"2026-05-01T20:42:45.307Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-05-01T21:03:03.936Z","to":"2026-05-01T23:42:16.572Z","count":9,"avg":637,"min":387,"max":854,"p95":854}
-{"type":"ok","from":"2026-05-02T00:03:18.425Z","to":"2026-05-02T23:42:35.467Z","count":67,"avg":677,"min":372,"max":1565,"p95":1160}
-{"type":"ok","from":"2026-05-03T00:02:51.183Z","to":"2026-05-03T23:52:20.738Z","count":72,"avg":694,"min":321,"max":3830,"p95":1183}
-{"type":"ok","from":"2026-05-04T00:12:33.543Z","to":"2026-05-04T23:40:20.517Z","count":69,"avg":420,"min":29,"max":1449,"p95":783}
-{"type":"ok","from":"2026-05-05T00:01:12.785Z","to":"2026-05-05T23:41:13.235Z","count":72,"avg":362,"min":26,"max":811,"p95":526}
-{"type":"ok","from":"2026-05-06T00:02:02.619Z","to":"2026-05-06T16:44:02.448Z","count":51,"avg":344,"min":27,"max":650,"p95":455}
-{"type":"fail","from":"2026-05-06T17:05:10.606Z","to":"2026-05-06T17:23:58.173Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-05-06T17:43:26.032Z","to":"2026-05-06T23:40:54.423Z","count":19,"avg":322,"min":177,"max":524,"p95":524}
-{"type":"ok","from":"2026-05-07T00:01:06.390Z","to":"2026-05-07T23:41:23.374Z","count":71,"avg":355,"min":25,"max":1406,"p95":496}
-{"type":"ok","from":"2026-05-08T00:01:05.037Z","to":"2026-05-08T23:42:04.467Z","count":71,"avg":393,"min":25,"max":3249,"p95":577}
-{"type":"ok","from":"2026-05-09T00:02:26.302Z","to":"2026-05-09T23:51:43.182Z","count":67,"avg":404,"min":26,"max":3132,"p95":817}
-{"type":"ok","from":"2026-05-10T00:12:56.444Z","to":"2026-05-10T23:51:41.010Z","count":69,"avg":942,"min":642,"max":2553,"p95":1145}
-{"type":"ok","from":"2026-05-11T00:12:23.268Z","to":"2026-05-11T23:53:30.216Z","count":71,"avg":908,"min":639,"max":1417,"p95":1130}
-{"type":"ok","from":"2026-05-12T00:12:56.380Z","to":"2026-05-12T23:52:50.057Z","count":69,"avg":1003,"min":652,"max":2984,"p95":1160}
+{"type":"ok","from":"2026-05-01T00:02:05.781Z","to":"2026-05-01T20:22:08.660Z","count":62,"avg":699,"min":182,"max":3114,"p95":1692,"url":"https://api.aipaibox.com/api/status"}
+{"type":"fail","from":"2026-05-01T20:42:45.307Z","to":"2026-05-01T20:42:45.307Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-01T21:03:03.936Z","to":"2026-05-01T23:42:16.572Z","count":9,"avg":637,"min":387,"max":854,"p95":854,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-02T00:03:18.425Z","to":"2026-05-02T23:42:35.467Z","count":67,"avg":677,"min":372,"max":1565,"p95":1160,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-03T00:02:51.183Z","to":"2026-05-03T23:52:20.738Z","count":72,"avg":694,"min":321,"max":3830,"p95":1183,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-04T00:12:33.543Z","to":"2026-05-04T23:40:20.517Z","count":69,"avg":420,"min":29,"max":1449,"p95":783,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-05T00:01:12.785Z","to":"2026-05-05T23:41:13.235Z","count":72,"avg":362,"min":26,"max":811,"p95":526,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-06T00:02:02.619Z","to":"2026-05-06T16:44:02.448Z","count":51,"avg":344,"min":27,"max":650,"p95":455,"url":"https://api.aipaibox.com/api/status"}
+{"type":"fail","from":"2026-05-06T17:05:10.606Z","to":"2026-05-06T17:23:58.173Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-06T17:43:26.032Z","to":"2026-05-06T23:40:54.423Z","count":19,"avg":322,"min":177,"max":524,"p95":524,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-07T00:01:06.390Z","to":"2026-05-07T23:41:23.374Z","count":71,"avg":355,"min":25,"max":1406,"p95":496,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-08T00:01:05.037Z","to":"2026-05-08T23:42:04.467Z","count":71,"avg":393,"min":25,"max":3249,"p95":577,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-09T00:02:26.302Z","to":"2026-05-09T23:51:43.182Z","count":67,"avg":404,"min":26,"max":3132,"p95":817,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-10T00:12:56.444Z","to":"2026-05-10T23:51:41.010Z","count":69,"avg":942,"min":642,"max":2553,"p95":1145,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-11T00:12:23.268Z","to":"2026-05-11T23:53:30.216Z","count":71,"avg":908,"min":639,"max":1417,"p95":1130,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-12T00:12:56.380Z","to":"2026-05-12T23:52:50.057Z","count":69,"avg":1003,"min":652,"max":2984,"p95":1160,"url":"https://api.aipaibox.com/api/status"}
+{"type":"ok","from":"2026-05-13T00:13:20.700Z","to":"2026-05-13T08:03:50.827Z","count":24,"url":"https://api.aipaibox.com/api/status","avg":1031,"min":645,"max":2015,"p95":1224}
+{"type":"ok","from":"2026-05-13T08:24:34.529Z","to":"2026-05-13T08:24:34.529Z","count":1,"url":"https://api.aipaibox.com/status","avg":2158,"min":2158,"max":2158,"p95":2158}
+{"type":"ok","from":"2026-05-13T08:43:29.948Z","to":"2026-05-13T23:51:50.385Z","count":45,"url":"https://api.aipaibox.com/api/status","avg":790,"min":470,"max":1012,"p95":965}

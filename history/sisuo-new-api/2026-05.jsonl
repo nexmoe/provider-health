@@ -20,3 +20,6 @@
 {"type":"ok","from":"2026-05-10T00:02:46.101Z","to":"2026-05-10T23:42:22.961Z","count":69,"url":"https://newapi.sisuo.de/api/status","avg":1335,"min":904,"max":2355,"p95":1734}
 {"type":"ok","from":"2026-05-11T00:02:38.337Z","to":"2026-05-11T23:42:24.634Z","count":71,"url":"https://newapi.sisuo.de/api/status","avg":1315,"min":517,"max":2601,"p95":1830}
 {"type":"ok","from":"2026-05-12T00:02:40.935Z","to":"2026-05-12T23:42:32.762Z","count":69,"url":"https://newapi.sisuo.de/api/status","avg":1263,"min":560,"max":2773,"p95":1709}
+{"type":"ok","from":"2026-05-13T00:02:42.365Z","to":"2026-05-13T20:02:40.278Z","count":59,"url":"https://newapi.sisuo.de/api/status","avg":1338,"min":803,"max":3043,"p95":2047}
+{"type":"fail","from":"2026-05-13T20:22:27.584Z","to":"2026-05-13T20:22:27.584Z","count":1,"url":"https://newapi.sisuo.de/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-13T20:42:27.876Z","to":"2026-05-13T23:42:27.996Z","count":10,"url":"https://newapi.sisuo.de/api/status","avg":1183,"min":933,"max":1392,"p95":1392}
