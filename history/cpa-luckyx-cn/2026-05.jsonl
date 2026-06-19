@@ -19,3 +19,8 @@
 {"type":"ok","from":"2026-05-11T00:14:28.973Z","to":"2026-05-11T23:55:33.880Z","count":71,"url":"https://cpa.luckyx.cn/v1/models","avg":784,"min":189,"max":2985,"p95":1838}
 {"type":"ok","from":"2026-05-12T00:15:00.275Z","to":"2026-05-12T23:54:53.029Z","count":69,"url":"https://cpa.luckyx.cn/v1/models","avg":793,"min":200,"max":4337,"p95":2223}
 {"type":"ok","from":"2026-05-13T00:15:24.865Z","to":"2026-05-13T23:53:54.640Z","count":70,"url":"https://cpa.luckyx.cn/v1/models","avg":1050,"min":203,"max":3476,"p95":2668}
+{"type":"ok","from":"2026-05-14T00:13:51.172Z","to":"2026-05-14T08:16:24.014Z","count":21,"url":"https://cpa.luckyx.cn/v1/models","avg":1045,"min":210,"max":3821,"p95":2203}
+{"type":"fail","from":"2026-05-14T08:36:31.579Z","to":"2026-05-14T08:36:31.579Z","count":1,"url":"https://cpa.luckyx.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-14T08:56:55.171Z","to":"2026-05-14T22:14:00.862Z","count":38,"url":"https://cpa.luckyx.cn/v1/models","avg":700,"min":183,"max":2333,"p95":1311}
+{"type":"fail","from":"2026-05-14T22:34:47.305Z","to":"2026-05-14T22:34:47.305Z","count":1,"url":"https://cpa.luckyx.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-14T22:54:38.486Z","to":"2026-05-14T23:54:35.472Z","count":4,"url":"https://cpa.luckyx.cn/v1/models","avg":736,"min":519,"max":1284,"p95":1284}

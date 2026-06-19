@@ -102,3 +102,6 @@
 {"type":"ok","from":"2026-05-13T00:01:22.176Z","to":"2026-05-13T00:41:10.711Z","count":3,"url":"https://api.chatst.org/api/status","avg":1866,"min":1726,"max":2083,"p95":2083}
 {"type":"ok","from":"2026-05-13T01:01:18.811Z","to":"2026-05-13T01:01:18.811Z","count":1,"url":"https://api.chatst.org/v1/models","avg":993,"min":993,"max":993,"p95":993}
 {"type":"ok","from":"2026-05-13T01:21:06.266Z","to":"2026-05-13T23:41:06.099Z","count":66,"url":"https://api.chatst.org/api/status","avg":2309,"min":1476,"max":3977,"p95":3242}
+{"type":"ok","from":"2026-05-14T00:01:16.910Z","to":"2026-05-14T14:31:17.285Z","count":42,"url":"https://api.chatst.org/api/status","avg":2442,"min":1627,"max":3839,"p95":3736}
+{"type":"fail","from":"2026-05-14T14:52:08.998Z","to":"2026-05-14T14:52:08.998Z","count":1,"url":"https://api.chatst.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-14T15:21:08.884Z","to":"2026-05-14T23:41:07.201Z","count":26,"url":"https://api.chatst.org/api/status","avg":1871,"min":1519,"max":2518,"p95":2430}

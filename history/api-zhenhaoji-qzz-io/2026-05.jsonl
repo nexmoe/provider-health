@@ -1,17 +1,19 @@
-{"url":"https://api.zhenhaoji.qzz.io/api/status"}
-{"type":"ok","from":"2026-05-02T19:22:44.972Z","to":"2026-05-02T23:43:46.651Z","count":14,"avg":1242,"min":740,"max":2242,"p95":2242}
-{"type":"ok","from":"2026-05-03T00:04:01.567Z","to":"2026-05-03T23:53:29.334Z","count":72,"avg":1051,"min":352,"max":3283,"p95":1986}
-{"type":"ok","from":"2026-05-04T00:13:46.891Z","to":"2026-05-04T23:41:21.027Z","count":69,"avg":1005,"min":630,"max":1640,"p95":1500}
-{"type":"ok","from":"2026-05-05T00:02:12.813Z","to":"2026-05-05T23:42:13.863Z","count":72,"avg":1080,"min":676,"max":2091,"p95":1503}
-{"type":"ok","from":"2026-05-06T00:03:03.839Z","to":"2026-05-06T11:43:38.850Z","count":36,"avg":935,"min":460,"max":1541,"p95":1463}
-{"type":"fail","from":"2026-05-06T12:04:32.525Z","to":"2026-05-06T12:23:33.752Z","count":2,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-05-06T12:44:00.456Z","to":"2026-05-06T23:42:14.383Z","count":34,"avg":1006,"min":592,"max":3353,"p95":1425}
-{"type":"ok","from":"2026-05-07T00:02:28.228Z","to":"2026-05-07T23:44:10.395Z","count":71,"avg":987,"min":599,"max":1717,"p95":1341}
-{"type":"ok","from":"2026-05-08T00:03:38.313Z","to":"2026-05-08T23:44:03.104Z","count":71,"avg":1034,"min":609,"max":1721,"p95":1509}
-{"type":"ok","from":"2026-05-09T00:04:23.788Z","to":"2026-05-09T23:54:51.828Z","count":67,"avg":1059,"min":571,"max":4037,"p95":1602}
-{"type":"ok","from":"2026-05-10T00:16:07.938Z","to":"2026-05-10T23:54:51.939Z","count":69,"avg":976,"min":592,"max":1570,"p95":1307}
-{"type":"ok","from":"2026-05-11T00:15:34.240Z","to":"2026-05-11T23:57:01.831Z","count":71,"avg":975,"min":481,"max":1896,"p95":1338}
-{"type":"ok","from":"2026-05-12T00:16:27.647Z","to":"2026-05-12T13:18:18.797Z","count":37,"avg":968,"min":643,"max":1698,"p95":1375}
-{"type":"fail","from":"2026-05-12T13:38:42.992Z","to":"2026-05-12T13:38:42.992Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-05-12T13:59:08.067Z","to":"2026-05-12T23:56:19.796Z","count":31,"avg":1140,"min":538,"max":2537,"p95":1757}
-{"type":"ok","from":"2026-05-13T00:16:51.529Z","to":"2026-05-13T23:55:22.488Z","count":70,"avg":1056,"min":504,"max":1580,"p95":1555}
+{"type":"ok","from":"2026-05-02T19:22:44.972Z","to":"2026-05-02T23:43:46.651Z","count":14,"avg":1242,"min":740,"max":2242,"p95":2242,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-03T00:04:01.567Z","to":"2026-05-03T23:53:29.334Z","count":72,"avg":1051,"min":352,"max":3283,"p95":1986,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-04T00:13:46.891Z","to":"2026-05-04T23:41:21.027Z","count":69,"avg":1005,"min":630,"max":1640,"p95":1500,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-05T00:02:12.813Z","to":"2026-05-05T23:42:13.863Z","count":72,"avg":1080,"min":676,"max":2091,"p95":1503,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-06T00:03:03.839Z","to":"2026-05-06T11:43:38.850Z","count":36,"avg":935,"min":460,"max":1541,"p95":1463,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"fail","from":"2026-05-06T12:04:32.525Z","to":"2026-05-06T12:23:33.752Z","count":2,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-06T12:44:00.456Z","to":"2026-05-06T23:42:14.383Z","count":34,"avg":1006,"min":592,"max":3353,"p95":1425,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-07T00:02:28.228Z","to":"2026-05-07T23:44:10.395Z","count":71,"avg":987,"min":599,"max":1717,"p95":1341,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-08T00:03:38.313Z","to":"2026-05-08T23:44:03.104Z","count":71,"avg":1034,"min":609,"max":1721,"p95":1509,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-09T00:04:23.788Z","to":"2026-05-09T23:54:51.828Z","count":67,"avg":1059,"min":571,"max":4037,"p95":1602,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-10T00:16:07.938Z","to":"2026-05-10T23:54:51.939Z","count":69,"avg":976,"min":592,"max":1570,"p95":1307,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-11T00:15:34.240Z","to":"2026-05-11T23:57:01.831Z","count":71,"avg":975,"min":481,"max":1896,"p95":1338,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-12T00:16:27.647Z","to":"2026-05-12T13:18:18.797Z","count":37,"avg":968,"min":643,"max":1698,"p95":1375,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"fail","from":"2026-05-12T13:38:42.992Z","to":"2026-05-12T13:38:42.992Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-12T13:59:08.067Z","to":"2026-05-12T23:56:19.796Z","count":31,"avg":1140,"min":538,"max":2537,"p95":1757,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-13T00:16:51.529Z","to":"2026-05-13T23:55:22.488Z","count":70,"avg":1056,"min":504,"max":1580,"p95":1555,"url":"https://api.zhenhaoji.qzz.io/api/status"}
+{"type":"ok","from":"2026-05-14T00:15:18.403Z","to":"2026-05-14T04:58:10.866Z","count":11,"url":"https://api.zhenhaoji.qzz.io/api/status","avg":1079,"min":732,"max":1364,"p95":1364}
+{"type":"ok","from":"2026-05-14T05:18:15.583Z","to":"2026-05-14T05:18:15.583Z","count":1,"url":"https://api.zhenhaoji.qzz.io/v1/models","avg":238,"min":238,"max":238,"p95":238}
+{"type":"ok","from":"2026-05-14T05:38:14.138Z","to":"2026-05-14T23:56:19.164Z","count":53,"url":"https://api.zhenhaoji.qzz.io/api/status","avg":1097,"min":508,"max":2584,"p95":1641}
