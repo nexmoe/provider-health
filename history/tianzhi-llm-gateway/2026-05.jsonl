@@ -405,3 +405,33 @@
 {"type":"ok","from":"2026-05-14T19:10:05.695Z","to":"2026-05-14T23:09:46.151Z","count":13,"url":"https://gpt.cosmoplat.com/v1/models","avg":2405,"min":990,"max":4091,"p95":4091}
 {"type":"fail","from":"2026-05-14T23:29:34.681Z","to":"2026-05-14T23:29:34.681Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-05-14T23:49:59.801Z","to":"2026-05-14T23:49:59.801Z","count":1,"url":"https://gpt.cosmoplat.com/v1/models","avg":1051,"min":1051,"max":1051,"p95":1051}
+{"type":"ok","from":"2026-05-15T00:09:44.121Z","to":"2026-05-15T03:10:45.361Z","count":10,"url":"https://gpt.cosmoplat.com/v1/models","avg":2481,"min":1155,"max":4221,"p95":4221}
+{"type":"ok","from":"2026-05-15T03:30:50.270Z","to":"2026-05-15T03:30:50.270Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":2332,"min":2332,"max":2332,"p95":2332}
+{"type":"ok","from":"2026-05-15T03:50:53.016Z","to":"2026-05-15T03:50:53.016Z","count":1,"url":"https://gpt.cosmoplat.com/v1/models","avg":805,"min":805,"max":805,"p95":805}
+{"type":"ok","from":"2026-05-15T04:11:02.944Z","to":"2026-05-15T04:11:02.944Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":4606,"min":4606,"max":4606,"p95":4606}
+{"type":"ok","from":"2026-05-15T04:30:48.320Z","to":"2026-05-15T04:51:07.416Z","count":2,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fstatus","avg":3650,"min":3385,"max":3914,"p95":3914}
+{"type":"ok","from":"2026-05-15T05:11:59.460Z","to":"2026-05-15T06:01:42.469Z","count":3,"url":"https://gpt.cosmoplat.com/v1/models","avg":1776,"min":1170,"max":2953,"p95":2953}
+{"type":"ok","from":"2026-05-15T06:21:01.061Z","to":"2026-05-15T06:21:01.061Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":3044,"min":3044,"max":3044,"p95":3044}
+{"type":"fail","from":"2026-05-15T06:41:03.349Z","to":"2026-05-15T06:41:03.349Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-15T07:01:26.591Z","to":"2026-05-15T07:01:26.591Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":4140,"min":4140,"max":4140,"p95":4140}
+{"type":"ok","from":"2026-05-15T07:20:25.311Z","to":"2026-05-15T12:00:51.070Z","count":15,"url":"https://gpt.cosmoplat.com/v1/models","avg":2491,"min":1198,"max":4351,"p95":4351}
+{"type":"fail","from":"2026-05-15T12:21:55.458Z","to":"2026-05-15T12:21:55.458Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-15T12:51:23.071Z","to":"2026-05-15T12:51:23.071Z","count":1,"url":"https://gpt.cosmoplat.com/v1/models","avg":2779,"min":2779,"max":2779,"p95":2779}
+{"type":"fail","from":"2026-05-15T13:11:42.208Z","to":"2026-05-15T13:11:42.208Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-15T13:32:21.601Z","to":"2026-05-15T13:53:04.429Z","count":2,"url":"https://gpt.cosmoplat.com/v1/models","avg":3118,"min":2629,"max":3607,"p95":3607}
+{"type":"ok","from":"2026-05-15T14:22:02.303Z","to":"2026-05-15T14:22:02.303Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":4718,"min":4718,"max":4718,"p95":4718}
+{"type":"ok","from":"2026-05-15T14:42:27.364Z","to":"2026-05-15T14:42:27.364Z","count":1,"url":"https://gpt.cosmoplat.com/v1/models","avg":2859,"min":2859,"max":2859,"p95":2859}
+{"type":"fail","from":"2026-05-15T15:01:48.629Z","to":"2026-05-15T15:01:48.629Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-15T15:22:44.414Z","to":"2026-05-15T15:52:37.759Z","count":2,"url":"https://gpt.cosmoplat.com/v1/models","avg":3358,"min":1977,"max":4738,"p95":4738}
+{"type":"fail","from":"2026-05-15T16:12:27.198Z","to":"2026-05-15T16:12:27.198Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-15T16:42:23.767Z","to":"2026-05-15T17:21:55.730Z","count":3,"url":"https://gpt.cosmoplat.com/v1/models","avg":3271,"min":1196,"max":4342,"p95":4342}
+{"type":"ok","from":"2026-05-15T17:40:45.941Z","to":"2026-05-15T17:40:45.941Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":3044,"min":3044,"max":3044,"p95":3044}
+{"type":"ok","from":"2026-05-15T18:01:22.742Z","to":"2026-05-15T18:01:22.742Z","count":1,"url":"https://gpt.cosmoplat.com/v1/models","avg":1955,"min":1955,"max":1955,"p95":1955}
+{"type":"ok","from":"2026-05-15T18:21:11.124Z","to":"2026-05-15T18:21:11.124Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fstatus","avg":3316,"min":3316,"max":3316,"p95":3316}
+{"type":"ok","from":"2026-05-15T18:40:40.042Z","to":"2026-05-15T19:39:36.266Z","count":4,"url":"https://gpt.cosmoplat.com/v1/models","avg":3017,"min":1658,"max":4118,"p95":4118}
+{"type":"ok","from":"2026-05-15T19:59:44.548Z","to":"2026-05-15T19:59:44.548Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":4049,"min":4049,"max":4049,"p95":4049}
+{"type":"ok","from":"2026-05-15T20:18:52.132Z","to":"2026-05-15T22:19:36.436Z","count":7,"url":"https://gpt.cosmoplat.com/v1/models","avg":2108,"min":931,"max":4527,"p95":4527}
+{"type":"ok","from":"2026-05-15T22:39:35.483Z","to":"2026-05-15T22:39:35.483Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":3222,"min":3222,"max":3222,"p95":3222}
+{"type":"ok","from":"2026-05-15T22:59:59.921Z","to":"2026-05-15T22:59:59.921Z","count":1,"url":"https://gpt.cosmoplat.com/v1/models","avg":2881,"min":2881,"max":2881,"p95":2881}
+{"type":"ok","from":"2026-05-15T23:20:15.639Z","to":"2026-05-15T23:20:15.639Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":3761,"min":3761,"max":3761,"p95":3761}
+{"type":"ok","from":"2026-05-15T23:40:21.382Z","to":"2026-05-15T23:40:21.382Z","count":1,"url":"https://gpt.cosmoplat.com/v1/models","avg":1044,"min":1044,"max":1044,"p95":1044}

@@ -44,3 +44,5 @@
 {"type":"ok","from":"2026-05-13T00:12:41.780Z","to":"2026-05-13T23:51:12.457Z","count":70,"url":"https://api.heabl.top/api/status","avg":1385,"min":697,"max":3578,"p95":2781}
 {"type":"ok","from":"2026-05-14T00:11:21.204Z","to":"2026-05-14T03:54:02.245Z","count":9,"url":"https://api.heabl.top/api/status","avg":1371,"min":856,"max":3010,"p95":3010}
 {"type":"fail","from":"2026-05-14T04:33:46.184Z","to":"2026-05-14T23:51:56.063Z","count":56,"url":"https://api.heabl.top/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-05-15T00:11:48.321Z","to":"2026-05-15T06:44:10.926Z","count":20,"url":"https://api.heabl.top/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-05-15T07:03:57.388Z","to":"2026-05-15T23:42:24.762Z","count":49,"url":"https://dayone.heabl.top/v1/models","avg":319,"min":255,"max":1688,"p95":696}

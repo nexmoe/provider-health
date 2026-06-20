@@ -36,3 +36,5 @@
 {"type":"fail","from":"2026-05-13T18:41:46.729Z","to":"2026-05-13T18:41:46.729Z","count":1,"url":"https://api.gptgod.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-13T19:01:20.187Z","to":"2026-05-13T23:41:16.640Z","count":15,"url":"https://api.gptgod.online/v1/models","avg":601,"min":567,"max":812,"p95":812}
 {"type":"ok","from":"2026-05-14T00:01:26.040Z","to":"2026-05-14T23:41:28.528Z","count":69,"url":"https://api.gptgod.online/v1/models","avg":686,"min":558,"max":1381,"p95":850}
+{"type":"ok","from":"2026-05-15T00:01:34.009Z","to":"2026-05-15T22:51:29.362Z","count":67,"url":"https://api.gptgod.online/v1/models","avg":594,"min":555,"max":844,"p95":637}
+{"type":"fail","from":"2026-05-15T23:11:49.182Z","to":"2026-05-15T23:51:49.235Z","count":3,"url":"https://api.gptgod.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
