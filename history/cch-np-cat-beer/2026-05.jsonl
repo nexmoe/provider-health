@@ -20,3 +20,6 @@
 {"type":"ok","from":"2026-05-14T07:58:07.788Z","to":"2026-05-14T07:58:07.788Z","count":1,"url":"https://cch-np.cat.beer/zh-CN/login?from=%2Fhealth","avg":3671,"min":3671,"max":3671,"p95":3671}
 {"type":"ok","from":"2026-05-14T08:18:20.406Z","to":"2026-05-14T23:56:36.874Z","count":45,"url":"https://cch-np.cat.beer/v1/models","avg":74,"min":15,"max":373,"p95":222}
 {"type":"ok","from":"2026-05-15T00:16:28.748Z","to":"2026-05-15T23:47:08.094Z","count":69,"url":"https://cch-np.cat.beer/v1/models","avg":118,"min":13,"max":1188,"p95":582}
+{"type":"ok","from":"2026-05-16T00:07:58.894Z","to":"2026-05-16T19:16:43.291Z","count":50,"url":"https://cch-np.cat.beer/v1/models","avg":128,"min":15,"max":951,"p95":502}
+{"type":"fail","from":"2026-05-16T19:36:57.267Z","to":"2026-05-16T22:36:51.715Z","count":10,"url":"https://cch-np.cat.beer/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-16T22:56:22.389Z","to":"2026-05-16T23:57:20.338Z","count":4,"url":"https://cch-np.cat.beer/v1/models","avg":153,"min":18,"max":335,"p95":335}
