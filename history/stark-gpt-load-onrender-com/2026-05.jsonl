@@ -184,3 +184,13 @@
 {"type":"ok","from":"2026-05-16T23:17:04.798Z","to":"2026-05-16T23:17:04.798Z","count":1,"url":"https://stark-gpt-load.onrender.com/health","avg":3151,"min":3151,"max":3151,"p95":3151}
 {"type":"ok","from":"2026-05-16T23:36:55.606Z","to":"2026-05-16T23:36:55.606Z","count":1,"url":"https://stark-gpt-load.onrender.com/v1/models","avg":63,"min":63,"max":63,"p95":63}
 {"type":"fail","from":"2026-05-16T23:57:40.073Z","to":"2026-05-16T23:57:40.073Z","count":1,"url":"https://stark-gpt-load.onrender.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-17T00:17:34.510Z","to":"2026-05-17T00:48:48.064Z","count":2,"url":"https://stark-gpt-load.onrender.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-17T01:07:28.141Z","to":"2026-05-17T01:07:28.141Z","count":1,"url":"https://stark-gpt-load.onrender.com/v1/models","avg":235,"min":235,"max":235,"p95":235}
+{"type":"fail","from":"2026-05-17T01:29:12.371Z","to":"2026-05-17T01:29:12.371Z","count":1,"url":"https://stark-gpt-load.onrender.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-17T01:48:22.562Z","to":"2026-05-17T01:48:22.562Z","count":1,"url":"https://stark-gpt-load.onrender.com/health","avg":3080,"min":3080,"max":3080,"p95":3080}
+{"type":"fail","from":"2026-05-17T02:08:43.568Z","to":"2026-05-17T14:19:07.406Z","count":25,"url":"https://stark-gpt-load.onrender.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-17T14:39:20.314Z","to":"2026-05-17T14:39:20.314Z","count":1,"url":"https://stark-gpt-load.onrender.com/v1/models","avg":82,"min":82,"max":82,"p95":82}
+{"type":"ok","from":"2026-05-17T15:00:18.766Z","to":"2026-05-17T15:00:18.766Z","count":1,"url":"https://stark-gpt-load.onrender.com/status","avg":2143,"min":2143,"max":2143,"p95":2143}
+{"type":"fail","from":"2026-05-17T15:31:10.338Z","to":"2026-05-17T18:46:39.322Z","count":9,"url":"https://stark-gpt-load.onrender.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-17T19:07:00.283Z","to":"2026-05-17T19:07:00.283Z","count":1,"url":"https://stark-gpt-load.onrender.com/health","avg":3143,"min":3143,"max":3143,"p95":3143}
+{"type":"fail","from":"2026-05-17T19:26:27.746Z","to":"2026-05-17T23:56:56.754Z","count":14,"url":"https://stark-gpt-load.onrender.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

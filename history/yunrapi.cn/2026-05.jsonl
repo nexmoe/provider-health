@@ -22,3 +22,7 @@
 {"type":"ok","from":"2026-05-16T00:13:46.245Z","to":"2026-05-16T10:33:46.747Z","count":29,"url":"https://yourapi.cn/api/status","avg":1565,"min":965,"max":3280,"p95":3030}
 {"type":"ok","from":"2026-05-16T11:03:53.195Z","to":"2026-05-16T11:03:53.195Z","count":1,"url":"https://yourapi.cn/v1/models","avg":597,"min":597,"max":597,"p95":597}
 {"type":"ok","from":"2026-05-16T11:33:41.409Z","to":"2026-05-16T23:43:40.871Z","count":34,"url":"https://yourapi.cn/api/status","avg":1694,"min":934,"max":4131,"p95":3524}
+{"type":"ok","from":"2026-05-17T00:03:54.283Z","to":"2026-05-17T10:33:46.667Z","count":20,"url":"https://yourapi.cn/api/status","avg":1336,"min":894,"max":2307,"p95":2307}
+{"type":"fail","from":"2026-05-17T10:54:05.955Z","to":"2026-05-17T11:34:04.008Z","count":3,"url":"https://yourapi.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-17T11:53:41.087Z","to":"2026-05-17T12:13:45.788Z","count":2,"url":"https://yourapi.cn/api/status","avg":1497,"min":945,"max":2048,"p95":2048}
+{"type":"fail","from":"2026-05-17T12:34:02.315Z","to":"2026-05-17T23:44:03.012Z","count":32,"url":"https://yourapi.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

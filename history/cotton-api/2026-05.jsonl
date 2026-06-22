@@ -70,3 +70,6 @@
 {"type":"ok","from":"2026-05-14T00:02:15.241Z","to":"2026-05-14T23:42:17.777Z","count":69,"url":"https://gemini.nkbpal.cn/api/status","avg":731,"min":550,"max":1262,"p95":990}
 {"type":"ok","from":"2026-05-15T00:02:23.345Z","to":"2026-05-15T23:52:20.208Z","count":70,"url":"https://gemini.nkbpal.cn/api/status","avg":792,"min":522,"max":1423,"p95":1186}
 {"type":"ok","from":"2026-05-16T00:12:22.737Z","to":"2026-05-16T23:42:17.430Z","count":64,"url":"https://gemini.nkbpal.cn/api/status","avg":748,"min":560,"max":1704,"p95":1180}
+{"type":"ok","from":"2026-05-17T00:02:31.525Z","to":"2026-05-17T20:32:18.519Z","count":48,"url":"https://gemini.nkbpal.cn/api/status","avg":691,"min":535,"max":1192,"p95":1088}
+{"type":"fail","from":"2026-05-17T20:52:31.687Z","to":"2026-05-17T20:52:31.687Z","count":1,"url":"https://gemini.nkbpal.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-17T21:22:25.116Z","to":"2026-05-17T23:42:21.361Z","count":8,"url":"https://gemini.nkbpal.cn/api/status","avg":679,"min":607,"max":748,"p95":748}

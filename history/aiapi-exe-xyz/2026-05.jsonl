@@ -35,3 +35,8 @@
 {"type":"ok","from":"2026-05-16T00:06:49.817Z","to":"2026-05-16T04:27:39.592Z","count":13,"url":"https://aiapi.exe.xyz/api/status","avg":408,"min":327,"max":682,"p95":682}
 {"type":"ok","from":"2026-05-16T04:46:31.274Z","to":"2026-05-16T04:46:31.274Z","count":1,"url":"https://aiapi.exe.xyz/v1/models","avg":1872,"min":1872,"max":1872,"p95":1872}
 {"type":"ok","from":"2026-05-16T05:07:46.688Z","to":"2026-05-16T23:56:20.705Z","count":50,"url":"https://aiapi.exe.xyz/api/status","avg":619,"min":319,"max":2619,"p95":1852}
+{"type":"ok","from":"2026-05-17T00:16:19.124Z","to":"2026-05-17T03:27:31.037Z","count":10,"url":"https://aiapi.exe.xyz/api/status","avg":536,"min":337,"max":780,"p95":780}
+{"type":"ok","from":"2026-05-17T03:46:35.846Z","to":"2026-05-17T03:46:35.846Z","count":1,"url":"https://aiapi.exe.xyz/health","avg":2331,"min":2331,"max":2331,"p95":2331}
+{"type":"ok","from":"2026-05-17T04:06:01.223Z","to":"2026-05-17T19:45:11.387Z","count":33,"url":"https://aiapi.exe.xyz/api/status","avg":650,"min":328,"max":2761,"p95":1766}
+{"type":"fail","from":"2026-05-17T20:05:29.405Z","to":"2026-05-17T20:05:29.405Z","count":1,"url":"https://aiapi.exe.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-17T20:25:07.400Z","to":"2026-05-17T23:55:44.044Z","count":11,"url":"https://aiapi.exe.xyz/api/status","avg":495,"min":360,"max":531,"p95":531}
