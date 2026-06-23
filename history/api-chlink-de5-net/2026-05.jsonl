@@ -68,3 +68,6 @@
 {"type":"ok","from":"2026-05-16T15:54:06.857Z","to":"2026-05-16T15:54:06.857Z","count":1,"url":"https://api.chlink.de5.net/v1/models","avg":2512,"min":2512,"max":2512,"p95":2512}
 {"type":"ok","from":"2026-05-16T16:14:51.127Z","to":"2026-05-16T23:52:35.080Z","count":23,"url":"https://api.chlink.de5.net/api/status","avg":1743,"min":1334,"max":2565,"p95":2386}
 {"type":"ok","from":"2026-05-17T00:12:32.752Z","to":"2026-05-17T23:51:58.119Z","count":56,"url":"https://api.chlink.de5.net/api/status","avg":1756,"min":974,"max":2915,"p95":2567}
+{"type":"ok","from":"2026-05-18T00:12:41.817Z","to":"2026-05-18T00:52:10.483Z","count":3,"url":"https://api.chlink.de5.net/api/status","avg":1535,"min":1381,"max":1678,"p95":1678}
+{"type":"fail","from":"2026-05-18T01:12:42.931Z","to":"2026-05-18T02:53:25.202Z","count":6,"url":"https://api.chlink.de5.net/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-18T03:13:02.121Z","to":"2026-05-18T23:51:36.797Z","count":62,"url":"https://api.chlink.de5.net/api/status","avg":2061,"min":1220,"max":4507,"p95":3190}

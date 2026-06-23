@@ -45,3 +45,9 @@
 {"type":"ok","from":"2026-05-15T00:11:46.301Z","to":"2026-05-15T23:42:24.368Z","count":69,"url":"https://codex666.zeabur.app/v1/models","avg":670,"min":492,"max":1488,"p95":962}
 {"type":"ok","from":"2026-05-16T00:03:04.331Z","to":"2026-05-16T23:52:35.487Z","count":64,"url":"https://codex666.zeabur.app/v1/models","avg":627,"min":483,"max":2439,"p95":933}
 {"type":"ok","from":"2026-05-17T00:12:33.485Z","to":"2026-05-17T23:51:58.498Z","count":56,"url":"https://codex666.zeabur.app/v1/models","avg":620,"min":480,"max":1395,"p95":977}
+{"type":"ok","from":"2026-05-18T00:12:42.047Z","to":"2026-05-18T16:13:59.427Z","count":48,"url":"https://codex666.zeabur.app/v1/models","avg":676,"min":480,"max":1669,"p95":1159}
+{"type":"fail","from":"2026-05-18T16:33:28.035Z","to":"2026-05-18T17:14:25.698Z","count":3,"url":"https://codex666.zeabur.app/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-18T17:33:24.597Z","to":"2026-05-18T17:33:24.597Z","count":1,"url":"https://codex666.zeabur.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-18T17:53:09.025Z","to":"2026-05-18T21:31:31.163Z","count":12,"url":"https://codex666.zeabur.app/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-18T21:51:41.717Z","to":"2026-05-18T21:51:41.717Z","count":1,"url":"https://codex666.zeabur.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-18T22:11:34.422Z","to":"2026-05-18T23:51:46.583Z","count":6,"url":"https://codex666.zeabur.app/api/status","status":null,"error":"fetch failed","avg_latency":null}

@@ -1,20 +1,29 @@
-{"url":"https://aicanapi.com/api/status"}
-{"type":"ok","from":"2026-05-01T00:00:38.044Z","to":"2026-05-01T23:40:35.719Z","count":72,"avg":673,"min":456,"max":1484,"p95":918}
-{"type":"ok","from":"2026-05-02T00:01:38.915Z","to":"2026-05-02T23:40:58.579Z","count":67,"avg":639,"min":447,"max":1210,"p95":945}
-{"type":"ok","from":"2026-05-03T00:01:19.046Z","to":"2026-05-03T23:50:41.766Z","count":72,"avg":808,"min":456,"max":1989,"p95":1386}
-{"type":"ok","from":"2026-05-04T00:10:57.514Z","to":"2026-05-04T23:59:52.052Z","count":70,"avg":1184,"min":752,"max":1624,"p95":1568}
-{"type":"ok","from":"2026-05-05T00:20:37.126Z","to":"2026-05-05T23:40:00.678Z","count":71,"avg":1204,"min":825,"max":3919,"p95":1612}
-{"type":"ok","from":"2026-05-06T00:00:43.847Z","to":"2026-05-06T23:59:27.969Z","count":73,"avg":1147,"min":788,"max":1652,"p95":1556}
-{"type":"ok","from":"2026-05-07T00:20:15.983Z","to":"2026-05-07T23:59:29.098Z","count":71,"avg":1161,"min":783,"max":1693,"p95":1622}
-{"type":"ok","from":"2026-05-08T00:20:16.322Z","to":"2026-05-08T23:40:21.279Z","count":70,"avg":1255,"min":722,"max":1983,"p95":1871}
-{"type":"ok","from":"2026-05-09T00:00:34.791Z","to":"2026-05-09T23:49:56.577Z","count":67,"avg":1207,"min":774,"max":2036,"p95":1727}
-{"type":"ok","from":"2026-05-10T00:11:04.532Z","to":"2026-05-10T23:50:00.755Z","count":69,"avg":1168,"min":761,"max":1848,"p95":1629}
-{"type":"ok","from":"2026-05-11T00:10:34.261Z","to":"2026-05-11T01:11:27.032Z","count":4,"avg":1206,"min":1028,"max":1651,"p95":1651}
-{"type":"fail","from":"2026-05-11T01:31:41.886Z","to":"2026-05-11T01:31:41.886Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-05-11T01:50:53.482Z","to":"2026-05-11T23:51:13.952Z","count":66,"avg":1144,"min":707,"max":1659,"p95":1624}
-{"type":"ok","from":"2026-05-12T00:10:37.621Z","to":"2026-05-12T23:50:22.728Z","count":69,"avg":1197,"min":679,"max":2131,"p95":1662}
-{"type":"ok","from":"2026-05-13T00:10:59.749Z","to":"2026-05-13T23:49:14.087Z","count":70,"avg":1237,"min":747,"max":2531,"p95":1873}
-{"type":"ok","from":"2026-05-14T00:09:22.945Z","to":"2026-05-14T23:50:12.446Z","count":67,"avg":1168,"min":760,"max":2579,"p95":1679}
-{"type":"ok","from":"2026-05-15T00:09:59.986Z","to":"2026-05-15T23:40:32.795Z","count":69,"avg":1149,"min":706,"max":2214,"p95":1893}
-{"type":"ok","from":"2026-05-16T00:01:13.739Z","to":"2026-05-16T23:50:25.050Z","count":64,"avg":1089,"min":777,"max":2137,"p95":1444}
-{"type":"ok","from":"2026-05-17T00:10:21.791Z","to":"2026-05-17T23:49:54.755Z","count":56,"avg":1106,"min":744,"max":1692,"p95":1528}
+{"type":"ok","from":"2026-05-01T00:00:38.044Z","to":"2026-05-01T23:40:35.719Z","count":72,"avg":673,"min":456,"max":1484,"p95":918,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-02T00:01:38.915Z","to":"2026-05-02T23:40:58.579Z","count":67,"avg":639,"min":447,"max":1210,"p95":945,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-03T00:01:19.046Z","to":"2026-05-03T23:50:41.766Z","count":72,"avg":808,"min":456,"max":1989,"p95":1386,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-04T00:10:57.514Z","to":"2026-05-04T23:59:52.052Z","count":70,"avg":1184,"min":752,"max":1624,"p95":1568,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-05T00:20:37.126Z","to":"2026-05-05T23:40:00.678Z","count":71,"avg":1204,"min":825,"max":3919,"p95":1612,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-06T00:00:43.847Z","to":"2026-05-06T23:59:27.969Z","count":73,"avg":1147,"min":788,"max":1652,"p95":1556,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-07T00:20:15.983Z","to":"2026-05-07T23:59:29.098Z","count":71,"avg":1161,"min":783,"max":1693,"p95":1622,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-08T00:20:16.322Z","to":"2026-05-08T23:40:21.279Z","count":70,"avg":1255,"min":722,"max":1983,"p95":1871,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-09T00:00:34.791Z","to":"2026-05-09T23:49:56.577Z","count":67,"avg":1207,"min":774,"max":2036,"p95":1727,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-10T00:11:04.532Z","to":"2026-05-10T23:50:00.755Z","count":69,"avg":1168,"min":761,"max":1848,"p95":1629,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-11T00:10:34.261Z","to":"2026-05-11T01:11:27.032Z","count":4,"avg":1206,"min":1028,"max":1651,"p95":1651,"url":"https://aicanapi.com/api/status"}
+{"type":"fail","from":"2026-05-11T01:31:41.886Z","to":"2026-05-11T01:31:41.886Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-11T01:50:53.482Z","to":"2026-05-11T23:51:13.952Z","count":66,"avg":1144,"min":707,"max":1659,"p95":1624,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-12T00:10:37.621Z","to":"2026-05-12T23:50:22.728Z","count":69,"avg":1197,"min":679,"max":2131,"p95":1662,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-13T00:10:59.749Z","to":"2026-05-13T23:49:14.087Z","count":70,"avg":1237,"min":747,"max":2531,"p95":1873,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-14T00:09:22.945Z","to":"2026-05-14T23:50:12.446Z","count":67,"avg":1168,"min":760,"max":2579,"p95":1679,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-15T00:09:59.986Z","to":"2026-05-15T23:40:32.795Z","count":69,"avg":1149,"min":706,"max":2214,"p95":1893,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-16T00:01:13.739Z","to":"2026-05-16T23:50:25.050Z","count":64,"avg":1089,"min":777,"max":2137,"p95":1444,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-17T00:10:21.791Z","to":"2026-05-17T23:49:54.755Z","count":56,"avg":1106,"min":744,"max":1692,"p95":1528,"url":"https://aicanapi.com/api/status"}
+{"type":"ok","from":"2026-05-18T00:10:30.506Z","to":"2026-05-18T09:40:53.632Z","count":29,"url":"https://aicanapi.com/api/status","avg":1215,"min":747,"max":3149,"p95":1903}
+{"type":"fail","from":"2026-05-18T10:01:45.188Z","to":"2026-05-18T10:40:57.883Z","count":3,"url":"https://aicanapi.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-18T11:00:58.516Z","to":"2026-05-18T11:00:58.516Z","count":1,"url":"https://aicanapi.com/api/status","avg":1096,"min":1096,"max":1096,"p95":1096}
+{"type":"fail","from":"2026-05-18T11:20:38.812Z","to":"2026-05-18T12:31:55.949Z","count":4,"url":"https://aicanapi.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-18T12:51:21.689Z","to":"2026-05-18T13:11:56.905Z","count":2,"url":"https://aicanapi.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-18T13:31:04.380Z","to":"2026-05-18T13:51:31.720Z","count":2,"url":"https://aicanapi.com/api/status","avg":1231,"min":1199,"max":1263,"p95":1263}
+{"type":"ok","from":"2026-05-18T14:11:32.873Z","to":"2026-05-18T14:11:32.873Z","count":1,"url":"https://aicanapi.com/status","avg":475,"min":475,"max":475,"p95":475}
+{"type":"ok","from":"2026-05-18T14:31:36.699Z","to":"2026-05-18T17:50:53.636Z","count":11,"url":"https://aicanapi.com/api/status","avg":1259,"min":783,"max":2031,"p95":2031}
+{"type":"ok","from":"2026-05-18T18:10:55.158Z","to":"2026-05-18T18:10:55.158Z","count":1,"url":"https://aicanapi.com/health","avg":3528,"min":3528,"max":3528,"p95":3528}
+{"type":"ok","from":"2026-05-18T18:30:12.366Z","to":"2026-05-18T23:49:34.513Z","count":17,"url":"https://aicanapi.com/api/status","avg":1321,"min":858,"max":1858,"p95":1858}
