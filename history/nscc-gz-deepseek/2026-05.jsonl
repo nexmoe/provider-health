@@ -473,3 +473,21 @@
 {"type":"ok","from":"2026-05-18T22:45:08.719Z","to":"2026-05-18T23:05:20.259Z","count":2,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1071,"min":1060,"max":1081,"p95":1081}
 {"type":"ok","from":"2026-05-18T23:25:16.757Z","to":"2026-05-18T23:25:16.757Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":1612,"min":1612,"max":1612,"p95":1612}
 {"type":"ok","from":"2026-05-18T23:45:06.123Z","to":"2026-05-18T23:45:06.123Z","count":1,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":3059,"min":3059,"max":3059,"p95":3059}
+{"type":"ok","from":"2026-05-19T00:05:14.187Z","to":"2026-05-19T04:55:54.840Z","count":15,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":2143,"min":696,"max":4106,"p95":4106}
+{"type":"ok","from":"2026-05-19T05:15:22.090Z","to":"2026-05-19T05:15:22.090Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":4287,"min":4287,"max":4287,"p95":4287}
+{"type":"ok","from":"2026-05-19T05:35:21.985Z","to":"2026-05-19T06:35:23.161Z","count":4,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":2371,"min":1091,"max":3919,"p95":3919}
+{"type":"fail","from":"2026-05-19T06:55:27.498Z","to":"2026-05-19T07:35:27.071Z","count":3,"url":"https://deepseek.nscc-gz.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-19T07:55:05.380Z","to":"2026-05-19T07:55:05.380Z","count":1,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1140,"min":1140,"max":1140,"p95":1140}
+{"type":"ok","from":"2026-05-19T08:15:20.676Z","to":"2026-05-19T08:15:20.676Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":2162,"min":2162,"max":2162,"p95":2162}
+{"type":"ok","from":"2026-05-19T08:35:12.834Z","to":"2026-05-19T09:35:25.623Z","count":4,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1279,"min":1074,"max":1427,"p95":1427}
+{"type":"fail","from":"2026-05-19T09:55:31.407Z","to":"2026-05-19T09:55:31.407Z","count":1,"url":"https://deepseek.nscc-gz.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-05-19T10:15:22.715Z","to":"2026-05-19T10:15:22.715Z","count":1,"url":"https://deepseek.nscc-gz.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-19T10:45:09.222Z","to":"2026-05-19T11:18:28.801Z","count":3,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1942,"min":1065,"max":3122,"p95":3122}
+{"type":"fail","from":"2026-05-19T11:45:40.688Z","to":"2026-05-19T11:45:40.688Z","count":1,"url":"https://deepseek.nscc-gz.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-19T12:05:51.047Z","to":"2026-05-19T12:05:51.047Z","count":1,"url":"https://deepseek.nscc-gz.cn/status","avg":3122,"min":3122,"max":3122,"p95":3122}
+{"type":"ok","from":"2026-05-19T12:25:31.549Z","to":"2026-05-19T13:45:25.535Z","count":5,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":2641,"min":1046,"max":3916,"p95":3916}
+{"type":"fail","from":"2026-05-19T14:05:48.243Z","to":"2026-05-19T14:05:48.243Z","count":1,"url":"https://deepseek.nscc-gz.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-19T14:35:23.650Z","to":"2026-05-19T20:45:06.520Z","count":18,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":2176,"min":619,"max":4683,"p95":4683}
+{"type":"ok","from":"2026-05-19T21:05:13.407Z","to":"2026-05-19T21:05:13.407Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":1763,"min":1763,"max":1763,"p95":1763}
+{"type":"ok","from":"2026-05-19T21:25:13.492Z","to":"2026-05-19T23:25:09.440Z","count":7,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":3110,"min":1085,"max":4663,"p95":4663}
+{"type":"ok","from":"2026-05-19T23:45:29.897Z","to":"2026-05-19T23:45:29.897Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":643,"min":643,"max":643,"p95":643}

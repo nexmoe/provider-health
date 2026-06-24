@@ -1,27 +1,29 @@
-{"url":"https://windhub.cc/api/status"}
-{"type":"ok","from":"2026-05-03T19:13:58.182Z","to":"2026-05-03T23:53:17.554Z","count":15,"avg":758,"min":320,"max":2138,"p95":2138}
-{"type":"ok","from":"2026-05-04T00:13:30.096Z","to":"2026-05-04T23:41:13.327Z","count":69,"avg":488,"min":101,"max":3063,"p95":822}
-{"type":"ok","from":"2026-05-05T00:02:05.050Z","to":"2026-05-05T23:42:05.415Z","count":72,"avg":324,"min":97,"max":885,"p95":579}
-{"type":"ok","from":"2026-05-06T00:02:55.346Z","to":"2026-05-06T23:41:47.926Z","count":72,"avg":380,"min":94,"max":4265,"p95":804}
-{"type":"ok","from":"2026-05-07T00:02:01.617Z","to":"2026-05-07T23:43:44.168Z","count":71,"avg":332,"min":105,"max":1523,"p95":626}
-{"type":"ok","from":"2026-05-08T00:03:07.981Z","to":"2026-05-08T15:18:54.753Z","count":46,"avg":291,"min":103,"max":708,"p95":479}
-{"type":"fail","from":"2026-05-08T15:46:43.364Z","to":"2026-05-08T23:43:56.087Z","count":25,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-05-09T00:04:17.033Z","to":"2026-05-09T12:18:03.409Z","count":32,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-05-09T12:36:15.310Z","to":"2026-05-09T12:36:15.310Z","count":1,"avg":910,"min":910,"max":910,"p95":910}
-{"type":"fail","from":"2026-05-09T12:57:42.146Z","to":"2026-05-09T12:57:42.146Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-05-09T13:18:11.331Z","to":"2026-05-09T23:54:25.408Z","count":33,"avg":384,"min":210,"max":838,"p95":623}
-{"type":"ok","from":"2026-05-10T00:15:41.063Z","to":"2026-05-10T16:17:31.223Z","count":46,"avg":425,"min":225,"max":757,"p95":559}
-{"type":"fail","from":"2026-05-10T16:36:30.956Z","to":"2026-05-10T16:56:10.384Z","count":2,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-05-10T17:15:35.819Z","to":"2026-05-10T23:54:25.029Z","count":21,"avg":436,"min":216,"max":859,"p95":596}
-{"type":"ok","from":"2026-05-11T00:15:07.912Z","to":"2026-05-11T22:34:59.195Z","count":67,"avg":420,"min":202,"max":800,"p95":690}
-{"type":"fail","from":"2026-05-11T22:54:46.109Z","to":"2026-05-11T22:54:46.109Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-05-11T23:15:47.449Z","to":"2026-05-11T23:56:34.808Z","count":3,"avg":334,"min":211,"max":414,"p95":414}
-{"type":"ok","from":"2026-05-12T00:16:00.840Z","to":"2026-05-12T23:55:54.029Z","count":69,"avg":401,"min":210,"max":747,"p95":638}
-{"type":"ok","from":"2026-05-13T00:16:26.107Z","to":"2026-05-13T23:54:55.262Z","count":70,"avg":420,"min":204,"max":1396,"p95":643}
-{"type":"ok","from":"2026-05-14T00:14:51.740Z","to":"2026-05-14T13:59:32.071Z","count":37,"avg":434,"min":218,"max":2048,"p95":638}
-{"type":"fail","from":"2026-05-14T14:47:26.500Z","to":"2026-05-14T14:47:26.500Z","count":1,"status":521,"error":"HTTP 521","avg_latency":null}
-{"type":"ok","from":"2026-05-14T15:08:36.175Z","to":"2026-05-14T23:55:35.977Z","count":27,"avg":452,"min":216,"max":945,"p95":775}
-{"type":"ok","from":"2026-05-15T00:15:32.642Z","to":"2026-05-15T23:46:10.225Z","count":69,"avg":412,"min":195,"max":683,"p95":664}
-{"type":"ok","from":"2026-05-16T00:06:49.843Z","to":"2026-05-16T23:56:20.092Z","count":64,"avg":391,"min":208,"max":880,"p95":578}
-{"type":"ok","from":"2026-05-17T00:16:19.148Z","to":"2026-05-17T23:55:44.064Z","count":56,"avg":440,"min":198,"max":887,"p95":713}
-{"type":"ok","from":"2026-05-18T00:16:27.994Z","to":"2026-05-18T23:55:01.385Z","count":70,"avg":391,"min":204,"max":707,"p95":621}
+{"type":"ok","from":"2026-05-03T19:13:58.182Z","to":"2026-05-03T23:53:17.554Z","count":15,"avg":758,"min":320,"max":2138,"p95":2138,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-04T00:13:30.096Z","to":"2026-05-04T23:41:13.327Z","count":69,"avg":488,"min":101,"max":3063,"p95":822,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-05T00:02:05.050Z","to":"2026-05-05T23:42:05.415Z","count":72,"avg":324,"min":97,"max":885,"p95":579,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-06T00:02:55.346Z","to":"2026-05-06T23:41:47.926Z","count":72,"avg":380,"min":94,"max":4265,"p95":804,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-07T00:02:01.617Z","to":"2026-05-07T23:43:44.168Z","count":71,"avg":332,"min":105,"max":1523,"p95":626,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-08T00:03:07.981Z","to":"2026-05-08T15:18:54.753Z","count":46,"avg":291,"min":103,"max":708,"p95":479,"url":"https://windhub.cc/api/status"}
+{"type":"fail","from":"2026-05-08T15:46:43.364Z","to":"2026-05-08T23:43:56.087Z","count":25,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://windhub.cc/api/status"}
+{"type":"fail","from":"2026-05-09T00:04:17.033Z","to":"2026-05-09T12:18:03.409Z","count":32,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-09T12:36:15.310Z","to":"2026-05-09T12:36:15.310Z","count":1,"avg":910,"min":910,"max":910,"p95":910,"url":"https://windhub.cc/api/status"}
+{"type":"fail","from":"2026-05-09T12:57:42.146Z","to":"2026-05-09T12:57:42.146Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-09T13:18:11.331Z","to":"2026-05-09T23:54:25.408Z","count":33,"avg":384,"min":210,"max":838,"p95":623,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-10T00:15:41.063Z","to":"2026-05-10T16:17:31.223Z","count":46,"avg":425,"min":225,"max":757,"p95":559,"url":"https://windhub.cc/api/status"}
+{"type":"fail","from":"2026-05-10T16:36:30.956Z","to":"2026-05-10T16:56:10.384Z","count":2,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-10T17:15:35.819Z","to":"2026-05-10T23:54:25.029Z","count":21,"avg":436,"min":216,"max":859,"p95":596,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-11T00:15:07.912Z","to":"2026-05-11T22:34:59.195Z","count":67,"avg":420,"min":202,"max":800,"p95":690,"url":"https://windhub.cc/api/status"}
+{"type":"fail","from":"2026-05-11T22:54:46.109Z","to":"2026-05-11T22:54:46.109Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-11T23:15:47.449Z","to":"2026-05-11T23:56:34.808Z","count":3,"avg":334,"min":211,"max":414,"p95":414,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-12T00:16:00.840Z","to":"2026-05-12T23:55:54.029Z","count":69,"avg":401,"min":210,"max":747,"p95":638,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-13T00:16:26.107Z","to":"2026-05-13T23:54:55.262Z","count":70,"avg":420,"min":204,"max":1396,"p95":643,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-14T00:14:51.740Z","to":"2026-05-14T13:59:32.071Z","count":37,"avg":434,"min":218,"max":2048,"p95":638,"url":"https://windhub.cc/api/status"}
+{"type":"fail","from":"2026-05-14T14:47:26.500Z","to":"2026-05-14T14:47:26.500Z","count":1,"status":521,"error":"HTTP 521","avg_latency":null,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-14T15:08:36.175Z","to":"2026-05-14T23:55:35.977Z","count":27,"avg":452,"min":216,"max":945,"p95":775,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-15T00:15:32.642Z","to":"2026-05-15T23:46:10.225Z","count":69,"avg":412,"min":195,"max":683,"p95":664,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-16T00:06:49.843Z","to":"2026-05-16T23:56:20.092Z","count":64,"avg":391,"min":208,"max":880,"p95":578,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-17T00:16:19.148Z","to":"2026-05-17T23:55:44.064Z","count":56,"avg":440,"min":198,"max":887,"p95":713,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-18T00:16:27.994Z","to":"2026-05-18T23:55:01.385Z","count":70,"avg":391,"min":204,"max":707,"p95":621,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-05-19T00:16:32.357Z","to":"2026-05-19T03:56:39.722Z","count":12,"url":"https://windhub.cc/api/status","avg":462,"min":211,"max":899,"p95":899}
+{"type":"ok","from":"2026-05-19T04:18:06.726Z","to":"2026-05-19T04:18:06.726Z","count":1,"url":"https://windhub.cc/v1/models","avg":1844,"min":1844,"max":1844,"p95":1844}
+{"type":"ok","from":"2026-05-19T04:38:38.605Z","to":"2026-05-19T23:57:02.320Z","count":53,"url":"https://windhub.cc/api/status","avg":411,"min":204,"max":851,"p95":696}

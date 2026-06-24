@@ -59,3 +59,7 @@
 {"type":"ok","from":"2026-05-16T00:03:01.545Z","to":"2026-05-16T23:52:33.250Z","count":64,"url":"https://ai.wsocket.xyz/api/status","avg":282,"min":170,"max":603,"p95":463}
 {"type":"ok","from":"2026-05-17T00:12:31.595Z","to":"2026-05-17T23:51:57.544Z","count":56,"url":"https://ai.wsocket.xyz/api/status","avg":306,"min":152,"max":762,"p95":705}
 {"type":"ok","from":"2026-05-18T00:12:39.990Z","to":"2026-05-18T23:51:34.460Z","count":71,"url":"https://ai.wsocket.xyz/api/status","avg":293,"min":149,"max":1103,"p95":533}
+{"type":"ok","from":"2026-05-19T00:13:04.571Z","to":"2026-05-19T15:04:34.739Z","count":41,"url":"https://ai.wsocket.xyz/api/status","avg":296,"min":191,"max":706,"p95":558}
+{"type":"fail","from":"2026-05-19T15:24:25.475Z","to":"2026-05-19T15:24:25.475Z","count":1,"url":"https://ai.wsocket.xyz/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-05-19T15:45:33.407Z","to":"2026-05-19T15:45:33.407Z","count":1,"url":"https://ai.wsocket.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-19T16:15:08.450Z","to":"2026-05-19T23:52:53.888Z","count":23,"url":"https://ai.wsocket.xyz/api/status","avg":262,"min":217,"max":441,"p95":424}

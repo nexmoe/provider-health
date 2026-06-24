@@ -66,3 +66,6 @@
 {"type":"ok","from":"2026-05-18T00:02:07.007Z","to":"2026-05-18T14:01:56.554Z","count":43,"url":"https://api.ocoolai.com/api/status","avg":2025,"min":1260,"max":3927,"p95":2979}
 {"type":"ok","from":"2026-05-18T14:21:56.793Z","to":"2026-05-18T14:21:56.793Z","count":1,"url":"https://api.ocoolai.com/v1/models","avg":2979,"min":2979,"max":2979,"p95":2979}
 {"type":"ok","from":"2026-05-18T14:41:48.831Z","to":"2026-05-18T23:41:48.942Z","count":28,"url":"https://api.ocoolai.com/api/status","avg":1863,"min":1005,"max":2463,"p95":2393}
+{"type":"ok","from":"2026-05-19T00:02:03.997Z","to":"2026-05-19T22:21:49.349Z","count":66,"url":"https://api.ocoolai.com/api/status","avg":2198,"min":1004,"max":3565,"p95":3335}
+{"type":"fail","from":"2026-05-19T22:42:23.425Z","to":"2026-05-19T22:42:23.425Z","count":1,"url":"https://api.ocoolai.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-19T23:01:58.138Z","to":"2026-05-19T23:41:53.103Z","count":3,"url":"https://api.ocoolai.com/api/status","avg":1752,"min":1458,"max":1964,"p95":1964}

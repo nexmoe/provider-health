@@ -537,3 +537,13 @@
 {"type":"ok","from":"2026-05-18T19:55:09.983Z","to":"2026-05-18T22:15:35.208Z","count":8,"url":"https://api.6i2.com/api/status","avg":2913,"min":1864,"max":4296,"p95":4296}
 {"type":"ok","from":"2026-05-18T22:35:52.714Z","to":"2026-05-18T22:35:52.714Z","count":1,"url":"https://api.6i2.com/v1/models","avg":279,"min":279,"max":279,"p95":279}
 {"type":"ok","from":"2026-05-18T22:55:25.252Z","to":"2026-05-18T23:55:48.056Z","count":4,"url":"https://api.6i2.com/api/status","avg":2937,"min":1647,"max":4794,"p95":4794}
+{"type":"ok","from":"2026-05-19T00:17:16.417Z","to":"2026-05-19T00:36:50.023Z","count":2,"url":"https://api.6i2.com/api/status","avg":2279,"min":1803,"max":2755,"p95":2755}
+{"type":"ok","from":"2026-05-19T00:56:26.119Z","to":"2026-05-19T01:18:18.214Z","count":2,"url":"https://api.6i2.com/v1/models","avg":3682,"min":3649,"max":3715,"p95":3715}
+{"type":"ok","from":"2026-05-19T01:37:30.207Z","to":"2026-05-19T01:37:30.207Z","count":1,"url":"https://api.6i2.com/api/status","avg":2402,"min":2402,"max":2402,"p95":2402}
+{"type":"ok","from":"2026-05-19T01:58:11.231Z","to":"2026-05-19T01:58:11.231Z","count":1,"url":"https://api.6i2.com/v1/models","avg":1603,"min":1603,"max":1603,"p95":1603}
+{"type":"ok","from":"2026-05-19T02:19:16.386Z","to":"2026-05-19T03:57:23.942Z","count":6,"url":"https://api.6i2.com/api/status","avg":2661,"min":1323,"max":4711,"p95":4711}
+{"type":"ok","from":"2026-05-19T04:18:55.002Z","to":"2026-05-19T04:18:55.002Z","count":1,"url":"https://api.6i2.com/v1/models","avg":1064,"min":1064,"max":1064,"p95":1064}
+{"type":"fail","from":"2026-05-19T04:39:57.192Z","to":"2026-05-19T04:39:57.192Z","count":1,"url":"https://api.6i2.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-05-19T05:08:18.255Z","to":"2026-05-19T10:27:48.961Z","count":17,"url":"https://api.6i2.com/api/status","avg":890,"min":726,"max":1093,"p95":1093}
+{"type":"fail","from":"2026-05-19T11:31:24.619Z","to":"2026-05-19T15:49:45.150Z","count":12,"url":"https://api.6i2.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-19T16:19:57.894Z","to":"2026-05-19T23:58:29.210Z","count":23,"url":"https://api.6i2.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

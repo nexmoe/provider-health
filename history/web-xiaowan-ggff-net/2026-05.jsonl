@@ -48,3 +48,6 @@
 {"type":"ok","from":"2026-05-18T10:40:38.828Z","to":"2026-05-18T16:51:21.568Z","count":19,"url":"https://web.xiaowan.ggff.net/api/status","avg":1003,"min":522,"max":2119,"p95":2119}
 {"type":"fail","from":"2026-05-18T17:12:23.233Z","to":"2026-05-18T17:12:23.233Z","count":1,"url":"https://web.xiaowan.ggff.net/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-18T17:30:37.134Z","to":"2026-05-18T23:49:34.192Z","count":20,"url":"https://web.xiaowan.ggff.net/api/status","avg":950,"min":717,"max":1237,"p95":1237}
+{"type":"ok","from":"2026-05-19T00:10:55.370Z","to":"2026-05-19T00:49:58.320Z","count":3,"url":"https://web.xiaowan.ggff.net/api/status","avg":886,"min":850,"max":913,"p95":913}
+{"type":"fail","from":"2026-05-19T01:11:25.892Z","to":"2026-05-19T01:30:55.490Z","count":2,"url":"https://web.xiaowan.ggff.net/api/status","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"ok","from":"2026-05-19T01:51:20.685Z","to":"2026-05-19T23:50:31.304Z","count":62,"url":"https://web.xiaowan.ggff.net/api/status","avg":974,"min":738,"max":1872,"p95":1127}
