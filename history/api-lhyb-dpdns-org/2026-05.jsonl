@@ -29,3 +29,9 @@
 {"type":"ok","from":"2026-05-19T00:05:10.057Z","to":"2026-05-19T05:15:10.872Z","count":16,"url":"https://api.lhyb.dpdns.org/api/status","avg":754,"min":374,"max":1647,"p95":1647}
 {"type":"fail","from":"2026-05-19T05:35:30.345Z","to":"2026-05-19T05:35:30.345Z","count":1,"url":"https://api.lhyb.dpdns.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-19T05:54:56.810Z","to":"2026-05-19T23:45:19.921Z","count":52,"url":"https://api.lhyb.dpdns.org/api/status","avg":727,"min":362,"max":1475,"p95":1265}
+{"type":"ok","from":"2026-05-20T00:05:18.797Z","to":"2026-05-20T00:25:00.579Z","count":2,"url":"https://api.lhyb.dpdns.org/api/status","avg":452,"min":360,"max":544,"p95":544}
+{"type":"fail","from":"2026-05-20T00:45:04.392Z","to":"2026-05-20T01:05:16.937Z","count":2,"url":"https://api.lhyb.dpdns.org/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-05-20T01:25:22.277Z","to":"2026-05-20T01:45:18.218Z","count":2,"url":"https://api.lhyb.dpdns.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-20T02:05:24.865Z","to":"2026-05-20T02:05:24.865Z","count":1,"url":"https://api.lhyb.dpdns.org/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-05-20T02:25:14.879Z","to":"2026-05-20T03:35:44.069Z","count":4,"url":"https://api.lhyb.dpdns.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-20T07:25:20.074Z","to":"2026-05-20T23:45:17.015Z","count":44,"url":"https://api.lhyb.dpdns.org/api/status","avg":690,"min":361,"max":3089,"p95":1188}

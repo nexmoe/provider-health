@@ -29,3 +29,6 @@
 {"type":"fail","from":"2026-05-18T09:52:25.941Z","to":"2026-05-18T09:52:25.941Z","count":1,"url":"https://azapi.com.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-18T10:12:13.080Z","to":"2026-05-18T23:42:09.155Z","count":41,"url":"https://azapi.com.cn/api/status","avg":1172,"min":890,"max":2138,"p95":1555}
 {"type":"ok","from":"2026-05-19T00:02:22.627Z","to":"2026-05-19T23:42:12.492Z","count":70,"url":"https://azapi.com.cn/api/status","avg":1262,"min":913,"max":2300,"p95":2083}
+{"type":"ok","from":"2026-05-20T00:02:22.652Z","to":"2026-05-20T15:32:19.315Z","count":32,"url":"https://azapi.com.cn/api/status","avg":1201,"min":975,"max":1797,"p95":1620}
+{"type":"fail","from":"2026-05-20T16:02:23.571Z","to":"2026-05-20T16:02:23.571Z","count":1,"url":"https://azapi.com.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-05-20T16:32:13.515Z","to":"2026-05-20T23:42:13.744Z","count":22,"url":"https://azapi.com.cn/api/status","avg":1212,"min":978,"max":1561,"p95":1438}

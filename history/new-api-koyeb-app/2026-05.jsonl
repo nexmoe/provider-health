@@ -17,3 +17,11 @@
 {"type":"ok","from":"2026-05-17T00:16:39.567Z","to":"2026-05-17T23:56:04.374Z","count":56,"url":"https://new-api.koyeb.app/api/status","avg":446,"min":326,"max":973,"p95":862}
 {"type":"ok","from":"2026-05-18T00:16:48.369Z","to":"2026-05-18T23:55:21.793Z","count":70,"url":"https://new-api.koyeb.app/api/status","avg":448,"min":318,"max":1037,"p95":777}
 {"type":"ok","from":"2026-05-19T00:16:52.434Z","to":"2026-05-19T23:57:23.028Z","count":66,"url":"https://new-api.koyeb.app/api/status","avg":698,"min":345,"max":2014,"p95":1392}
+{"type":"ok","from":"2026-05-20T00:17:36.282Z","to":"2026-05-20T00:17:36.282Z","count":1,"url":"https://new-api.koyeb.app/api/status","avg":430,"min":430,"max":430,"p95":430}
+{"type":"fail","from":"2026-05-20T00:37:24.307Z","to":"2026-05-20T00:57:11.784Z","count":2,"url":"https://new-api.koyeb.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-20T01:18:06.805Z","to":"2026-05-20T01:38:19.770Z","count":2,"url":"https://new-api.koyeb.app/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-05-20T01:57:14.851Z","to":"2026-05-20T01:57:14.851Z","count":1,"url":"https://new-api.koyeb.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-20T02:18:39.441Z","to":"2026-05-20T02:18:39.441Z","count":1,"url":"https://new-api.koyeb.app/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-05-20T02:38:02.009Z","to":"2026-05-20T02:58:21.118Z","count":2,"url":"https://new-api.koyeb.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-20T03:19:54.367Z","to":"2026-05-20T03:48:59.653Z","count":2,"url":"https://new-api.koyeb.app/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"ok","from":"2026-05-20T07:38:24.753Z","to":"2026-05-20T23:57:33.923Z","count":44,"url":"https://new-api.koyeb.app/api/status","avg":782,"min":364,"max":1609,"p95":1329}
