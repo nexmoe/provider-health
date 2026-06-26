@@ -35,3 +35,4 @@
 {"type":"fail","from":"2026-05-20T02:05:24.865Z","to":"2026-05-20T02:05:24.865Z","count":1,"url":"https://api.lhyb.dpdns.org/api/status","status":503,"error":"HTTP 503","avg_latency":null}
 {"type":"fail","from":"2026-05-20T02:25:14.879Z","to":"2026-05-20T03:35:44.069Z","count":4,"url":"https://api.lhyb.dpdns.org/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-20T07:25:20.074Z","to":"2026-05-20T23:45:17.015Z","count":44,"url":"https://api.lhyb.dpdns.org/api/status","avg":690,"min":361,"max":3089,"p95":1188}
+{"type":"ok","from":"2026-05-21T00:05:13.916Z","to":"2026-05-21T23:45:13.199Z","count":59,"url":"https://api.lhyb.dpdns.org/api/status","avg":637,"min":361,"max":1695,"p95":1008}

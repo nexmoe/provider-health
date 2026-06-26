@@ -18,3 +18,45 @@
 {"type":"ok","from":"2026-05-20T23:18:05.046Z","to":"2026-05-20T23:18:05.046Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":394,"min":394,"max":394,"p95":394}
 {"type":"fail","from":"2026-05-20T23:38:58.378Z","to":"2026-05-20T23:38:58.378Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-20T23:58:45.108Z","to":"2026-05-20T23:58:45.108Z","count":1,"url":"https://api.ai-claw.cloud/v1/models","avg":433,"min":433,"max":433,"p95":433}
+{"type":"ok","from":"2026-05-21T00:18:32.891Z","to":"2026-05-21T00:18:32.891Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":451,"min":451,"max":451,"p95":451}
+{"type":"ok","from":"2026-05-21T00:38:05.353Z","to":"2026-05-21T00:38:05.353Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":398,"min":398,"max":398,"p95":398}
+{"type":"fail","from":"2026-05-21T00:58:41.036Z","to":"2026-05-21T00:58:41.036Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T01:19:16.650Z","to":"2026-05-21T01:19:16.650Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":457,"min":457,"max":457,"p95":457}
+{"type":"fail","from":"2026-05-21T01:38:30.513Z","to":"2026-05-21T02:21:12.365Z","count":3,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T02:50:52.697Z","to":"2026-05-21T02:50:52.697Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":398,"min":398,"max":398,"p95":398}
+{"type":"fail","from":"2026-05-21T03:21:03.618Z","to":"2026-05-21T03:21:03.618Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T03:49:58.967Z","to":"2026-05-21T03:49:58.967Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":552,"min":552,"max":552,"p95":552}
+{"type":"ok","from":"2026-05-21T04:10:33.048Z","to":"2026-05-21T04:10:33.048Z","count":1,"url":"https://api.ai-claw.cloud/status","avg":471,"min":471,"max":471,"p95":471}
+{"type":"ok","from":"2026-05-21T04:39:37.032Z","to":"2026-05-21T04:39:37.032Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":523,"min":523,"max":523,"p95":523}
+{"type":"ok","from":"2026-05-21T05:00:06.339Z","to":"2026-05-21T05:00:06.339Z","count":1,"url":"https://api.ai-claw.cloud/v1/models","avg":584,"min":584,"max":584,"p95":584}
+{"type":"ok","from":"2026-05-21T05:18:37.677Z","to":"2026-05-21T05:18:37.677Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":447,"min":447,"max":447,"p95":447}
+{"type":"fail","from":"2026-05-21T05:41:26.642Z","to":"2026-05-21T06:09:53.062Z","count":2,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T06:30:04.658Z","to":"2026-05-21T06:30:04.658Z","count":1,"url":"https://api.ai-claw.cloud/status","avg":1580,"min":1580,"max":1580,"p95":1580}
+{"type":"ok","from":"2026-05-21T06:52:16.776Z","to":"2026-05-21T06:52:16.776Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":426,"min":426,"max":426,"p95":426}
+{"type":"fail","from":"2026-05-21T07:22:25.888Z","to":"2026-05-21T07:22:25.888Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T07:50:39.857Z","to":"2026-05-21T07:50:39.857Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":503,"min":503,"max":503,"p95":503}
+{"type":"fail","from":"2026-05-21T08:21:33.985Z","to":"2026-05-21T09:49:00.289Z","count":4,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T10:10:06.348Z","to":"2026-05-21T10:10:06.348Z","count":1,"url":"https://api.ai-claw.cloud/v1/models","avg":1345,"min":1345,"max":1345,"p95":1345}
+{"type":"ok","from":"2026-05-21T10:38:46.266Z","to":"2026-05-21T10:38:46.266Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":1175,"min":1175,"max":1175,"p95":1175}
+{"type":"fail","from":"2026-05-21T11:00:08.592Z","to":"2026-05-21T11:00:08.592Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T11:20:14.317Z","to":"2026-05-21T12:20:35.558Z","count":3,"url":"https://api.ai-claw.cloud/api/status","avg":2357,"min":540,"max":4877,"p95":4877}
+{"type":"ok","from":"2026-05-21T12:53:45.332Z","to":"2026-05-21T12:53:45.332Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":451,"min":451,"max":451,"p95":451}
+{"type":"fail","from":"2026-05-21T13:21:31.648Z","to":"2026-05-21T14:51:46.346Z","count":3,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T15:22:23.808Z","to":"2026-05-21T15:53:29.898Z","count":2,"url":"https://api.ai-claw.cloud/v1/models","avg":447,"min":402,"max":492,"p95":492}
+{"type":"ok","from":"2026-05-21T16:20:31.558Z","to":"2026-05-21T16:20:31.558Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":453,"min":453,"max":453,"p95":453}
+{"type":"fail","from":"2026-05-21T16:50:35.978Z","to":"2026-05-21T16:50:35.978Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T17:20:08.734Z","to":"2026-05-21T17:20:08.734Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":468,"min":468,"max":468,"p95":468}
+{"type":"ok","from":"2026-05-21T17:50:36.226Z","to":"2026-05-21T17:50:36.226Z","count":1,"url":"https://api.ai-claw.cloud/v1/models","avg":438,"min":438,"max":438,"p95":438}
+{"type":"fail","from":"2026-05-21T18:19:36.897Z","to":"2026-05-21T19:19:16.659Z","count":4,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T19:38:19.271Z","to":"2026-05-21T19:38:19.271Z","count":1,"url":"https://api.ai-claw.cloud/v1/models","avg":447,"min":447,"max":447,"p95":447}
+{"type":"fail","from":"2026-05-21T19:58:22.076Z","to":"2026-05-21T20:18:27.297Z","count":2,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T20:37:56.720Z","to":"2026-05-21T20:37:56.720Z","count":1,"url":"https://api.ai-claw.cloud/v1/models","avg":541,"min":541,"max":541,"p95":541}
+{"type":"fail","from":"2026-05-21T20:58:24.054Z","to":"2026-05-21T20:58:24.054Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T21:18:44.992Z","to":"2026-05-21T21:18:44.992Z","count":1,"url":"https://api.ai-claw.cloud/status","avg":455,"min":455,"max":455,"p95":455}
+{"type":"fail","from":"2026-05-21T21:38:55.539Z","to":"2026-05-21T21:38:55.539Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T21:57:42.477Z","to":"2026-05-21T21:57:42.477Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":542,"min":542,"max":542,"p95":542}
+{"type":"ok","from":"2026-05-21T22:18:19.827Z","to":"2026-05-21T22:18:19.827Z","count":1,"url":"https://api.ai-claw.cloud/status","avg":437,"min":437,"max":437,"p95":437}
+{"type":"ok","from":"2026-05-21T22:38:26.696Z","to":"2026-05-21T22:38:26.696Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":457,"min":457,"max":457,"p95":457}
+{"type":"ok","from":"2026-05-21T22:58:37.118Z","to":"2026-05-21T22:58:37.118Z","count":1,"url":"https://api.ai-claw.cloud/api/status","avg":455,"min":455,"max":455,"p95":455}
+{"type":"ok","from":"2026-05-21T23:19:25.200Z","to":"2026-05-21T23:19:25.200Z","count":1,"url":"https://api.ai-claw.cloud/health","avg":541,"min":541,"max":541,"p95":541}
+{"type":"ok","from":"2026-05-21T23:39:31.177Z","to":"2026-05-21T23:59:22.906Z","count":2,"url":"https://api.ai-claw.cloud/v1/models","avg":439,"min":436,"max":441,"p95":441}

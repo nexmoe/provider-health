@@ -110,3 +110,8 @@
 {"type":"ok","from":"2026-05-20T00:03:57.903Z","to":"2026-05-20T12:04:12.997Z","count":25,"url":"https://new-api.shiho.top/api/status","avg":2203,"min":1681,"max":3012,"p95":2927}
 {"type":"ok","from":"2026-05-20T12:34:17.893Z","to":"2026-05-20T12:34:17.893Z","count":1,"url":"https://new-api.shiho.top/status","avg":4802,"min":4802,"max":4802,"p95":4802}
 {"type":"ok","from":"2026-05-20T13:04:13.935Z","to":"2026-05-20T23:43:48.740Z","count":29,"url":"https://new-api.shiho.top/api/status","avg":2123,"min":1696,"max":3083,"p95":2734}
+{"type":"ok","from":"2026-05-21T00:03:56.090Z","to":"2026-05-21T12:34:24.619Z","count":31,"url":"https://new-api.shiho.top/api/status","avg":2074,"min":1730,"max":3242,"p95":2534}
+{"type":"ok","from":"2026-05-21T13:04:29.132Z","to":"2026-05-21T13:04:29.132Z","count":1,"url":"https://new-api.shiho.top/health","avg":3304,"min":3304,"max":3304,"p95":3304}
+{"type":"fail","from":"2026-05-21T13:34:32.497Z","to":"2026-05-21T13:34:32.497Z","count":1,"url":"https://new-api.shiho.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T14:04:17.345Z","to":"2026-05-21T23:04:02.230Z","count":24,"url":"https://new-api.shiho.top/api/status","avg":2173,"min":1547,"max":4424,"p95":2831}
+{"type":"fail","from":"2026-05-21T23:24:05.319Z","to":"2026-05-21T23:43:59.543Z","count":2,"url":"https://new-api.shiho.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

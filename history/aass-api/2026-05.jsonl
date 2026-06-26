@@ -94,3 +94,6 @@
 {"type":"ok","from":"2026-05-19T10:51:47.655Z","to":"2026-05-19T10:51:47.655Z","count":1,"url":"https://api.aass.cc/v1/models","avg":196,"min":196,"max":196,"p95":196}
 {"type":"ok","from":"2026-05-19T11:11:05.383Z","to":"2026-05-19T23:41:08.543Z","count":37,"url":"https://api.aass.cc/api/status","avg":2117,"min":1231,"max":4157,"p95":3141}
 {"type":"ok","from":"2026-05-20T00:01:19.562Z","to":"2026-05-20T23:41:09.855Z","count":55,"url":"https://api.aass.cc/api/status","avg":2010,"min":1242,"max":4992,"p95":3369}
+{"type":"ok","from":"2026-05-21T00:01:14.864Z","to":"2026-05-21T08:01:16.958Z","count":21,"url":"https://api.aass.cc/api/status","avg":2341,"min":1416,"max":4059,"p95":3482}
+{"type":"fail","from":"2026-05-21T08:32:30.995Z","to":"2026-05-21T08:32:30.995Z","count":1,"url":"https://api.aass.cc/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-21T09:01:20.267Z","to":"2026-05-21T23:41:02.315Z","count":37,"url":"https://api.aass.cc/api/status","avg":1819,"min":1141,"max":3262,"p95":2896}

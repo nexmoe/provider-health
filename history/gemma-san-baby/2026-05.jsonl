@@ -1,29 +1,31 @@
-{"url":"https://gemma.san.baby/api/status"}
-{"type":"ok","from":"2026-05-01T00:02:09.674Z","to":"2026-05-01T23:42:23.200Z","count":72,"avg":1404,"min":974,"max":3614,"p95":2219}
-{"type":"ok","from":"2026-05-02T00:03:22.618Z","to":"2026-05-02T23:42:39.599Z","count":67,"avg":1209,"min":492,"max":2272,"p95":2032}
-{"type":"ok","from":"2026-05-03T00:02:55.923Z","to":"2026-05-03T23:52:21.438Z","count":72,"avg":1404,"min":536,"max":3601,"p95":2450}
-{"type":"ok","from":"2026-05-04T00:12:34.924Z","to":"2026-05-04T23:40:21.122Z","count":69,"avg":1494,"min":716,"max":3512,"p95":3224}
-{"type":"ok","from":"2026-05-05T00:01:14.276Z","to":"2026-05-05T10:03:01.014Z","count":31,"avg":1204,"min":718,"max":2189,"p95":1959}
-{"type":"fail","from":"2026-05-05T10:22:42.244Z","to":"2026-05-05T23:41:13.761Z","count":41,"status":530,"error":"HTTP 530","avg_latency":null}
-{"type":"fail","from":"2026-05-06T00:02:03.214Z","to":"2026-05-06T00:21:55.706Z","count":2,"status":530,"error":"HTTP 530","avg_latency":null}
-{"type":"fail","from":"2026-05-06T00:42:00.933Z","to":"2026-05-06T00:42:00.933Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-05-06T01:02:04.257Z","to":"2026-05-06T23:40:56.185Z","count":69,"avg":1582,"min":945,"max":2663,"p95":2221}
-{"type":"ok","from":"2026-05-07T00:01:07.454Z","to":"2026-05-07T23:41:24.692Z","count":71,"avg":1637,"min":1155,"max":4557,"p95":2625}
-{"type":"ok","from":"2026-05-08T00:01:06.108Z","to":"2026-05-08T23:42:05.383Z","count":71,"avg":1226,"min":611,"max":3302,"p95":1938}
-{"type":"ok","from":"2026-05-09T00:02:26.779Z","to":"2026-05-09T23:51:40.911Z","count":67,"avg":924,"min":463,"max":2195,"p95":1371}
-{"type":"ok","from":"2026-05-10T00:12:56.730Z","to":"2026-05-10T23:51:40.383Z","count":69,"avg":939,"min":518,"max":1866,"p95":1521}
-{"type":"ok","from":"2026-05-11T00:12:23.356Z","to":"2026-05-11T23:53:30.518Z","count":71,"avg":966,"min":505,"max":3907,"p95":1499}
-{"type":"ok","from":"2026-05-12T00:12:56.293Z","to":"2026-05-12T23:52:49.592Z","count":69,"avg":943,"min":574,"max":2498,"p95":1634}
-{"type":"ok","from":"2026-05-13T00:13:21.130Z","to":"2026-05-13T23:51:50.792Z","count":70,"avg":941,"min":496,"max":1563,"p95":1409}
-{"type":"ok","from":"2026-05-14T00:11:47.190Z","to":"2026-05-14T23:52:30.864Z","count":65,"avg":966,"min":604,"max":1622,"p95":1459}
-{"type":"ok","from":"2026-05-15T00:12:27.583Z","to":"2026-05-15T02:53:29.338Z","count":9,"avg":1547,"min":763,"max":3251,"p95":3251}
-{"type":"fail","from":"2026-05-15T03:13:36.256Z","to":"2026-05-15T03:13:36.256Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-05-15T03:33:30.121Z","to":"2026-05-15T03:33:30.121Z","count":1,"status":530,"error":"HTTP 530","avg_latency":null}
-{"type":"ok","from":"2026-05-15T03:53:31.752Z","to":"2026-05-15T23:43:04.280Z","count":58,"avg":999,"min":572,"max":2033,"p95":1414}
-{"type":"ok","from":"2026-05-16T00:03:45.008Z","to":"2026-05-16T23:53:16.553Z","count":64,"avg":1037,"min":612,"max":1849,"p95":1459}
-{"type":"ok","from":"2026-05-17T00:13:14.960Z","to":"2026-05-17T23:52:39.357Z","count":56,"avg":1020,"min":582,"max":1883,"p95":1397}
-{"type":"ok","from":"2026-05-18T00:13:23.195Z","to":"2026-05-18T06:23:16.914Z","count":19,"avg":1028,"min":735,"max":1537,"p95":1537}
-{"type":"fail","from":"2026-05-18T06:43:47.078Z","to":"2026-05-18T06:43:47.078Z","count":1,"status":530,"error":"HTTP 530","avg_latency":null}
-{"type":"ok","from":"2026-05-18T07:04:57.263Z","to":"2026-05-18T23:52:17.305Z","count":51,"avg":1047,"min":575,"max":1730,"p95":1637}
-{"type":"ok","from":"2026-05-19T00:13:47.927Z","to":"2026-05-19T23:54:17.770Z","count":66,"avg":1026,"min":574,"max":2093,"p95":1418}
-{"type":"ok","from":"2026-05-20T00:14:31.539Z","to":"2026-05-20T23:54:28.570Z","count":55,"avg":945,"min":567,"max":1773,"p95":1431}
+{"type":"ok","from":"2026-05-01T00:02:09.674Z","to":"2026-05-01T23:42:23.200Z","count":72,"avg":1404,"min":974,"max":3614,"p95":2219,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-02T00:03:22.618Z","to":"2026-05-02T23:42:39.599Z","count":67,"avg":1209,"min":492,"max":2272,"p95":2032,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-03T00:02:55.923Z","to":"2026-05-03T23:52:21.438Z","count":72,"avg":1404,"min":536,"max":3601,"p95":2450,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-04T00:12:34.924Z","to":"2026-05-04T23:40:21.122Z","count":69,"avg":1494,"min":716,"max":3512,"p95":3224,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-05T00:01:14.276Z","to":"2026-05-05T10:03:01.014Z","count":31,"avg":1204,"min":718,"max":2189,"p95":1959,"url":"https://gemma.san.baby/api/status"}
+{"type":"fail","from":"2026-05-05T10:22:42.244Z","to":"2026-05-05T23:41:13.761Z","count":41,"status":530,"error":"HTTP 530","avg_latency":null,"url":"https://gemma.san.baby/api/status"}
+{"type":"fail","from":"2026-05-06T00:02:03.214Z","to":"2026-05-06T00:21:55.706Z","count":2,"status":530,"error":"HTTP 530","avg_latency":null,"url":"https://gemma.san.baby/api/status"}
+{"type":"fail","from":"2026-05-06T00:42:00.933Z","to":"2026-05-06T00:42:00.933Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-06T01:02:04.257Z","to":"2026-05-06T23:40:56.185Z","count":69,"avg":1582,"min":945,"max":2663,"p95":2221,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-07T00:01:07.454Z","to":"2026-05-07T23:41:24.692Z","count":71,"avg":1637,"min":1155,"max":4557,"p95":2625,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-08T00:01:06.108Z","to":"2026-05-08T23:42:05.383Z","count":71,"avg":1226,"min":611,"max":3302,"p95":1938,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-09T00:02:26.779Z","to":"2026-05-09T23:51:40.911Z","count":67,"avg":924,"min":463,"max":2195,"p95":1371,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-10T00:12:56.730Z","to":"2026-05-10T23:51:40.383Z","count":69,"avg":939,"min":518,"max":1866,"p95":1521,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-11T00:12:23.356Z","to":"2026-05-11T23:53:30.518Z","count":71,"avg":966,"min":505,"max":3907,"p95":1499,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-12T00:12:56.293Z","to":"2026-05-12T23:52:49.592Z","count":69,"avg":943,"min":574,"max":2498,"p95":1634,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-13T00:13:21.130Z","to":"2026-05-13T23:51:50.792Z","count":70,"avg":941,"min":496,"max":1563,"p95":1409,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-14T00:11:47.190Z","to":"2026-05-14T23:52:30.864Z","count":65,"avg":966,"min":604,"max":1622,"p95":1459,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-15T00:12:27.583Z","to":"2026-05-15T02:53:29.338Z","count":9,"avg":1547,"min":763,"max":3251,"p95":3251,"url":"https://gemma.san.baby/api/status"}
+{"type":"fail","from":"2026-05-15T03:13:36.256Z","to":"2026-05-15T03:13:36.256Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://gemma.san.baby/api/status"}
+{"type":"fail","from":"2026-05-15T03:33:30.121Z","to":"2026-05-15T03:33:30.121Z","count":1,"status":530,"error":"HTTP 530","avg_latency":null,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-15T03:53:31.752Z","to":"2026-05-15T23:43:04.280Z","count":58,"avg":999,"min":572,"max":2033,"p95":1414,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-16T00:03:45.008Z","to":"2026-05-16T23:53:16.553Z","count":64,"avg":1037,"min":612,"max":1849,"p95":1459,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-17T00:13:14.960Z","to":"2026-05-17T23:52:39.357Z","count":56,"avg":1020,"min":582,"max":1883,"p95":1397,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-18T00:13:23.195Z","to":"2026-05-18T06:23:16.914Z","count":19,"avg":1028,"min":735,"max":1537,"p95":1537,"url":"https://gemma.san.baby/api/status"}
+{"type":"fail","from":"2026-05-18T06:43:47.078Z","to":"2026-05-18T06:43:47.078Z","count":1,"status":530,"error":"HTTP 530","avg_latency":null,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-18T07:04:57.263Z","to":"2026-05-18T23:52:17.305Z","count":51,"avg":1047,"min":575,"max":1730,"p95":1637,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-19T00:13:47.927Z","to":"2026-05-19T23:54:17.770Z","count":66,"avg":1026,"min":574,"max":2093,"p95":1418,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-20T00:14:31.539Z","to":"2026-05-20T23:54:28.570Z","count":55,"avg":945,"min":567,"max":1773,"p95":1431,"url":"https://gemma.san.baby/api/status"}
+{"type":"ok","from":"2026-05-21T00:14:08.566Z","to":"2026-05-21T21:34:19.391Z","count":52,"url":"https://gemma.san.baby/api/status","avg":937,"min":557,"max":1483,"p95":1434}
+{"type":"ok","from":"2026-05-21T21:53:40.934Z","to":"2026-05-21T21:53:40.934Z","count":1,"url":"https://gemma.san.baby/v1/models","avg":202,"min":202,"max":202,"p95":202}
+{"type":"ok","from":"2026-05-21T22:13:49.342Z","to":"2026-05-21T23:55:05.879Z","count":6,"url":"https://gemma.san.baby/api/status","avg":1028,"min":825,"max":1482,"p95":1482}
