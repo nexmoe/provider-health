@@ -67,3 +67,6 @@
 {"type":"ok","from":"2026-05-21T08:44:55.344Z","to":"2026-05-21T08:44:55.344Z","count":1,"url":"https://api.mcxhm.cn/v1/models","avg":2374,"min":2374,"max":2374,"p95":2374}
 {"type":"ok","from":"2026-05-21T09:14:14.031Z","to":"2026-05-21T23:53:02.736Z","count":37,"url":"https://api.mcxhm.cn/api/status","avg":1390,"min":1009,"max":2635,"p95":2449}
 {"type":"ok","from":"2026-05-22T00:13:31.294Z","to":"2026-05-22T23:42:17.799Z","count":55,"url":"https://api.mcxhm.cn/api/status","avg":1418,"min":823,"max":3437,"p95":3040}
+{"type":"ok","from":"2026-05-23T00:02:23.533Z","to":"2026-05-23T15:54:50.932Z","count":35,"url":"https://api.mcxhm.cn/api/status","avg":1353,"min":946,"max":2155,"p95":2084}
+{"type":"fail","from":"2026-05-23T16:25:26.891Z","to":"2026-05-23T18:43:04.011Z","count":6,"url":"https://api.mcxhm.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-05-23T19:03:11.358Z","to":"2026-05-23T23:42:08.236Z","count":15,"url":"https://api.mcxhm.cn/api/status","avg":1108,"min":978,"max":1215,"p95":1215}

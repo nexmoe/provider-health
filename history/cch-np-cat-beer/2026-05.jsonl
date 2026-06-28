@@ -31,3 +31,6 @@
 {"type":"ok","from":"2026-05-20T00:18:38.963Z","to":"2026-05-20T23:58:19.276Z","count":55,"url":"https://cch-np.cat.beer/v1/models","avg":151,"min":18,"max":1110,"p95":909}
 {"type":"ok","from":"2026-05-21T00:18:01.921Z","to":"2026-05-21T23:58:56.891Z","count":58,"url":"https://cch-np.cat.beer/v1/models","avg":96,"min":15,"max":1367,"p95":395}
 {"type":"ok","from":"2026-05-22T00:19:31.009Z","to":"2026-05-22T23:48:16.468Z","count":55,"url":"https://cch-np.cat.beer/v1/models","avg":80,"min":14,"max":549,"p95":496}
+{"type":"ok","from":"2026-05-23T00:08:26.004Z","to":"2026-05-23T13:30:43.283Z","count":30,"url":"https://cch-np.cat.beer/v1/models","avg":129,"min":17,"max":603,"p95":514}
+{"type":"fail","from":"2026-05-23T14:02:26.477Z","to":"2026-05-23T19:48:51.094Z","count":14,"url":"https://cch-np.cat.beer/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-23T20:07:24.840Z","to":"2026-05-23T23:48:10.529Z","count":12,"url":"https://cch-np.cat.beer/api/status","status":502,"error":"HTTP 502","avg_latency":null}

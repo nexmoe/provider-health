@@ -128,3 +128,7 @@
 {"type":"ok","from":"2026-05-22T00:13:32.521Z","to":"2026-05-22T16:53:18.499Z","count":36,"url":"https://www.codexeasy.com/api/status","avg":2170,"min":1241,"max":4354,"p95":3913}
 {"type":"ok","from":"2026-05-22T17:14:32.209Z","to":"2026-05-22T17:14:32.209Z","count":1,"url":"https://www.codexeasy.com/v1/models","avg":2215,"min":2215,"max":2215,"p95":2215}
 {"type":"ok","from":"2026-05-22T17:43:19.639Z","to":"2026-05-22T23:42:18.297Z","count":18,"url":"https://www.codexeasy.com/api/status","avg":1838,"min":1378,"max":2370,"p95":2370}
+{"type":"ok","from":"2026-05-23T00:02:23.830Z","to":"2026-05-23T14:55:37.187Z","count":33,"url":"https://www.codexeasy.com/api/status","avg":1896,"min":1266,"max":3246,"p95":3122}
+{"type":"fail","from":"2026-05-23T15:25:38.946Z","to":"2026-05-23T22:01:28.070Z","count":18,"url":"https://www.codexeasy.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-23T22:21:47.051Z","to":"2026-05-23T22:21:47.051Z","count":1,"url":"https://www.codexeasy.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-23T22:41:50.200Z","to":"2026-05-23T23:42:10.244Z","count":4,"url":"https://www.codexeasy.com/api/status","status":null,"error":"fetch failed","avg_latency":null}

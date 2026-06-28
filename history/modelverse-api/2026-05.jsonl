@@ -668,3 +668,21 @@
 {"type":"fail","from":"2026-05-22T21:31:02.412Z","to":"2026-05-22T21:31:02.412Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-05-22T21:50:06.066Z","to":"2026-05-22T23:20:53.320Z","count":5,"url":"https://api.modelverse.cn/v1/models","avg":2888,"min":1077,"max":4126,"p95":4126}
 {"type":"fail","from":"2026-05-22T23:40:48.722Z","to":"2026-05-22T23:40:48.722Z","count":1,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-23T00:00:54.266Z","to":"2026-05-23T00:00:54.266Z","count":1,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-23T00:21:32.026Z","to":"2026-05-23T00:40:55.596Z","count":2,"url":"https://api.modelverse.cn/v1/models","avg":2010,"min":1872,"max":2147,"p95":2147}
+{"type":"fail","from":"2026-05-23T01:01:24.632Z","to":"2026-05-23T01:01:24.632Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-23T01:21:09.195Z","to":"2026-05-23T04:33:11.544Z","count":8,"url":"https://api.modelverse.cn/v1/models","avg":2925,"min":1391,"max":4405,"p95":4405}
+{"type":"fail","from":"2026-05-23T05:01:21.710Z","to":"2026-05-23T05:52:25.505Z","count":2,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-23T06:21:45.066Z","to":"2026-05-23T06:21:45.066Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-23T06:42:31.025Z","to":"2026-05-23T08:13:23.817Z","count":4,"url":"https://api.modelverse.cn/v1/models","avg":3974,"min":3322,"max":4758,"p95":4758}
+{"type":"fail","from":"2026-05-23T08:41:54.319Z","to":"2026-05-23T08:41:54.319Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-23T09:12:08.432Z","to":"2026-05-23T10:11:31.858Z","count":3,"url":"https://api.modelverse.cn/v1/models","avg":3451,"min":2855,"max":4164,"p95":4164}
+{"type":"fail","from":"2026-05-23T10:33:24.826Z","to":"2026-05-23T11:02:08.828Z","count":2,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-23T11:32:24.938Z","to":"2026-05-23T12:58:49.070Z","count":4,"url":"https://api.modelverse.cn/v1/models","avg":2624,"min":2170,"max":3751,"p95":3751}
+{"type":"fail","from":"2026-05-23T13:23:00.091Z","to":"2026-05-23T13:54:26.560Z","count":2,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-23T14:24:30.771Z","to":"2026-05-23T14:24:30.771Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-23T14:53:57.717Z","to":"2026-05-23T19:59:53.694Z","count":13,"url":"https://api.modelverse.cn/v1/models","avg":2805,"min":1109,"max":4838,"p95":4838}
+{"type":"fail","from":"2026-05-23T20:20:10.995Z","to":"2026-05-23T20:20:10.995Z","count":1,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-23T20:40:42.548Z","to":"2026-05-23T21:19:51.585Z","count":3,"url":"https://api.modelverse.cn/v1/models","avg":2727,"min":1151,"max":4911,"p95":4911}
+{"type":"fail","from":"2026-05-23T21:40:36.817Z","to":"2026-05-23T21:40:36.817Z","count":1,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-23T21:59:52.927Z","to":"2026-05-23T23:40:33.031Z","count":6,"url":"https://api.modelverse.cn/v1/models","avg":2650,"min":1356,"max":3698,"p95":3698}
