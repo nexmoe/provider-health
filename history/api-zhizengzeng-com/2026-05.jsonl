@@ -150,3 +150,6 @@
 {"type":"fail","from":"2026-05-23T22:36:17.692Z","to":"2026-05-23T22:36:17.692Z","count":1,"url":"https://api.zhizengzeng.com/api/status","status":400,"error":"HTTP 400","avg_latency":null}
 {"type":"ok","from":"2026-05-23T22:56:05.327Z","to":"2026-05-23T23:56:23.234Z","count":4,"url":"https://api.zhizengzeng.com/v1/models","avg":2607,"min":2062,"max":2980,"p95":2980}
 {"type":"ok","from":"2026-05-24T00:16:02.525Z","to":"2026-05-24T23:46:25.572Z","count":59,"url":"https://api.zhizengzeng.com/v1/models","avg":2172,"min":1281,"max":4205,"p95":3244}
+{"type":"ok","from":"2026-05-25T00:06:17.888Z","to":"2026-05-25T07:56:38.112Z","count":22,"url":"https://api.zhizengzeng.com/v1/models","avg":2224,"min":1298,"max":4104,"p95":3677}
+{"type":"fail","from":"2026-05-25T08:27:11.115Z","to":"2026-05-25T08:27:11.115Z","count":1,"url":"https://api.zhizengzeng.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-25T08:56:08.664Z","to":"2026-05-25T23:56:07.347Z","count":38,"url":"https://api.zhizengzeng.com/v1/models","avg":2129,"min":1249,"max":3651,"p95":3348}

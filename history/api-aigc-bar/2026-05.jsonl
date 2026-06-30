@@ -94,3 +94,14 @@
 {"type":"ok","from":"2026-05-23T00:01:59.555Z","to":"2026-05-23T23:41:43.701Z","count":56,"url":"https://api.aigc.bar/api/status","avg":832,"min":400,"max":3417,"p95":1520}
 {"type":"ok","from":"2026-05-24T00:01:54.657Z","to":"2026-05-24T23:31:30.443Z","count":59,"url":"https://api.aigc.bar/api/status","avg":718,"min":371,"max":2647,"p95":1311}
 {"type":"ok","from":"2026-05-24T23:51:52.432Z","to":"2026-05-24T23:51:52.432Z","count":1,"url":"https://api.aigc.bar/v1/models","avg":48,"min":48,"max":48,"p95":48}
+{"type":"ok","from":"2026-05-25T00:11:28.042Z","to":"2026-05-25T07:43:44.072Z","count":19,"url":"https://api.aigc.bar/api/status","avg":718,"min":429,"max":1221,"p95":1221}
+{"type":"ok","from":"2026-05-25T08:04:14.774Z","to":"2026-05-25T08:04:14.774Z","count":1,"url":"https://api.aigc.bar/v1/models","avg":1097,"min":1097,"max":1097,"p95":1097}
+{"type":"ok","from":"2026-05-25T08:42:59.466Z","to":"2026-05-25T13:45:18.454Z","count":11,"url":"https://api.aigc.bar/api/status","avg":917,"min":545,"max":1526,"p95":1526}
+{"type":"ok","from":"2026-05-25T14:15:21.651Z","to":"2026-05-25T14:15:21.651Z","count":1,"url":"https://api.aigc.bar/v1/models","avg":1321,"min":1321,"max":1321,"p95":1321}
+{"type":"ok","from":"2026-05-25T14:44:45.729Z","to":"2026-05-25T16:33:16.179Z","count":5,"url":"https://api.aigc.bar/api/status","avg":1009,"min":449,"max":1766,"p95":1766}
+{"type":"ok","from":"2026-05-25T16:53:35.492Z","to":"2026-05-25T16:53:35.492Z","count":1,"url":"https://api.aigc.bar/health","avg":1631,"min":1631,"max":1631,"p95":1631}
+{"type":"ok","from":"2026-05-25T17:13:24.143Z","to":"2026-05-25T17:13:24.143Z","count":1,"url":"https://api.aigc.bar/api/status","avg":1172,"min":1172,"max":1172,"p95":1172}
+{"type":"ok","from":"2026-05-25T17:43:03.381Z","to":"2026-05-25T17:43:03.381Z","count":1,"url":"https://api.aigc.bar/v1/models","avg":3397,"min":3397,"max":3397,"p95":3397}
+{"type":"ok","from":"2026-05-25T18:02:34.162Z","to":"2026-05-25T23:01:43.534Z","count":16,"url":"https://api.aigc.bar/api/status","avg":949,"min":647,"max":2011,"p95":2011}
+{"type":"fail","from":"2026-05-25T23:21:33.522Z","to":"2026-05-25T23:21:33.522Z","count":1,"url":"https://api.aigc.bar/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-25T23:41:58.334Z","to":"2026-05-25T23:41:58.334Z","count":1,"url":"https://api.aigc.bar/api/status","avg":1184,"min":1184,"max":1184,"p95":1184}

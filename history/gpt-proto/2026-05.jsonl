@@ -28,3 +28,8 @@
 {"type":"ok","from":"2026-05-22T00:02:28.626Z","to":"2026-05-22T23:52:14.362Z","count":58,"url":"https://gptproto.com/v1/models","avg":47,"min":15,"max":236,"p95":193}
 {"type":"ok","from":"2026-05-23T00:12:17.747Z","to":"2026-05-23T23:52:18.347Z","count":60,"url":"https://gptproto.com/v1/models","avg":26,"min":15,"max":106,"p95":73}
 {"type":"ok","from":"2026-05-24T00:12:15.504Z","to":"2026-05-24T23:42:18.316Z","count":59,"url":"https://gptproto.com/v1/models","avg":40,"min":15,"max":357,"p95":181}
+{"type":"ok","from":"2026-05-25T00:02:26.171Z","to":"2026-05-25T00:42:20.677Z","count":3,"url":"https://gptproto.com/v1/models","avg":895,"min":26,"max":2510,"p95":2510}
+{"type":"fail","from":"2026-05-25T01:02:27.539Z","to":"2026-05-25T01:02:27.539Z","count":1,"url":"https://gptproto.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-25T01:22:15.556Z","to":"2026-05-25T01:42:16.407Z","count":2,"url":"https://gptproto.com/v1/models","avg":23,"min":18,"max":28,"p95":28}
+{"type":"fail","from":"2026-05-25T02:02:35.706Z","to":"2026-05-25T02:02:35.706Z","count":1,"url":"https://gptproto.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-25T02:22:12.093Z","to":"2026-05-25T23:52:15.133Z","count":54,"url":"https://gptproto.com/v1/models","avg":47,"min":15,"max":413,"p95":137}

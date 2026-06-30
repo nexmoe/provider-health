@@ -49,3 +49,7 @@
 {"type":"ok","from":"2026-05-24T19:44:34.149Z","to":"2026-05-24T19:44:34.149Z","count":1,"url":"https://api.123chat.top/api/status","avg":686,"min":686,"max":686,"p95":686}
 {"type":"fail","from":"2026-05-24T20:04:54.872Z","to":"2026-05-24T20:04:54.872Z","count":1,"url":"https://api.123chat.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-24T20:24:38.487Z","to":"2026-05-24T23:44:56.393Z","count":11,"url":"https://api.123chat.top/api/status","avg":860,"min":434,"max":1309,"p95":1309}
+{"type":"ok","from":"2026-05-25T00:04:47.196Z","to":"2026-05-25T06:05:09.058Z","count":18,"url":"https://api.123chat.top/api/status","avg":986,"min":361,"max":1649,"p95":1649}
+{"type":"fail","from":"2026-05-25T06:35:11.046Z","to":"2026-05-25T07:05:07.332Z","count":2,"url":"https://api.123chat.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-05-25T07:35:00.446Z","to":"2026-05-25T07:35:00.446Z","count":1,"url":"https://api.123chat.top/api/status","avg":1032,"min":1032,"max":1032,"p95":1032}
+{"type":"fail","from":"2026-05-25T07:55:23.694Z","to":"2026-05-25T23:54:56.634Z","count":40,"url":"https://api.123chat.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

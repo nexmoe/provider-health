@@ -40,3 +40,11 @@
 {"type":"ok","from":"2026-05-24T21:56:17.901Z","to":"2026-05-24T21:56:17.901Z","count":1,"url":"https://api.jucode.cn/api/status","avg":1241,"min":1241,"max":1241,"p95":1241}
 {"type":"fail","from":"2026-05-24T22:16:41.749Z","to":"2026-05-24T22:16:41.749Z","count":1,"url":"https://api.jucode.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-24T22:37:19.033Z","to":"2026-05-24T23:57:10.102Z","count":5,"url":"https://api.jucode.cn/api/status","avg":1499,"min":1260,"max":1745,"p95":1745}
+{"type":"fail","from":"2026-05-25T00:17:09.453Z","to":"2026-05-25T00:37:15.383Z","count":2,"url":"https://api.jucode.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-25T00:57:29.464Z","to":"2026-05-25T01:17:48.599Z","count":2,"url":"https://api.jucode.cn/api/status","avg":1485,"min":1164,"max":1806,"p95":1806}
+{"type":"ok","from":"2026-05-25T01:37:44.048Z","to":"2026-05-25T01:37:44.048Z","count":1,"url":"https://api.jucode.cn/health","avg":4933,"min":4933,"max":4933,"p95":4933}
+{"type":"ok","from":"2026-05-25T01:57:40.567Z","to":"2026-05-25T04:59:17.856Z","count":8,"url":"https://api.jucode.cn/api/status","avg":1501,"min":1225,"max":1999,"p95":1999}
+{"type":"fail","from":"2026-05-25T05:19:41.343Z","to":"2026-05-25T06:20:12.768Z","count":2,"url":"https://api.jucode.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-25T06:50:06.399Z","to":"2026-05-25T08:48:21.274Z","count":5,"url":"https://api.jucode.cn/api/status","avg":1934,"min":1365,"max":2302,"p95":2302}
+{"type":"fail","from":"2026-05-25T09:09:10.311Z","to":"2026-05-25T09:09:10.311Z","count":1,"url":"https://api.jucode.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-25T10:19:01.838Z","to":"2026-05-25T23:47:19.477Z","count":36,"url":"https://api.jucode.cn/api/status","avg":1592,"min":1109,"max":3228,"p95":2478}
