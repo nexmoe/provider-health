@@ -86,3 +86,6 @@
 {"type":"ok","from":"2026-05-23T22:41:50.312Z","to":"2026-05-23T23:42:09.183Z","count":4,"url":"https://ollama.com/v1/models","avg":1711,"min":656,"max":2577,"p95":2577}
 {"type":"ok","from":"2026-05-24T00:02:20.763Z","to":"2026-05-24T23:52:13.204Z","count":60,"url":"https://ollama.com/v1/models","avg":1723,"min":751,"max":2658,"p95":2516}
 {"type":"ok","from":"2026-05-25T00:11:52.811Z","to":"2026-05-25T23:42:22.157Z","count":58,"url":"https://ollama.com/v1/models","avg":1744,"min":566,"max":2622,"p95":2532}
+{"type":"ok","from":"2026-05-26T00:02:38.358Z","to":"2026-05-26T00:23:04.697Z","count":2,"url":"https://ollama.com/v1/models","avg":1648,"min":1429,"max":1866,"p95":1866}
+{"type":"fail","from":"2026-05-26T00:43:32.588Z","to":"2026-05-26T00:43:32.588Z","count":1,"url":"https://ollama.com/health","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-05-26T01:03:44.693Z","to":"2026-05-26T23:51:53.344Z","count":58,"url":"https://ollama.com/v1/models","avg":1814,"min":691,"max":3256,"p95":2862}
