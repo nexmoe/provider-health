@@ -40,3 +40,8 @@
 {"type":"ok","from":"2026-05-24T00:12:58.606Z","to":"2026-05-24T23:43:01.380Z","count":59,"url":"https://tbai.xin/api/status","avg":1024,"min":784,"max":2008,"p95":1822}
 {"type":"ok","from":"2026-05-25T00:03:08.818Z","to":"2026-05-25T23:52:57.637Z","count":61,"url":"https://tbai.xin/api/status","avg":986,"min":777,"max":1833,"p95":1139}
 {"type":"ok","from":"2026-05-26T00:13:07.542Z","to":"2026-05-26T23:42:56.763Z","count":60,"url":"https://tbai.xin/api/status","avg":997,"min":593,"max":1899,"p95":1204}
+{"type":"ok","from":"2026-05-27T00:03:08.470Z","to":"2026-05-27T00:22:58.011Z","count":2,"url":"https://tbai.xin/api/status","avg":877,"min":869,"max":884,"p95":884}
+{"type":"fail","from":"2026-05-27T00:43:16.131Z","to":"2026-05-27T01:43:20.080Z","count":4,"url":"https://tbai.xin/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-27T02:03:16.360Z","to":"2026-05-27T04:23:00.462Z","count":7,"url":"https://tbai.xin/api/status","avg":1030,"min":910,"max":1191,"p95":1191}
+{"type":"ok","from":"2026-05-27T04:53:02.804Z","to":"2026-05-27T04:53:02.804Z","count":1,"url":"https://tbai.xin/v1/models","avg":685,"min":685,"max":685,"p95":685}
+{"type":"ok","from":"2026-05-27T05:23:00.762Z","to":"2026-05-27T23:52:59.822Z","count":47,"url":"https://tbai.xin/api/status","avg":1067,"min":795,"max":2124,"p95":1494}
