@@ -115,3 +115,8 @@
 {"type":"ok","from":"2026-05-26T02:14:21.049Z","to":"2026-05-26T02:14:21.049Z","count":1,"url":"https://newapi.exynos.top:8443/v1/models","avg":903,"min":903,"max":903,"p95":903}
 {"type":"ok","from":"2026-05-26T02:43:59.349Z","to":"2026-05-26T23:51:48.964Z","count":54,"url":"https://newapi.exynos.top:8443/api/status","avg":1227,"min":954,"max":3664,"p95":2079}
 {"type":"ok","from":"2026-05-27T00:11:55.210Z","to":"2026-05-27T23:43:26.204Z","count":60,"url":"https://newapi.exynos.top:8443/api/status","avg":1227,"min":953,"max":3001,"p95":2675}
+{"type":"ok","from":"2026-05-28T00:02:35.991Z","to":"2026-05-28T01:02:58.798Z","count":4,"url":"https://newapi.exynos.top:8443/api/status","avg":1256,"min":985,"max":1974,"p95":1974}
+{"type":"ok","from":"2026-05-28T01:23:13.304Z","to":"2026-05-28T01:23:13.304Z","count":1,"url":"https://newapi.exynos.top:8443/health","avg":978,"min":978,"max":978,"p95":978}
+{"type":"ok","from":"2026-05-28T01:44:18.634Z","to":"2026-05-28T08:46:06.167Z","count":15,"url":"https://newapi.exynos.top:8443/api/status","avg":1125,"min":957,"max":1891,"p95":1891}
+{"type":"fail","from":"2026-05-28T09:16:08.079Z","to":"2026-05-28T09:16:08.079Z","count":1,"url":"https://newapi.exynos.top:8443/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-28T09:44:53.775Z","to":"2026-05-28T23:53:18.296Z","count":34,"url":"https://newapi.exynos.top:8443/api/status","avg":1232,"min":946,"max":4698,"p95":2133}
