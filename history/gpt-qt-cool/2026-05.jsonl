@@ -49,3 +49,6 @@
 {"type":"fail","from":"2026-05-28T12:16:51.585Z","to":"2026-05-28T12:16:51.585Z","count":1,"url":"https://gpt.qt.cool/api/status","status":522,"error":"HTTP 522","avg_latency":null}
 {"type":"fail","from":"2026-05-28T12:45:32.864Z","to":"2026-05-28T12:45:32.864Z","count":1,"url":"https://gpt.qt.cool/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-05-28T13:15:22.792Z","to":"2026-05-28T23:52:38.928Z","count":27,"url":"https://gpt.qt.cool/v1/models","avg":814,"min":490,"max":1352,"p95":1073}
+{"type":"ok","from":"2026-05-29T00:12:50.167Z","to":"2026-05-29T22:32:13.579Z","count":55,"url":"https://gpt.qt.cool/v1/models","avg":884,"min":435,"max":2112,"p95":1578}
+{"type":"ok","from":"2026-05-29T22:52:31.018Z","to":"2026-05-29T22:52:31.018Z","count":1,"url":"https://gpt.qt.cool/health","avg":471,"min":471,"max":471,"p95":471}
+{"type":"ok","from":"2026-05-29T23:13:04.165Z","to":"2026-05-29T23:53:12.073Z","count":3,"url":"https://gpt.qt.cool/v1/models","avg":760,"min":553,"max":1135,"p95":1135}

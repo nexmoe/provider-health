@@ -42,3 +42,6 @@
 {"type":"ok","from":"2026-05-28T15:21:27.839Z","to":"2026-05-28T17:21:15.430Z","count":5,"url":"https://new-api.abrdns.com/api/status","avg":571,"min":379,"max":760,"p95":760}
 {"type":"ok","from":"2026-05-28T17:50:13.045Z","to":"2026-05-28T17:50:13.045Z","count":1,"url":"https://new-api.abrdns.com/v1/models","avg":680,"min":680,"max":680,"p95":680}
 {"type":"ok","from":"2026-05-28T18:19:49.814Z","to":"2026-05-28T23:57:12.146Z","count":17,"url":"https://new-api.abrdns.com/api/status","avg":1008,"min":446,"max":3073,"p95":3073}
+{"type":"ok","from":"2026-05-29T00:17:24.396Z","to":"2026-05-29T03:09:12.837Z","count":8,"url":"https://new-api.abrdns.com/api/status","avg":810,"min":362,"max":1292,"p95":1292}
+{"type":"fail","from":"2026-05-29T03:38:08.443Z","to":"2026-05-29T03:38:08.443Z","count":1,"url":"https://new-api.abrdns.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-29T03:58:33.607Z","to":"2026-05-29T23:57:25.051Z","count":50,"url":"https://new-api.abrdns.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
