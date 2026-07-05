@@ -161,3 +161,6 @@
 {"type":"fail","from":"2026-05-28T11:07:47.647Z","to":"2026-05-28T11:07:47.647Z","count":1,"url":"https://api.atlascloud.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-05-28T11:37:23.845Z","to":"2026-05-28T23:46:12.704Z","count":30,"url":"https://api.atlascloud.ai/v1/models","avg":2427,"min":1266,"max":5002,"p95":3432}
 {"type":"ok","from":"2026-05-29T00:06:33.381Z","to":"2026-05-29T23:46:25.012Z","count":59,"url":"https://api.atlascloud.ai/v1/models","avg":2408,"min":1171,"max":4011,"p95":3810}
+{"type":"ok","from":"2026-05-30T00:06:42.885Z","to":"2026-05-30T09:26:40.735Z","count":25,"url":"https://api.atlascloud.ai/v1/models","avg":2243,"min":1088,"max":4502,"p95":4489}
+{"type":"fail","from":"2026-05-30T09:56:37.697Z","to":"2026-05-30T09:56:37.697Z","count":1,"url":"https://api.atlascloud.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-05-30T10:26:49.635Z","to":"2026-05-30T23:46:10.667Z","count":34,"url":"https://api.atlascloud.ai/v1/models","avg":1975,"min":996,"max":3097,"p95":2847}

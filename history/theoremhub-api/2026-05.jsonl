@@ -206,3 +206,6 @@
 {"type":"ok","from":"2026-05-29T01:02:40.566Z","to":"2026-05-29T06:12:34.074Z","count":13,"url":"https://api.theoremhub.asia/manyvoices/zh","avg":1463,"min":141,"max":2019,"p95":2019}
 {"type":"fail","from":"2026-05-29T06:42:47.433Z","to":"2026-05-29T06:42:47.433Z","count":1,"url":"https://api.theoremhub.asia/api/status","status":500,"error":"HTTP 500","avg_latency":null}
 {"type":"ok","from":"2026-05-29T07:12:27.710Z","to":"2026-05-29T23:42:31.683Z","count":42,"url":"https://api.theoremhub.asia/manyvoices/zh","avg":1584,"min":108,"max":4960,"p95":2574}
+{"type":"ok","from":"2026-05-30T00:02:43.375Z","to":"2026-05-30T20:42:30.095Z","count":51,"url":"https://api.theoremhub.asia/manyvoices/zh","avg":1713,"min":223,"max":4795,"p95":4276}
+{"type":"fail","from":"2026-05-30T21:02:51.988Z","to":"2026-05-30T21:02:51.988Z","count":1,"url":"https://api.theoremhub.asia/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-30T21:22:26.182Z","to":"2026-05-30T23:42:27.908Z","count":8,"url":"https://api.theoremhub.asia/manyvoices/zh","avg":1187,"min":1046,"max":1359,"p95":1359}
