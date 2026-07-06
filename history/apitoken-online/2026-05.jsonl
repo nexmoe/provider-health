@@ -1,7 +1,13 @@
-{"url":"https://apitoken.online/api/status"}
-{"type":"ok","from":"2026-05-25T19:28:35.336Z","to":"2026-05-25T23:48:16.882Z","count":14,"avg":1682,"min":824,"max":2399,"p95":2399}
-{"type":"ok","from":"2026-05-26T00:08:27.848Z","to":"2026-05-26T23:57:30.640Z","count":58,"avg":1949,"min":981,"max":3801,"p95":3507}
-{"type":"ok","from":"2026-05-27T00:17:28.675Z","to":"2026-05-27T23:49:15.239Z","count":60,"avg":1317,"min":910,"max":4794,"p95":2587}
-{"type":"ok","from":"2026-05-28T00:08:19.706Z","to":"2026-05-28T23:58:39.788Z","count":55,"avg":1242,"min":921,"max":4300,"p95":2514}
-{"type":"ok","from":"2026-05-29T00:18:39.868Z","to":"2026-05-29T23:58:37.639Z","count":59,"avg":1295,"min":923,"max":3171,"p95":2359}
-{"type":"ok","from":"2026-05-30T00:19:27.152Z","to":"2026-05-30T23:58:08.684Z","count":60,"avg":1412,"min":907,"max":3916,"p95":2819}
+{"type":"ok","from":"2026-05-25T19:28:35.336Z","to":"2026-05-25T23:48:16.882Z","count":14,"avg":1682,"min":824,"max":2399,"p95":2399,"url":"https://apitoken.online/api/status"}
+{"type":"ok","from":"2026-05-26T00:08:27.848Z","to":"2026-05-26T23:57:30.640Z","count":58,"avg":1949,"min":981,"max":3801,"p95":3507,"url":"https://apitoken.online/api/status"}
+{"type":"ok","from":"2026-05-27T00:17:28.675Z","to":"2026-05-27T23:49:15.239Z","count":60,"avg":1317,"min":910,"max":4794,"p95":2587,"url":"https://apitoken.online/api/status"}
+{"type":"ok","from":"2026-05-28T00:08:19.706Z","to":"2026-05-28T23:58:39.788Z","count":55,"avg":1242,"min":921,"max":4300,"p95":2514,"url":"https://apitoken.online/api/status"}
+{"type":"ok","from":"2026-05-29T00:18:39.868Z","to":"2026-05-29T23:58:37.639Z","count":59,"avg":1295,"min":923,"max":3171,"p95":2359,"url":"https://apitoken.online/api/status"}
+{"type":"ok","from":"2026-05-30T00:19:27.152Z","to":"2026-05-30T23:58:08.684Z","count":60,"avg":1412,"min":907,"max":3916,"p95":2819,"url":"https://apitoken.online/api/status"}
+{"type":"ok","from":"2026-05-31T00:18:33.305Z","to":"2026-05-31T04:39:53.989Z","count":13,"url":"https://apitoken.online/api/status","avg":1316,"min":942,"max":2062,"p95":2062}
+{"type":"ok","from":"2026-05-31T05:00:12.751Z","to":"2026-05-31T05:00:12.751Z","count":1,"url":"https://apitoken.online/v1/models","avg":1485,"min":1485,"max":1485,"p95":1485}
+{"type":"ok","from":"2026-05-31T05:29:19.157Z","to":"2026-05-31T08:41:08.512Z","count":8,"url":"https://apitoken.online/api/status","avg":2201,"min":949,"max":4792,"p95":4792}
+{"type":"ok","from":"2026-05-31T09:11:01.987Z","to":"2026-05-31T09:11:01.987Z","count":1,"url":"https://apitoken.online/v1/models","avg":1708,"min":1708,"max":1708,"p95":1708}
+{"type":"ok","from":"2026-05-31T09:41:19.215Z","to":"2026-05-31T11:10:39.614Z","count":4,"url":"https://apitoken.online/api/status","avg":2038,"min":971,"max":3964,"p95":3964}
+{"type":"fail","from":"2026-05-31T11:41:05.705Z","to":"2026-05-31T11:41:05.705Z","count":1,"url":"https://api.apitoken.online/v1","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-31T12:09:52.057Z","to":"2026-05-31T23:47:58.087Z","count":31,"url":"https://apitoken.online/api/status","avg":1391,"min":918,"max":4830,"p95":4177}

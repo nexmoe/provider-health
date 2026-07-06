@@ -112,3 +112,16 @@
 {"type":"ok","from":"2026-05-28T00:01:56.292Z","to":"2026-05-28T23:52:37.503Z","count":55,"url":"https://api.aigc.bar/api/status","avg":847,"min":357,"max":2359,"p95":1687}
 {"type":"ok","from":"2026-05-29T00:12:48.353Z","to":"2026-05-29T23:53:11.079Z","count":59,"url":"https://api.aigc.bar/api/status","avg":931,"min":460,"max":3945,"p95":1658}
 {"type":"ok","from":"2026-05-30T00:13:51.216Z","to":"2026-05-30T23:52:42.323Z","count":60,"url":"https://api.aigc.bar/api/status","avg":782,"min":426,"max":3411,"p95":1352}
+{"type":"ok","from":"2026-05-31T00:13:00.419Z","to":"2026-05-31T08:35:35.410Z","count":22,"url":"https://api.aigc.bar/api/status","avg":767,"min":499,"max":1365,"p95":1199}
+{"type":"ok","from":"2026-05-31T09:04:57.711Z","to":"2026-05-31T09:04:57.711Z","count":1,"url":"https://api.aigc.bar/v1/models","avg":108,"min":108,"max":108,"p95":108}
+{"type":"ok","from":"2026-05-31T09:35:29.819Z","to":"2026-05-31T12:54:52.150Z","count":8,"url":"https://api.aigc.bar/api/status","avg":1063,"min":557,"max":1589,"p95":1589}
+{"type":"ok","from":"2026-05-31T13:25:55.068Z","to":"2026-05-31T13:25:55.068Z","count":1,"url":"https://api.aigc.bar/health","avg":1492,"min":1492,"max":1492,"p95":1492}
+{"type":"ok","from":"2026-05-31T13:55:16.413Z","to":"2026-05-31T14:55:57.571Z","count":3,"url":"https://api.aigc.bar/api/status","avg":1730,"min":1462,"max":2135,"p95":2135}
+{"type":"fail","from":"2026-05-31T15:25:50.324Z","to":"2026-05-31T15:25:50.324Z","count":1,"url":"https://api.aigc.bar/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-05-31T15:55:22.336Z","to":"2026-05-31T15:55:22.336Z","count":1,"url":"https://api.aigc.bar/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-31T16:24:41.367Z","to":"2026-05-31T16:24:41.367Z","count":1,"url":"https://api.aigc.bar/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-05-31T16:54:31.607Z","to":"2026-05-31T16:54:31.607Z","count":1,"url":"https://api.aigc.bar/v1/models","avg":525,"min":525,"max":525,"p95":525}
+{"type":"ok","from":"2026-05-31T17:14:11.039Z","to":"2026-05-31T17:34:20.432Z","count":2,"url":"https://api.aigc.bar/api/status","avg":1140,"min":1134,"max":1145,"p95":1145}
+{"type":"ok","from":"2026-05-31T17:54:00.485Z","to":"2026-05-31T17:54:00.485Z","count":1,"url":"https://api.aigc.bar/status","avg":632,"min":632,"max":632,"p95":632}
+{"type":"ok","from":"2026-05-31T18:14:51.963Z","to":"2026-05-31T18:14:51.963Z","count":1,"url":"https://api.aigc.bar/health","avg":625,"min":625,"max":625,"p95":625}
+{"type":"ok","from":"2026-05-31T18:43:15.434Z","to":"2026-05-31T23:42:21.812Z","count":16,"url":"https://api.aigc.bar/api/status","avg":1283,"min":1062,"max":1792,"p95":1792}

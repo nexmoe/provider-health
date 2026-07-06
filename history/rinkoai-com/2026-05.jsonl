@@ -43,3 +43,5 @@
 {"type":"ok","from":"2026-05-30T16:04:16.804Z","to":"2026-05-30T16:04:16.804Z","count":1,"url":"https://rinkoai.com/status","avg":4465,"min":4465,"max":4465,"p95":4465}
 {"type":"ok","from":"2026-05-30T16:33:28.824Z","to":"2026-05-30T19:03:24.975Z","count":7,"url":"https://rinkoai.com/api/status","avg":588,"min":462,"max":797,"p95":797}
 {"type":"fail","from":"2026-05-30T19:24:06.977Z","to":"2026-05-30T23:43:56.221Z","count":14,"url":"https://rinkoai.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-05-31T00:04:08.404Z","to":"2026-05-31T01:24:04.402Z","count":5,"url":"https://rinkoai.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-05-31T01:43:14.724Z","to":"2026-05-31T23:53:13.106Z","count":55,"url":"https://rinkoai.com/api/status","avg":567,"min":401,"max":802,"p95":755}
