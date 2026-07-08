@@ -1,2 +1,5 @@
-{"url":"https://api.mammouth.ai/v1/models"}
-{"type":"ok","from":"2026-06-01T00:00:45.415Z","to":"2026-06-01T23:40:17.659Z","count":57,"avg":1016,"min":226,"max":2756,"p95":1635}
+{"type":"ok","from":"2026-06-01T00:00:45.415Z","to":"2026-06-01T23:40:17.659Z","count":57,"avg":1016,"min":226,"max":2756,"p95":1635,"url":"https://api.mammouth.ai/v1/models"}
+{"type":"ok","from":"2026-06-02T00:00:50.039Z","to":"2026-06-02T00:00:50.039Z","count":1,"url":"https://api.mammouth.ai/health","avg":1012,"min":1012,"max":1012,"p95":1012}
+{"type":"ok","from":"2026-06-02T00:20:48.792Z","to":"2026-06-02T01:21:12.589Z","count":4,"url":"https://api.mammouth.ai/v1/models","avg":772,"min":275,"max":1372,"p95":1372}
+{"type":"fail","from":"2026-06-02T01:41:11.844Z","to":"2026-06-02T01:41:11.844Z","count":1,"url":"https://api.mammouth.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-02T02:01:32.212Z","to":"2026-06-02T23:50:18.419Z","count":54,"url":"https://api.mammouth.ai/v1/models","avg":1075,"min":247,"max":4591,"p95":1783}

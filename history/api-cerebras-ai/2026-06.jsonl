@@ -1,2 +1,4 @@
-{"url":"https://api.cerebras.ai/api/status"}
-{"type":"fail","from":"2026-06-01T00:19:35.340Z","to":"2026-06-01T23:59:52.113Z","count":57,"status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"fail","from":"2026-06-01T00:19:35.340Z","to":"2026-06-01T23:59:52.113Z","count":57,"status":403,"error":"HTTP 403","avg_latency":null,"url":"https://api.cerebras.ai/api/status"}
+{"type":"fail","from":"2026-06-02T00:19:38.476Z","to":"2026-06-02T00:40:13.678Z","count":2,"url":"https://api.cerebras.ai/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"fail","from":"2026-06-02T01:00:13.955Z","to":"2026-06-02T01:00:13.955Z","count":1,"url":"https://api.cerebras.ai/v1/models","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"fail","from":"2026-06-02T01:19:58.524Z","to":"2026-06-02T23:49:24.656Z","count":56,"url":"https://api.cerebras.ai/api/status","status":403,"error":"HTTP 403","avg_latency":null}

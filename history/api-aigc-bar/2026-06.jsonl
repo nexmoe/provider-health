@@ -12,3 +12,12 @@
 {"type":"ok","from":"2026-06-01T11:54:51.543Z","to":"2026-06-01T22:21:52.662Z","count":26,"url":"https://api.aigc.bar/api/status","avg":1530,"min":873,"max":4927,"p95":2773}
 {"type":"ok","from":"2026-06-01T22:42:08.784Z","to":"2026-06-01T22:42:08.784Z","count":1,"url":"https://api.aigc.bar/v1/models","avg":1577,"min":1577,"max":1577,"p95":1577}
 {"type":"ok","from":"2026-06-01T23:01:51.483Z","to":"2026-06-01T23:42:14.831Z","count":3,"url":"https://api.aigc.bar/api/status","avg":1322,"min":1020,"max":1509,"p95":1509}
+{"type":"ok","from":"2026-06-02T00:02:34.858Z","to":"2026-06-02T00:43:05.279Z","count":3,"url":"https://api.aigc.bar/api/status","avg":1396,"min":1176,"max":1709,"p95":1709}
+{"type":"ok","from":"2026-06-02T01:03:17.528Z","to":"2026-06-02T01:03:17.528Z","count":1,"url":"https://api.aigc.bar/status","avg":2310,"min":2310,"max":2310,"p95":2310}
+{"type":"ok","from":"2026-06-02T01:23:08.489Z","to":"2026-06-02T02:03:30.111Z","count":3,"url":"https://api.aigc.bar/api/status","avg":1336,"min":1198,"max":1502,"p95":1502}
+{"type":"ok","from":"2026-06-02T02:23:58.605Z","to":"2026-06-02T02:23:58.605Z","count":1,"url":"https://api.aigc.bar/health","avg":4214,"min":4214,"max":4214,"p95":4214}
+{"type":"ok","from":"2026-06-02T02:53:21.867Z","to":"2026-06-02T03:13:43.248Z","count":2,"url":"https://api.aigc.bar/api/status","avg":1426,"min":1355,"max":1496,"p95":1496}
+{"type":"fail","from":"2026-06-02T03:33:19.813Z","to":"2026-06-02T03:33:19.813Z","count":1,"url":"https://api.aigc.bar/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-02T03:53:45.930Z","to":"2026-06-02T03:53:45.930Z","count":1,"url":"https://api.aigc.bar/api/status","avg":1212,"min":1212,"max":1212,"p95":1212}
+{"type":"ok","from":"2026-06-02T04:23:36.224Z","to":"2026-06-02T04:23:36.224Z","count":1,"url":"https://api.aigc.bar/health","avg":3026,"min":3026,"max":3026,"p95":3026}
+{"type":"ok","from":"2026-06-02T04:44:38.988Z","to":"2026-06-02T23:52:09.762Z","count":47,"url":"https://api.aigc.bar/api/status","avg":1033,"min":509,"max":3836,"p95":2117}

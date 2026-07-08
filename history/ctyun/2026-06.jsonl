@@ -1,6 +1,11 @@
-{"url":"https://wishub-x1.ctyun.cn/api/status"}
-{"type":"fail","from":"2026-06-01T00:10:16.513Z","to":"2026-06-01T01:10:16.163Z","count":4,"status":null,"error":"fetch failed","avg_latency":null}
-{"type":"fail","from":"2026-06-01T01:30:21.382Z","to":"2026-06-01T01:30:21.382Z","count":1,"status":404,"error":"HTTP 404","avg_latency":null}
-{"type":"fail","from":"2026-06-01T01:50:15.727Z","to":"2026-06-01T22:10:13.274Z","count":47,"status":null,"error":"fetch failed","avg_latency":null}
-{"type":"fail","from":"2026-06-01T22:30:19.385Z","to":"2026-06-01T22:30:19.385Z","count":1,"status":404,"error":"HTTP 404","avg_latency":null}
-{"type":"fail","from":"2026-06-01T22:50:15.218Z","to":"2026-06-01T23:50:15.377Z","count":4,"status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-01T00:10:16.513Z","to":"2026-06-01T01:10:16.163Z","count":4,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://wishub-x1.ctyun.cn/api/status"}
+{"type":"fail","from":"2026-06-01T01:30:21.382Z","to":"2026-06-01T01:30:21.382Z","count":1,"status":404,"error":"HTTP 404","avg_latency":null,"url":"https://wishub-x1.ctyun.cn/api/status"}
+{"type":"fail","from":"2026-06-01T01:50:15.727Z","to":"2026-06-01T22:10:13.274Z","count":47,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://wishub-x1.ctyun.cn/api/status"}
+{"type":"fail","from":"2026-06-01T22:30:19.385Z","to":"2026-06-01T22:30:19.385Z","count":1,"status":404,"error":"HTTP 404","avg_latency":null,"url":"https://wishub-x1.ctyun.cn/api/status"}
+{"type":"fail","from":"2026-06-01T22:50:15.218Z","to":"2026-06-01T23:50:15.377Z","count":4,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://wishub-x1.ctyun.cn/api/status"}
+{"type":"fail","from":"2026-06-02T00:10:14.622Z","to":"2026-06-02T07:00:33.059Z","count":18,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-02T07:30:26.001Z","to":"2026-06-02T07:30:26.001Z","count":1,"url":"https://wishub-x1.ctyun.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-06-02T08:00:28.934Z","to":"2026-06-02T22:40:17.230Z","count":37,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-02T23:00:32.820Z","to":"2026-06-02T23:00:32.820Z","count":1,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-02T23:20:16.152Z","to":"2026-06-02T23:20:16.152Z","count":1,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-06-02T23:40:16.614Z","to":"2026-06-02T23:40:16.614Z","count":1,"url":"https://wishub-x1.ctyun.cn/v1/models","avg":1989,"min":1989,"max":1989,"p95":1989}

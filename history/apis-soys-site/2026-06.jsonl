@@ -1,3 +1,6 @@
 {"type":"ok","from":"2026-06-01T00:00:44.772Z","to":"2026-06-01T09:53:16.726Z","count":23,"url":"https://apis.soys.site/api/status","avg":1492,"min":1027,"max":2361,"p95":2222}
 {"type":"ok","from":"2026-06-01T10:22:53.505Z","to":"2026-06-01T10:22:53.505Z","count":1,"url":"https://apis.soys.site/health","avg":1022,"min":1022,"max":1022,"p95":1022}
 {"type":"ok","from":"2026-06-01T10:41:59.577Z","to":"2026-06-01T23:40:16.859Z","count":33,"url":"https://apis.soys.site/api/status","avg":1281,"min":980,"max":2460,"p95":1833}
+{"type":"ok","from":"2026-06-02T00:00:44.702Z","to":"2026-06-02T14:13:32.689Z","count":34,"url":"https://apis.soys.site/api/status","avg":1421,"min":932,"max":4789,"p95":1886}
+{"type":"fail","from":"2026-06-02T14:43:17.052Z","to":"2026-06-02T15:13:27.623Z","count":2,"url":"https://apis.soys.site/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-02T15:43:00.617Z","to":"2026-06-02T23:50:18.014Z","count":24,"url":"https://apis.soys.site/api/status","avg":1185,"min":670,"max":1799,"p95":1607}
