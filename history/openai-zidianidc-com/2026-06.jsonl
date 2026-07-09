@@ -46,3 +46,28 @@
 {"type":"fail","from":"2026-06-02T15:16:33.927Z","to":"2026-06-02T15:16:33.927Z","count":1,"url":"https://openai.zidianidc.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-02T15:46:01.820Z","to":"2026-06-02T23:33:41.836Z","count":23,"url":"https://openai.zidianidc.com/v1/models","avg":2351,"min":810,"max":4645,"p95":4050}
 {"type":"ok","from":"2026-06-02T23:53:21.671Z","to":"2026-06-02T23:53:21.671Z","count":1,"url":"https://openai.zidianidc.com/health","avg":3248,"min":3248,"max":3248,"p95":3248}
+{"type":"ok","from":"2026-06-03T00:14:37.183Z","to":"2026-06-03T00:33:38.954Z","count":2,"url":"https://openai.zidianidc.com/v1/models","avg":3584,"min":2887,"max":4281,"p95":4281}
+{"type":"ok","from":"2026-06-03T00:55:13.441Z","to":"2026-06-03T00:55:13.441Z","count":1,"url":"https://openai.zidianidc.com/health","avg":4119,"min":4119,"max":4119,"p95":4119}
+{"type":"ok","from":"2026-06-03T01:24:34.192Z","to":"2026-06-03T02:46:14.477Z","count":4,"url":"https://openai.zidianidc.com/v1/models","avg":2638,"min":1393,"max":3464,"p95":3464}
+{"type":"ok","from":"2026-06-03T03:16:05.857Z","to":"2026-06-03T03:16:05.857Z","count":1,"url":"https://openai.zidianidc.com/health","avg":2898,"min":2898,"max":2898,"p95":2898}
+{"type":"ok","from":"2026-06-03T03:46:49.876Z","to":"2026-06-03T03:46:49.876Z","count":1,"url":"https://openai.zidianidc.com/v1/models","avg":1190,"min":1190,"max":1190,"p95":1190}
+{"type":"ok","from":"2026-06-03T04:15:32.767Z","to":"2026-06-03T04:15:32.767Z","count":1,"url":"https://openai.zidianidc.com/status","avg":1942,"min":1942,"max":1942,"p95":1942}
+{"type":"ok","from":"2026-06-03T04:45:42.499Z","to":"2026-06-03T04:45:42.499Z","count":1,"url":"https://openai.zidianidc.com/health","avg":2368,"min":2368,"max":2368,"p95":2368}
+{"type":"ok","from":"2026-06-03T05:16:19.987Z","to":"2026-06-03T06:46:16.535Z","count":4,"url":"https://openai.zidianidc.com/v1/models","avg":3163,"min":1352,"max":4790,"p95":4790}
+{"type":"ok","from":"2026-06-03T07:16:27.082Z","to":"2026-06-03T07:16:27.082Z","count":1,"url":"https://openai.zidianidc.com/health","avg":3615,"min":3615,"max":3615,"p95":3615}
+{"type":"ok","from":"2026-06-03T07:46:38.308Z","to":"2026-06-03T07:46:38.308Z","count":1,"url":"https://openai.zidianidc.com/v1/models","avg":2991,"min":2991,"max":2991,"p95":2991}
+{"type":"fail","from":"2026-06-03T08:17:53.402Z","to":"2026-06-03T08:17:53.402Z","count":1,"url":"https://openai.zidianidc.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-03T08:47:08.527Z","to":"2026-06-03T10:16:06.117Z","count":4,"url":"https://openai.zidianidc.com/v1/models","avg":2260,"min":1361,"max":3235,"p95":3235}
+{"type":"ok","from":"2026-06-03T10:46:03.722Z","to":"2026-06-03T10:46:03.722Z","count":1,"url":"https://openai.zidianidc.com/health","avg":3118,"min":3118,"max":3118,"p95":3118}
+{"type":"ok","from":"2026-06-03T11:16:19.697Z","to":"2026-06-03T12:16:44.357Z","count":3,"url":"https://openai.zidianidc.com/v1/models","avg":1988,"min":823,"max":3779,"p95":3779}
+{"type":"ok","from":"2026-06-03T12:46:01.166Z","to":"2026-06-03T12:46:01.166Z","count":1,"url":"https://openai.zidianidc.com/health","avg":2261,"min":2261,"max":2261,"p95":2261}
+{"type":"ok","from":"2026-06-03T13:17:31.463Z","to":"2026-06-03T14:16:25.503Z","count":3,"url":"https://openai.zidianidc.com/v1/models","avg":3504,"min":2375,"max":4257,"p95":4257}
+{"type":"ok","from":"2026-06-03T14:46:32.923Z","to":"2026-06-03T14:46:32.923Z","count":1,"url":"https://openai.zidianidc.com/status","avg":2133,"min":2133,"max":2133,"p95":2133}
+{"type":"ok","from":"2026-06-03T15:17:48.172Z","to":"2026-06-03T16:45:51.052Z","count":4,"url":"https://openai.zidianidc.com/v1/models","avg":3376,"min":1951,"max":4675,"p95":4675}
+{"type":"ok","from":"2026-06-03T17:15:53.763Z","to":"2026-06-03T17:44:42.398Z","count":2,"url":"https://openai.zidianidc.com/health","avg":2089,"min":1305,"max":2873,"p95":2873}
+{"type":"ok","from":"2026-06-03T18:05:10.093Z","to":"2026-06-03T21:03:46.771Z","count":9,"url":"https://openai.zidianidc.com/v1/models","avg":2021,"min":1058,"max":3212,"p95":3212}
+{"type":"ok","from":"2026-06-03T21:23:27.877Z","to":"2026-06-03T21:23:27.877Z","count":1,"url":"https://openai.zidianidc.com/health","avg":2312,"min":2312,"max":2312,"p95":2312}
+{"type":"ok","from":"2026-06-03T21:44:05.571Z","to":"2026-06-03T22:23:56.604Z","count":3,"url":"https://openai.zidianidc.com/v1/models","avg":1923,"min":1746,"max":2038,"p95":2038}
+{"type":"ok","from":"2026-06-03T22:43:40.883Z","to":"2026-06-03T22:43:40.883Z","count":1,"url":"https://openai.zidianidc.com/health","avg":1266,"min":1266,"max":1266,"p95":1266}
+{"type":"ok","from":"2026-06-03T23:03:35.574Z","to":"2026-06-03T23:24:21.445Z","count":2,"url":"https://openai.zidianidc.com/v1/models","avg":1807,"min":1299,"max":2315,"p95":2315}
+{"type":"ok","from":"2026-06-03T23:45:01.741Z","to":"2026-06-03T23:45:01.741Z","count":1,"url":"https://openai.zidianidc.com/health","avg":1299,"min":1299,"max":1299,"p95":1299}

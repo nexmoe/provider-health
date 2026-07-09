@@ -1,3 +1,5 @@
-{"url":"https://api.ofox.ai/v1/models"}
-{"type":"ok","from":"2026-06-01T00:03:22.542Z","to":"2026-06-01T23:42:53.865Z","count":56,"avg":154,"min":35,"max":810,"p95":410}
-{"type":"ok","from":"2026-06-02T00:03:14.322Z","to":"2026-06-02T23:52:49.809Z","count":60,"avg":125,"min":41,"max":495,"p95":300}
+{"type":"ok","from":"2026-06-01T00:03:22.542Z","to":"2026-06-01T23:42:53.865Z","count":56,"avg":154,"min":35,"max":810,"p95":410,"url":"https://api.ofox.ai/v1/models"}
+{"type":"ok","from":"2026-06-02T00:03:14.322Z","to":"2026-06-02T23:52:49.809Z","count":60,"avg":125,"min":41,"max":495,"p95":300,"url":"https://api.ofox.ai/v1/models"}
+{"type":"ok","from":"2026-06-03T00:14:08.604Z","to":"2026-06-03T03:15:32.707Z","count":8,"url":"https://api.ofox.ai/v1/models","avg":115,"min":36,"max":381,"p95":381}
+{"type":"fail","from":"2026-06-03T03:46:23.645Z","to":"2026-06-03T03:46:23.645Z","count":1,"url":"https://api.ofox.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-03T04:14:56.953Z","to":"2026-06-03T23:44:47.558Z","count":45,"url":"https://api.ofox.ai/v1/models","avg":155,"min":20,"max":609,"p95":454}

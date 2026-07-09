@@ -1,3 +1,7 @@
 {"url":"https://api.enencloud.top/api/status"}
 {"type":"ok","from":"2026-06-01T00:00:43.723Z","to":"2026-06-01T23:40:15.674Z","count":57,"avg":119,"min":55,"max":727,"p95":336}
 {"type":"ok","from":"2026-06-02T00:00:43.297Z","to":"2026-06-02T23:50:16.673Z","count":60,"avg":233,"min":51,"max":1306,"p95":1045}
+{"type":"ok","from":"2026-06-03T00:11:27.188Z","to":"2026-06-03T10:43:07.174Z","count":23,"avg":245,"min":57,"max":1072,"p95":947}
+{"type":"fail","from":"2026-06-03T11:13:45.323Z","to":"2026-06-03T19:01:41.810Z","count":17,"status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-06-03T19:21:46.374Z","to":"2026-06-03T19:21:46.374Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-03T19:41:16.806Z","to":"2026-06-03T23:42:23.077Z","count":13,"status":523,"error":"HTTP 523","avg_latency":null}

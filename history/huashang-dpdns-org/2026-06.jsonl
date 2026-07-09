@@ -1,5 +1,7 @@
-{"url":"https://huashang.dpdns.org/api/status"}
-{"type":"ok","from":"2026-06-01T00:07:51.956Z","to":"2026-06-01T01:29:14.984Z","count":5,"avg":132,"min":62,"max":225,"p95":225}
-{"type":"fail","from":"2026-06-01T01:49:09.515Z","to":"2026-06-01T01:49:09.515Z","count":1,"status":523,"error":"HTTP 523","avg_latency":null}
-{"type":"ok","from":"2026-06-01T02:10:02.400Z","to":"2026-06-01T23:47:39.101Z","count":50,"avg":286,"min":45,"max":1965,"p95":529}
-{"type":"ok","from":"2026-06-02T00:07:59.992Z","to":"2026-06-02T23:57:34.374Z","count":60,"avg":221,"min":55,"max":723,"p95":338}
+{"type":"ok","from":"2026-06-01T00:07:51.956Z","to":"2026-06-01T01:29:14.984Z","count":5,"avg":132,"min":62,"max":225,"p95":225,"url":"https://huashang.dpdns.org/api/status"}
+{"type":"fail","from":"2026-06-01T01:49:09.515Z","to":"2026-06-01T01:49:09.515Z","count":1,"status":523,"error":"HTTP 523","avg_latency":null,"url":"https://huashang.dpdns.org/api/status"}
+{"type":"ok","from":"2026-06-01T02:10:02.400Z","to":"2026-06-01T23:47:39.101Z","count":50,"avg":286,"min":45,"max":1965,"p95":529,"url":"https://huashang.dpdns.org/api/status"}
+{"type":"ok","from":"2026-06-02T00:07:59.992Z","to":"2026-06-02T23:57:34.374Z","count":60,"avg":221,"min":55,"max":723,"p95":338,"url":"https://huashang.dpdns.org/api/status"}
+{"type":"ok","from":"2026-06-03T00:18:58.018Z","to":"2026-06-03T04:50:14.606Z","count":11,"url":"https://huashang.dpdns.org/api/status","avg":254,"min":58,"max":397,"p95":397}
+{"type":"ok","from":"2026-06-03T05:20:58.498Z","to":"2026-06-03T05:20:58.498Z","count":1,"url":"https://huashang.dpdns.org/v1/models","avg":86,"min":86,"max":86,"p95":86}
+{"type":"ok","from":"2026-06-03T05:49:53.182Z","to":"2026-06-03T23:49:13.233Z","count":42,"url":"https://huashang.dpdns.org/api/status","avg":276,"min":62,"max":2339,"p95":385}

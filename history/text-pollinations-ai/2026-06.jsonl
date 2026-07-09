@@ -1,3 +1,9 @@
 {"url":"https://text.pollinations.ai/api/status"}
 {"type":"ok","from":"2026-06-01T00:13:14.966Z","to":"2026-06-01T23:53:17.967Z","count":57,"avg":729,"min":408,"max":1496,"p95":1071}
 {"type":"ok","from":"2026-06-02T00:13:11.735Z","to":"2026-06-02T23:43:16.706Z","count":59,"avg":737,"min":397,"max":2877,"p95":932}
+{"type":"ok","from":"2026-06-03T00:03:33.699Z","to":"2026-06-03T02:33:26.561Z","count":7,"avg":709,"min":531,"max":1073,"p95":1073}
+{"type":"fail","from":"2026-06-03T03:03:38.304Z","to":"2026-06-03T03:33:28.788Z","count":2,"status":429,"error":"HTTP 429","avg_latency":null}
+{"type":"fail","from":"2026-06-03T04:03:36.033Z","to":"2026-06-03T04:03:36.033Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-03T04:33:26.700Z","to":"2026-06-03T11:03:29.644Z","count":14,"status":429,"error":"HTTP 429","avg_latency":null}
+{"type":"fail","from":"2026-06-03T11:33:27.623Z","to":"2026-06-03T11:33:27.623Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-03T12:03:36.102Z","to":"2026-06-03T23:33:34.535Z","count":29,"status":429,"error":"HTTP 429","avg_latency":null}

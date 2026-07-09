@@ -25,3 +25,13 @@
 {"type":"ok","from":"2026-06-02T20:53:26.299Z","to":"2026-06-02T23:14:36.128Z","count":8,"url":"https://demo.voapi.top/health","avg":162,"min":153,"max":173,"p95":173}
 {"type":"fail","from":"2026-06-02T23:34:31.627Z","to":"2026-06-02T23:34:31.627Z","count":1,"url":"https://demo.voapi.top/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-02T23:53:54.330Z","to":"2026-06-02T23:53:54.330Z","count":1,"url":"https://demo.voapi.top/health","avg":159,"min":159,"max":159,"p95":159}
+{"type":"fail","from":"2026-06-03T00:15:26.247Z","to":"2026-06-03T00:15:26.247Z","count":1,"url":"https://demo.voapi.top/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-03T00:34:18.016Z","to":"2026-06-03T01:25:14.903Z","count":3,"url":"https://demo.voapi.top/health","avg":154,"min":151,"max":156,"p95":156}
+{"type":"ok","from":"2026-06-03T01:47:03.566Z","to":"2026-06-03T01:47:03.566Z","count":1,"url":"https://demo.voapi.top/status","avg":3359,"min":3359,"max":3359,"p95":3359}
+{"type":"fail","from":"2026-06-03T02:16:50.328Z","to":"2026-06-03T03:47:41.182Z","count":4,"url":"https://demo.voapi.top/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-06-03T04:16:18.850Z","to":"2026-06-03T04:16:18.850Z","count":1,"url":"https://demo.voapi.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-03T04:46:27.995Z","to":"2026-06-03T05:17:09.143Z","count":2,"url":"https://demo.voapi.top/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-03T05:46:15.265Z","to":"2026-06-03T05:46:15.265Z","count":1,"url":"https://demo.voapi.top/status","avg":3465,"min":3465,"max":3465,"p95":3465}
+{"type":"ok","from":"2026-06-03T06:16:55.804Z","to":"2026-06-03T06:16:55.804Z","count":1,"url":"https://demo.voapi.top/health","avg":158,"min":158,"max":158,"p95":158}
+{"type":"fail","from":"2026-06-03T06:47:03.336Z","to":"2026-06-03T06:47:03.336Z","count":1,"url":"https://demo.voapi.top/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-03T07:17:00.269Z","to":"2026-06-03T23:45:33.598Z","count":39,"url":"https://demo.voapi.top/health","avg":222,"min":151,"max":2556,"p95":195}

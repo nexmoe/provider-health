@@ -1,3 +1,9 @@
-{"url":"https://newapi.higobs.com/api/status"}
-{"type":"ok","from":"2026-06-01T00:07:17.079Z","to":"2026-06-01T23:47:06.188Z","count":56,"avg":695,"min":196,"max":2494,"p95":1306}
-{"type":"ok","from":"2026-06-02T00:07:26.106Z","to":"2026-06-02T23:57:01.693Z","count":60,"avg":577,"min":157,"max":1231,"p95":1086}
+{"type":"ok","from":"2026-06-01T00:07:17.079Z","to":"2026-06-01T23:47:06.188Z","count":56,"avg":695,"min":196,"max":2494,"p95":1306,"url":"https://newapi.higobs.com/api/status"}
+{"type":"ok","from":"2026-06-02T00:07:26.106Z","to":"2026-06-02T23:57:01.693Z","count":60,"avg":577,"min":157,"max":1231,"p95":1086,"url":"https://newapi.higobs.com/api/status"}
+{"type":"ok","from":"2026-06-03T00:18:20.031Z","to":"2026-06-03T06:20:02.874Z","count":14,"url":"https://newapi.higobs.com/api/status","avg":569,"min":258,"max":1202,"p95":1202}
+{"type":"fail","from":"2026-06-03T06:49:57.007Z","to":"2026-06-03T06:49:57.007Z","count":1,"url":"https://newapi.higobs.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-06-03T07:20:06.697Z","to":"2026-06-03T10:49:41.073Z","count":8,"url":"https://newapi.higobs.com/api/status","avg":636,"min":328,"max":999,"p95":999}
+{"type":"ok","from":"2026-06-03T11:20:16.669Z","to":"2026-06-03T11:20:16.669Z","count":1,"url":"https://newapi.higobs.com/health","avg":3765,"min":3765,"max":3765,"p95":3765}
+{"type":"ok","from":"2026-06-03T11:48:58.404Z","to":"2026-06-03T12:20:29.029Z","count":2,"url":"https://newapi.higobs.com/api/status","avg":692,"min":400,"max":984,"p95":984}
+{"type":"fail","from":"2026-06-03T12:49:41.513Z","to":"2026-06-03T12:49:41.513Z","count":1,"url":"https://newapi.higobs.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-06-03T13:21:14.713Z","to":"2026-06-03T23:48:40.407Z","count":27,"url":"https://newapi.higobs.com/api/status","avg":565,"min":138,"max":1011,"p95":939}

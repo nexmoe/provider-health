@@ -1,4 +1,9 @@
-{"url":"https://newapi.exynos.top:8443/api/status"}
-{"type":"ok","from":"2026-06-01T00:03:23.383Z","to":"2026-06-01T15:55:19.769Z","count":35,"avg":1487,"min":946,"max":3856,"p95":2779}
-{"type":"fail","from":"2026-06-01T16:26:16.802Z","to":"2026-06-01T23:43:13.743Z","count":21,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-06-02T00:03:34.251Z","to":"2026-06-02T23:53:09.690Z","count":60,"status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-01T00:03:23.383Z","to":"2026-06-01T15:55:19.769Z","count":35,"avg":1487,"min":946,"max":3856,"p95":2779,"url":"https://newapi.exynos.top:8443/api/status"}
+{"type":"fail","from":"2026-06-01T16:26:16.802Z","to":"2026-06-01T23:43:13.743Z","count":21,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://newapi.exynos.top:8443/api/status"}
+{"type":"fail","from":"2026-06-02T00:03:34.251Z","to":"2026-06-02T23:53:09.690Z","count":60,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://newapi.exynos.top:8443/api/status"}
+{"type":"fail","from":"2026-06-03T00:14:28.525Z","to":"2026-06-03T07:16:14.997Z","count":16,"url":"https://newapi.exynos.top:8443/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-03T07:46:28.364Z","to":"2026-06-03T10:15:57.053Z","count":6,"url":"https://newapi.exynos.top:8443/api/status","avg":1905,"min":1308,"max":2685,"p95":2685}
+{"type":"ok","from":"2026-06-03T10:45:49.539Z","to":"2026-06-03T10:45:49.539Z","count":1,"url":"https://newapi.exynos.top:8443/health","avg":303,"min":303,"max":303,"p95":303}
+{"type":"ok","from":"2026-06-03T11:16:11.552Z","to":"2026-06-03T12:16:36.572Z","count":3,"url":"https://newapi.exynos.top:8443/api/status","avg":1726,"min":1015,"max":2083,"p95":2083}
+{"type":"ok","from":"2026-06-03T12:45:47.011Z","to":"2026-06-03T12:45:47.011Z","count":1,"url":"https://newapi.exynos.top:8443/v1/models","avg":897,"min":897,"max":897,"p95":897}
+{"type":"ok","from":"2026-06-03T13:17:22.033Z","to":"2026-06-03T23:44:48.486Z","count":27,"url":"https://newapi.exynos.top:8443/api/status","avg":1141,"min":930,"max":3056,"p95":1817}

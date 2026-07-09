@@ -1,3 +1,13 @@
-{"url":"https://api.orbiai.cloud/api/status"}
-{"type":"fail","from":"2026-06-01T00:14:53.025Z","to":"2026-06-01T23:54:50.879Z","count":57,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"fail","from":"2026-06-02T00:14:50.302Z","to":"2026-06-02T23:44:58.782Z","count":59,"status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-01T00:14:53.025Z","to":"2026-06-01T23:54:50.879Z","count":57,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://api.orbiai.cloud/api/status"}
+{"type":"fail","from":"2026-06-02T00:14:50.302Z","to":"2026-06-02T23:44:58.782Z","count":59,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://api.orbiai.cloud/api/status"}
+{"type":"fail","from":"2026-06-03T00:05:26.739Z","to":"2026-06-03T05:35:14.313Z","count":13,"url":"https://api.orbiai.cloud/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-03T06:05:43.930Z","to":"2026-06-03T06:05:43.930Z","count":1,"url":"https://api.orbiai.cloud/api/status","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-06-03T06:35:07.313Z","to":"2026-06-03T06:35:07.313Z","count":1,"url":"https://api.orbiai.cloud/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-03T07:05:15.647Z","to":"2026-06-03T07:05:15.647Z","count":1,"url":"https://api.orbiai.cloud/api/status","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-06-03T07:35:17.219Z","to":"2026-06-03T07:35:17.219Z","count":1,"url":"https://api.orbiai.cloud/api/status","status":522,"error":"HTTP 522","avg_latency":null}
+{"type":"fail","from":"2026-06-03T08:07:24.963Z","to":"2026-06-03T08:35:51.803Z","count":2,"url":"https://api.orbiai.cloud/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-03T09:05:25.997Z","to":"2026-06-03T09:05:25.997Z","count":1,"url":"https://api.orbiai.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-03T09:35:22.150Z","to":"2026-06-03T09:35:22.150Z","count":1,"url":"https://api.orbiai.cloud/health","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-06-03T10:05:35.291Z","to":"2026-06-03T10:05:35.291Z","count":1,"url":"https://api.orbiai.cloud/v1/models","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-06-03T10:35:19.237Z","to":"2026-06-03T10:35:19.237Z","count":1,"url":"https://api.orbiai.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-03T11:05:23.222Z","to":"2026-06-03T23:35:13.204Z","count":31,"url":"https://api.orbiai.cloud/api/status","status":502,"error":"HTTP 502","avg_latency":null}
