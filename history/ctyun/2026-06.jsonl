@@ -23,3 +23,11 @@
 {"type":"fail","from":"2026-06-03T20:10:17.550Z","to":"2026-06-03T20:10:17.550Z","count":1,"url":"https://wishub-x1.ctyun.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"fail","from":"2026-06-03T20:30:20.760Z","to":"2026-06-03T23:10:18.711Z","count":9,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
 {"type":"fail","from":"2026-06-03T23:30:31.306Z","to":"2026-06-03T23:30:31.306Z","count":1,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-04T00:00:33.735Z","to":"2026-06-04T00:00:33.735Z","count":1,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-04T00:30:21.598Z","to":"2026-06-04T07:20:16.862Z","count":15,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-04T07:30:34.938Z","to":"2026-06-04T07:30:34.938Z","count":1,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-04T08:00:26.071Z","to":"2026-06-04T11:30:23.570Z","count":8,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-04T12:00:36.986Z","to":"2026-06-04T12:00:36.986Z","count":1,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-04T12:30:25.148Z","to":"2026-06-04T21:10:17.355Z","count":21,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-06-04T21:30:21.067Z","to":"2026-06-04T21:30:21.067Z","count":1,"url":"https://wishub-x1.ctyun.cn/v1/models","avg":1909,"min":1909,"max":1909,"p95":1909}
+{"type":"fail","from":"2026-06-04T21:50:16.916Z","to":"2026-06-04T23:50:17.186Z","count":7,"url":"https://wishub-x1.ctyun.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
