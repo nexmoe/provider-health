@@ -1,6 +1,9 @@
-{"url":"https://api.fengsili.online/api/status"}
-{"type":"ok","from":"2026-06-01T00:07:52.805Z","to":"2026-06-01T23:47:39.652Z","count":56,"avg":944,"min":684,"max":2769,"p95":1666}
-{"type":"ok","from":"2026-06-02T00:08:00.544Z","to":"2026-06-02T23:57:34.821Z","count":60,"avg":894,"min":678,"max":2120,"p95":1803}
-{"type":"ok","from":"2026-06-03T00:18:58.640Z","to":"2026-06-03T23:49:13.638Z","count":54,"avg":994,"min":681,"max":2161,"p95":1929}
-{"type":"ok","from":"2026-06-04T00:19:08.545Z","to":"2026-06-04T12:22:06.660Z","count":24,"avg":1129,"min":801,"max":2495,"p95":2076}
-{"type":"fail","from":"2026-06-04T12:52:14.439Z","to":"2026-06-04T23:48:55.481Z","count":28,"status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-06-01T00:07:52.805Z","to":"2026-06-01T23:47:39.652Z","count":56,"avg":944,"min":684,"max":2769,"p95":1666,"url":"https://api.fengsili.online/api/status"}
+{"type":"ok","from":"2026-06-02T00:08:00.544Z","to":"2026-06-02T23:57:34.821Z","count":60,"avg":894,"min":678,"max":2120,"p95":1803,"url":"https://api.fengsili.online/api/status"}
+{"type":"ok","from":"2026-06-03T00:18:58.640Z","to":"2026-06-03T23:49:13.638Z","count":54,"avg":994,"min":681,"max":2161,"p95":1929,"url":"https://api.fengsili.online/api/status"}
+{"type":"ok","from":"2026-06-04T00:19:08.545Z","to":"2026-06-04T12:22:06.660Z","count":24,"avg":1129,"min":801,"max":2495,"p95":2076,"url":"https://api.fengsili.online/api/status"}
+{"type":"fail","from":"2026-06-04T12:52:14.439Z","to":"2026-06-04T23:48:55.481Z","count":28,"status":521,"error":"HTTP 521","avg_latency":null,"url":"https://api.fengsili.online/api/status"}
+{"type":"fail","from":"2026-06-05T00:09:41.844Z","to":"2026-06-05T10:22:07.685Z","count":22,"url":"https://api.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-05T10:51:30.262Z","to":"2026-06-05T10:51:30.262Z","count":1,"url":"https://api.fengsili.online/health","avg":1754,"min":1754,"max":1754,"p95":1754}
+{"type":"ok","from":"2026-06-05T11:21:02.258Z","to":"2026-06-05T11:21:02.258Z","count":1,"url":"https://api.fengsili.online/v1/models","avg":777,"min":777,"max":777,"p95":777}
+{"type":"ok","from":"2026-06-05T11:51:16.778Z","to":"2026-06-05T23:49:26.830Z","count":30,"url":"https://api.fengsili.online/api/status","avg":1297,"min":847,"max":3968,"p95":2149}

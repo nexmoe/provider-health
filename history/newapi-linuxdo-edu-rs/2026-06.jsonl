@@ -45,3 +45,6 @@
 {"type":"fail","from":"2026-06-04T11:21:50.670Z","to":"2026-06-04T13:50:32.612Z","count":6,"url":"https://newapi.linuxdo.edu.rs/api/status","status":null,"error":"fetch failed","avg_latency":null}
 {"type":"ok","from":"2026-06-04T14:19:33.389Z","to":"2026-06-04T14:19:33.389Z","count":1,"url":"https://muyuan.do/v1/models","avg":686,"min":686,"max":686,"p95":686}
 {"type":"ok","from":"2026-06-04T14:50:51.251Z","to":"2026-06-04T23:48:12.718Z","count":24,"url":"https://muyuan.do/api/status","avg":1476,"min":1035,"max":3022,"p95":1965}
+{"type":"ok","from":"2026-06-05T00:08:39.525Z","to":"2026-06-05T06:00:14.445Z","count":14,"url":"https://muyuan.do/api/status","avg":1807,"min":1226,"max":3039,"p95":3039}
+{"type":"fail","from":"2026-06-05T06:29:41.261Z","to":"2026-06-05T06:29:41.261Z","count":1,"url":"https://muyuan.do/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-05T07:00:20.082Z","to":"2026-06-05T23:48:38.909Z","count":39,"url":"https://muyuan.do/api/status","avg":1672,"min":998,"max":2989,"p95":2528}

@@ -1,8 +1,13 @@
-{"url":"https://api.mywebui.com/api/status"}
-{"type":"fail","from":"2026-06-04T03:20:13.871Z","to":"2026-06-04T04:50:15.127Z","count":4,"status":null,"error":"fetch failed","avg_latency":null}
-{"type":"fail","from":"2026-06-04T05:20:30.349Z","to":"2026-06-04T05:20:30.349Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-06-04T05:50:29.260Z","to":"2026-06-04T10:51:38.972Z","count":10,"status":null,"error":"fetch failed","avg_latency":null}
-{"type":"fail","from":"2026-06-04T11:23:00.659Z","to":"2026-06-04T11:23:00.659Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-06-04T11:52:26.852Z","to":"2026-06-04T14:20:26.336Z","count":6,"status":null,"error":"fetch failed","avg_latency":null}
-{"type":"fail","from":"2026-06-04T14:51:48.700Z","to":"2026-06-04T14:51:48.700Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-06-04T15:21:23.877Z","to":"2026-06-04T23:48:56.514Z","count":23,"status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-04T03:20:13.871Z","to":"2026-06-04T04:50:15.127Z","count":4,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://api.mywebui.com/api/status"}
+{"type":"fail","from":"2026-06-04T05:20:30.349Z","to":"2026-06-04T05:20:30.349Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.mywebui.com/api/status"}
+{"type":"fail","from":"2026-06-04T05:50:29.260Z","to":"2026-06-04T10:51:38.972Z","count":10,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://api.mywebui.com/api/status"}
+{"type":"fail","from":"2026-06-04T11:23:00.659Z","to":"2026-06-04T11:23:00.659Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.mywebui.com/api/status"}
+{"type":"fail","from":"2026-06-04T11:52:26.852Z","to":"2026-06-04T14:20:26.336Z","count":6,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://api.mywebui.com/api/status"}
+{"type":"fail","from":"2026-06-04T14:51:48.700Z","to":"2026-06-04T14:51:48.700Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.mywebui.com/api/status"}
+{"type":"fail","from":"2026-06-04T15:21:23.877Z","to":"2026-06-04T23:48:56.514Z","count":23,"status":null,"error":"fetch failed","avg_latency":null,"url":"https://api.mywebui.com/api/status"}
+{"type":"fail","from":"2026-06-05T00:09:29.219Z","to":"2026-06-05T15:21:26.279Z","count":32,"url":"https://api.mywebui.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-06-05T15:50:41.539Z","to":"2026-06-05T17:49:45.260Z","count":5,"url":"https://api.mywebui.com/api/status","avg":2678,"min":1356,"max":4757,"p95":4757}
+{"type":"ok","from":"2026-06-05T18:19:49.462Z","to":"2026-06-05T18:19:49.462Z","count":1,"url":"https://api.mywebui.com/v1/models","avg":836,"min":836,"max":836,"p95":836}
+{"type":"ok","from":"2026-06-05T18:48:50.959Z","to":"2026-06-05T19:48:29.449Z","count":4,"url":"https://api.mywebui.com/api/status","avg":3069,"min":1766,"max":3965,"p95":3965}
+{"type":"ok","from":"2026-06-05T20:08:15.012Z","to":"2026-06-05T20:08:15.012Z","count":1,"url":"https://api.mywebui.com/v1/models","avg":976,"min":976,"max":976,"p95":976}
+{"type":"ok","from":"2026-06-05T20:28:18.729Z","to":"2026-06-05T23:49:30.067Z","count":11,"url":"https://api.mywebui.com/api/status","avg":2818,"min":1157,"max":4631,"p95":4631}

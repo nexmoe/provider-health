@@ -1,5 +1,9 @@
-{"url":"https://ai.nahcrof.com/v1/models"}
-{"type":"ok","from":"2026-06-01T00:11:02.399Z","to":"2026-06-01T23:51:05.010Z","count":57,"avg":1600,"min":900,"max":2988,"p95":2493}
-{"type":"ok","from":"2026-06-02T00:10:57.786Z","to":"2026-06-02T23:41:04.164Z","count":59,"avg":1622,"min":958,"max":2693,"p95":2416}
-{"type":"ok","from":"2026-06-03T00:01:20.861Z","to":"2026-06-03T23:31:15.334Z","count":54,"avg":1710,"min":472,"max":4623,"p95":2890}
-{"type":"ok","from":"2026-06-04T00:01:18.966Z","to":"2026-06-04T23:51:00.848Z","count":55,"avg":1713,"min":1066,"max":3140,"p95":2379}
+{"type":"ok","from":"2026-06-01T00:11:02.399Z","to":"2026-06-01T23:51:05.010Z","count":57,"avg":1600,"min":900,"max":2988,"p95":2493,"url":"https://ai.nahcrof.com/v1/models"}
+{"type":"ok","from":"2026-06-02T00:10:57.786Z","to":"2026-06-02T23:41:04.164Z","count":59,"avg":1622,"min":958,"max":2693,"p95":2416,"url":"https://ai.nahcrof.com/v1/models"}
+{"type":"ok","from":"2026-06-03T00:01:20.861Z","to":"2026-06-03T23:31:15.334Z","count":54,"avg":1710,"min":472,"max":4623,"p95":2890,"url":"https://ai.nahcrof.com/v1/models"}
+{"type":"ok","from":"2026-06-04T00:01:18.966Z","to":"2026-06-04T23:51:00.848Z","count":55,"avg":1713,"min":1066,"max":3140,"p95":2379,"url":"https://ai.nahcrof.com/v1/models"}
+{"type":"ok","from":"2026-06-05T00:11:02.736Z","to":"2026-06-05T22:11:02.320Z","count":50,"url":"https://ai.nahcrof.com/v1/models","avg":1745,"min":489,"max":3434,"p95":2629}
+{"type":"fail","from":"2026-06-05T22:31:14.283Z","to":"2026-06-05T22:31:14.283Z","count":1,"url":"https://ai.nahcrof.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-06-05T22:51:04.495Z","to":"2026-06-05T22:51:04.495Z","count":1,"url":"https://ai.nahcrof.com/v1/models","avg":1673,"min":1673,"max":1673,"p95":1673}
+{"type":"fail","from":"2026-06-05T23:11:22.556Z","to":"2026-06-05T23:11:22.556Z","count":1,"url":"https://ai.nahcrof.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-05T23:31:14.506Z","to":"2026-06-05T23:51:05.942Z","count":2,"url":"https://ai.nahcrof.com/v1/models","avg":1911,"min":1261,"max":2560,"p95":2560}

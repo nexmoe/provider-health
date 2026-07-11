@@ -1,7 +1,9 @@
-{"url":"https://api.heang.top/api/status"}
-{"type":"ok","from":"2026-06-01T00:07:23.100Z","to":"2026-06-01T23:47:11.860Z","count":56,"avg":1929,"min":1277,"max":4572,"p95":3228}
-{"type":"ok","from":"2026-06-02T00:07:32.813Z","to":"2026-06-02T06:20:06.164Z","count":17,"avg":1939,"min":1365,"max":2686,"p95":2686}
-{"type":"fail","from":"2026-06-02T06:52:27.418Z","to":"2026-06-02T06:52:27.418Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-06-02T07:21:18.919Z","to":"2026-06-02T23:57:07.905Z","count":42,"avg":1735,"min":1013,"max":2680,"p95":2392}
-{"type":"ok","from":"2026-06-03T00:18:26.006Z","to":"2026-06-03T23:48:47.696Z","count":54,"avg":1875,"min":1181,"max":4264,"p95":3163}
-{"type":"ok","from":"2026-06-04T00:18:43.091Z","to":"2026-06-04T23:48:26.989Z","count":52,"avg":1860,"min":396,"max":4827,"p95":3207}
+{"type":"ok","from":"2026-06-01T00:07:23.100Z","to":"2026-06-01T23:47:11.860Z","count":56,"avg":1929,"min":1277,"max":4572,"p95":3228,"url":"https://api.heang.top/api/status"}
+{"type":"ok","from":"2026-06-02T00:07:32.813Z","to":"2026-06-02T06:20:06.164Z","count":17,"avg":1939,"min":1365,"max":2686,"p95":2686,"url":"https://api.heang.top/api/status"}
+{"type":"fail","from":"2026-06-02T06:52:27.418Z","to":"2026-06-02T06:52:27.418Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.heang.top/api/status"}
+{"type":"ok","from":"2026-06-02T07:21:18.919Z","to":"2026-06-02T23:57:07.905Z","count":42,"avg":1735,"min":1013,"max":2680,"p95":2392,"url":"https://api.heang.top/api/status"}
+{"type":"ok","from":"2026-06-03T00:18:26.006Z","to":"2026-06-03T23:48:47.696Z","count":54,"avg":1875,"min":1181,"max":4264,"p95":3163,"url":"https://api.heang.top/api/status"}
+{"type":"ok","from":"2026-06-04T00:18:43.091Z","to":"2026-06-04T23:48:26.989Z","count":52,"avg":1860,"min":396,"max":4827,"p95":3207,"url":"https://api.heang.top/api/status"}
+{"type":"ok","from":"2026-06-05T00:08:59.704Z","to":"2026-06-05T07:00:31.983Z","count":16,"url":"https://api.heang.top/api/status","avg":1763,"min":1266,"max":2365,"p95":2365}
+{"type":"ok","from":"2026-06-05T07:51:25.039Z","to":"2026-06-05T07:51:25.039Z","count":1,"url":"https://api.heang.top/v1/models","avg":1078,"min":1078,"max":1078,"p95":1078}
+{"type":"ok","from":"2026-06-05T08:22:04.698Z","to":"2026-06-05T23:48:54.605Z","count":37,"url":"https://api.heang.top/api/status","avg":1871,"min":979,"max":3014,"p95":2973}

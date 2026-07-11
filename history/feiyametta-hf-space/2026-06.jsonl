@@ -1,7 +1,12 @@
-{"url":"https://feiyametta-hhg.hf.space/api/status"}
-{"type":"ok","from":"2026-06-01T00:19:06.054Z","to":"2026-06-01T23:59:23.765Z","count":57,"avg":1243,"min":1068,"max":2238,"p95":1433}
-{"type":"ok","from":"2026-06-02T00:19:02.063Z","to":"2026-06-02T23:48:56.466Z","count":59,"avg":1256,"min":1131,"max":1785,"p95":1417}
-{"type":"ok","from":"2026-06-03T00:09:56.651Z","to":"2026-06-03T08:12:16.539Z","count":18,"avg":1288,"min":1169,"max":1549,"p95":1549}
-{"type":"fail","from":"2026-06-03T08:42:19.169Z","to":"2026-06-03T08:42:19.169Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-06-03T09:09:50.298Z","to":"2026-06-03T23:39:24.767Z","count":35,"avg":1222,"min":1065,"max":2231,"p95":1339}
-{"type":"ok","from":"2026-06-04T00:09:20.005Z","to":"2026-06-04T23:59:47.038Z","count":54,"avg":1231,"min":1046,"max":2252,"p95":1373}
+{"type":"ok","from":"2026-06-01T00:19:06.054Z","to":"2026-06-01T23:59:23.765Z","count":57,"avg":1243,"min":1068,"max":2238,"p95":1433,"url":"https://feiyametta-hhg.hf.space/api/status"}
+{"type":"ok","from":"2026-06-02T00:19:02.063Z","to":"2026-06-02T23:48:56.466Z","count":59,"avg":1256,"min":1131,"max":1785,"p95":1417,"url":"https://feiyametta-hhg.hf.space/api/status"}
+{"type":"ok","from":"2026-06-03T00:09:56.651Z","to":"2026-06-03T08:12:16.539Z","count":18,"avg":1288,"min":1169,"max":1549,"p95":1549,"url":"https://feiyametta-hhg.hf.space/api/status"}
+{"type":"fail","from":"2026-06-03T08:42:19.169Z","to":"2026-06-03T08:42:19.169Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://feiyametta-hhg.hf.space/api/status"}
+{"type":"ok","from":"2026-06-03T09:09:50.298Z","to":"2026-06-03T23:39:24.767Z","count":35,"avg":1222,"min":1065,"max":2231,"p95":1339,"url":"https://feiyametta-hhg.hf.space/api/status"}
+{"type":"ok","from":"2026-06-04T00:09:20.005Z","to":"2026-06-04T23:59:47.038Z","count":54,"avg":1231,"min":1046,"max":2252,"p95":1373,"url":"https://feiyametta-hhg.hf.space/api/status"}
+{"type":"ok","from":"2026-06-05T00:19:54.749Z","to":"2026-06-05T15:11:27.625Z","count":32,"url":"https://feiyametta-hhg.hf.space/api/status","avg":1315,"min":1106,"max":2992,"p95":1541}
+{"type":"fail","from":"2026-06-05T15:40:45.826Z","to":"2026-06-05T16:10:58.107Z","count":2,"url":"https://feiyametta-hhg.hf.space/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-05T16:40:44.874Z","to":"2026-06-05T16:40:44.874Z","count":1,"url":"https://feiyametta-hhg.hf.space/v1/models","avg":3091,"min":3091,"max":3091,"p95":3091}
+{"type":"ok","from":"2026-06-05T17:10:26.333Z","to":"2026-06-05T18:09:48.692Z","count":3,"url":"https://feiyametta-hhg.hf.space/api/status","avg":2417,"min":1162,"max":4840,"p95":4840}
+{"type":"fail","from":"2026-06-05T18:39:15.160Z","to":"2026-06-05T18:39:15.160Z","count":1,"url":"https://feiyametta-hhg.hf.space/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-05T18:59:11.704Z","to":"2026-06-05T23:59:17.867Z","count":16,"url":"https://feiyametta-hhg.hf.space/api/status","avg":1348,"min":1078,"max":2083,"p95":2083}
