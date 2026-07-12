@@ -1,6 +1,8 @@
-{"url":"https://api.moonshot.cn/v1/models"}
-{"type":"ok","from":"2026-06-01T00:11:47.419Z","to":"2026-06-01T23:51:49.682Z","count":57,"avg":1178,"min":1006,"max":3010,"p95":2259}
-{"type":"ok","from":"2026-06-02T00:11:44.340Z","to":"2026-06-02T23:41:48.662Z","count":59,"avg":1303,"min":1012,"max":3178,"p95":2409}
-{"type":"ok","from":"2026-06-03T00:02:05.702Z","to":"2026-06-03T23:32:03.556Z","count":54,"avg":1193,"min":1011,"max":3069,"p95":2130}
-{"type":"ok","from":"2026-06-04T00:02:04.152Z","to":"2026-06-04T23:51:46.511Z","count":55,"avg":1176,"min":1018,"max":3051,"p95":2105}
-{"type":"ok","from":"2026-06-05T00:11:48.438Z","to":"2026-06-05T23:51:51.138Z","count":55,"avg":1383,"min":1008,"max":4040,"p95":3153}
+{"type":"ok","from":"2026-06-01T00:11:47.419Z","to":"2026-06-01T23:51:49.682Z","count":57,"avg":1178,"min":1006,"max":3010,"p95":2259,"url":"https://api.moonshot.cn/v1/models"}
+{"type":"ok","from":"2026-06-02T00:11:44.340Z","to":"2026-06-02T23:41:48.662Z","count":59,"avg":1303,"min":1012,"max":3178,"p95":2409,"url":"https://api.moonshot.cn/v1/models"}
+{"type":"ok","from":"2026-06-03T00:02:05.702Z","to":"2026-06-03T23:32:03.556Z","count":54,"avg":1193,"min":1011,"max":3069,"p95":2130,"url":"https://api.moonshot.cn/v1/models"}
+{"type":"ok","from":"2026-06-04T00:02:04.152Z","to":"2026-06-04T23:51:46.511Z","count":55,"avg":1176,"min":1018,"max":3051,"p95":2105,"url":"https://api.moonshot.cn/v1/models"}
+{"type":"ok","from":"2026-06-05T00:11:48.438Z","to":"2026-06-05T23:51:51.138Z","count":55,"avg":1383,"min":1008,"max":4040,"p95":3153,"url":"https://api.moonshot.cn/v1/models"}
+{"type":"ok","from":"2026-06-06T00:11:50.324Z","to":"2026-06-06T06:21:55.088Z","count":14,"url":"https://api.moonshot.cn/v1/models","avg":1239,"min":1058,"max":2071,"p95":2071}
+{"type":"fail","from":"2026-06-06T06:51:54.669Z","to":"2026-06-06T06:51:54.669Z","count":1,"url":"https://api.moonshot.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-06T07:21:56.152Z","to":"2026-06-06T23:51:50.884Z","count":40,"url":"https://api.moonshot.cn/v1/models","avg":1299,"min":1024,"max":3499,"p95":3141}

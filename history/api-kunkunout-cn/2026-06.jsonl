@@ -1,3 +1,10 @@
-{"url":"https://api.kunkunout.cn/api/status"}
-{"type":"ok","from":"2026-06-04T03:18:24.606Z","to":"2026-06-04T23:47:08.443Z","count":46,"avg":1165,"min":841,"max":1762,"p95":1577}
-{"type":"ok","from":"2026-06-05T00:07:35.510Z","to":"2026-06-05T23:47:34.410Z","count":54,"avg":1201,"min":730,"max":1696,"p95":1622}
+{"type":"ok","from":"2026-06-04T03:18:24.606Z","to":"2026-06-04T23:47:08.443Z","count":46,"avg":1165,"min":841,"max":1762,"p95":1577,"url":"https://api.kunkunout.cn/api/status"}
+{"type":"ok","from":"2026-06-05T00:07:35.510Z","to":"2026-06-05T23:47:34.410Z","count":54,"avg":1201,"min":730,"max":1696,"p95":1622,"url":"https://api.kunkunout.cn/api/status"}
+{"type":"ok","from":"2026-06-06T00:07:20.938Z","to":"2026-06-06T08:09:16.639Z","count":17,"url":"https://api.kunkunout.cn/api/status","avg":1683,"min":935,"max":3320,"p95":3320}
+{"type":"ok","from":"2026-06-06T08:39:04.113Z","to":"2026-06-06T08:39:04.113Z","count":1,"url":"https://api.kunkunout.cn/v1/models","avg":1075,"min":1075,"max":1075,"p95":1075}
+{"type":"ok","from":"2026-06-06T09:09:51.488Z","to":"2026-06-06T21:25:47.606Z","count":29,"url":"https://api.kunkunout.cn/api/status","avg":1590,"min":915,"max":3885,"p95":3306}
+{"type":"ok","from":"2026-06-06T21:45:57.785Z","to":"2026-06-06T21:45:57.785Z","count":1,"url":"https://api.kunkunout.cn/v1/models","avg":2623,"min":2623,"max":2623,"p95":2623}
+{"type":"ok","from":"2026-06-06T22:06:18.088Z","to":"2026-06-06T22:46:07.313Z","count":3,"url":"https://api.kunkunout.cn/api/status","avg":1914,"min":1280,"max":2497,"p95":2497}
+{"type":"fail","from":"2026-06-06T23:07:08.310Z","to":"2026-06-06T23:07:08.310Z","count":1,"url":"https://api.kunkunout.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-06T23:27:16.369Z","to":"2026-06-06T23:27:16.369Z","count":1,"url":"https://api.kunkunout.cn/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-06T23:47:51.053Z","to":"2026-06-06T23:47:51.053Z","count":1,"url":"https://api.kunkunout.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
