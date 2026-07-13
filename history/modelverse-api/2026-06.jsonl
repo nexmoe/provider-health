@@ -147,3 +147,25 @@
 {"type":"fail","from":"2026-06-06T20:21:12.954Z","to":"2026-06-06T20:21:12.954Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-06T20:41:08.307Z","to":"2026-06-06T23:21:57.218Z","count":9,"url":"https://api.modelverse.cn/v1/models","avg":2541,"min":1346,"max":3880,"p95":3880}
 {"type":"fail","from":"2026-06-06T23:42:31.072Z","to":"2026-06-06T23:42:31.072Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-07T00:02:02.792Z","to":"2026-06-07T01:42:42.994Z","count":5,"url":"https://api.modelverse.cn/v1/models","avg":2821,"min":1385,"max":4790,"p95":4790}
+{"type":"fail","from":"2026-06-07T02:03:15.262Z","to":"2026-06-07T02:03:15.262Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-07T02:32:58.551Z","to":"2026-06-07T02:32:58.551Z","count":1,"url":"https://api.modelverse.cn/v1/models","avg":4574,"min":4574,"max":4574,"p95":4574}
+{"type":"fail","from":"2026-06-07T02:53:27.743Z","to":"2026-06-07T03:22:58.205Z","count":2,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-07T03:53:30.064Z","to":"2026-06-07T05:55:22.040Z","count":5,"url":"https://api.modelverse.cn/v1/models","avg":2939,"min":1335,"max":4852,"p95":4852}
+{"type":"fail","from":"2026-06-07T06:25:31.765Z","to":"2026-06-07T06:25:31.765Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-06-07T06:56:03.475Z","to":"2026-06-07T07:55:42.002Z","count":3,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-07T08:24:46.778Z","to":"2026-06-07T10:53:58.769Z","count":6,"url":"https://api.modelverse.cn/v1/models","avg":3846,"min":1718,"max":4641,"p95":4641}
+{"type":"fail","from":"2026-06-07T11:25:50.294Z","to":"2026-06-07T11:25:50.294Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-06-07T11:55:20.271Z","to":"2026-06-07T11:55:20.271Z","count":1,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-07T12:24:35.994Z","to":"2026-06-07T12:24:35.994Z","count":1,"url":"https://api.modelverse.cn/v1/models","avg":2739,"min":2739,"max":2739,"p95":2739}
+{"type":"fail","from":"2026-06-07T12:54:52.741Z","to":"2026-06-07T12:54:52.741Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-06-07T13:24:26.488Z","to":"2026-06-07T13:55:27.015Z","count":2,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-07T14:25:06.223Z","to":"2026-06-07T14:25:06.223Z","count":1,"url":"https://api.modelverse.cn/v1/models","avg":3209,"min":3209,"max":3209,"p95":3209}
+{"type":"fail","from":"2026-06-07T14:55:17.945Z","to":"2026-06-07T15:24:01.819Z","count":2,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-07T15:53:49.640Z","to":"2026-06-07T15:53:49.640Z","count":1,"url":"https://api.modelverse.cn/v1/models","avg":2546,"min":2546,"max":2546,"p95":2546}
+{"type":"fail","from":"2026-06-07T16:23:17.363Z","to":"2026-06-07T16:23:17.363Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-07T16:53:22.182Z","to":"2026-06-07T17:32:06.734Z","count":3,"url":"https://api.modelverse.cn/v1/models","avg":3080,"min":1381,"max":4880,"p95":4880}
+{"type":"fail","from":"2026-06-07T17:52:11.790Z","to":"2026-06-07T17:52:11.790Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-07T18:12:01.852Z","to":"2026-06-07T22:31:10.654Z","count":14,"url":"https://api.modelverse.cn/v1/models","avg":2211,"min":845,"max":4775,"p95":4775}
+{"type":"fail","from":"2026-06-07T22:51:06.653Z","to":"2026-06-07T22:51:06.653Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-07T23:12:18.315Z","to":"2026-06-07T23:51:45.092Z","count":3,"url":"https://api.modelverse.cn/v1/models","avg":2246,"min":1102,"max":4239,"p95":4239}

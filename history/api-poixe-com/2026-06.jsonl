@@ -1,7 +1,11 @@
-{"url":"https://api.poixe.com/v1/models"}
-{"type":"ok","from":"2026-06-01T00:06:39.167Z","to":"2026-06-01T23:46:27.014Z","count":56,"avg":1167,"min":254,"max":2888,"p95":2504}
-{"type":"ok","from":"2026-06-02T00:06:47.264Z","to":"2026-06-02T23:56:22.537Z","count":60,"avg":1086,"min":239,"max":2399,"p95":2079}
-{"type":"ok","from":"2026-06-03T00:17:40.803Z","to":"2026-06-03T23:48:01.857Z","count":54,"avg":1125,"min":260,"max":3640,"p95":2473}
-{"type":"ok","from":"2026-06-04T00:17:58.517Z","to":"2026-06-04T23:47:09.250Z","count":52,"avg":1483,"min":497,"max":2877,"p95":2682}
-{"type":"ok","from":"2026-06-05T00:07:36.899Z","to":"2026-06-05T23:47:35.148Z","count":54,"avg":1456,"min":595,"max":3350,"p95":2593}
-{"type":"ok","from":"2026-06-06T00:07:22.294Z","to":"2026-06-06T23:47:16.785Z","count":54,"avg":1638,"min":715,"max":4228,"p95":3284}
+{"type":"ok","from":"2026-06-01T00:06:39.167Z","to":"2026-06-01T23:46:27.014Z","count":56,"avg":1167,"min":254,"max":2888,"p95":2504,"url":"https://api.poixe.com/v1/models"}
+{"type":"ok","from":"2026-06-02T00:06:47.264Z","to":"2026-06-02T23:56:22.537Z","count":60,"avg":1086,"min":239,"max":2399,"p95":2079,"url":"https://api.poixe.com/v1/models"}
+{"type":"ok","from":"2026-06-03T00:17:40.803Z","to":"2026-06-03T23:48:01.857Z","count":54,"avg":1125,"min":260,"max":3640,"p95":2473,"url":"https://api.poixe.com/v1/models"}
+{"type":"ok","from":"2026-06-04T00:17:58.517Z","to":"2026-06-04T23:47:09.250Z","count":52,"avg":1483,"min":497,"max":2877,"p95":2682,"url":"https://api.poixe.com/v1/models"}
+{"type":"ok","from":"2026-06-05T00:07:36.899Z","to":"2026-06-05T23:47:35.148Z","count":54,"avg":1456,"min":595,"max":3350,"p95":2593,"url":"https://api.poixe.com/v1/models"}
+{"type":"ok","from":"2026-06-06T00:07:22.294Z","to":"2026-06-06T23:47:16.785Z","count":54,"avg":1638,"min":715,"max":4228,"p95":3284,"url":"https://api.poixe.com/v1/models"}
+{"type":"ok","from":"2026-06-07T00:06:53.355Z","to":"2026-06-07T13:29:23.783Z","count":29,"url":"https://api.poixe.com/v1/models","avg":2463,"min":983,"max":3428,"p95":3339}
+{"type":"fail","from":"2026-06-07T14:00:32.615Z","to":"2026-06-07T14:00:32.615Z","count":1,"url":"https://api.poixe.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-07T14:30:04.428Z","to":"2026-06-07T14:30:04.428Z","count":1,"url":"https://api.poixe.com/v1/models","avg":1552,"min":1552,"max":1552,"p95":1552}
+{"type":"ok","from":"2026-06-07T15:00:17.704Z","to":"2026-06-07T15:00:17.704Z","count":1,"url":"https://api.poixe.com/health","avg":1116,"min":1116,"max":1116,"p95":1116}
+{"type":"ok","from":"2026-06-07T15:28:50.801Z","to":"2026-06-07T23:56:24.962Z","count":25,"url":"https://api.poixe.com/v1/models","avg":1635,"min":912,"max":3509,"p95":2589}

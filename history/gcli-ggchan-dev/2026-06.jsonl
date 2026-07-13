@@ -16,3 +16,7 @@
 {"type":"ok","from":"2026-06-06T00:15:59.331Z","to":"2026-06-06T04:56:26.604Z","count":11,"url":"https://gcli.ggchan.dev/v1/models","avg":1320,"min":217,"max":2276,"p95":2276}
 {"type":"fail","from":"2026-06-06T05:26:17.491Z","to":"2026-06-06T05:26:17.491Z","count":1,"url":"https://gcli.ggchan.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-06T05:56:10.748Z","to":"2026-06-06T23:56:03.006Z","count":43,"url":"https://gcli.ggchan.dev/v1/models","avg":1046,"min":407,"max":3123,"p95":1686}
+{"type":"ok","from":"2026-06-07T00:16:11.310Z","to":"2026-06-07T14:46:43.003Z","count":31,"url":"https://gcli.ggchan.dev/v1/models","avg":1281,"min":235,"max":3905,"p95":2790}
+{"type":"fail","from":"2026-06-07T15:16:24.251Z","to":"2026-06-07T15:16:24.251Z","count":1,"url":"https://gcli.ggchan.dev/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-07T15:46:26.388Z","to":"2026-06-07T15:46:26.388Z","count":1,"url":"https://gcli.ggchan.dev/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-07T16:16:42.879Z","to":"2026-06-07T23:45:56.816Z","count":23,"url":"https://gcli.ggchan.dev/v1/models","avg":738,"min":284,"max":1548,"p95":1098}

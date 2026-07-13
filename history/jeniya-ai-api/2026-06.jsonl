@@ -1,7 +1,12 @@
-{"url":"https://jeniya.cn/api/status"}
-{"type":"ok","from":"2026-06-01T00:19:34.684Z","to":"2026-06-01T23:59:51.932Z","count":57,"avg":1107,"min":744,"max":1776,"p95":1470}
-{"type":"ok","from":"2026-06-02T00:19:37.834Z","to":"2026-06-02T23:49:25.150Z","count":59,"avg":1245,"min":720,"max":4179,"p95":2351}
-{"type":"ok","from":"2026-06-03T00:10:31.210Z","to":"2026-06-03T23:40:26.486Z","count":54,"avg":1057,"min":708,"max":1932,"p95":1430}
-{"type":"ok","from":"2026-06-04T00:10:22.041Z","to":"2026-06-04T23:40:21.839Z","count":53,"avg":1094,"min":720,"max":1916,"p95":1494}
-{"type":"ok","from":"2026-06-05T00:00:48.918Z","to":"2026-06-05T23:40:51.322Z","count":55,"avg":1140,"min":706,"max":3045,"p95":1709}
-{"type":"ok","from":"2026-06-06T00:00:19.593Z","to":"2026-06-06T23:40:27.642Z","count":55,"avg":1096,"min":724,"max":1779,"p95":1474}
+{"type":"ok","from":"2026-06-01T00:19:34.684Z","to":"2026-06-01T23:59:51.932Z","count":57,"avg":1107,"min":744,"max":1776,"p95":1470,"url":"https://jeniya.cn/api/status"}
+{"type":"ok","from":"2026-06-02T00:19:37.834Z","to":"2026-06-02T23:49:25.150Z","count":59,"avg":1245,"min":720,"max":4179,"p95":2351,"url":"https://jeniya.cn/api/status"}
+{"type":"ok","from":"2026-06-03T00:10:31.210Z","to":"2026-06-03T23:40:26.486Z","count":54,"avg":1057,"min":708,"max":1932,"p95":1430,"url":"https://jeniya.cn/api/status"}
+{"type":"ok","from":"2026-06-04T00:10:22.041Z","to":"2026-06-04T23:40:21.839Z","count":53,"avg":1094,"min":720,"max":1916,"p95":1494,"url":"https://jeniya.cn/api/status"}
+{"type":"ok","from":"2026-06-05T00:00:48.918Z","to":"2026-06-05T23:40:51.322Z","count":55,"avg":1140,"min":706,"max":3045,"p95":1709,"url":"https://jeniya.cn/api/status"}
+{"type":"ok","from":"2026-06-06T00:00:19.593Z","to":"2026-06-06T23:40:27.642Z","count":55,"avg":1096,"min":724,"max":1779,"p95":1474,"url":"https://jeniya.cn/api/status"}
+{"type":"ok","from":"2026-06-07T00:00:20.988Z","to":"2026-06-07T07:53:32.513Z","count":18,"url":"https://jeniya.cn/api/status","avg":1162,"min":881,"max":2124,"p95":2124}
+{"type":"ok","from":"2026-06-07T08:22:59.067Z","to":"2026-06-07T08:52:45.977Z","count":2,"url":"https://jeniya.cn/v1/models","avg":2489,"min":534,"max":4444,"p95":4444}
+{"type":"ok","from":"2026-06-07T09:22:30.968Z","to":"2026-06-07T10:52:09.341Z","count":4,"url":"https://jeniya.cn/api/status","avg":1633,"min":897,"max":3215,"p95":3215}
+{"type":"ok","from":"2026-06-07T11:23:45.901Z","to":"2026-06-07T11:23:45.901Z","count":1,"url":"https://jeniya.cn/v1/models","avg":515,"min":515,"max":515,"p95":515}
+{"type":"fail","from":"2026-06-07T11:53:29.108Z","to":"2026-06-07T12:22:43.899Z","count":2,"url":"https://jeniya.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-07T12:52:54.133Z","to":"2026-06-07T23:49:48.056Z","count":30,"url":"https://jeniya.cn/api/status","avg":906,"min":655,"max":1873,"p95":1316}
