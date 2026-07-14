@@ -1,8 +1,10 @@
-{"url":"https://codexe.top/api/status"}
-{"type":"ok","from":"2026-06-03T19:08:50.184Z","to":"2026-06-03T23:49:36.186Z","count":15,"avg":1532,"min":1180,"max":2078,"p95":2078}
-{"type":"ok","from":"2026-06-04T00:19:30.489Z","to":"2026-06-04T23:49:17.363Z","count":52,"avg":684,"min":198,"max":1973,"p95":1620}
-{"type":"ok","from":"2026-06-05T00:09:47.094Z","to":"2026-06-05T21:08:42.183Z","count":46,"avg":496,"min":219,"max":792,"p95":613}
-{"type":"fail","from":"2026-06-05T21:29:40.297Z","to":"2026-06-05T21:29:40.297Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-06-05T21:48:46.080Z","to":"2026-06-05T23:49:50.881Z","count":7,"avg":567,"min":508,"max":690,"p95":690}
-{"type":"ok","from":"2026-06-06T00:09:36.425Z","to":"2026-06-06T23:49:48.929Z","count":54,"avg":604,"min":519,"max":886,"p95":808}
-{"type":"ok","from":"2026-06-07T00:09:12.407Z","to":"2026-06-07T23:58:20.574Z","count":57,"avg":559,"min":203,"max":1513,"p95":832}
+{"type":"ok","from":"2026-06-03T19:08:50.184Z","to":"2026-06-03T23:49:36.186Z","count":15,"avg":1532,"min":1180,"max":2078,"p95":2078,"url":"https://codexe.top/api/status"}
+{"type":"ok","from":"2026-06-04T00:19:30.489Z","to":"2026-06-04T23:49:17.363Z","count":52,"avg":684,"min":198,"max":1973,"p95":1620,"url":"https://codexe.top/api/status"}
+{"type":"ok","from":"2026-06-05T00:09:47.094Z","to":"2026-06-05T21:08:42.183Z","count":46,"avg":496,"min":219,"max":792,"p95":613,"url":"https://codexe.top/api/status"}
+{"type":"fail","from":"2026-06-05T21:29:40.297Z","to":"2026-06-05T21:29:40.297Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://codexe.top/api/status"}
+{"type":"ok","from":"2026-06-05T21:48:46.080Z","to":"2026-06-05T23:49:50.881Z","count":7,"avg":567,"min":508,"max":690,"p95":690,"url":"https://codexe.top/api/status"}
+{"type":"ok","from":"2026-06-06T00:09:36.425Z","to":"2026-06-06T23:49:48.929Z","count":54,"avg":604,"min":519,"max":886,"p95":808,"url":"https://codexe.top/api/status"}
+{"type":"ok","from":"2026-06-07T00:09:12.407Z","to":"2026-06-07T23:58:20.574Z","count":57,"avg":559,"min":203,"max":1513,"p95":832,"url":"https://codexe.top/api/status"}
+{"type":"ok","from":"2026-06-08T00:19:21.040Z","to":"2026-06-08T21:28:17.042Z","count":49,"url":"https://codexe.top/api/status","avg":539,"min":210,"max":806,"p95":683}
+{"type":"ok","from":"2026-06-08T21:47:58.953Z","to":"2026-06-08T22:08:44.256Z","count":2,"url":"https://api.codexe.top/api/status","avg":342,"min":188,"max":496,"p95":496}
+{"type":"ok","from":"2026-06-08T22:27:11.859Z","to":"2026-06-08T23:48:02.297Z","count":5,"url":"https://codexe.top/api/status","avg":380,"min":192,"max":671,"p95":671}
