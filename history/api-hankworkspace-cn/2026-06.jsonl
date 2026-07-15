@@ -8,3 +8,6 @@
 {"type":"ok","from":"2026-06-06T00:09:32.862Z","to":"2026-06-06T23:49:34.459Z","count":54,"url":"https://api.hankworkspace.cn/v1/models","avg":1163,"min":595,"max":3802,"p95":2006}
 {"type":"ok","from":"2026-06-07T00:09:07.406Z","to":"2026-06-07T23:58:14.875Z","count":57,"url":"https://api.hankworkspace.cn/v1/models","avg":1204,"min":319,"max":2549,"p95":2486}
 {"type":"ok","from":"2026-06-08T00:19:07.812Z","to":"2026-06-08T23:47:56.756Z","count":56,"url":"https://api.hankworkspace.cn/v1/models","avg":1139,"min":489,"max":2700,"p95":2093}
+{"type":"ok","from":"2026-06-09T00:07:40.151Z","to":"2026-06-09T05:49:43.373Z","count":15,"url":"https://api.hankworkspace.cn/v1/models","avg":980,"min":632,"max":1368,"p95":1368}
+{"type":"fail","from":"2026-06-09T06:10:21.645Z","to":"2026-06-09T11:12:39.339Z","count":11,"url":"https://api.hankworkspace.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-09T11:43:11.677Z","to":"2026-06-09T23:57:51.910Z","count":32,"url":"https://api.hankworkspace.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}

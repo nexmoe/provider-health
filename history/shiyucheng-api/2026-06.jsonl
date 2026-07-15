@@ -15,3 +15,6 @@
 {"type":"ok","from":"2026-06-08T00:10:54.112Z","to":"2026-06-08T14:42:25.848Z","count":33,"url":"https://api.shiyucheng.top/v1/models","avg":882,"min":579,"max":2546,"p95":1968}
 {"type":"ok","from":"2026-06-08T15:11:56.930Z","to":"2026-06-08T15:11:56.930Z","count":1,"url":"https://api.shiyucheng.top/health","avg":1224,"min":1224,"max":1224,"p95":1224}
 {"type":"ok","from":"2026-06-08T15:42:05.938Z","to":"2026-06-08T23:39:58.516Z","count":24,"url":"https://api.shiyucheng.top/v1/models","avg":701,"min":579,"max":1142,"p95":939}
+{"type":"ok","from":"2026-06-09T00:00:02.963Z","to":"2026-06-09T06:01:36.033Z","count":16,"url":"https://api.shiyucheng.top/v1/models","avg":736,"min":601,"max":965,"p95":965}
+{"type":"fail","from":"2026-06-09T06:32:15.879Z","to":"2026-06-09T06:32:15.879Z","count":1,"url":"https://api.shiyucheng.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-09T07:01:23.942Z","to":"2026-06-09T23:49:54.519Z","count":42,"url":"https://api.shiyucheng.top/v1/models","avg":794,"min":593,"max":1626,"p95":1112}

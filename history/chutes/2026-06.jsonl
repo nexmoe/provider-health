@@ -1,9 +1,11 @@
-{"url":"https://llm.chutes.ai/v1/models"}
-{"type":"ok","from":"2026-06-01T00:12:56.783Z","to":"2026-06-01T23:52:58.722Z","count":57,"avg":1033,"min":310,"max":2427,"p95":1833}
-{"type":"ok","from":"2026-06-02T00:12:52.453Z","to":"2026-06-02T23:42:57.820Z","count":59,"avg":986,"min":249,"max":2417,"p95":1972}
-{"type":"ok","from":"2026-06-03T00:03:14.827Z","to":"2026-06-03T23:33:12.424Z","count":54,"avg":1104,"min":328,"max":2326,"p95":1785}
-{"type":"ok","from":"2026-06-04T00:03:13.117Z","to":"2026-06-04T23:52:54.546Z","count":54,"avg":1054,"min":362,"max":2381,"p95":1842}
-{"type":"ok","from":"2026-06-05T00:12:57.461Z","to":"2026-06-05T23:52:59.024Z","count":55,"avg":1013,"min":427,"max":3175,"p95":1703}
-{"type":"ok","from":"2026-06-06T00:12:58.333Z","to":"2026-06-06T23:52:59.094Z","count":55,"avg":918,"min":389,"max":1729,"p95":1485}
-{"type":"ok","from":"2026-06-07T00:13:00.333Z","to":"2026-06-07T23:42:55.249Z","count":56,"avg":987,"min":472,"max":1716,"p95":1398}
-{"type":"ok","from":"2026-06-08T00:03:13.433Z","to":"2026-06-08T23:52:58.574Z","count":60,"avg":1028,"min":297,"max":2250,"p95":1758}
+{"type":"ok","from":"2026-06-01T00:12:56.783Z","to":"2026-06-01T23:52:58.722Z","count":57,"avg":1033,"min":310,"max":2427,"p95":1833,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-06-02T00:12:52.453Z","to":"2026-06-02T23:42:57.820Z","count":59,"avg":986,"min":249,"max":2417,"p95":1972,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-06-03T00:03:14.827Z","to":"2026-06-03T23:33:12.424Z","count":54,"avg":1104,"min":328,"max":2326,"p95":1785,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-06-04T00:03:13.117Z","to":"2026-06-04T23:52:54.546Z","count":54,"avg":1054,"min":362,"max":2381,"p95":1842,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-06-05T00:12:57.461Z","to":"2026-06-05T23:52:59.024Z","count":55,"avg":1013,"min":427,"max":3175,"p95":1703,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-06-06T00:12:58.333Z","to":"2026-06-06T23:52:59.094Z","count":55,"avg":918,"min":389,"max":1729,"p95":1485,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-06-07T00:13:00.333Z","to":"2026-06-07T23:42:55.249Z","count":56,"avg":987,"min":472,"max":1716,"p95":1398,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-06-08T00:03:13.433Z","to":"2026-06-08T23:52:58.574Z","count":60,"avg":1028,"min":297,"max":2250,"p95":1758,"url":"https://llm.chutes.ai/v1/models"}
+{"type":"ok","from":"2026-06-09T00:13:03.067Z","to":"2026-06-09T06:53:06.141Z","count":17,"url":"https://llm.chutes.ai/v1/models","avg":865,"min":536,"max":1372,"p95":1372}
+{"type":"fail","from":"2026-06-09T07:23:04.386Z","to":"2026-06-09T07:23:04.386Z","count":1,"url":"https://llm.chutes.ai/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-09T07:53:09.555Z","to":"2026-06-09T23:43:06.645Z","count":41,"url":"https://llm.chutes.ai/v1/models","avg":960,"min":441,"max":1628,"p95":1408}

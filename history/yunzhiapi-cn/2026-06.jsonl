@@ -16,3 +16,6 @@
 {"type":"fail","from":"2026-06-07T14:25:17.748Z","to":"2026-06-07T14:25:17.748Z","count":1,"url":"https://yunzhiapi.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-07T14:55:19.648Z","to":"2026-06-07T23:51:46.187Z","count":26,"url":"https://yunzhiapi.cn/v1/models","avg":610,"min":346,"max":1285,"p95":1207}
 {"type":"ok","from":"2026-06-08T00:12:38.667Z","to":"2026-06-08T23:41:31.736Z","count":57,"url":"https://yunzhiapi.cn/v1/models","avg":629,"min":38,"max":1427,"p95":1323}
+{"type":"ok","from":"2026-06-09T00:01:22.241Z","to":"2026-06-09T12:19:31.432Z","count":28,"url":"https://yunzhiapi.cn/v1/models","avg":721,"min":37,"max":1736,"p95":1378}
+{"type":"fail","from":"2026-06-09T12:45:29.719Z","to":"2026-06-09T12:45:29.719Z","count":1,"url":"https://yunzhiapi.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-09T13:13:56.065Z","to":"2026-06-09T23:51:22.192Z","count":29,"url":"https://yunzhiapi.cn/v1/models","avg":681,"min":226,"max":2026,"p95":1537}
