@@ -1,10 +1,12 @@
-{"url":"https://api.gmi-serving.com/v1/models"}
-{"type":"ok","from":"2026-06-01T00:11:23.514Z","to":"2026-06-01T23:51:26.284Z","count":57,"avg":632,"min":467,"max":2019,"p95":1093}
-{"type":"ok","from":"2026-06-02T00:11:19.996Z","to":"2026-06-02T23:41:24.850Z","count":59,"avg":527,"min":263,"max":958,"p95":705}
-{"type":"ok","from":"2026-06-03T00:01:41.841Z","to":"2026-06-03T23:31:40.007Z","count":54,"avg":614,"min":255,"max":3079,"p95":933}
-{"type":"ok","from":"2026-06-04T00:01:40.404Z","to":"2026-06-04T23:51:21.931Z","count":55,"avg":551,"min":287,"max":885,"p95":859}
-{"type":"ok","from":"2026-06-05T00:11:23.566Z","to":"2026-06-05T23:51:26.755Z","count":55,"avg":549,"min":277,"max":904,"p95":755}
-{"type":"ok","from":"2026-06-06T00:11:26.616Z","to":"2026-06-06T23:51:26.906Z","count":55,"avg":571,"min":258,"max":1087,"p95":847}
-{"type":"ok","from":"2026-06-07T00:11:28.379Z","to":"2026-06-07T23:41:23.408Z","count":56,"avg":554,"min":282,"max":799,"p95":746}
-{"type":"ok","from":"2026-06-08T00:01:40.525Z","to":"2026-06-08T23:51:24.785Z","count":60,"avg":553,"min":396,"max":947,"p95":814}
-{"type":"ok","from":"2026-06-09T00:11:30.015Z","to":"2026-06-09T23:41:34.167Z","count":59,"avg":583,"min":260,"max":1559,"p95":902}
+{"type":"ok","from":"2026-06-01T00:11:23.514Z","to":"2026-06-01T23:51:26.284Z","count":57,"avg":632,"min":467,"max":2019,"p95":1093,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-02T00:11:19.996Z","to":"2026-06-02T23:41:24.850Z","count":59,"avg":527,"min":263,"max":958,"p95":705,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-03T00:01:41.841Z","to":"2026-06-03T23:31:40.007Z","count":54,"avg":614,"min":255,"max":3079,"p95":933,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-04T00:01:40.404Z","to":"2026-06-04T23:51:21.931Z","count":55,"avg":551,"min":287,"max":885,"p95":859,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-05T00:11:23.566Z","to":"2026-06-05T23:51:26.755Z","count":55,"avg":549,"min":277,"max":904,"p95":755,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-06T00:11:26.616Z","to":"2026-06-06T23:51:26.906Z","count":55,"avg":571,"min":258,"max":1087,"p95":847,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-07T00:11:28.379Z","to":"2026-06-07T23:41:23.408Z","count":56,"avg":554,"min":282,"max":799,"p95":746,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-08T00:01:40.525Z","to":"2026-06-08T23:51:24.785Z","count":60,"avg":553,"min":396,"max":947,"p95":814,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-09T00:11:30.015Z","to":"2026-06-09T23:41:34.167Z","count":59,"avg":583,"min":260,"max":1559,"p95":902,"url":"https://api.gmi-serving.com/v1/models"}
+{"type":"ok","from":"2026-06-10T00:01:42.816Z","to":"2026-06-10T05:31:33.451Z","count":14,"url":"https://api.gmi-serving.com/v1/models","avg":517,"min":305,"max":708,"p95":708}
+{"type":"fail","from":"2026-06-10T06:01:48.314Z","to":"2026-06-10T06:01:48.314Z","count":1,"url":"https://api.gmi-serving.com/api/status","status":405,"error":"HTTP 405","avg_latency":null}
+{"type":"ok","from":"2026-06-10T06:31:40.702Z","to":"2026-06-10T23:51:34.381Z","count":45,"url":"https://api.gmi-serving.com/v1/models","avg":671,"min":396,"max":3159,"p95":963}

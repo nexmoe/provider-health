@@ -1,12 +1,14 @@
-{"url":"https://api.zetatechs.com/api/status"}
-{"type":"ok","from":"2026-06-01T00:12:25.377Z","to":"2026-06-01T23:52:27.934Z","count":57,"avg":823,"min":446,"max":1625,"p95":1270}
-{"type":"ok","from":"2026-06-02T00:12:22.043Z","to":"2026-06-02T23:42:27.238Z","count":59,"avg":809,"min":591,"max":1421,"p95":1180}
-{"type":"ok","from":"2026-06-03T00:02:44.099Z","to":"2026-06-03T07:32:39.119Z","count":17,"avg":830,"min":479,"max":1166,"p95":1166}
-{"type":"fail","from":"2026-06-03T08:03:55.244Z","to":"2026-06-03T08:03:55.244Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-06-03T08:32:44.158Z","to":"2026-06-03T23:32:42.060Z","count":36,"avg":818,"min":580,"max":1581,"p95":1236}
-{"type":"ok","from":"2026-06-04T00:02:42.368Z","to":"2026-06-04T23:52:24.012Z","count":54,"avg":862,"min":588,"max":1648,"p95":1276}
-{"type":"ok","from":"2026-06-05T00:12:25.827Z","to":"2026-06-05T23:52:29.001Z","count":55,"avg":837,"min":564,"max":1310,"p95":1164}
-{"type":"ok","from":"2026-06-06T00:12:28.843Z","to":"2026-06-06T23:52:29.258Z","count":55,"avg":840,"min":555,"max":1481,"p95":1370}
-{"type":"ok","from":"2026-06-07T00:12:31.004Z","to":"2026-06-07T23:42:25.806Z","count":56,"avg":903,"min":585,"max":1472,"p95":1213}
-{"type":"ok","from":"2026-06-08T00:02:42.854Z","to":"2026-06-08T23:52:27.294Z","count":60,"avg":880,"min":504,"max":1549,"p95":1248}
-{"type":"ok","from":"2026-06-09T00:12:32.068Z","to":"2026-06-09T23:42:36.253Z","count":59,"avg":863,"min":573,"max":1663,"p95":1166}
+{"type":"ok","from":"2026-06-01T00:12:25.377Z","to":"2026-06-01T23:52:27.934Z","count":57,"avg":823,"min":446,"max":1625,"p95":1270,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-02T00:12:22.043Z","to":"2026-06-02T23:42:27.238Z","count":59,"avg":809,"min":591,"max":1421,"p95":1180,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-03T00:02:44.099Z","to":"2026-06-03T07:32:39.119Z","count":17,"avg":830,"min":479,"max":1166,"p95":1166,"url":"https://api.zetatechs.com/api/status"}
+{"type":"fail","from":"2026-06-03T08:03:55.244Z","to":"2026-06-03T08:03:55.244Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-03T08:32:44.158Z","to":"2026-06-03T23:32:42.060Z","count":36,"avg":818,"min":580,"max":1581,"p95":1236,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-04T00:02:42.368Z","to":"2026-06-04T23:52:24.012Z","count":54,"avg":862,"min":588,"max":1648,"p95":1276,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-05T00:12:25.827Z","to":"2026-06-05T23:52:29.001Z","count":55,"avg":837,"min":564,"max":1310,"p95":1164,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-06T00:12:28.843Z","to":"2026-06-06T23:52:29.258Z","count":55,"avg":840,"min":555,"max":1481,"p95":1370,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-07T00:12:31.004Z","to":"2026-06-07T23:42:25.806Z","count":56,"avg":903,"min":585,"max":1472,"p95":1213,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-08T00:02:42.854Z","to":"2026-06-08T23:52:27.294Z","count":60,"avg":880,"min":504,"max":1549,"p95":1248,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-09T00:12:32.068Z","to":"2026-06-09T23:42:36.253Z","count":59,"avg":863,"min":573,"max":1663,"p95":1166,"url":"https://api.zetatechs.com/api/status"}
+{"type":"ok","from":"2026-06-10T00:02:44.909Z","to":"2026-06-10T05:02:48.188Z","count":13,"url":"https://api.zetatechs.com/api/status","avg":956,"min":632,"max":1334,"p95":1334}
+{"type":"ok","from":"2026-06-10T05:32:44.436Z","to":"2026-06-10T05:32:44.436Z","count":1,"url":"https://api.zetatechs.com/v1/models","avg":4458,"min":4458,"max":4458,"p95":4458}
+{"type":"ok","from":"2026-06-10T06:02:45.973Z","to":"2026-06-10T23:52:16.305Z","count":46,"url":"https://api.zetatechs.com/api/status","avg":955,"min":255,"max":2286,"p95":1523}

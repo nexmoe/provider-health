@@ -1,19 +1,21 @@
-{"url":"https://text.pollinations.ai/api/status"}
-{"type":"ok","from":"2026-06-01T00:13:14.966Z","to":"2026-06-01T23:53:17.967Z","count":57,"avg":729,"min":408,"max":1496,"p95":1071}
-{"type":"ok","from":"2026-06-02T00:13:11.735Z","to":"2026-06-02T23:43:16.706Z","count":59,"avg":737,"min":397,"max":2877,"p95":932}
-{"type":"ok","from":"2026-06-03T00:03:33.699Z","to":"2026-06-03T02:33:26.561Z","count":7,"avg":709,"min":531,"max":1073,"p95":1073}
-{"type":"fail","from":"2026-06-03T03:03:38.304Z","to":"2026-06-03T03:33:28.788Z","count":2,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-03T04:03:36.033Z","to":"2026-06-03T04:03:36.033Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"fail","from":"2026-06-03T04:33:26.700Z","to":"2026-06-03T11:03:29.644Z","count":14,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-03T11:33:27.623Z","to":"2026-06-03T11:33:27.623Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"fail","from":"2026-06-03T12:03:36.102Z","to":"2026-06-03T23:33:34.535Z","count":29,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-04T00:03:34.982Z","to":"2026-06-04T23:53:16.213Z","count":54,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-05T00:13:18.879Z","to":"2026-06-05T23:53:21.496Z","count":55,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-06T00:13:21.512Z","to":"2026-06-06T06:23:24.804Z","count":14,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-06T06:53:21.591Z","to":"2026-06-06T06:53:21.591Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"fail","from":"2026-06-06T07:23:30.805Z","to":"2026-06-06T23:53:21.502Z","count":40,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-07T00:13:22.588Z","to":"2026-06-07T23:43:17.828Z","count":56,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-08T00:03:34.896Z","to":"2026-06-08T12:17:31.843Z","count":29,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-08T12:43:28.182Z","to":"2026-06-08T12:43:28.182Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"fail","from":"2026-06-08T13:13:27.675Z","to":"2026-06-08T23:53:21.000Z","count":30,"status":429,"error":"HTTP 429","avg_latency":null}
-{"type":"fail","from":"2026-06-09T00:13:24.157Z","to":"2026-06-09T23:43:27.942Z","count":59,"status":429,"error":"HTTP 429","avg_latency":null}
+{"type":"ok","from":"2026-06-01T00:13:14.966Z","to":"2026-06-01T23:53:17.967Z","count":57,"avg":729,"min":408,"max":1496,"p95":1071,"url":"https://text.pollinations.ai/api/status"}
+{"type":"ok","from":"2026-06-02T00:13:11.735Z","to":"2026-06-02T23:43:16.706Z","count":59,"avg":737,"min":397,"max":2877,"p95":932,"url":"https://text.pollinations.ai/api/status"}
+{"type":"ok","from":"2026-06-03T00:03:33.699Z","to":"2026-06-03T02:33:26.561Z","count":7,"avg":709,"min":531,"max":1073,"p95":1073,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-03T03:03:38.304Z","to":"2026-06-03T03:33:28.788Z","count":2,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-03T04:03:36.033Z","to":"2026-06-03T04:03:36.033Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-03T04:33:26.700Z","to":"2026-06-03T11:03:29.644Z","count":14,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-03T11:33:27.623Z","to":"2026-06-03T11:33:27.623Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-03T12:03:36.102Z","to":"2026-06-03T23:33:34.535Z","count":29,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-04T00:03:34.982Z","to":"2026-06-04T23:53:16.213Z","count":54,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-05T00:13:18.879Z","to":"2026-06-05T23:53:21.496Z","count":55,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-06T00:13:21.512Z","to":"2026-06-06T06:23:24.804Z","count":14,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-06T06:53:21.591Z","to":"2026-06-06T06:53:21.591Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-06T07:23:30.805Z","to":"2026-06-06T23:53:21.502Z","count":40,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-07T00:13:22.588Z","to":"2026-06-07T23:43:17.828Z","count":56,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-08T00:03:34.896Z","to":"2026-06-08T12:17:31.843Z","count":29,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-08T12:43:28.182Z","to":"2026-06-08T12:43:28.182Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-08T13:13:27.675Z","to":"2026-06-08T23:53:21.000Z","count":30,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-09T00:13:24.157Z","to":"2026-06-09T23:43:27.942Z","count":59,"status":429,"error":"HTTP 429","avg_latency":null,"url":"https://text.pollinations.ai/api/status"}
+{"type":"fail","from":"2026-06-10T00:03:37.317Z","to":"2026-06-10T16:33:42.280Z","count":39,"url":"https://text.pollinations.ai/api/status","status":429,"error":"HTTP 429","avg_latency":null}
+{"type":"fail","from":"2026-06-10T17:03:51.452Z","to":"2026-06-10T17:03:51.452Z","count":1,"url":"https://text.pollinations.ai/v1/models","status":429,"error":"HTTP 429","avg_latency":null}
+{"type":"fail","from":"2026-06-10T17:33:45.282Z","to":"2026-06-10T23:53:42.160Z","count":20,"url":"https://text.pollinations.ai/api/status","status":429,"error":"HTTP 429","avg_latency":null}

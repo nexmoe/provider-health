@@ -1,16 +1,18 @@
-{"url":"https://burn.hair/api/status"}
-{"type":"ok","from":"2026-06-01T00:14:51.273Z","to":"2026-06-01T13:45:19.057Z","count":31,"avg":668,"min":307,"max":1769,"p95":846}
-{"type":"fail","from":"2026-06-01T14:15:41.237Z","to":"2026-06-01T14:15:41.237Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-06-01T14:45:24.864Z","to":"2026-06-01T20:54:46.213Z","count":16,"avg":632,"min":301,"max":848,"p95":848}
-{"type":"fail","from":"2026-06-01T21:14:41.135Z","to":"2026-06-01T21:34:58.000Z","count":2,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-06-01T21:54:36.148Z","to":"2026-06-01T23:54:50.325Z","count":7,"avg":567,"min":298,"max":715,"p95":715}
-{"type":"ok","from":"2026-06-02T00:14:48.633Z","to":"2026-06-02T00:14:48.633Z","count":1,"avg":647,"min":647,"max":647,"p95":647}
-{"type":"fail","from":"2026-06-02T00:35:00.547Z","to":"2026-06-02T00:54:57.548Z","count":2,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-06-02T01:14:59.459Z","to":"2026-06-02T23:44:58.189Z","count":56,"avg":599,"min":271,"max":796,"p95":738}
-{"type":"ok","from":"2026-06-03T00:05:25.723Z","to":"2026-06-03T23:35:11.964Z","count":54,"avg":665,"min":312,"max":750,"p95":746}
-{"type":"ok","from":"2026-06-04T00:05:05.843Z","to":"2026-06-04T23:54:59.664Z","count":54,"avg":673,"min":296,"max":1301,"p95":787}
-{"type":"ok","from":"2026-06-05T00:14:58.036Z","to":"2026-06-05T23:54:56.338Z","count":55,"avg":706,"min":277,"max":1926,"p95":1034}
-{"type":"ok","from":"2026-06-06T00:14:55.700Z","to":"2026-06-06T23:54:59.373Z","count":55,"avg":675,"min":292,"max":1650,"p95":792}
-{"type":"ok","from":"2026-06-07T00:15:07.742Z","to":"2026-06-07T23:44:53.601Z","count":56,"avg":755,"min":316,"max":2343,"p95":1701}
-{"type":"ok","from":"2026-06-08T00:05:16.964Z","to":"2026-06-08T23:54:55.321Z","count":60,"avg":751,"min":293,"max":1670,"p95":1650}
-{"type":"ok","from":"2026-06-09T00:14:58.310Z","to":"2026-06-09T23:44:58.229Z","count":59,"avg":690,"min":330,"max":917,"p95":800}
+{"type":"ok","from":"2026-06-01T00:14:51.273Z","to":"2026-06-01T13:45:19.057Z","count":31,"avg":668,"min":307,"max":1769,"p95":846,"url":"https://burn.hair/api/status"}
+{"type":"fail","from":"2026-06-01T14:15:41.237Z","to":"2026-06-01T14:15:41.237Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-01T14:45:24.864Z","to":"2026-06-01T20:54:46.213Z","count":16,"avg":632,"min":301,"max":848,"p95":848,"url":"https://burn.hair/api/status"}
+{"type":"fail","from":"2026-06-01T21:14:41.135Z","to":"2026-06-01T21:34:58.000Z","count":2,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-01T21:54:36.148Z","to":"2026-06-01T23:54:50.325Z","count":7,"avg":567,"min":298,"max":715,"p95":715,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-02T00:14:48.633Z","to":"2026-06-02T00:14:48.633Z","count":1,"avg":647,"min":647,"max":647,"p95":647,"url":"https://burn.hair/api/status"}
+{"type":"fail","from":"2026-06-02T00:35:00.547Z","to":"2026-06-02T00:54:57.548Z","count":2,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-02T01:14:59.459Z","to":"2026-06-02T23:44:58.189Z","count":56,"avg":599,"min":271,"max":796,"p95":738,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-03T00:05:25.723Z","to":"2026-06-03T23:35:11.964Z","count":54,"avg":665,"min":312,"max":750,"p95":746,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-04T00:05:05.843Z","to":"2026-06-04T23:54:59.664Z","count":54,"avg":673,"min":296,"max":1301,"p95":787,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-05T00:14:58.036Z","to":"2026-06-05T23:54:56.338Z","count":55,"avg":706,"min":277,"max":1926,"p95":1034,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-06T00:14:55.700Z","to":"2026-06-06T23:54:59.373Z","count":55,"avg":675,"min":292,"max":1650,"p95":792,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-07T00:15:07.742Z","to":"2026-06-07T23:44:53.601Z","count":56,"avg":755,"min":316,"max":2343,"p95":1701,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-08T00:05:16.964Z","to":"2026-06-08T23:54:55.321Z","count":60,"avg":751,"min":293,"max":1670,"p95":1650,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-09T00:14:58.310Z","to":"2026-06-09T23:44:58.229Z","count":59,"avg":690,"min":330,"max":917,"p95":800,"url":"https://burn.hair/api/status"}
+{"type":"ok","from":"2026-06-10T00:05:17.112Z","to":"2026-06-10T03:15:22.186Z","count":9,"url":"https://burn.hair/api/status","avg":1022,"min":313,"max":3715,"p95":3715}
+{"type":"ok","from":"2026-06-10T03:45:21.065Z","to":"2026-06-10T03:45:21.065Z","count":1,"url":"https://burn.hair/v1/models","avg":591,"min":591,"max":591,"p95":591}
+{"type":"ok","from":"2026-06-10T04:14:58.236Z","to":"2026-06-10T23:55:12.399Z","count":49,"url":"https://burn.hair/api/status","avg":661,"min":282,"max":954,"p95":796}

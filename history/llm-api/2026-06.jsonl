@@ -11,3 +11,6 @@
 {"type":"ok","from":"2026-06-07T00:13:00.633Z","to":"2026-06-07T23:42:55.504Z","count":56,"url":"https://llm.indrin.cn/api/status","avg":1570,"min":1105,"max":3763,"p95":3447}
 {"type":"ok","from":"2026-06-08T00:03:12.493Z","to":"2026-06-08T23:52:58.330Z","count":60,"url":"https://llm.indrin.cn/api/status","avg":1470,"min":1082,"max":3308,"p95":2364}
 {"type":"ok","from":"2026-06-09T00:13:02.158Z","to":"2026-06-09T23:43:06.021Z","count":59,"url":"https://llm.indrin.cn/api/status","avg":1455,"min":1101,"max":4207,"p95":2405}
+{"type":"ok","from":"2026-06-10T00:03:15.225Z","to":"2026-06-10T04:33:08.656Z","count":12,"url":"https://llm.indrin.cn/api/status","avg":1517,"min":1134,"max":2371,"p95":2371}
+{"type":"fail","from":"2026-06-10T05:04:07.569Z","to":"2026-06-10T05:04:07.569Z","count":1,"url":"https://llm.indrin.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-10T05:33:08.037Z","to":"2026-06-10T23:53:19.639Z","count":47,"url":"https://llm.indrin.cn/api/status","avg":1972,"min":1022,"max":3944,"p95":3844}

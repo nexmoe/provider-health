@@ -46,3 +46,8 @@
 {"type":"ok","from":"2026-06-07T19:08:41.761Z","to":"2026-06-07T23:48:45.604Z","count":15,"url":"https://api.choosec.cn/api/status","avg":1698,"min":1083,"max":2342,"p95":2342}
 {"type":"ok","from":"2026-06-08T00:09:50.889Z","to":"2026-06-08T23:58:58.787Z","count":59,"url":"https://api.choosec.cn/api/status","avg":1527,"min":788,"max":2860,"p95":2293}
 {"type":"ok","from":"2026-06-09T00:18:45.357Z","to":"2026-06-09T23:48:50.981Z","count":58,"url":"https://api.choosec.cn/api/status","avg":1313,"min":739,"max":3642,"p95":2770}
+{"type":"ok","from":"2026-06-10T00:09:47.024Z","to":"2026-06-10T04:19:54.725Z","count":11,"url":"https://api.choosec.cn/api/status","avg":1166,"min":849,"max":1667,"p95":1667}
+{"type":"fail","from":"2026-06-10T04:43:51.631Z","to":"2026-06-10T05:43:23.934Z","count":3,"url":"https://api.choosec.cn/api/status","status":522,"error":"HTTP 522","avg_latency":null}
+{"type":"fail","from":"2026-06-10T06:13:20.073Z","to":"2026-06-10T06:13:20.073Z","count":1,"url":"https://api.choosec.cn/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-06-10T06:42:56.166Z","to":"2026-06-10T06:42:56.166Z","count":1,"url":"https://api.choosec.cn/api/status","status":522,"error":"HTTP 522","avg_latency":null}
+{"type":"ok","from":"2026-06-10T07:10:55.489Z","to":"2026-06-10T23:59:07.740Z","count":40,"url":"https://api.choosec.cn/api/status","avg":673,"min":342,"max":2249,"p95":1249}
