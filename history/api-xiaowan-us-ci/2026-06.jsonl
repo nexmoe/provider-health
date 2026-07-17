@@ -1,11 +1,13 @@
-{"url":"https://api.xiaowan.us.ci/v1/models"}
-{"type":"ok","from":"2026-06-01T00:00:45.118Z","to":"2026-06-01T23:40:17.277Z","count":57,"avg":582,"min":464,"max":1230,"p95":870}
-{"type":"ok","from":"2026-06-02T00:00:44.943Z","to":"2026-06-02T23:50:19.416Z","count":60,"avg":626,"min":464,"max":1964,"p95":1095}
-{"type":"ok","from":"2026-06-03T00:11:28.524Z","to":"2026-06-03T23:42:12.514Z","count":54,"avg":587,"min":476,"max":1347,"p95":824}
-{"type":"ok","from":"2026-06-04T00:12:07.596Z","to":"2026-06-04T23:41:54.949Z","count":53,"avg":627,"min":468,"max":1534,"p95":995}
-{"type":"ok","from":"2026-06-05T00:02:21.797Z","to":"2026-06-05T23:42:19.135Z","count":55,"avg":590,"min":468,"max":1397,"p95":1120}
-{"type":"ok","from":"2026-06-06T00:01:56.444Z","to":"2026-06-06T23:42:13.525Z","count":54,"avg":575,"min":461,"max":1237,"p95":910}
-{"type":"ok","from":"2026-06-07T00:01:50.901Z","to":"2026-06-07T23:51:32.481Z","count":57,"avg":569,"min":466,"max":1060,"p95":926}
-{"type":"ok","from":"2026-06-08T00:12:20.960Z","to":"2026-06-08T23:41:21.426Z","count":57,"avg":552,"min":461,"max":1016,"p95":902}
-{"type":"ok","from":"2026-06-09T00:01:12.490Z","to":"2026-06-09T23:51:00.354Z","count":59,"avg":627,"min":458,"max":1224,"p95":989}
-{"type":"ok","from":"2026-06-10T00:11:56.683Z","to":"2026-06-10T23:40:33.178Z","count":55,"avg":544,"min":463,"max":1384,"p95":841}
+{"type":"ok","from":"2026-06-01T00:00:45.118Z","to":"2026-06-01T23:40:17.277Z","count":57,"avg":582,"min":464,"max":1230,"p95":870,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-02T00:00:44.943Z","to":"2026-06-02T23:50:19.416Z","count":60,"avg":626,"min":464,"max":1964,"p95":1095,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-03T00:11:28.524Z","to":"2026-06-03T23:42:12.514Z","count":54,"avg":587,"min":476,"max":1347,"p95":824,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-04T00:12:07.596Z","to":"2026-06-04T23:41:54.949Z","count":53,"avg":627,"min":468,"max":1534,"p95":995,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-05T00:02:21.797Z","to":"2026-06-05T23:42:19.135Z","count":55,"avg":590,"min":468,"max":1397,"p95":1120,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-06T00:01:56.444Z","to":"2026-06-06T23:42:13.525Z","count":54,"avg":575,"min":461,"max":1237,"p95":910,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-07T00:01:50.901Z","to":"2026-06-07T23:51:32.481Z","count":57,"avg":569,"min":466,"max":1060,"p95":926,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-08T00:12:20.960Z","to":"2026-06-08T23:41:21.426Z","count":57,"avg":552,"min":461,"max":1016,"p95":902,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-09T00:01:12.490Z","to":"2026-06-09T23:51:00.354Z","count":59,"avg":627,"min":458,"max":1224,"p95":989,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-10T00:11:56.683Z","to":"2026-06-10T23:40:33.178Z","count":55,"avg":544,"min":463,"max":1384,"p95":841,"url":"https://api.xiaowan.us.ci/v1/models"}
+{"type":"ok","from":"2026-06-11T00:00:41.285Z","to":"2026-06-11T16:04:53.166Z","count":35,"url":"https://api.xiaowan.us.ci/v1/models","avg":509,"min":465,"max":863,"p95":830}
+{"type":"fail","from":"2026-06-11T16:34:48.286Z","to":"2026-06-11T16:34:48.286Z","count":1,"url":"https://api.xiaowan.us.ci/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-11T17:03:01.746Z","to":"2026-06-11T23:51:09.177Z","count":21,"url":"https://api.xiaowan.us.ci/v1/models","avg":511,"min":465,"max":774,"p95":570}

@@ -1,13 +1,15 @@
-{"url":"https://ccll.xyz/api/status"}
-{"type":"ok","from":"2026-06-01T00:06:56.455Z","to":"2026-06-01T23:46:46.083Z","count":56,"avg":571,"min":228,"max":4597,"p95":1058}
-{"type":"ok","from":"2026-06-02T00:07:05.707Z","to":"2026-06-02T23:56:41.461Z","count":60,"avg":512,"min":238,"max":4102,"p95":860}
-{"type":"ok","from":"2026-06-03T00:17:59.757Z","to":"2026-06-03T23:48:19.472Z","count":54,"avg":517,"min":256,"max":1380,"p95":942}
-{"type":"ok","from":"2026-06-04T00:18:16.179Z","to":"2026-06-04T23:47:28.637Z","count":52,"avg":1049,"min":410,"max":3266,"p95":1548}
-{"type":"ok","from":"2026-06-05T00:07:56.471Z","to":"2026-06-05T23:47:55.480Z","count":54,"avg":1054,"min":620,"max":1621,"p95":1421}
-{"type":"ok","from":"2026-06-06T00:07:41.055Z","to":"2026-06-06T23:47:52.773Z","count":54,"avg":1035,"min":688,"max":1772,"p95":1491}
-{"type":"ok","from":"2026-06-07T00:07:28.606Z","to":"2026-06-07T19:36:47.125Z","count":44,"avg":945,"min":604,"max":1802,"p95":1383}
-{"type":"fail","from":"2026-06-07T19:56:44.915Z","to":"2026-06-07T22:56:26.787Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-06-07T23:17:15.097Z","to":"2026-06-07T23:56:44.639Z","count":3,"avg":1118,"min":664,"max":1499,"p95":1499}
-{"type":"ok","from":"2026-06-08T00:17:34.175Z","to":"2026-06-08T23:46:35.145Z","count":56,"avg":884,"min":491,"max":1583,"p95":1262}
-{"type":"ok","from":"2026-06-09T00:06:20.178Z","to":"2026-06-09T23:56:16.458Z","count":58,"avg":1004,"min":561,"max":2412,"p95":1750}
-{"type":"ok","from":"2026-06-10T00:17:08.803Z","to":"2026-06-10T23:46:15.252Z","count":55,"avg":1006,"min":555,"max":1614,"p95":1515}
+{"type":"ok","from":"2026-06-01T00:06:56.455Z","to":"2026-06-01T23:46:46.083Z","count":56,"avg":571,"min":228,"max":4597,"p95":1058,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-02T00:07:05.707Z","to":"2026-06-02T23:56:41.461Z","count":60,"avg":512,"min":238,"max":4102,"p95":860,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-03T00:17:59.757Z","to":"2026-06-03T23:48:19.472Z","count":54,"avg":517,"min":256,"max":1380,"p95":942,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-04T00:18:16.179Z","to":"2026-06-04T23:47:28.637Z","count":52,"avg":1049,"min":410,"max":3266,"p95":1548,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-05T00:07:56.471Z","to":"2026-06-05T23:47:55.480Z","count":54,"avg":1054,"min":620,"max":1621,"p95":1421,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-06T00:07:41.055Z","to":"2026-06-06T23:47:52.773Z","count":54,"avg":1035,"min":688,"max":1772,"p95":1491,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-07T00:07:28.606Z","to":"2026-06-07T19:36:47.125Z","count":44,"avg":945,"min":604,"max":1802,"p95":1383,"url":"https://ccll.xyz/api/status"}
+{"type":"fail","from":"2026-06-07T19:56:44.915Z","to":"2026-06-07T22:56:26.787Z","count":10,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-07T23:17:15.097Z","to":"2026-06-07T23:56:44.639Z","count":3,"avg":1118,"min":664,"max":1499,"p95":1499,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-08T00:17:34.175Z","to":"2026-06-08T23:46:35.145Z","count":56,"avg":884,"min":491,"max":1583,"p95":1262,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-09T00:06:20.178Z","to":"2026-06-09T23:56:16.458Z","count":58,"avg":1004,"min":561,"max":2412,"p95":1750,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-10T00:17:08.803Z","to":"2026-06-10T23:46:15.252Z","count":55,"avg":1006,"min":555,"max":1614,"p95":1515,"url":"https://ccll.xyz/api/status"}
+{"type":"ok","from":"2026-06-11T00:06:25.020Z","to":"2026-06-11T01:38:18.821Z","count":5,"url":"https://ccll.xyz/api/status","avg":1078,"min":717,"max":1417,"p95":1417}
+{"type":"ok","from":"2026-06-11T02:08:09.701Z","to":"2026-06-11T02:08:09.701Z","count":1,"url":"https://ccll.xyz/v1/models","avg":233,"min":233,"max":233,"p95":233}
+{"type":"ok","from":"2026-06-11T02:37:17.791Z","to":"2026-06-11T23:57:00.194Z","count":51,"url":"https://ccll.xyz/api/status","avg":1188,"min":749,"max":2833,"p95":2166}

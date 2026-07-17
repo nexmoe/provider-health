@@ -24,3 +24,20 @@
 {"type":"ok","from":"2026-06-10T16:50:58.978Z","to":"2026-06-10T22:47:20.763Z","count":18,"url":"https://9527code.com/api/status","avg":1425,"min":646,"max":2903,"p95":2903}
 {"type":"ok","from":"2026-06-10T23:07:07.940Z","to":"2026-06-10T23:07:07.940Z","count":1,"url":"https://9527code.com/v1/models","avg":1440,"min":1440,"max":1440,"p95":1440}
 {"type":"ok","from":"2026-06-10T23:28:21.314Z","to":"2026-06-10T23:47:46.127Z","count":2,"url":"https://9527code.com/api/status","avg":1200,"min":1064,"max":1335,"p95":1335}
+{"type":"ok","from":"2026-06-11T00:08:10.946Z","to":"2026-06-11T00:08:10.946Z","count":1,"url":"https://9527code.com/v1/models","avg":2403,"min":2403,"max":2403,"p95":2403}
+{"type":"ok","from":"2026-06-11T00:28:41.510Z","to":"2026-06-11T00:28:41.510Z","count":1,"url":"https://9527code.com/api/status","avg":4502,"min":4502,"max":4502,"p95":4502}
+{"type":"ok","from":"2026-06-11T00:49:40.756Z","to":"2026-06-11T00:49:40.756Z","count":1,"url":"https://api.9527code.com/health","avg":696,"min":696,"max":696,"p95":696}
+{"type":"ok","from":"2026-06-11T01:09:43.870Z","to":"2026-06-11T03:30:23.510Z","count":6,"url":"https://9527code.com/api/status","avg":928,"min":758,"max":1052,"p95":1052}
+{"type":"ok","from":"2026-06-11T03:59:55.239Z","to":"2026-06-11T03:59:55.239Z","count":1,"url":"https://9527code.com/v1/models","avg":815,"min":815,"max":815,"p95":815}
+{"type":"ok","from":"2026-06-11T04:20:02.778Z","to":"2026-06-11T04:20:02.778Z","count":1,"url":"https://api.9527code.com/api/status","avg":552,"min":552,"max":552,"p95":552}
+{"type":"ok","from":"2026-06-11T04:51:02.569Z","to":"2026-06-11T11:11:50.420Z","count":14,"url":"https://9527code.com/api/status","avg":823,"min":388,"max":1239,"p95":1239}
+{"type":"fail","from":"2026-06-11T11:42:25.594Z","to":"2026-06-11T11:42:25.594Z","count":1,"url":"https://9527code.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-11T12:18:47.123Z","to":"2026-06-11T12:18:47.123Z","count":1,"url":"https://9527code.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-06-11T12:40:58.165Z","to":"2026-06-11T12:40:58.165Z","count":1,"url":"https://9527code.com/api/status","avg":868,"min":868,"max":868,"p95":868}
+{"type":"fail","from":"2026-06-11T13:13:14.702Z","to":"2026-06-11T13:13:14.702Z","count":1,"url":"https://9527code.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-11T13:42:34.259Z","to":"2026-06-11T13:42:34.259Z","count":1,"url":"https://9527code.com/health","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-11T14:12:58.160Z","to":"2026-06-11T16:12:36.358Z","count":5,"url":"https://9527code.com/api/status","avg":1015,"min":772,"max":1400,"p95":1400}
+{"type":"fail","from":"2026-06-11T16:42:38.766Z","to":"2026-06-11T17:10:55.420Z","count":2,"url":"https://9527code.com/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-11T17:38:30.202Z","to":"2026-06-11T17:58:39.746Z","count":2,"url":"https://api.9527code.com/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-06-11T18:19:33.730Z","to":"2026-06-11T19:38:27.767Z","count":5,"url":"https://9527code.com/api/status","avg":553,"min":424,"max":724,"p95":724}
+{"type":"ok","from":"2026-06-11T19:58:02.386Z","to":"2026-06-11T23:58:51.049Z","count":13,"url":"https://www.9527code.com/","avg":1142,"min":815,"max":1494,"p95":1494}

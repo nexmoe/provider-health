@@ -1,2 +1,11 @@
-{"url":"https://cpa.tongxin.de/v1/models"}
-{"type":"ok","from":"2026-06-10T10:14:07.084Z","to":"2026-06-10T23:45:58.753Z","count":34,"avg":2941,"min":1381,"max":4741,"p95":4563}
+{"type":"ok","from":"2026-06-10T10:14:07.084Z","to":"2026-06-10T23:45:58.753Z","count":34,"avg":2941,"min":1381,"max":4741,"p95":4563,"url":"https://cpa.tongxin.de/v1/models"}
+{"type":"ok","from":"2026-06-11T00:06:08.859Z","to":"2026-06-11T05:18:28.656Z","count":13,"url":"https://cpa.tongxin.de/v1/models","avg":3187,"min":1149,"max":4005,"p95":4005}
+{"type":"fail","from":"2026-06-11T05:48:38.834Z","to":"2026-06-11T05:48:38.834Z","count":1,"url":"https://cpa.tongxin.de/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-06-11T06:20:14.978Z","to":"2026-06-11T06:20:14.978Z","count":1,"url":"https://cpa.tongxin.de/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-11T06:50:19.452Z","to":"2026-06-11T12:16:27.726Z","count":12,"url":"https://cpa.tongxin.de/v1/models","avg":3181,"min":1215,"max":4582,"p95":4582}
+{"type":"fail","from":"2026-06-11T12:38:57.487Z","to":"2026-06-11T12:38:57.487Z","count":1,"url":"https://cpa.tongxin.de/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-11T13:10:10.395Z","to":"2026-06-11T15:38:26.952Z","count":6,"url":"https://cpa.tongxin.de/v1/models","avg":3014,"min":1022,"max":4162,"p95":4162}
+{"type":"fail","from":"2026-06-11T16:10:46.595Z","to":"2026-06-11T16:10:46.595Z","count":1,"url":"https://cpa.tongxin.de/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-11T16:40:14.323Z","to":"2026-06-11T20:15:58.379Z","count":11,"url":"https://cpa.tongxin.de/v1/models","avg":2705,"min":1665,"max":3499,"p95":3499}
+{"type":"fail","from":"2026-06-11T20:35:39.995Z","to":"2026-06-11T20:35:39.995Z","count":1,"url":"https://cpa.tongxin.de/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-11T20:55:28.241Z","to":"2026-06-11T23:56:43.569Z","count":10,"url":"https://cpa.tongxin.de/v1/models","avg":2878,"min":2114,"max":4327,"p95":4327}

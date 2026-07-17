@@ -16,3 +16,11 @@
 {"type":"ok","from":"2026-06-08T00:17:57.242Z","to":"2026-06-08T23:46:58.720Z","count":56,"url":"https://new-api.koyeb.app/api/status","avg":942,"min":400,"max":2166,"p95":1648}
 {"type":"ok","from":"2026-06-09T00:06:44.529Z","to":"2026-06-09T23:56:39.088Z","count":58,"url":"https://new-api.koyeb.app/api/status","avg":1100,"min":421,"max":1654,"p95":1611}
 {"type":"ok","from":"2026-06-10T00:17:32.506Z","to":"2026-06-10T23:46:39.115Z","count":55,"url":"https://new-api.koyeb.app/api/status","avg":1107,"min":390,"max":2066,"p95":1705}
+{"type":"ok","from":"2026-06-11T00:06:49.545Z","to":"2026-06-11T20:16:39.910Z","count":46,"url":"https://new-api.koyeb.app/api/status","avg":1018,"min":543,"max":2469,"p95":1738}
+{"type":"fail","from":"2026-06-11T20:36:27.757Z","to":"2026-06-11T20:56:46.529Z","count":2,"url":"https://new-api.koyeb.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-11T21:16:45.574Z","to":"2026-06-11T21:16:45.574Z","count":1,"url":"https://new-api.koyeb.app/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-06-11T21:36:39.076Z","to":"2026-06-11T22:17:17.248Z","count":3,"url":"https://new-api.koyeb.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-11T22:36:50.354Z","to":"2026-06-11T22:36:50.354Z","count":1,"url":"https://new-api.koyeb.app/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-06-11T22:57:20.994Z","to":"2026-06-11T23:17:25.259Z","count":2,"url":"https://new-api.koyeb.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-11T23:37:16.554Z","to":"2026-06-11T23:37:16.554Z","count":1,"url":"https://new-api.koyeb.app/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"fail","from":"2026-06-11T23:58:01.210Z","to":"2026-06-11T23:58:01.210Z","count":1,"url":"https://new-api.koyeb.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

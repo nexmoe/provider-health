@@ -97,3 +97,12 @@
 {"type":"fail","from":"2026-06-10T13:18:50.680Z","to":"2026-06-10T13:50:56.486Z","count":2,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"fail","from":"2026-06-10T14:20:24.293Z","to":"2026-06-10T14:20:24.293Z","count":1,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-06-10T14:48:17.256Z","to":"2026-06-10T23:44:15.717Z","count":25,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1666,"min":451,"max":3991,"p95":3758}
+{"type":"ok","from":"2026-06-11T00:04:22.279Z","to":"2026-06-11T07:17:46.477Z","count":17,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1707,"min":702,"max":4704,"p95":4704}
+{"type":"fail","from":"2026-06-11T07:48:18.853Z","to":"2026-06-11T07:48:18.853Z","count":1,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-11T08:18:39.046Z","to":"2026-06-11T09:46:16.984Z","count":4,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":2009,"min":1509,"max":2450,"p95":2450}
+{"type":"fail","from":"2026-06-11T10:16:26.724Z","to":"2026-06-11T10:16:26.724Z","count":1,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-11T10:45:59.485Z","to":"2026-06-11T12:14:46.144Z","count":4,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1928,"min":1674,"max":2109,"p95":2109}
+{"type":"fail","from":"2026-06-11T12:37:15.949Z","to":"2026-06-11T12:37:15.949Z","count":1,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-11T13:08:27.389Z","to":"2026-06-11T14:38:10.304Z","count":4,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1849,"min":709,"max":2665,"p95":2665}
+{"type":"fail","from":"2026-06-11T15:08:49.461Z","to":"2026-06-11T15:36:52.019Z","count":2,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-11T16:08:58.270Z","to":"2026-06-11T23:54:58.301Z","count":23,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1484,"min":431,"max":3084,"p95":2953}

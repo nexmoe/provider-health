@@ -140,3 +140,15 @@
 {"type":"ok","from":"2026-06-10T20:03:42.097Z","to":"2026-06-10T22:24:01.809Z","count":8,"url":"https://v2.aicodee.com/api/status","avg":2013,"min":1003,"max":3474,"p95":3474}
 {"type":"ok","from":"2026-06-10T22:43:35.606Z","to":"2026-06-10T22:43:35.606Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":2620,"min":2620,"max":2620,"p95":2620}
 {"type":"ok","from":"2026-06-10T23:03:29.261Z","to":"2026-06-10T23:44:14.440Z","count":3,"url":"https://v2.aicodee.com/api/status","avg":2523,"min":1429,"max":4658,"p95":4658}
+{"type":"ok","from":"2026-06-11T00:04:23.083Z","to":"2026-06-11T02:56:17.665Z","count":8,"url":"https://v2.aicodee.com/api/status","avg":2256,"min":1382,"max":3238,"p95":3238}
+{"type":"ok","from":"2026-06-11T03:26:21.452Z","to":"2026-06-11T03:26:21.452Z","count":1,"url":"https://v2.aicodee.com/health","avg":2927,"min":2927,"max":2927,"p95":2927}
+{"type":"ok","from":"2026-06-11T03:55:42.403Z","to":"2026-06-11T05:46:51.810Z","count":5,"url":"https://v2.aicodee.com/api/status","avg":3331,"min":1435,"max":4964,"p95":4964}
+{"type":"fail","from":"2026-06-11T06:18:30.526Z","to":"2026-06-11T06:18:30.526Z","count":1,"url":"https://v2.aicodee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-11T06:47:56.049Z","to":"2026-06-11T06:47:56.049Z","count":1,"url":"https://v2.aicodee.com/api/status","avg":3100,"min":3100,"max":3100,"p95":3100}
+{"type":"fail","from":"2026-06-11T07:17:59.362Z","to":"2026-06-11T07:48:26.044Z","count":2,"url":"https://v2.aicodee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-11T08:18:33.992Z","to":"2026-06-11T08:18:33.992Z","count":1,"url":"https://v2.aicodee.com/api/status","avg":1458,"min":1458,"max":1458,"p95":1458}
+{"type":"fail","from":"2026-06-11T08:46:49.721Z","to":"2026-06-11T13:38:01.061Z","count":11,"url":"https://v2.aicodee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-11T14:08:30.372Z","to":"2026-06-11T15:36:40.295Z","count":4,"url":"https://v2.aicodee.com/api/status","avg":2905,"min":1275,"max":4535,"p95":4535}
+{"type":"ok","from":"2026-06-11T16:08:59.502Z","to":"2026-06-11T16:08:59.502Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":2799,"min":2799,"max":2799,"p95":2799}
+{"type":"ok","from":"2026-06-11T16:38:26.301Z","to":"2026-06-11T17:07:00.918Z","count":2,"url":"https://v2.aicodee.com/api/status","avg":2224,"min":1388,"max":3059,"p95":3059}
+{"type":"fail","from":"2026-06-11T17:35:06.637Z","to":"2026-06-11T23:55:14.067Z","count":20,"url":"https://v2.aicodee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
