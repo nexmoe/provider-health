@@ -13,3 +13,6 @@
 {"type":"ok","from":"2026-06-11T00:05:03.628Z","to":"2026-06-11T06:18:54.714Z","count":15,"url":"https://api.xshulab.com/v1/models","avg":1077,"min":750,"max":1450,"p95":1450}
 {"type":"fail","from":"2026-06-11T06:49:12.291Z","to":"2026-06-11T08:47:14.347Z","count":5,"url":"https://api.xshulab.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
 {"type":"ok","from":"2026-06-11T09:17:08.720Z","to":"2026-06-11T23:55:38.383Z","count":37,"url":"https://api.xshulab.com/v1/models","avg":1302,"min":691,"max":2768,"p95":2441}
+{"type":"ok","from":"2026-06-12T00:16:10.427Z","to":"2026-06-12T16:27:27.090Z","count":35,"url":"https://api.xshulab.com/v1/models","avg":1253,"min":555,"max":3729,"p95":2556}
+{"type":"fail","from":"2026-06-12T16:57:03.214Z","to":"2026-06-12T16:57:03.214Z","count":1,"url":"https://api.xshulab.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-12T17:16:43.011Z","to":"2026-06-12T23:45:12.512Z","count":20,"url":"https://api.xshulab.com/v1/models","avg":1372,"min":613,"max":3728,"p95":3728}

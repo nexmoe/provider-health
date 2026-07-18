@@ -1,14 +1,16 @@
-{"url":"https://api.vip.crond.dev/api/status"}
-{"type":"ok","from":"2026-06-01T00:16:19.861Z","to":"2026-06-01T23:56:17.747Z","count":57,"avg":1518,"min":623,"max":3804,"p95":2681}
-{"type":"ok","from":"2026-06-02T00:16:16.903Z","to":"2026-06-02T23:46:26.406Z","count":59,"avg":1580,"min":631,"max":2720,"p95":2325}
-{"type":"ok","from":"2026-06-03T00:06:52.922Z","to":"2026-06-03T23:36:40.732Z","count":54,"avg":1438,"min":675,"max":3616,"p95":2654}
-{"type":"ok","from":"2026-06-04T00:06:34.032Z","to":"2026-06-04T23:56:27.698Z","count":54,"avg":1588,"min":603,"max":3304,"p95":2439}
-{"type":"ok","from":"2026-06-05T00:16:26.067Z","to":"2026-06-05T02:56:44.778Z","count":7,"avg":1910,"min":652,"max":3080,"p95":3080}
-{"type":"fail","from":"2026-06-05T03:26:46.970Z","to":"2026-06-05T03:26:46.970Z","count":1,"status":525,"error":"HTTP 525","avg_latency":null}
-{"type":"ok","from":"2026-06-05T03:56:40.762Z","to":"2026-06-05T23:56:24.549Z","count":47,"avg":1609,"min":611,"max":4239,"p95":2374}
-{"type":"ok","from":"2026-06-06T00:16:25.186Z","to":"2026-06-06T23:56:28.930Z","count":55,"avg":1588,"min":553,"max":2691,"p95":2579}
-{"type":"ok","from":"2026-06-07T00:16:35.721Z","to":"2026-06-07T23:46:21.187Z","count":56,"avg":1611,"min":588,"max":4583,"p95":2380}
-{"type":"ok","from":"2026-06-08T00:06:45.793Z","to":"2026-06-08T23:56:22.049Z","count":59,"avg":1555,"min":590,"max":2891,"p95":2670}
-{"type":"ok","from":"2026-06-09T00:16:26.787Z","to":"2026-06-09T23:46:27.335Z","count":59,"avg":1565,"min":492,"max":3897,"p95":3116}
-{"type":"ok","from":"2026-06-10T00:06:45.028Z","to":"2026-06-10T23:56:41.227Z","count":58,"avg":1545,"min":640,"max":3001,"p95":2793}
-{"type":"ok","from":"2026-06-11T00:16:47.464Z","to":"2026-06-11T23:46:47.813Z","count":56,"avg":1563,"min":593,"max":3296,"p95":2953}
+{"type":"ok","from":"2026-06-01T00:16:19.861Z","to":"2026-06-01T23:56:17.747Z","count":57,"avg":1518,"min":623,"max":3804,"p95":2681,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-02T00:16:16.903Z","to":"2026-06-02T23:46:26.406Z","count":59,"avg":1580,"min":631,"max":2720,"p95":2325,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-03T00:06:52.922Z","to":"2026-06-03T23:36:40.732Z","count":54,"avg":1438,"min":675,"max":3616,"p95":2654,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-04T00:06:34.032Z","to":"2026-06-04T23:56:27.698Z","count":54,"avg":1588,"min":603,"max":3304,"p95":2439,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-05T00:16:26.067Z","to":"2026-06-05T02:56:44.778Z","count":7,"avg":1910,"min":652,"max":3080,"p95":3080,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"fail","from":"2026-06-05T03:26:46.970Z","to":"2026-06-05T03:26:46.970Z","count":1,"status":525,"error":"HTTP 525","avg_latency":null,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-05T03:56:40.762Z","to":"2026-06-05T23:56:24.549Z","count":47,"avg":1609,"min":611,"max":4239,"p95":2374,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-06T00:16:25.186Z","to":"2026-06-06T23:56:28.930Z","count":55,"avg":1588,"min":553,"max":2691,"p95":2579,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-07T00:16:35.721Z","to":"2026-06-07T23:46:21.187Z","count":56,"avg":1611,"min":588,"max":4583,"p95":2380,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-08T00:06:45.793Z","to":"2026-06-08T23:56:22.049Z","count":59,"avg":1555,"min":590,"max":2891,"p95":2670,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-09T00:16:26.787Z","to":"2026-06-09T23:46:27.335Z","count":59,"avg":1565,"min":492,"max":3897,"p95":3116,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-10T00:06:45.028Z","to":"2026-06-10T23:56:41.227Z","count":58,"avg":1545,"min":640,"max":3001,"p95":2793,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-11T00:16:47.464Z","to":"2026-06-11T23:46:47.813Z","count":56,"avg":1563,"min":593,"max":3296,"p95":2953,"url":"https://api.vip.crond.dev/api/status"}
+{"type":"ok","from":"2026-06-12T00:07:02.503Z","to":"2026-06-12T08:17:48.172Z","count":19,"url":"https://api.vip.crond.dev/api/status","avg":1584,"min":728,"max":2343,"p95":2343}
+{"type":"ok","from":"2026-06-12T08:47:03.673Z","to":"2026-06-12T08:47:03.673Z","count":1,"url":"https://api.vip.crond.dev/v1/models","avg":215,"min":215,"max":215,"p95":215}
+{"type":"ok","from":"2026-06-12T09:16:58.057Z","to":"2026-06-12T23:56:45.699Z","count":38,"url":"https://api.vip.crond.dev/api/status","avg":1780,"min":619,"max":4596,"p95":3407}
