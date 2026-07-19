@@ -53,3 +53,11 @@
 {"type":"ok","from":"2026-06-11T22:53:21.861Z","to":"2026-06-11T22:53:21.861Z","count":1,"url":"https://smz6.com/health","avg":2204,"min":2204,"max":2204,"p95":2204}
 {"type":"ok","from":"2026-06-11T23:13:38.760Z","to":"2026-06-11T23:53:58.474Z","count":3,"url":"https://smz6.com/v1/models","avg":2383,"min":1517,"max":3027,"p95":3027}
 {"type":"ok","from":"2026-06-12T00:14:28.827Z","to":"2026-06-12T23:43:30.677Z","count":56,"url":"https://smz6.com/v1/models","avg":2590,"min":1149,"max":4864,"p95":4086}
+{"type":"ok","from":"2026-06-13T00:03:40.313Z","to":"2026-06-13T03:44:57.410Z","count":10,"url":"https://smz6.com/v1/models","avg":2267,"min":1500,"max":3248,"p95":3248}
+{"type":"fail","from":"2026-06-13T04:16:46.675Z","to":"2026-06-13T06:48:40.723Z","count":7,"url":"https://smz6.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-13T07:16:33.143Z","to":"2026-06-13T07:16:33.143Z","count":1,"url":"https://smz6.com/health","avg":4001,"min":4001,"max":4001,"p95":4001}
+{"type":"ok","from":"2026-06-13T07:45:49.764Z","to":"2026-06-13T08:15:55.424Z","count":2,"url":"https://smz6.com/v1/models","avg":2143,"min":1936,"max":2350,"p95":2350}
+{"type":"fail","from":"2026-06-13T08:45:44.630Z","to":"2026-06-13T09:45:35.783Z","count":3,"url":"https://smz6.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-13T10:15:26.840Z","to":"2026-06-13T10:15:26.840Z","count":1,"url":"https://smz6.com/v1/models","avg":3063,"min":3063,"max":3063,"p95":3063}
+{"type":"fail","from":"2026-06-13T10:34:24.258Z","to":"2026-06-13T10:34:24.258Z","count":1,"url":"https://smz6.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-13T10:55:48.864Z","to":"2026-06-13T23:43:55.797Z","count":32,"url":"https://smz6.com/v1/models","avg":2347,"min":1511,"max":4113,"p95":3933}

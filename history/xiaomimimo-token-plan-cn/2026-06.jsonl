@@ -121,3 +121,10 @@
 {"type":"ok","from":"2026-06-12T15:29:42.706Z","to":"2026-06-12T19:24:42.005Z","count":11,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1488,"min":712,"max":4034,"p95":4034}
 {"type":"fail","from":"2026-06-12T19:44:09.726Z","to":"2026-06-12T19:44:09.726Z","count":1,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-12T20:03:59.103Z","to":"2026-06-12T23:44:29.197Z","count":12,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1582,"min":402,"max":4360,"p95":4360}
+{"type":"ok","from":"2026-06-13T00:04:41.656Z","to":"2026-06-13T04:17:30.687Z","count":11,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1364,"min":420,"max":3135,"p95":3135}
+{"type":"fail","from":"2026-06-13T04:46:46.021Z","to":"2026-06-13T04:46:46.021Z","count":1,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-13T05:16:14.040Z","to":"2026-06-13T06:49:27.022Z","count":5,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":2084,"min":577,"max":3788,"p95":3788}
+{"type":"fail","from":"2026-06-13T07:17:36.072Z","to":"2026-06-13T07:17:36.072Z","count":1,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-13T07:46:50.970Z","to":"2026-06-13T08:46:27.860Z","count":3,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1209,"min":449,"max":2286,"p95":2286}
+{"type":"fail","from":"2026-06-13T09:17:05.202Z","to":"2026-06-13T09:17:05.202Z","count":1,"url":"https://token-plan-cn.xiaomimimo.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-13T09:46:18.253Z","to":"2026-06-13T23:44:55.525Z","count":35,"url":"https://token-plan-cn.xiaomimimo.com/v1/models","avg":1661,"min":432,"max":4164,"p95":3927}

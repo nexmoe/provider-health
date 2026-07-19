@@ -16,3 +16,9 @@
 {"type":"ok","from":"2026-06-10T22:46:35.530Z","to":"2026-06-10T23:46:59.688Z","count":4,"url":"https://api.aoixx.com/v1/models","avg":1063,"min":865,"max":1160,"p95":1160}
 {"type":"ok","from":"2026-06-11T00:07:11.204Z","to":"2026-06-11T23:58:03.925Z","count":57,"url":"https://api.aoixx.com/v1/models","avg":1316,"min":771,"max":3304,"p95":1880}
 {"type":"ok","from":"2026-06-12T00:18:38.421Z","to":"2026-06-12T23:47:20.428Z","count":56,"url":"https://api.aoixx.com/v1/models","avg":1468,"min":817,"max":3409,"p95":2645}
+{"type":"fail","from":"2026-06-13T00:07:48.490Z","to":"2026-06-13T00:27:57.853Z","count":2,"url":"https://api.aoixx.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-13T00:47:52.054Z","to":"2026-06-13T04:20:18.631Z","count":9,"url":"https://api.aoixx.com/v1/models","avg":1508,"min":1142,"max":1938,"p95":1938}
+{"type":"fail","from":"2026-06-13T04:49:43.406Z","to":"2026-06-13T05:19:17.719Z","count":2,"url":"https://api.aoixx.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-13T05:38:22.484Z","to":"2026-06-13T07:49:38.307Z","count":6,"url":"https://api.aoixx.com/v1/models","avg":1359,"min":900,"max":1702,"p95":1702}
+{"type":"fail","from":"2026-06-13T08:20:01.677Z","to":"2026-06-13T08:20:01.677Z","count":1,"url":"https://api.aoixx.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-13T08:49:34.205Z","to":"2026-06-13T23:47:14.125Z","count":37,"url":"https://api.aoixx.com/v1/models","avg":1172,"min":453,"max":2365,"p95":2363}
