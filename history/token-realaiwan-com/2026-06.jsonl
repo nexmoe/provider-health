@@ -296,3 +296,14 @@
 {"type":"ok","from":"2026-06-13T20:07:12.279Z","to":"2026-06-13T21:26:47.008Z","count":5,"url":"https://token.realaiwan.com/v1/models","avg":2408,"min":1182,"max":3999,"p95":3999}
 {"type":"fail","from":"2026-06-13T21:47:39.016Z","to":"2026-06-13T21:47:39.016Z","count":1,"url":"https://token.realaiwan.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-13T22:07:47.409Z","to":"2026-06-13T23:47:56.558Z","count":6,"url":"https://token.realaiwan.com/v1/models","avg":1306,"min":1001,"max":1964,"p95":1964}
+{"type":"ok","from":"2026-06-14T00:08:01.241Z","to":"2026-06-14T01:08:10.845Z","count":4,"url":"https://token.realaiwan.com/v1/models","avg":1666,"min":1154,"max":2921,"p95":2921}
+{"type":"fail","from":"2026-06-14T01:31:07.802Z","to":"2026-06-14T01:31:07.802Z","count":1,"url":"https://token.realaiwan.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T01:59:14.691Z","to":"2026-06-14T03:50:30.897Z","count":6,"url":"https://token.realaiwan.com/v1/models","avg":2271,"min":1306,"max":3319,"p95":3319}
+{"type":"fail","from":"2026-06-14T04:21:26.748Z","to":"2026-06-14T04:21:26.748Z","count":1,"url":"https://token.realaiwan.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T04:51:45.246Z","to":"2026-06-14T12:30:13.768Z","count":18,"url":"https://token.realaiwan.com/v1/models","avg":2324,"min":807,"max":4323,"p95":4323}
+{"type":"fail","from":"2026-06-14T12:50:55.141Z","to":"2026-06-14T12:50:55.141Z","count":1,"url":"https://token.realaiwan.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T13:21:09.887Z","to":"2026-06-14T15:21:20.254Z","count":5,"url":"https://token.realaiwan.com/v1/models","avg":2633,"min":1042,"max":3938,"p95":3938}
+{"type":"fail","from":"2026-06-14T15:51:12.725Z","to":"2026-06-14T15:51:12.725Z","count":1,"url":"https://token.realaiwan.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-14T16:20:59.754Z","to":"2026-06-14T18:19:09.368Z","count":6,"url":"https://token.realaiwan.com/v1/models","avg":2609,"min":844,"max":4409,"p95":4409}
+{"type":"fail","from":"2026-06-14T18:38:35.096Z","to":"2026-06-14T18:38:35.096Z","count":1,"url":"https://token.realaiwan.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T18:58:04.035Z","to":"2026-06-14T23:47:02.484Z","count":14,"url":"https://token.realaiwan.com/v1/models","avg":2169,"min":1139,"max":4248,"p95":4248}

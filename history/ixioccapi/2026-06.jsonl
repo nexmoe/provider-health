@@ -1,16 +1,18 @@
-{"url":"https://newapi.ixio.cc/api/status"}
-{"type":"ok","from":"2026-06-01T00:12:56.060Z","to":"2026-06-01T23:52:57.441Z","count":57,"avg":954,"min":433,"max":2306,"p95":2002}
-{"type":"ok","from":"2026-06-02T00:12:51.362Z","to":"2026-06-02T23:42:56.428Z","count":59,"avg":783,"min":287,"max":2354,"p95":1260}
-{"type":"ok","from":"2026-06-03T00:03:13.718Z","to":"2026-06-03T23:33:11.518Z","count":54,"avg":788,"min":338,"max":1566,"p95":1419}
-{"type":"ok","from":"2026-06-04T00:03:11.711Z","to":"2026-06-04T23:52:53.474Z","count":54,"avg":852,"min":455,"max":2170,"p95":1559}
-{"type":"ok","from":"2026-06-05T00:12:56.188Z","to":"2026-06-05T23:52:58.251Z","count":55,"avg":818,"min":363,"max":2009,"p95":1211}
-{"type":"ok","from":"2026-06-06T00:12:58.081Z","to":"2026-06-06T23:52:58.473Z","count":55,"avg":817,"min":321,"max":2667,"p95":1192}
-{"type":"ok","from":"2026-06-07T00:12:59.987Z","to":"2026-06-07T23:42:54.941Z","count":56,"avg":791,"min":254,"max":1500,"p95":1158}
-{"type":"ok","from":"2026-06-08T00:03:12.011Z","to":"2026-06-08T23:52:57.908Z","count":60,"avg":833,"min":346,"max":1918,"p95":1378}
-{"type":"ok","from":"2026-06-09T00:13:01.964Z","to":"2026-06-09T23:43:05.591Z","count":59,"avg":829,"min":436,"max":1415,"p95":1218}
-{"type":"ok","from":"2026-06-10T00:03:14.421Z","to":"2026-06-10T23:53:19.215Z","count":60,"avg":1053,"min":524,"max":2444,"p95":2146}
-{"type":"ok","from":"2026-06-11T00:13:13.949Z","to":"2026-06-11T23:43:16.302Z","count":57,"avg":1328,"min":806,"max":2918,"p95":2246}
-{"type":"ok","from":"2026-06-12T00:03:30.527Z","to":"2026-06-12T23:53:18.850Z","count":58,"avg":1445,"min":907,"max":3227,"p95":2800}
-{"type":"ok","from":"2026-06-13T00:13:17.638Z","to":"2026-06-13T05:03:29.431Z","count":12,"avg":1252,"min":711,"max":2240,"p95":2240}
-{"type":"fail","from":"2026-06-13T05:23:39.076Z","to":"2026-06-13T05:23:39.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-06-13T05:43:26.263Z","to":"2026-06-13T23:53:24.077Z","count":44,"avg":1437,"min":796,"max":2523,"p95":2267}
+{"type":"ok","from":"2026-06-01T00:12:56.060Z","to":"2026-06-01T23:52:57.441Z","count":57,"avg":954,"min":433,"max":2306,"p95":2002,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-02T00:12:51.362Z","to":"2026-06-02T23:42:56.428Z","count":59,"avg":783,"min":287,"max":2354,"p95":1260,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-03T00:03:13.718Z","to":"2026-06-03T23:33:11.518Z","count":54,"avg":788,"min":338,"max":1566,"p95":1419,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-04T00:03:11.711Z","to":"2026-06-04T23:52:53.474Z","count":54,"avg":852,"min":455,"max":2170,"p95":1559,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-05T00:12:56.188Z","to":"2026-06-05T23:52:58.251Z","count":55,"avg":818,"min":363,"max":2009,"p95":1211,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-06T00:12:58.081Z","to":"2026-06-06T23:52:58.473Z","count":55,"avg":817,"min":321,"max":2667,"p95":1192,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-07T00:12:59.987Z","to":"2026-06-07T23:42:54.941Z","count":56,"avg":791,"min":254,"max":1500,"p95":1158,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-08T00:03:12.011Z","to":"2026-06-08T23:52:57.908Z","count":60,"avg":833,"min":346,"max":1918,"p95":1378,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-09T00:13:01.964Z","to":"2026-06-09T23:43:05.591Z","count":59,"avg":829,"min":436,"max":1415,"p95":1218,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-10T00:03:14.421Z","to":"2026-06-10T23:53:19.215Z","count":60,"avg":1053,"min":524,"max":2444,"p95":2146,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-11T00:13:13.949Z","to":"2026-06-11T23:43:16.302Z","count":57,"avg":1328,"min":806,"max":2918,"p95":2246,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-12T00:03:30.527Z","to":"2026-06-12T23:53:18.850Z","count":58,"avg":1445,"min":907,"max":3227,"p95":2800,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-13T00:13:17.638Z","to":"2026-06-13T05:03:29.431Z","count":12,"avg":1252,"min":711,"max":2240,"p95":2240,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"fail","from":"2026-06-13T05:23:39.076Z","to":"2026-06-13T05:23:39.076Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-13T05:43:26.263Z","to":"2026-06-13T23:53:24.077Z","count":44,"avg":1437,"min":796,"max":2523,"p95":2267,"url":"https://newapi.ixio.cc/api/status"}
+{"type":"ok","from":"2026-06-14T00:13:16.539Z","to":"2026-06-14T00:13:16.539Z","count":1,"url":"https://newapi.ixio.cc/api/status","avg":1121,"min":1121,"max":1121,"p95":1121}
+{"type":"ok","from":"2026-06-14T00:33:27.675Z","to":"2026-06-14T00:33:27.675Z","count":1,"url":"https://newapi.ixio.cc/v1/models","avg":28,"min":28,"max":28,"p95":28}
+{"type":"ok","from":"2026-06-14T00:53:16.125Z","to":"2026-06-14T23:53:23.649Z","count":58,"url":"https://newapi.ixio.cc/api/status","avg":1304,"min":835,"max":1931,"p95":1791}

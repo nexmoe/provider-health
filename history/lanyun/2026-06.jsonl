@@ -237,3 +237,25 @@
 {"type":"fail","from":"2026-06-13T23:13:29.720Z","to":"2026-06-13T23:13:29.720Z","count":1,"url":"https://maas-api.lanyun.net/health","status":403,"error":"HTTP 403","avg_latency":null}
 {"type":"ok","from":"2026-06-13T23:33:31.513Z","to":"2026-06-13T23:33:31.513Z","count":1,"url":"https://maas-api.lanyun.net/v1/models","avg":3912,"min":3912,"max":3912,"p95":3912}
 {"type":"fail","from":"2026-06-13T23:53:35.406Z","to":"2026-06-13T23:53:35.406Z","count":1,"url":"https://maas-api.lanyun.net/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T00:13:19.668Z","to":"2026-06-14T00:33:27.806Z","count":2,"url":"https://maas-api.lanyun.net/v1/models","avg":2283,"min":2002,"max":2563,"p95":2563}
+{"type":"fail","from":"2026-06-14T00:53:28.842Z","to":"2026-06-14T01:13:45.662Z","count":2,"url":"https://maas-api.lanyun.net/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T01:43:21.880Z","to":"2026-06-14T04:33:38.066Z","count":8,"url":"https://maas-api.lanyun.net/v1/models","avg":2465,"min":990,"max":3587,"p95":3587}
+{"type":"fail","from":"2026-06-14T05:03:59.380Z","to":"2026-06-14T05:03:59.380Z","count":1,"url":"https://maas-api.lanyun.net/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T05:33:38.490Z","to":"2026-06-14T07:03:45.909Z","count":4,"url":"https://maas-api.lanyun.net/v1/models","avg":3306,"min":959,"max":4823,"p95":4823}
+{"type":"fail","from":"2026-06-14T07:33:50.452Z","to":"2026-06-14T07:33:50.452Z","count":1,"url":"https://maas-api.lanyun.net/health","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T08:03:44.694Z","to":"2026-06-14T08:33:30.679Z","count":2,"url":"https://maas-api.lanyun.net/v1/models","avg":3478,"min":3255,"max":3701,"p95":3701}
+{"type":"fail","from":"2026-06-14T09:03:53.219Z","to":"2026-06-14T09:03:53.219Z","count":1,"url":"https://maas-api.lanyun.net/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"fail","from":"2026-06-14T09:33:49.612Z","to":"2026-06-14T09:33:49.612Z","count":1,"url":"https://maas-api.lanyun.net/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T09:53:25.373Z","to":"2026-06-14T10:43:26.844Z","count":3,"url":"https://maas-api.lanyun.net/v1/models","avg":3785,"min":3075,"max":4689,"p95":4689}
+{"type":"fail","from":"2026-06-14T11:03:53.305Z","to":"2026-06-14T11:03:53.305Z","count":1,"url":"https://maas-api.lanyun.net/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T11:23:24.408Z","to":"2026-06-14T12:33:42.710Z","count":4,"url":"https://maas-api.lanyun.net/v1/models","avg":3196,"min":2396,"max":4560,"p95":4560}
+{"type":"fail","from":"2026-06-14T13:03:47.305Z","to":"2026-06-14T13:03:47.305Z","count":1,"url":"https://maas-api.lanyun.net/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T13:33:35.128Z","to":"2026-06-14T13:33:35.128Z","count":1,"url":"https://maas-api.lanyun.net/v1/models","avg":3925,"min":3925,"max":3925,"p95":3925}
+{"type":"fail","from":"2026-06-14T14:03:56.229Z","to":"2026-06-14T14:03:56.229Z","count":1,"url":"https://maas-api.lanyun.net/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T14:33:41.389Z","to":"2026-06-14T15:03:41.392Z","count":2,"url":"https://maas-api.lanyun.net/v1/models","avg":3479,"min":3293,"max":3664,"p95":3664}
+{"type":"fail","from":"2026-06-14T15:33:46.747Z","to":"2026-06-14T15:33:46.747Z","count":1,"url":"https://maas-api.lanyun.net/health","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T16:03:45.643Z","to":"2026-06-14T18:43:27.891Z","count":8,"url":"https://maas-api.lanyun.net/v1/models","avg":2431,"min":643,"max":4716,"p95":4716}
+{"type":"fail","from":"2026-06-14T19:03:45.440Z","to":"2026-06-14T19:03:45.440Z","count":1,"url":"https://maas-api.lanyun.net/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T19:15:30.527Z","to":"2026-06-14T22:53:33.567Z","count":12,"url":"https://maas-api.lanyun.net/v1/models","avg":2195,"min":939,"max":3781,"p95":3781}
+{"type":"fail","from":"2026-06-14T23:13:28.639Z","to":"2026-06-14T23:13:28.639Z","count":1,"url":"https://maas-api.lanyun.net/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-14T23:33:30.125Z","to":"2026-06-14T23:53:27.867Z","count":2,"url":"https://maas-api.lanyun.net/v1/models","avg":2305,"min":2224,"max":2386,"p95":2386}

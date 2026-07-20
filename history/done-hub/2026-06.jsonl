@@ -16,3 +16,5 @@
 {"type":"fail","from":"2026-06-12T21:31:29.408Z","to":"2026-06-12T21:31:29.408Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-06-12T21:51:08.784Z","to":"2026-06-12T23:51:09.893Z","count":7,"avg":77,"min":66,"max":109,"p95":109}
 {"type":"ok","from":"2026-06-13T00:11:09.659Z","to":"2026-06-13T23:51:16.439Z","count":57,"avg":96,"min":65,"max":169,"p95":144}
+{"type":"ok","from":"2026-06-14T00:11:08.365Z","to":"2026-06-14T15:01:27.784Z","count":36,"avg":132,"min":72,"max":1151,"p95":171}
+{"type":"fail","from":"2026-06-14T15:31:23.414Z","to":"2026-06-14T23:51:18.264Z","count":25,"status":null,"error":"fetch failed","avg_latency":null}

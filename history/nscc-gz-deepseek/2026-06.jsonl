@@ -169,3 +169,12 @@
 {"type":"ok","from":"2026-06-13T18:05:59.473Z","to":"2026-06-13T18:35:46.011Z","count":2,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":2873,"min":973,"max":4773,"p95":4773}
 {"type":"ok","from":"2026-06-13T18:55:43.668Z","to":"2026-06-13T18:55:43.668Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":622,"min":622,"max":622,"p95":622}
 {"type":"ok","from":"2026-06-13T19:15:32.388Z","to":"2026-06-13T23:55:48.420Z","count":15,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1670,"min":467,"max":4639,"p95":4639}
+{"type":"ok","from":"2026-06-14T00:15:36.116Z","to":"2026-06-14T00:55:45.331Z","count":3,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":3128,"min":3018,"max":3337,"p95":3337}
+{"type":"ok","from":"2026-06-14T01:16:16.367Z","to":"2026-06-14T01:16:16.367Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":3036,"min":3036,"max":3036,"p95":3036}
+{"type":"ok","from":"2026-06-14T01:45:42.269Z","to":"2026-06-14T06:35:59.447Z","count":12,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1524,"min":633,"max":3303,"p95":3303}
+{"type":"ok","from":"2026-06-14T07:06:21.570Z","to":"2026-06-14T07:06:21.570Z","count":1,"url":"https://deepseek.nscc-gz.cn/status","avg":3026,"min":3026,"max":3026,"p95":3026}
+{"type":"fail","from":"2026-06-14T07:36:26.244Z","to":"2026-06-14T08:06:36.504Z","count":2,"url":"https://deepseek.nscc-gz.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T08:36:01.061Z","to":"2026-06-14T12:16:00.696Z","count":10,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":2185,"min":627,"max":3876,"p95":3876}
+{"type":"ok","from":"2026-06-14T12:36:12.452Z","to":"2026-06-14T12:36:12.452Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":2792,"min":2792,"max":2792,"p95":2792}
+{"type":"ok","from":"2026-06-14T13:06:17.285Z","to":"2026-06-14T23:35:34.850Z","count":29,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1596,"min":642,"max":3910,"p95":3425}
+{"type":"ok","from":"2026-06-14T23:55:50.044Z","to":"2026-06-14T23:55:50.044Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":3337,"min":3337,"max":3337,"p95":3337}

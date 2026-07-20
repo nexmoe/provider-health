@@ -29,3 +29,8 @@
 {"type":"ok","from":"2026-06-13T18:55:35.077Z","to":"2026-06-13T20:55:30.284Z","count":7,"url":"http://api.kterna.xyz/api/status","avg":1251,"min":1061,"max":1634,"p95":1634}
 {"type":"fail","from":"2026-06-13T21:15:30.270Z","to":"2026-06-13T21:55:29.932Z","count":3,"url":"http://api.kterna.xyz/api/status","status":530,"error":"HTTP 530","avg_latency":null}
 {"type":"fail","from":"2026-06-13T22:15:29.447Z","to":"2026-06-13T23:55:45.572Z","count":6,"url":"http://api.kterna.xyz/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-14T00:15:32.821Z","to":"2026-06-14T00:35:57.857Z","count":2,"url":"http://api.kterna.xyz/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-06-14T00:55:41.943Z","to":"2026-06-14T05:36:04.688Z","count":12,"url":"http://api.kterna.xyz/api/status","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"ok","from":"2026-06-14T06:06:04.189Z","to":"2026-06-14T13:36:05.509Z","count":18,"url":"http://api.kterna.xyz/api/status","avg":1558,"min":828,"max":4226,"p95":4226}
+{"type":"ok","from":"2026-06-14T14:06:13.762Z","to":"2026-06-14T14:06:13.762Z","count":1,"url":"https://api.kterna.xyz/api/status","avg":829,"min":829,"max":829,"p95":829}
+{"type":"ok","from":"2026-06-14T14:36:08.827Z","to":"2026-06-14T23:55:40.768Z","count":27,"url":"http://api.kterna.xyz/api/status","avg":1797,"min":894,"max":4296,"p95":4028}

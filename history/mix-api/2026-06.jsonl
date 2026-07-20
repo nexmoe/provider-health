@@ -22,3 +22,13 @@
 {"type":"ok","from":"2026-06-12T10:53:09.472Z","to":"2026-06-12T11:23:19.167Z","count":2,"url":"https://openapi.imikufans.cn/v1/models","avg":765,"min":751,"max":779,"p95":779}
 {"type":"ok","from":"2026-06-12T11:52:22.965Z","to":"2026-06-12T23:40:13.286Z","count":31,"url":"https://openapi.imikufans.cn/api/status","avg":1486,"min":1168,"max":2895,"p95":2336}
 {"type":"ok","from":"2026-06-13T00:00:27.192Z","to":"2026-06-13T23:40:29.259Z","count":57,"url":"https://openapi.imikufans.cn/api/status","avg":1385,"min":928,"max":2132,"p95":1664}
+{"type":"ok","from":"2026-06-14T00:00:26.010Z","to":"2026-06-14T02:31:10.703Z","count":8,"url":"https://openapi.imikufans.cn/api/status","avg":1466,"min":1166,"max":1819,"p95":1819}
+{"type":"fail","from":"2026-06-14T02:51:47.444Z","to":"2026-06-14T02:51:47.444Z","count":1,"url":"https://openapi.imikufans.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T03:11:39.466Z","to":"2026-06-14T09:11:45.539Z","count":13,"url":"https://openapi.imikufans.cn/api/status","avg":1433,"min":1184,"max":1999,"p95":1999}
+{"type":"fail","from":"2026-06-14T09:42:13.189Z","to":"2026-06-14T09:42:13.189Z","count":1,"url":"https://openapi.imikufans.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T10:01:42.338Z","to":"2026-06-14T10:01:42.338Z","count":1,"url":"https://openapi.imikufans.cn/api/status","avg":2158,"min":2158,"max":2158,"p95":2158}
+{"type":"fail","from":"2026-06-14T10:25:09.515Z","to":"2026-06-14T10:25:09.515Z","count":1,"url":"https://openapi.imikufans.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T10:51:10.527Z","to":"2026-06-14T13:13:04.330Z","count":7,"url":"https://openapi.imikufans.cn/api/status","avg":1333,"min":1240,"max":1546,"p95":1546}
+{"type":"fail","from":"2026-06-14T13:42:36.853Z","to":"2026-06-14T14:13:30.118Z","count":2,"url":"https://openapi.imikufans.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-14T14:43:17.718Z","to":"2026-06-14T17:11:45.161Z","count":6,"url":"https://openapi.imikufans.cn/api/status","avg":1765,"min":1261,"max":3464,"p95":3464}
+{"type":"fail","from":"2026-06-14T17:31:14.062Z","to":"2026-06-14T23:59:58.616Z","count":20,"url":"https://openapi.imikufans.cn/api/status","status":522,"error":"HTTP 522","avg_latency":null}
