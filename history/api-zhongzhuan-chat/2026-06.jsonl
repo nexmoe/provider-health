@@ -28,3 +28,7 @@
 {"type":"fail","from":"2026-06-15T06:37:25.150Z","to":"2026-06-15T06:57:15.546Z","count":2,"url":"https://api.zhongzhuan.chat/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-06-15T07:17:04.014Z","to":"2026-06-15T08:07:06.346Z","count":3,"url":"https://api.zhongzhuan.chat/api/status","avg":2332,"min":1978,"max":2911,"p95":2911}
 {"type":"fail","from":"2026-06-15T08:37:14.194Z","to":"2026-06-15T23:56:56.635Z","count":40,"url":"https://api.zhongzhuan.chat/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-16T00:16:46.968Z","to":"2026-06-16T11:07:07.206Z","count":28,"url":"https://api.zhongzhuan.chat/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-06-16T11:17:00.255Z","to":"2026-06-16T15:07:48.311Z","count":9,"url":"https://api.zhongzhuan.chat/api/status","avg":2859,"min":2003,"max":3520,"p95":3520}
+{"type":"ok","from":"2026-06-16T15:37:33.443Z","to":"2026-06-16T15:37:33.443Z","count":1,"url":"https://api.zhongzhuan.chat/v1/models","avg":3956,"min":3956,"max":3956,"p95":3956}
+{"type":"ok","from":"2026-06-16T16:07:54.827Z","to":"2026-06-16T23:56:45.920Z","count":23,"url":"https://api.zhongzhuan.chat/api/status","avg":2602,"min":1406,"max":4064,"p95":3901}
