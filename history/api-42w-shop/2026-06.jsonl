@@ -20,3 +20,7 @@
 {"type":"ok","from":"2026-06-14T00:06:25.219Z","to":"2026-06-14T23:45:35.770Z","count":58,"url":"https://api.42w.shop/api/status","avg":499,"min":204,"max":946,"p95":781}
 {"type":"ok","from":"2026-06-15T00:06:05.492Z","to":"2026-06-15T23:46:35.324Z","count":63,"url":"https://api.42w.shop/api/status","avg":493,"min":204,"max":1061,"p95":946}
 {"type":"ok","from":"2026-06-16T00:07:16.916Z","to":"2026-06-16T23:46:15.744Z","count":59,"url":"https://api.42w.shop/api/status","avg":497,"min":208,"max":1086,"p95":850}
+{"type":"ok","from":"2026-06-17T00:06:13.756Z","to":"2026-06-17T05:57:15.654Z","count":15,"url":"https://api.42w.shop/api/status","avg":484,"min":261,"max":693,"p95":693}
+{"type":"ok","from":"2026-06-17T06:18:11.432Z","to":"2026-06-17T06:18:11.432Z","count":1,"url":"https://api.42w.shop/health","avg":4782,"min":4782,"max":4782,"p95":4782}
+{"type":"fail","from":"2026-06-17T06:48:46.236Z","to":"2026-06-17T06:48:46.236Z","count":1,"url":"https://api.42w.shop/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-17T07:19:16.890Z","to":"2026-06-17T23:56:02.153Z","count":39,"url":"https://api.42w.shop/api/status","avg":491,"min":213,"max":927,"p95":712}

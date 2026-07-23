@@ -18,3 +18,8 @@
 {"type":"ok","from":"2026-06-14T00:16:36.777Z","to":"2026-06-14T23:56:47.506Z","count":60,"url":"https://api.vip.crond.dev/api/status","avg":2573,"min":907,"max":4851,"p95":4327}
 {"type":"ok","from":"2026-06-15T00:16:56.051Z","to":"2026-06-15T23:56:51.932Z","count":63,"url":"https://api.vip.crond.dev/api/status","avg":2624,"min":1339,"max":4137,"p95":3914}
 {"type":"ok","from":"2026-06-16T00:16:43.543Z","to":"2026-06-16T23:56:45.865Z","count":61,"url":"https://api.vip.crond.dev/api/status","avg":2440,"min":737,"max":4196,"p95":3828}
+{"type":"ok","from":"2026-06-17T00:17:10.266Z","to":"2026-06-17T04:26:54.426Z","count":12,"url":"https://api.vip.crond.dev/api/status","avg":2449,"min":1409,"max":3491,"p95":3491}
+{"type":"fail","from":"2026-06-17T04:57:17.283Z","to":"2026-06-17T04:57:17.283Z","count":1,"url":"https://api.vip.crond.dev/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-17T05:16:53.664Z","to":"2026-06-17T06:37:33.132Z","count":4,"url":"https://api.vip.crond.dev/api/status","avg":2844,"min":2267,"max":4156,"p95":4156}
+{"type":"fail","from":"2026-06-17T07:07:39.382Z","to":"2026-06-17T07:07:39.382Z","count":1,"url":"https://api.vip.crond.dev/api/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"ok","from":"2026-06-17T07:37:13.491Z","to":"2026-06-17T23:46:34.735Z","count":38,"url":"https://api.vip.crond.dev/api/status","avg":2520,"min":908,"max":4559,"p95":4415}
