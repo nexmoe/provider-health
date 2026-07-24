@@ -110,3 +110,22 @@
 {"type":"ok","from":"2026-06-17T21:55:39.456Z","to":"2026-06-17T22:35:48.432Z","count":3,"url":"https://api.kunkunout.qzz.io/api/status","avg":4883,"min":4795,"max":4983,"p95":4983}
 {"type":"fail","from":"2026-06-17T22:55:50.662Z","to":"2026-06-17T22:55:50.662Z","count":1,"url":"https://api.kunkunout.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"fail","from":"2026-06-17T23:16:22.125Z","to":"2026-06-17T23:55:47.590Z","count":3,"url":"https://api.kunkunout.qzz.io/v1/models","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"fail","from":"2026-06-18T00:16:14.299Z","to":"2026-06-18T00:16:14.299Z","count":1,"url":"https://api.kunkunout.qzz.io/v1/models","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"fail","from":"2026-06-18T00:36:50.742Z","to":"2026-06-18T00:36:50.742Z","count":1,"url":"https://api.kunkunout.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-18T00:56:28.894Z","to":"2026-06-18T00:56:28.894Z","count":1,"url":"https://api.kunkunout.qzz.io/v1/models","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"fail","from":"2026-06-18T01:17:16.249Z","to":"2026-06-18T01:17:16.249Z","count":1,"url":"https://api.kunkunout.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-18T01:48:08.629Z","to":"2026-06-18T01:48:08.629Z","count":1,"url":"https://api.kunkunout.qzz.io/v1/models","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"ok","from":"2026-06-18T02:18:32.145Z","to":"2026-06-18T04:18:07.242Z","count":6,"url":"https://api.kunkunout.qzz.io/v1/models","avg":3155,"min":1146,"max":4297,"p95":4297}
+{"type":"fail","from":"2026-06-18T04:47:43.144Z","to":"2026-06-18T05:08:49.606Z","count":2,"url":"https://api.kunkunout.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-18T05:37:39.169Z","to":"2026-06-18T05:37:39.169Z","count":1,"url":"https://api.kunkunout.qzz.io/health","avg":931,"min":931,"max":931,"p95":931}
+{"type":"ok","from":"2026-06-18T05:58:10.148Z","to":"2026-06-18T07:08:23.224Z","count":3,"url":"https://api.kunkunout.qzz.io/v1/models","avg":2057,"min":1067,"max":2907,"p95":2907}
+{"type":"fail","from":"2026-06-18T07:38:06.164Z","to":"2026-06-18T07:38:06.164Z","count":1,"url":"https://api.kunkunout.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-18T08:09:11.367Z","to":"2026-06-18T10:58:44.687Z","count":7,"url":"https://api.kunkunout.qzz.io/v1/models","avg":2828,"min":1018,"max":4778,"p95":4778}
+{"type":"ok","from":"2026-06-18T11:30:31.262Z","to":"2026-06-18T11:30:31.262Z","count":1,"url":"https://api.kunkunout.qzz.io/health","avg":1917,"min":1917,"max":1917,"p95":1917}
+{"type":"ok","from":"2026-06-18T11:58:00.983Z","to":"2026-06-18T11:58:00.983Z","count":1,"url":"https://api.kunkunout.qzz.io/v1/models","avg":2979,"min":2979,"max":2979,"p95":2979}
+{"type":"ok","from":"2026-06-18T12:29:06.519Z","to":"2026-06-18T12:59:01.976Z","count":2,"url":"https://api.kunkunout.qzz.io/health","avg":1385,"min":997,"max":1773,"p95":1773}
+{"type":"ok","from":"2026-06-18T13:29:56.036Z","to":"2026-06-18T13:29:56.036Z","count":1,"url":"https://api.kunkunout.qzz.io/v1/models","avg":4581,"min":4581,"max":4581,"p95":4581}
+{"type":"ok","from":"2026-06-18T14:01:18.768Z","to":"2026-06-18T14:01:18.768Z","count":1,"url":"https://api.kunkunout.qzz.io/health","avg":2130,"min":2130,"max":2130,"p95":2130}
+{"type":"ok","from":"2026-06-18T14:30:53.073Z","to":"2026-06-18T20:06:05.131Z","count":14,"url":"https://api.kunkunout.qzz.io/v1/models","avg":2609,"min":1287,"max":3878,"p95":3878}
+{"type":"ok","from":"2026-06-18T20:26:06.117Z","to":"2026-06-18T20:26:06.117Z","count":1,"url":"https://api.kunkunout.qzz.io/api/status","avg":4794,"min":4794,"max":4794,"p95":4794}
+{"type":"ok","from":"2026-06-18T20:46:05.808Z","to":"2026-06-18T23:46:09.389Z","count":10,"url":"https://api.kunkunout.qzz.io/v1/models","avg":2158,"min":1129,"max":3031,"p95":3031}

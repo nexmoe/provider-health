@@ -43,3 +43,6 @@
 {"type":"fail","from":"2026-06-16T07:21:43.809Z","to":"2026-06-16T07:21:43.809Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-06-16T07:50:30.540Z","to":"2026-06-16T23:48:39.905Z","count":40,"url":"https://api.ai-claw.cloud/api/status","avg":1105,"min":623,"max":2209,"p95":1757}
 {"type":"ok","from":"2026-06-17T00:08:27.125Z","to":"2026-06-17T23:57:54.453Z","count":56,"url":"https://api.ai-claw.cloud/api/status","avg":1061,"min":809,"max":1906,"p95":1367}
+{"type":"ok","from":"2026-06-18T00:18:19.293Z","to":"2026-06-18T12:31:46.705Z","count":28,"url":"https://api.ai-claw.cloud/api/status","avg":1136,"min":765,"max":2147,"p95":1429}
+{"type":"fail","from":"2026-06-18T13:01:56.598Z","to":"2026-06-18T13:01:56.598Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-18T13:32:15.612Z","to":"2026-06-18T23:48:39.373Z","count":27,"url":"https://api.ai-claw.cloud/api/status","status":521,"error":"HTTP 521","avg_latency":null}

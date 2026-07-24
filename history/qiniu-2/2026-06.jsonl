@@ -70,3 +70,28 @@
 {"type":"ok","from":"2026-06-17T22:22:26.455Z","to":"2026-06-17T22:22:26.455Z","count":1,"url":"https://openai.qiniu.com/v1/models","avg":677,"min":677,"max":677,"p95":677}
 {"type":"ok","from":"2026-06-17T22:42:15.040Z","to":"2026-06-17T23:22:17.472Z","count":3,"url":"https://api.qnaigc.com/v1/models","avg":3374,"min":2136,"max":4500,"p95":4500}
 {"type":"fail","from":"2026-06-17T23:42:32.810Z","to":"2026-06-17T23:42:32.810Z","count":1,"url":"https://api.qnaigc.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-18T00:02:31.314Z","to":"2026-06-18T00:02:31.314Z","count":1,"url":"https://api.qnaigc.com/v1/models","avg":1704,"min":1704,"max":1704,"p95":1704}
+{"type":"fail","from":"2026-06-18T00:22:45.983Z","to":"2026-06-18T00:22:45.983Z","count":1,"url":"https://api.qnaigc.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-18T00:42:21.834Z","to":"2026-06-18T01:02:32.571Z","count":2,"url":"https://api.qnaigc.com/v1/models","avg":793,"min":511,"max":1075,"p95":1075}
+{"type":"ok","from":"2026-06-18T01:32:32.641Z","to":"2026-06-18T01:32:32.641Z","count":1,"url":"https://openai.qiniu.com/v1/models","avg":1643,"min":1643,"max":1643,"p95":1643}
+{"type":"ok","from":"2026-06-18T02:02:32.548Z","to":"2026-06-18T04:02:30.492Z","count":6,"url":"https://api.qnaigc.com/v1/models","avg":1004,"min":61,"max":2188,"p95":2188}
+{"type":"ok","from":"2026-06-18T04:32:30.396Z","to":"2026-06-18T04:32:30.396Z","count":1,"url":"https://openai.qiniu.com/v1/models","avg":499,"min":499,"max":499,"p95":499}
+{"type":"fail","from":"2026-06-18T04:52:51.516Z","to":"2026-06-18T04:52:51.516Z","count":1,"url":"https://api.qnaigc.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-18T05:22:17.325Z","to":"2026-06-18T06:52:23.028Z","count":5,"url":"https://api.qnaigc.com/v1/models","avg":2817,"min":352,"max":4703,"p95":4703}
+{"type":"fail","from":"2026-06-18T07:22:47.789Z","to":"2026-06-18T07:22:47.789Z","count":1,"url":"https://api.qnaigc.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-18T07:52:19.348Z","to":"2026-06-18T07:52:19.348Z","count":1,"url":"https://api.qnaigc.com/v1/models","avg":1920,"min":1920,"max":1920,"p95":1920}
+{"type":"ok","from":"2026-06-18T08:22:33.643Z","to":"2026-06-18T08:22:33.643Z","count":1,"url":"https://openai.qiniu.com/v1/models","avg":1520,"min":1520,"max":1520,"p95":1520}
+{"type":"ok","from":"2026-06-18T08:52:20.648Z","to":"2026-06-18T12:42:20.340Z","count":9,"url":"https://api.qnaigc.com/v1/models","avg":2174,"min":87,"max":4879,"p95":4879}
+{"type":"ok","from":"2026-06-18T13:12:45.787Z","to":"2026-06-18T13:12:45.787Z","count":1,"url":"https://openai.qiniu.com/v1/models","avg":801,"min":801,"max":801,"p95":801}
+{"type":"ok","from":"2026-06-18T13:42:22.338Z","to":"2026-06-18T13:42:22.338Z","count":1,"url":"https://api.qnaigc.com/v1/models","avg":1427,"min":1427,"max":1427,"p95":1427}
+{"type":"fail","from":"2026-06-18T14:12:42.771Z","to":"2026-06-18T14:12:42.771Z","count":1,"url":"https://api.qnaigc.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-18T14:42:29.085Z","to":"2026-06-18T15:12:20.753Z","count":2,"url":"https://api.qnaigc.com/v1/models","avg":2593,"min":1309,"max":3877,"p95":3877}
+{"type":"fail","from":"2026-06-18T15:42:43.997Z","to":"2026-06-18T15:42:43.997Z","count":1,"url":"https://api.qnaigc.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-18T16:12:31.394Z","to":"2026-06-18T16:12:31.394Z","count":1,"url":"https://openai.qiniu.com/v1/models","avg":3096,"min":3096,"max":3096,"p95":3096}
+{"type":"ok","from":"2026-06-18T16:42:25.889Z","to":"2026-06-18T18:32:24.777Z","count":5,"url":"https://api.qnaigc.com/v1/models","avg":1649,"min":477,"max":3304,"p95":3304}
+{"type":"fail","from":"2026-06-18T18:52:26.386Z","to":"2026-06-18T18:52:26.386Z","count":1,"url":"https://api.qnaigc.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-18T19:12:13.254Z","to":"2026-06-18T19:12:13.254Z","count":1,"url":"https://api.qnaigc.com/v1/models","avg":1275,"min":1275,"max":1275,"p95":1275}
+{"type":"ok","from":"2026-06-18T19:32:32.558Z","to":"2026-06-18T19:32:32.558Z","count":1,"url":"https://openai.qiniu.com/v1/models","avg":2492,"min":2492,"max":2492,"p95":2492}
+{"type":"ok","from":"2026-06-18T19:52:14.190Z","to":"2026-06-18T20:52:18.498Z","count":4,"url":"https://api.qnaigc.com/v1/models","avg":1684,"min":949,"max":3518,"p95":3518}
+{"type":"ok","from":"2026-06-18T21:12:19.989Z","to":"2026-06-18T21:12:19.989Z","count":1,"url":"https://openai.qiniu.com/v1/models","avg":334,"min":334,"max":334,"p95":334}
+{"type":"ok","from":"2026-06-18T21:32:22.120Z","to":"2026-06-18T23:52:23.491Z","count":8,"url":"https://api.qnaigc.com/v1/models","avg":2372,"min":923,"max":4924,"p95":4924}
