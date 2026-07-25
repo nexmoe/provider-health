@@ -24,3 +24,5 @@
 {"type":"fail","from":"2026-06-18T00:09:20.309Z","to":"2026-06-18T08:31:32.040Z","count":20,"url":"https://api.cerebras.ai/api/status","status":403,"error":"HTTP 403","avg_latency":null}
 {"type":"fail","from":"2026-06-18T09:01:44.891Z","to":"2026-06-18T09:01:44.891Z","count":1,"url":"https://api.cerebras.ai/v1/models","status":403,"error":"HTTP 403","avg_latency":null}
 {"type":"fail","from":"2026-06-18T09:31:34.602Z","to":"2026-06-18T23:39:30.647Z","count":35,"url":"https://api.cerebras.ai/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"fail","from":"2026-06-19T00:00:32.392Z","to":"2026-06-19T00:00:32.392Z","count":1,"url":"https://api.cerebras.ai/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-19T00:19:54.856Z","to":"2026-06-19T23:49:44.285Z","count":56,"url":"https://api.cerebras.ai/api/status","status":403,"error":"HTTP 403","avg_latency":null}

@@ -230,3 +230,26 @@
 {"type":"ok","from":"2026-06-18T18:25:58.891Z","to":"2026-06-18T18:46:04.707Z","count":2,"url":"https://v2.aicodee.com/api/status","avg":2263,"min":1475,"max":3051,"p95":3051}
 {"type":"ok","from":"2026-06-18T19:05:23.290Z","to":"2026-06-18T19:25:52.647Z","count":2,"url":"https://v2.aicodee.com/v1/models","avg":3036,"min":2793,"max":3278,"p95":3278}
 {"type":"ok","from":"2026-06-18T19:45:31.870Z","to":"2026-06-18T23:44:52.972Z","count":13,"url":"https://v2.aicodee.com/api/status","avg":2364,"min":1309,"max":4668,"p95":4668}
+{"type":"ok","from":"2026-06-19T00:05:50.355Z","to":"2026-06-19T00:25:21.689Z","count":2,"url":"https://v2.aicodee.com/api/status","avg":3852,"min":3454,"max":4250,"p95":4250}
+{"type":"ok","from":"2026-06-19T00:45:25.136Z","to":"2026-06-19T00:45:25.136Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":930,"min":930,"max":930,"p95":930}
+{"type":"ok","from":"2026-06-19T01:05:20.006Z","to":"2026-06-19T01:05:20.006Z","count":1,"url":"https://v2.aicodee.com/api/status","avg":1984,"min":1984,"max":1984,"p95":1984}
+{"type":"ok","from":"2026-06-19T01:26:07.373Z","to":"2026-06-19T01:26:07.373Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":4301,"min":4301,"max":4301,"p95":4301}
+{"type":"ok","from":"2026-06-19T01:46:17.853Z","to":"2026-06-19T01:46:17.853Z","count":1,"url":"https://v2.aicodee.com/api/status","avg":1384,"min":1384,"max":1384,"p95":1384}
+{"type":"ok","from":"2026-06-19T02:06:10.516Z","to":"2026-06-19T02:06:10.516Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":1007,"min":1007,"max":1007,"p95":1007}
+{"type":"ok","from":"2026-06-19T02:26:01.243Z","to":"2026-06-19T03:36:18.755Z","count":4,"url":"https://v2.aicodee.com/api/status","avg":2750,"min":2353,"max":3535,"p95":3535}
+{"type":"ok","from":"2026-06-19T04:07:34.488Z","to":"2026-06-19T04:07:34.488Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":2467,"min":2467,"max":2467,"p95":2467}
+{"type":"ok","from":"2026-06-19T04:36:14.731Z","to":"2026-06-19T04:36:14.731Z","count":1,"url":"https://v2.aicodee.com/api/status","avg":4346,"min":4346,"max":4346,"p95":4346}
+{"type":"ok","from":"2026-06-19T04:56:01.099Z","to":"2026-06-19T04:56:01.099Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":2988,"min":2988,"max":2988,"p95":2988}
+{"type":"ok","from":"2026-06-19T05:17:00.955Z","to":"2026-06-19T06:48:14.009Z","count":4,"url":"https://v2.aicodee.com/api/status","avg":2949,"min":2050,"max":3817,"p95":3817}
+{"type":"fail","from":"2026-06-19T07:17:14.265Z","to":"2026-06-19T07:17:14.265Z","count":1,"url":"https://v2.aicodee.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-06-19T07:47:19.466Z","to":"2026-06-19T09:47:34.436Z","count":5,"url":"https://v2.aicodee.com/api/status","avg":2273,"min":1373,"max":3336,"p95":3336}
+{"type":"ok","from":"2026-06-19T10:17:24.592Z","to":"2026-06-19T10:17:24.592Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":1845,"min":1845,"max":1845,"p95":1845}
+{"type":"fail","from":"2026-06-19T10:46:34.842Z","to":"2026-06-19T10:46:34.842Z","count":1,"url":"https://v2.aicodee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-19T11:17:38.170Z","to":"2026-06-19T13:46:57.201Z","count":6,"url":"https://v2.aicodee.com/api/status","avg":3419,"min":1646,"max":4630,"p95":4630}
+{"type":"fail","from":"2026-06-19T14:18:45.042Z","to":"2026-06-19T14:18:45.042Z","count":1,"url":"https://v2.aicodee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-19T14:47:20.202Z","to":"2026-06-19T15:17:26.378Z","count":2,"url":"https://v2.aicodee.com/api/status","avg":3171,"min":2560,"max":3782,"p95":3782}
+{"type":"ok","from":"2026-06-19T15:48:27.939Z","to":"2026-06-19T15:48:27.939Z","count":1,"url":"https://v2.aicodee.com/health","avg":3821,"min":3821,"max":3821,"p95":3821}
+{"type":"ok","from":"2026-06-19T16:17:31.322Z","to":"2026-06-19T16:48:01.829Z","count":2,"url":"https://v2.aicodee.com/v1/models","avg":1838,"min":1762,"max":1914,"p95":1914}
+{"type":"ok","from":"2026-06-19T17:16:24.310Z","to":"2026-06-19T21:34:10.458Z","count":12,"url":"https://v2.aicodee.com/api/status","avg":2255,"min":1218,"max":4700,"p95":4700}
+{"type":"ok","from":"2026-06-19T21:54:39.488Z","to":"2026-06-19T21:54:39.488Z","count":1,"url":"https://v2.aicodee.com/v1/models","avg":4792,"min":4792,"max":4792,"p95":4792}
+{"type":"ok","from":"2026-06-19T22:14:21.209Z","to":"2026-06-19T23:55:01.769Z","count":6,"url":"https://v2.aicodee.com/api/status","avg":2635,"min":1283,"max":4378,"p95":4378}

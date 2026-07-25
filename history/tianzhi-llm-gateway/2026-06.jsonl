@@ -338,3 +338,13 @@
 {"type":"ok","from":"2026-06-18T16:22:27.311Z","to":"2026-06-18T22:39:52.175Z","count":18,"url":"https://gpt.cosmoplat.com/v1/models","avg":2066,"min":773,"max":4505,"p95":4505}
 {"type":"fail","from":"2026-06-18T22:59:42.812Z","to":"2026-06-18T22:59:42.812Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-18T23:20:47.242Z","to":"2026-06-18T23:39:45.782Z","count":2,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":3937,"min":3038,"max":4835,"p95":4835}
+{"type":"fail","from":"2026-06-19T00:00:49.213Z","to":"2026-06-19T00:00:49.213Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-19T00:20:06.918Z","to":"2026-06-19T05:11:53.443Z","count":14,"url":"https://gpt.cosmoplat.com/v1/models","avg":2808,"min":876,"max":4495,"p95":4495}
+{"type":"fail","from":"2026-06-19T05:41:15.021Z","to":"2026-06-19T05:41:15.021Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-19T06:12:19.619Z","to":"2026-06-19T08:41:08.134Z","count":6,"url":"https://gpt.cosmoplat.com/v1/models","avg":2123,"min":802,"max":4155,"p95":4155}
+{"type":"fail","from":"2026-06-19T09:12:00.200Z","to":"2026-06-19T09:12:00.200Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-19T09:42:12.502Z","to":"2026-06-19T14:42:13.182Z","count":11,"url":"https://gpt.cosmoplat.com/v1/models","avg":3052,"min":841,"max":4826,"p95":4826}
+{"type":"fail","from":"2026-06-19T15:12:18.028Z","to":"2026-06-19T15:12:18.028Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-19T15:42:59.209Z","to":"2026-06-19T18:41:04.989Z","count":7,"url":"https://gpt.cosmoplat.com/v1/models","avg":2680,"min":1887,"max":4090,"p95":4090}
+{"type":"ok","from":"2026-06-19T19:10:39.192Z","to":"2026-06-19T19:10:39.192Z","count":1,"url":"https://gpt.cosmoplat.com/zh-CN/login?from=%2Fhealth","avg":4880,"min":4880,"max":4880,"p95":4880}
+{"type":"ok","from":"2026-06-19T19:29:25.077Z","to":"2026-06-19T23:49:49.536Z","count":14,"url":"https://gpt.cosmoplat.com/v1/models","avg":1971,"min":828,"max":3975,"p95":3975}
