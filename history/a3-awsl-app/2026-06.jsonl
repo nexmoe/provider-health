@@ -23,3 +23,6 @@
 {"type":"ok","from":"2026-06-17T00:00:47.479Z","to":"2026-06-17T23:50:26.413Z","count":56,"url":"https://a3.awsl.app/v1/models","avg":510,"min":153,"max":1174,"p95":839}
 {"type":"ok","from":"2026-06-18T00:10:28.769Z","to":"2026-06-18T23:40:37.656Z","count":56,"url":"https://a3.awsl.app/v1/models","avg":612,"min":63,"max":1616,"p95":1065}
 {"type":"ok","from":"2026-06-19T00:01:38.682Z","to":"2026-06-19T23:50:50.724Z","count":57,"url":"https://a3.awsl.app/v1/models","avg":631,"min":76,"max":1559,"p95":977}
+{"type":"ok","from":"2026-06-20T00:10:55.914Z","to":"2026-06-20T11:43:07.666Z","count":26,"url":"https://a3.awsl.app/v1/models","avg":523,"min":114,"max":1121,"p95":830}
+{"type":"fail","from":"2026-06-20T12:20:20.094Z","to":"2026-06-20T12:20:20.094Z","count":1,"url":"https://a3.awsl.app/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-20T12:40:19.345Z","to":"2026-06-20T23:40:34.202Z","count":28,"url":"https://a3.awsl.app/v1/models","avg":485,"min":111,"max":1193,"p95":1004}

@@ -26,3 +26,6 @@
 {"type":"ok","from":"2026-06-17T00:00:48.625Z","to":"2026-06-17T23:50:27.453Z","count":56,"url":"https://api.mammouth.ai/v1/models","avg":895,"min":237,"max":1894,"p95":1329}
 {"type":"ok","from":"2026-06-18T00:10:29.690Z","to":"2026-06-18T23:40:38.606Z","count":56,"url":"https://api.mammouth.ai/v1/models","avg":846,"min":237,"max":1859,"p95":1561}
 {"type":"ok","from":"2026-06-19T00:01:39.932Z","to":"2026-06-19T23:50:51.060Z","count":57,"url":"https://api.mammouth.ai/v1/models","avg":922,"min":253,"max":1604,"p95":1483}
+{"type":"ok","from":"2026-06-20T00:10:56.485Z","to":"2026-06-20T11:43:09.019Z","count":26,"url":"https://api.mammouth.ai/v1/models","avg":794,"min":237,"max":1356,"p95":1289}
+{"type":"fail","from":"2026-06-20T12:20:21.857Z","to":"2026-06-20T12:20:21.857Z","count":1,"url":"https://api.mammouth.ai/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-20T12:40:20.347Z","to":"2026-06-20T23:40:35.560Z","count":28,"url":"https://api.mammouth.ai/v1/models","avg":933,"min":250,"max":1524,"p95":1277}

@@ -21,3 +21,8 @@
 {"type":"ok","from":"2026-06-17T00:11:59.778Z","to":"2026-06-17T23:41:54.547Z","count":56,"url":"https://api.moonshot.cn/v1/models","avg":1305,"min":970,"max":2945,"p95":2096}
 {"type":"ok","from":"2026-06-18T00:02:11.769Z","to":"2026-06-18T23:52:01.991Z","count":58,"url":"https://api.moonshot.cn/v1/models","avg":1301,"min":961,"max":2783,"p95":2355}
 {"type":"ok","from":"2026-06-19T00:11:57.584Z","to":"2026-06-19T23:41:58.055Z","count":56,"url":"https://api.moonshot.cn/v1/models","avg":1318,"min":974,"max":3120,"p95":2230}
+{"type":"ok","from":"2026-06-20T00:02:16.818Z","to":"2026-06-20T08:02:15.333Z","count":19,"url":"https://api.moonshot.cn/v1/models","avg":1593,"min":970,"max":4986,"p95":4986}
+{"type":"fail","from":"2026-06-20T08:32:24.431Z","to":"2026-06-20T08:32:24.431Z","count":1,"url":"https://api.moonshot.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-20T09:02:15.234Z","to":"2026-06-20T15:52:05.092Z","count":15,"url":"https://api.moonshot.cn/v1/models","avg":1505,"min":1024,"max":2073,"p95":2073}
+{"type":"fail","from":"2026-06-20T16:22:10.086Z","to":"2026-06-20T16:22:10.086Z","count":1,"url":"https://api.moonshot.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-20T16:52:00.506Z","to":"2026-06-20T23:51:56.086Z","count":20,"url":"https://api.moonshot.cn/v1/models","avg":1053,"min":976,"max":1316,"p95":1316}

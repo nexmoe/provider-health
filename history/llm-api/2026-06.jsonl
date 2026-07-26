@@ -28,3 +28,11 @@
 {"type":"ok","from":"2026-06-18T00:03:32.839Z","to":"2026-06-18T23:53:23.505Z","count":58,"url":"https://llm.indrin.cn/api/status","avg":2261,"min":1498,"max":4391,"p95":3890}
 {"type":"ok","from":"2026-06-19T00:13:18.142Z","to":"2026-06-19T15:33:25.515Z","count":35,"url":"https://llm.indrin.cn/api/status","avg":2590,"min":1544,"max":4089,"p95":3965}
 {"type":"fail","from":"2026-06-19T16:03:47.775Z","to":"2026-06-19T23:43:22.913Z","count":21,"url":"https://llm.indrin.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-20T00:03:41.067Z","to":"2026-06-20T06:03:39.836Z","count":15,"url":"https://llm.indrin.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-06-20T06:33:42.128Z","to":"2026-06-20T06:33:42.128Z","count":1,"url":"https://llm.indrin.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-20T07:03:42.356Z","to":"2026-06-20T10:03:44.249Z","count":7,"url":"https://llm.indrin.cn/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-06-20T10:33:33.607Z","to":"2026-06-20T11:03:41.745Z","count":2,"url":"https://llm.indrin.cn/api/status","avg":2817,"min":2390,"max":3243,"p95":3243}
+{"type":"ok","from":"2026-06-20T11:33:32.290Z","to":"2026-06-20T11:33:32.290Z","count":1,"url":"https://llm.indrin.cn/v1/models","avg":3066,"min":3066,"max":3066,"p95":3066}
+{"type":"ok","from":"2026-06-20T12:03:37.184Z","to":"2026-06-20T13:53:31.141Z","count":5,"url":"https://llm.indrin.cn/api/status","avg":2344,"min":1726,"max":3187,"p95":3187}
+{"type":"ok","from":"2026-06-20T14:23:37.871Z","to":"2026-06-20T14:23:37.871Z","count":1,"url":"https://llm.indrin.cn/v1/models","avg":1354,"min":1354,"max":1354,"p95":1354}
+{"type":"ok","from":"2026-06-20T14:53:30.380Z","to":"2026-06-20T23:53:16.923Z","count":24,"url":"https://llm.indrin.cn/api/status","avg":2073,"min":1066,"max":3683,"p95":3664}

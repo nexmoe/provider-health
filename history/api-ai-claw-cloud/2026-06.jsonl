@@ -52,3 +52,8 @@
 {"type":"ok","from":"2026-06-19T19:19:39.414Z","to":"2026-06-19T19:38:35.215Z","count":2,"url":"https://api.ai-claw.cloud/api/status","avg":966,"min":941,"max":990,"p95":990}
 {"type":"ok","from":"2026-06-19T19:59:07.433Z","to":"2026-06-19T19:59:07.433Z","count":1,"url":"https://api.ai-claw.cloud/v1/models","avg":2650,"min":2650,"max":2650,"p95":2650}
 {"type":"ok","from":"2026-06-19T20:19:00.919Z","to":"2026-06-19T23:58:45.618Z","count":12,"url":"https://api.ai-claw.cloud/api/status","avg":1015,"min":916,"max":1098,"p95":1098}
+{"type":"ok","from":"2026-06-20T00:19:04.784Z","to":"2026-06-20T03:30:15.014Z","count":9,"url":"https://api.ai-claw.cloud/api/status","avg":990,"min":555,"max":1189,"p95":1189}
+{"type":"fail","from":"2026-06-20T04:00:25.446Z","to":"2026-06-20T04:00:25.446Z","count":1,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-20T04:30:07.619Z","to":"2026-06-20T04:59:22.421Z","count":2,"url":"https://api.ai-claw.cloud/api/status","avg":1118,"min":1019,"max":1217,"p95":1217}
+{"type":"fail","from":"2026-06-20T05:20:47.272Z","to":"2026-06-20T06:22:04.186Z","count":3,"url":"https://api.ai-claw.cloud/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-20T06:51:39.573Z","to":"2026-06-20T23:48:33.378Z","count":39,"url":"https://api.ai-claw.cloud/api/status","avg":959,"min":476,"max":1398,"p95":1273}
