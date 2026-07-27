@@ -35,3 +35,6 @@
 {"type":"ok","from":"2026-06-18T00:11:18.392Z","to":"2026-06-18T23:41:29.879Z","count":56,"url":"https://vsllm.com/v1/models","avg":1533,"min":1008,"max":2137,"p95":2042}
 {"type":"ok","from":"2026-06-19T00:02:30.076Z","to":"2026-06-19T23:51:42.017Z","count":57,"url":"https://vsllm.com/v1/models","avg":1594,"min":1030,"max":3072,"p95":2543}
 {"type":"ok","from":"2026-06-20T00:11:46.360Z","to":"2026-06-20T23:41:25.225Z","count":55,"url":"https://vsllm.com/v1/models","avg":1462,"min":839,"max":2088,"p95":1983}
+{"type":"ok","from":"2026-06-21T00:01:28.363Z","to":"2026-06-21T08:13:31.392Z","count":20,"url":"https://vsllm.com/v1/models","avg":1510,"min":1215,"max":2160,"p95":2160}
+{"type":"fail","from":"2026-06-21T08:44:06.302Z","to":"2026-06-21T10:43:58.808Z","count":5,"url":"https://vsllm.com/v1/models","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-21T11:13:47.999Z","to":"2026-06-21T23:41:21.483Z","count":32,"url":"https://vsllm.com/v1/models","avg":1390,"min":765,"max":2023,"p95":1891}

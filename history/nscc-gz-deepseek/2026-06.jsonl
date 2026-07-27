@@ -232,3 +232,13 @@
 {"type":"ok","from":"2026-06-20T12:31:40.295Z","to":"2026-06-20T12:56:32.295Z","count":2,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":968,"min":965,"max":970,"p95":970}
 {"type":"ok","from":"2026-06-20T13:26:52.206Z","to":"2026-06-20T13:26:52.206Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":1005,"min":1005,"max":1005,"p95":1005}
 {"type":"ok","from":"2026-06-20T13:56:22.369Z","to":"2026-06-20T23:55:32.956Z","count":26,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1644,"min":499,"max":3821,"p95":3364}
+{"type":"ok","from":"2026-06-21T00:15:38.217Z","to":"2026-06-21T08:36:07.057Z","count":21,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":1846,"min":654,"max":3954,"p95":3615}
+{"type":"ok","from":"2026-06-21T09:06:36.141Z","to":"2026-06-21T09:06:36.141Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":3781,"min":3781,"max":3781,"p95":3781}
+{"type":"ok","from":"2026-06-21T09:36:02.176Z","to":"2026-06-21T10:06:10.968Z","count":2,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":657,"min":650,"max":664,"p95":664}
+{"type":"ok","from":"2026-06-21T10:36:13.934Z","to":"2026-06-21T10:36:13.934Z","count":1,"url":"https://deepseek.nscc-gz.cn/health","avg":4329,"min":4329,"max":4329,"p95":4329}
+{"type":"ok","from":"2026-06-21T11:06:23.464Z","to":"2026-06-21T20:55:29.769Z","count":24,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":2064,"min":651,"max":4584,"p95":3940}
+{"type":"ok","from":"2026-06-21T21:15:53.454Z","to":"2026-06-21T21:15:53.454Z","count":1,"url":"https://deepseek.nscc-gz.cn/status","avg":3746,"min":3746,"max":3746,"p95":3746}
+{"type":"ok","from":"2026-06-21T21:35:35.044Z","to":"2026-06-21T21:55:39.407Z","count":2,"url":"https://deepseek.nscc-gz.cn/health","avg":2194,"min":978,"max":3410,"p95":3410}
+{"type":"ok","from":"2026-06-21T22:15:44.432Z","to":"2026-06-21T22:15:44.432Z","count":1,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":4746,"min":4746,"max":4746,"p95":4746}
+{"type":"fail","from":"2026-06-21T22:35:58.889Z","to":"2026-06-21T23:15:57.087Z","count":3,"url":"https://deepseek.nscc-gz.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-21T23:35:47.378Z","to":"2026-06-21T23:55:43.298Z","count":2,"url":"https://deepseek.nscc-gz.cn/v1/models","avg":3028,"min":2951,"max":3104,"p95":3104}

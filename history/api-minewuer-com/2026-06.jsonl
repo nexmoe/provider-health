@@ -26,3 +26,19 @@
 {"type":"ok","from":"2026-06-18T00:17:16.533Z","to":"2026-06-18T23:47:07.051Z","count":56,"url":"https://api.minewuer.com/status","avg":486,"min":159,"max":708,"p95":694}
 {"type":"ok","from":"2026-06-19T00:08:11.795Z","to":"2026-06-19T23:57:36.362Z","count":57,"url":"https://api.minewuer.com/status","avg":477,"min":160,"max":703,"p95":699}
 {"type":"ok","from":"2026-06-20T00:17:52.205Z","to":"2026-06-20T23:47:09.722Z","count":54,"url":"https://api.minewuer.com/status","avg":508,"min":162,"max":699,"p95":688}
+{"type":"ok","from":"2026-06-21T00:07:06.868Z","to":"2026-06-21T04:27:58.176Z","count":12,"url":"https://api.minewuer.com/status","avg":531,"min":169,"max":701,"p95":701}
+{"type":"fail","from":"2026-06-21T05:24:53.326Z","to":"2026-06-21T07:49:37.123Z","count":6,"url":"https://api.minewuer.com/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-06-21T08:19:21.754Z","to":"2026-06-21T08:19:21.754Z","count":1,"url":"https://api.minewuer.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-21T08:49:25.740Z","to":"2026-06-21T08:49:25.740Z","count":1,"url":"https://api.minewuer.com/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-06-21T09:20:08.755Z","to":"2026-06-21T09:20:08.755Z","count":1,"url":"https://api.minewuer.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-21T09:49:27.382Z","to":"2026-06-21T10:49:06.864Z","count":3,"url":"https://api.minewuer.com/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-06-21T11:19:35.084Z","to":"2026-06-21T11:19:35.084Z","count":1,"url":"https://api.minewuer.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-21T11:51:10.041Z","to":"2026-06-21T11:51:10.041Z","count":1,"url":"https://api.minewuer.com/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-06-21T12:20:55.664Z","to":"2026-06-21T12:50:04.345Z","count":2,"url":"https://api.minewuer.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-21T13:22:45.873Z","to":"2026-06-21T14:49:20.660Z","count":4,"url":"https://api.minewuer.com/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-06-21T15:20:47.550Z","to":"2026-06-21T15:20:47.550Z","count":1,"url":"https://api.minewuer.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-21T15:51:05.851Z","to":"2026-06-21T17:09:35.509Z","count":4,"url":"https://api.minewuer.com/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-06-21T17:38:01.368Z","to":"2026-06-21T17:38:01.368Z","count":1,"url":"https://api.minewuer.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-21T17:57:59.263Z","to":"2026-06-21T22:46:47.279Z","count":15,"url":"https://api.minewuer.com/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"fail","from":"2026-06-21T23:07:01.612Z","to":"2026-06-21T23:07:01.612Z","count":1,"url":"https://api.minewuer.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-21T23:27:08.523Z","to":"2026-06-21T23:47:04.822Z","count":2,"url":"https://api.minewuer.com/api/status","status":523,"error":"HTTP 523","avg_latency":null}
