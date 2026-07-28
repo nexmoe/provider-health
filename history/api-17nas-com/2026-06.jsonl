@@ -1,16 +1,18 @@
-{"url":"https://api.17nas.com/api/status"}
-{"type":"ok","from":"2026-06-11T19:18:08.730Z","to":"2026-06-11T23:58:59.497Z","count":15,"avg":752,"min":588,"max":980,"p95":980}
-{"type":"ok","from":"2026-06-12T00:19:37.850Z","to":"2026-06-12T23:48:18.298Z","count":56,"avg":940,"min":496,"max":2851,"p95":2127}
-{"type":"ok","from":"2026-06-13T00:08:32.538Z","to":"2026-06-13T23:47:54.904Z","count":57,"avg":932,"min":472,"max":2454,"p95":1422}
-{"type":"ok","from":"2026-06-14T00:07:59.012Z","to":"2026-06-14T20:47:33.727Z","count":49,"avg":1153,"min":760,"max":2833,"p95":1579}
-{"type":"fail","from":"2026-06-14T21:07:39.174Z","to":"2026-06-14T21:07:39.174Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-06-14T21:26:56.121Z","to":"2026-06-14T22:07:01.454Z","count":3,"avg":972,"min":769,"max":1118,"p95":1118}
-{"type":"fail","from":"2026-06-14T22:27:41.089Z","to":"2026-06-14T22:27:41.089Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-06-14T22:47:10.890Z","to":"2026-06-14T23:47:01.096Z","count":4,"avg":1034,"min":733,"max":1199,"p95":1199}
-{"type":"ok","from":"2026-06-15T00:07:43.730Z","to":"2026-06-15T23:48:39.190Z","count":63,"avg":1151,"min":624,"max":2595,"p95":1756}
-{"type":"ok","from":"2026-06-16T00:09:05.140Z","to":"2026-06-16T23:48:44.544Z","count":59,"avg":1139,"min":815,"max":1784,"p95":1750}
-{"type":"ok","from":"2026-06-17T00:08:32.211Z","to":"2026-06-17T23:57:59.046Z","count":56,"avg":1141,"min":708,"max":1785,"p95":1398}
-{"type":"ok","from":"2026-06-18T00:18:23.970Z","to":"2026-06-18T23:48:43.197Z","count":56,"avg":1175,"min":786,"max":2351,"p95":1751}
-{"type":"ok","from":"2026-06-19T00:09:44.392Z","to":"2026-06-19T23:58:50.202Z","count":57,"avg":1137,"min":682,"max":2395,"p95":1798}
-{"type":"ok","from":"2026-06-20T00:19:08.704Z","to":"2026-06-20T23:48:38.324Z","count":54,"avg":1023,"min":721,"max":3125,"p95":1505}
-{"type":"ok","from":"2026-06-21T00:08:25.995Z","to":"2026-06-21T23:48:08.253Z","count":56,"avg":998,"min":744,"max":1827,"p95":1421}
+{"type":"ok","from":"2026-06-11T19:18:08.730Z","to":"2026-06-11T23:58:59.497Z","count":15,"avg":752,"min":588,"max":980,"p95":980,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-12T00:19:37.850Z","to":"2026-06-12T23:48:18.298Z","count":56,"avg":940,"min":496,"max":2851,"p95":2127,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-13T00:08:32.538Z","to":"2026-06-13T23:47:54.904Z","count":57,"avg":932,"min":472,"max":2454,"p95":1422,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-14T00:07:59.012Z","to":"2026-06-14T20:47:33.727Z","count":49,"avg":1153,"min":760,"max":2833,"p95":1579,"url":"https://api.17nas.com/api/status"}
+{"type":"fail","from":"2026-06-14T21:07:39.174Z","to":"2026-06-14T21:07:39.174Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-14T21:26:56.121Z","to":"2026-06-14T22:07:01.454Z","count":3,"avg":972,"min":769,"max":1118,"p95":1118,"url":"https://api.17nas.com/api/status"}
+{"type":"fail","from":"2026-06-14T22:27:41.089Z","to":"2026-06-14T22:27:41.089Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-14T22:47:10.890Z","to":"2026-06-14T23:47:01.096Z","count":4,"avg":1034,"min":733,"max":1199,"p95":1199,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-15T00:07:43.730Z","to":"2026-06-15T23:48:39.190Z","count":63,"avg":1151,"min":624,"max":2595,"p95":1756,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-16T00:09:05.140Z","to":"2026-06-16T23:48:44.544Z","count":59,"avg":1139,"min":815,"max":1784,"p95":1750,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-17T00:08:32.211Z","to":"2026-06-17T23:57:59.046Z","count":56,"avg":1141,"min":708,"max":1785,"p95":1398,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-18T00:18:23.970Z","to":"2026-06-18T23:48:43.197Z","count":56,"avg":1175,"min":786,"max":2351,"p95":1751,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-19T00:09:44.392Z","to":"2026-06-19T23:58:50.202Z","count":57,"avg":1137,"min":682,"max":2395,"p95":1798,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-20T00:19:08.704Z","to":"2026-06-20T23:48:38.324Z","count":54,"avg":1023,"min":721,"max":3125,"p95":1505,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-21T00:08:25.995Z","to":"2026-06-21T23:48:08.253Z","count":56,"avg":998,"min":744,"max":1827,"p95":1421,"url":"https://api.17nas.com/api/status"}
+{"type":"ok","from":"2026-06-22T00:08:28.466Z","to":"2026-06-22T06:20:45.828Z","count":16,"url":"https://api.17nas.com/api/status","avg":1135,"min":874,"max":1536,"p95":1536}
+{"type":"ok","from":"2026-06-22T06:52:38.674Z","to":"2026-06-22T06:52:38.674Z","count":1,"url":"https://api.17nas.com/health","avg":1788,"min":1788,"max":1788,"p95":1788}
+{"type":"ok","from":"2026-06-22T08:20:52.341Z","to":"2026-06-22T23:57:35.941Z","count":39,"url":"https://api.17nas.com/api/status","avg":1058,"min":781,"max":1987,"p95":1945}
