@@ -137,3 +137,5 @@
 {"type":"ok","from":"2026-06-22T00:08:28.422Z","to":"2026-06-22T06:20:45.777Z","count":16,"url":"https://api.tokaify.com/v1/models","avg":237,"min":162,"max":389,"p95":389}
 {"type":"fail","from":"2026-06-22T06:52:38.792Z","to":"2026-06-22T06:52:38.792Z","count":1,"url":"https://api.tokaify.com/health","status":403,"error":"HTTP 403","avg_latency":null}
 {"type":"ok","from":"2026-06-22T08:20:52.350Z","to":"2026-06-22T23:57:35.907Z","count":39,"url":"https://api.tokaify.com/v1/models","avg":275,"min":152,"max":1362,"p95":1207}
+{"type":"ok","from":"2026-06-23T00:19:47.903Z","to":"2026-06-23T19:18:40.823Z","count":43,"url":"https://api.tokaify.com/v1/models","avg":329,"min":153,"max":3555,"p95":1279}
+{"type":"fail","from":"2026-06-23T19:38:03.817Z","to":"2026-06-23T23:58:53.620Z","count":14,"url":"https://api.tokaify.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
