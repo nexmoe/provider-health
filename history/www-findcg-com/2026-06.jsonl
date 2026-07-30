@@ -116,3 +116,9 @@
 {"type":"ok","from":"2026-06-23T00:14:14.228Z","to":"2026-06-23T00:14:14.228Z","count":1,"url":"https://www.findcg.com/v1/models","avg":2296,"min":2296,"max":2296,"p95":2296}
 {"type":"ok","from":"2026-06-23T00:33:47.244Z","to":"2026-06-23T00:33:47.244Z","count":1,"url":"https://api.miaocg.cn/v1/models","avg":3794,"min":3794,"max":3794,"p95":3794}
 {"type":"ok","from":"2026-06-23T00:54:01.792Z","to":"2026-06-23T23:53:45.149Z","count":56,"url":"https://www.findcg.com/v1/models","avg":2629,"min":1390,"max":4818,"p95":4413}
+{"type":"fail","from":"2026-06-24T00:13:58.084Z","to":"2026-06-24T00:33:36.407Z","count":2,"url":"https://www.findcg.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-06-24T00:53:32.051Z","to":"2026-06-24T10:25:48.091Z","count":23,"url":"https://www.findcg.com/v1/models","avg":3132,"min":879,"max":4889,"p95":4582}
+{"type":"ok","from":"2026-06-24T10:54:42.114Z","to":"2026-06-24T10:54:42.114Z","count":1,"url":"https://www.findcg.com/health","avg":2735,"min":2735,"max":2735,"p95":2735}
+{"type":"ok","from":"2026-06-24T11:16:04.790Z","to":"2026-06-24T11:46:30.412Z","count":2,"url":"https://www.findcg.com/v1/models","avg":3765,"min":3135,"max":4395,"p95":4395}
+{"type":"fail","from":"2026-06-24T12:16:07.326Z","to":"2026-06-24T12:16:07.326Z","count":1,"url":"https://www.findcg.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-24T12:45:50.199Z","to":"2026-06-24T23:43:13.730Z","count":29,"url":"https://www.findcg.com/v1/models","avg":2673,"min":1650,"max":4528,"p95":4073}
