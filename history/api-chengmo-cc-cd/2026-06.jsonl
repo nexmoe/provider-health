@@ -335,3 +335,12 @@
 {"type":"fail","from":"2026-06-25T10:37:36.874Z","to":"2026-06-25T10:37:36.874Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":530,"error":"HTTP 530","avg_latency":null}
 {"type":"fail","from":"2026-06-25T11:00:09.869Z","to":"2026-06-25T13:31:05.347Z","count":6,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
 {"type":"ok","from":"2026-06-25T14:01:49.799Z","to":"2026-06-25T23:57:41.903Z","count":27,"url":"https://api.chengmo.cc.cd/api/status","avg":691,"min":371,"max":831,"p95":791}
+{"type":"ok","from":"2026-06-26T00:18:04.699Z","to":"2026-06-26T06:29:32.463Z","count":17,"url":"https://api.chengmo.cc.cd/api/status","avg":739,"min":680,"max":868,"p95":868}
+{"type":"fail","from":"2026-06-26T07:00:09.743Z","to":"2026-06-26T07:00:09.743Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-26T07:29:56.143Z","to":"2026-06-26T11:09:33.014Z","count":8,"url":"https://api.chengmo.cc.cd/api/status","avg":753,"min":696,"max":887,"p95":887}
+{"type":"fail","from":"2026-06-26T11:40:23.725Z","to":"2026-06-26T11:40:23.725Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-26T12:09:52.469Z","to":"2026-06-26T12:09:52.469Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","avg":823,"min":823,"max":823,"p95":823}
+{"type":"fail","from":"2026-06-26T12:40:12.235Z","to":"2026-06-26T12:40:12.235Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-26T13:11:45.510Z","to":"2026-06-26T14:10:45.531Z","count":3,"url":"https://api.chengmo.cc.cd/api/status","avg":744,"min":728,"max":764,"p95":764}
+{"type":"fail","from":"2026-06-26T14:41:34.834Z","to":"2026-06-26T14:41:34.834Z","count":1,"url":"https://api.chengmo.cc.cd/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-06-26T15:11:21.568Z","to":"2026-06-26T23:57:32.959Z","count":25,"url":"https://api.chengmo.cc.cd/api/status","avg":798,"min":704,"max":1588,"p95":1090}

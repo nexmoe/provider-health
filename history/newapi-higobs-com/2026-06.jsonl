@@ -59,3 +59,6 @@
 {"type":"ok","from":"2026-06-25T00:07:17.010Z","to":"2026-06-25T05:38:39.520Z","count":16,"url":"https://newapi.higobs.com/api/status","avg":1573,"min":834,"max":4157,"p95":4157}
 {"type":"fail","from":"2026-06-25T06:08:51.239Z","to":"2026-06-25T07:09:13.056Z","count":3,"url":"https://newapi.higobs.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
 {"type":"ok","from":"2026-06-25T07:49:00.640Z","to":"2026-06-25T23:57:46.245Z","count":40,"url":"https://newapi.higobs.com/api/status","avg":1449,"min":815,"max":4887,"p95":2270}
+{"type":"ok","from":"2026-06-26T00:18:09.906Z","to":"2026-06-26T19:57:18.018Z","count":46,"url":"https://newapi.higobs.com/api/status","avg":1471,"min":861,"max":2509,"p95":2422}
+{"type":"fail","from":"2026-06-26T20:17:17.966Z","to":"2026-06-26T21:56:42.482Z","count":6,"url":"https://newapi.higobs.com/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"ok","from":"2026-06-26T22:17:26.702Z","to":"2026-06-26T23:57:36.830Z","count":6,"url":"https://newapi.higobs.com/api/status","avg":1268,"min":941,"max":1696,"p95":1696}

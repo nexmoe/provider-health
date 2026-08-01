@@ -28,3 +28,6 @@
 {"type":"ok","from":"2026-06-25T08:19:03.769Z","to":"2026-06-25T12:30:42.460Z","count":10,"url":"https://cpa.933999.xyz/v1/models","avg":939,"min":707,"max":1929,"p95":1929}
 {"type":"fail","from":"2026-06-25T13:01:22.556Z","to":"2026-06-25T13:01:22.556Z","count":1,"url":"https://cpa.933999.xyz/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-25T13:30:44.432Z","to":"2026-06-25T23:57:22.170Z","count":28,"url":"https://cpa.933999.xyz/v1/models","avg":799,"min":472,"max":1433,"p95":1169}
+{"type":"ok","from":"2026-06-26T00:17:44.630Z","to":"2026-06-26T03:27:37.880Z","count":10,"url":"https://cpa.933999.xyz/v1/models","avg":880,"min":444,"max":1283,"p95":1283}
+{"type":"fail","from":"2026-06-26T03:47:57.807Z","to":"2026-06-26T04:59:18.028Z","count":4,"url":"https://cpa.933999.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-26T05:28:45.454Z","to":"2026-06-26T23:57:13.006Z","count":44,"url":"https://cpa.933999.xyz/v1/models","avg":894,"min":534,"max":2067,"p95":1362}
