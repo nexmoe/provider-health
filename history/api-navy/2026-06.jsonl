@@ -64,3 +64,6 @@
 {"type":"fail","from":"2026-06-25T17:29:25.274Z","to":"2026-06-25T17:29:25.274Z","count":1,"url":"https://api.navy/api/status","status":403,"error":"Cloudflare challenge","avg_latency":null}
 {"type":"ok","from":"2026-06-25T17:49:39.336Z","to":"2026-06-25T23:58:57.304Z","count":19,"url":"https://api.navy/v1/models","avg":1975,"min":734,"max":2413,"p95":2413}
 {"type":"ok","from":"2026-06-26T00:19:30.400Z","to":"2026-06-26T23:58:49.667Z","count":58,"url":"https://api.navy/v1/models","avg":2236,"min":897,"max":4550,"p95":3305}
+{"type":"ok","from":"2026-06-27T00:19:28.281Z","to":"2026-06-27T00:39:18.208Z","count":2,"url":"https://api.navy/v1/models","avg":2065,"min":1983,"max":2147,"p95":2147}
+{"type":"fail","from":"2026-06-27T00:59:50.528Z","to":"2026-06-27T00:59:50.528Z","count":1,"url":"https://api.navy/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-06-27T01:41:10.789Z","to":"2026-06-27T06:51:14.463Z","count":12,"url":"https://api.navy/v1/models","avg":2329,"min":1646,"max":2740,"p95":2740}

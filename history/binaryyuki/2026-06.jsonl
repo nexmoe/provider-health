@@ -31,3 +31,5 @@
 {"type":"ok","from":"2026-06-25T00:11:16.486Z","to":"2026-06-25T23:41:18.578Z","count":59,"url":"https://ai-gateway.catyuki.com/","avg":2626,"min":1634,"max":3973,"p95":3599}
 {"type":"ok","from":"2026-06-26T00:01:24.705Z","to":"2026-06-26T20:21:14.623Z","count":49,"url":"https://ai-gateway.catyuki.com/","avg":2621,"min":1793,"max":4685,"p95":3717}
 {"type":"fail","from":"2026-06-26T20:41:29.505Z","to":"2026-06-26T23:41:32.795Z","count":10,"url":"https://ai.tzpro.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-27T00:01:46.671Z","to":"2026-06-27T05:01:47.872Z","count":13,"url":"https://ai.tzpro.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-27T05:31:26.626Z","to":"2026-06-27T06:31:29.433Z","count":3,"url":"https://ai-gateway.catyuki.com/","status":503,"error":"HTTP 503","avg_latency":null}
