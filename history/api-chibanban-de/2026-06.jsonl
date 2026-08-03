@@ -447,3 +447,6 @@
 {"type":"fail","from":"2026-06-26T15:25:55.409Z","to":"2026-06-26T15:25:55.409Z","count":1,"url":"https://api.chibanban.de/v1/models","status":403,"error":"HTTP 403","avg_latency":null}
 {"type":"fail","from":"2026-06-26T15:55:58.401Z","to":"2026-06-26T23:45:28.590Z","count":23,"url":"https://api.chibanban.de/api/status","status":403,"error":"HTTP 403","avg_latency":null}
 {"type":"fail","from":"2026-06-27T00:05:35.481Z","to":"2026-06-27T06:35:50.845Z","count":16,"url":"https://api.chibanban.de/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"fail","from":"2026-06-28T05:35:07.914Z","to":"2026-06-28T15:05:01.625Z","count":22,"url":"https://api.chibanban.de/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-06-28T15:35:25.790Z","to":"2026-06-28T15:35:25.790Z","count":1,"url":"https://api.chibanban.de/WAF/VERIFY/CAPTCHA?info=MPqP%2FDu1MoQncjdsfVZAaoGRijeCivGcTkgGgrAmxGUvQ2xh5gcFG633FDAXaZbzHZA9x0sdRyJnnlqGAV2og6C%2BJHYy&from=%2Fapi%2Fstatus","avg":2175,"min":2175,"max":2175,"p95":2175}
+{"type":"fail","from":"2026-06-28T16:05:25.952Z","to":"2026-06-28T23:34:50.089Z","count":16,"url":"https://api.chibanban.de/api/status","status":403,"error":"HTTP 403","avg_latency":null}
