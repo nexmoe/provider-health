@@ -600,3 +600,5 @@
 {"type":"ok","from":"2026-06-28T13:42:56.593Z","to":"2026-06-28T13:42:56.593Z","count":1,"url":"https://api.modelverse.cn/v1/models","avg":2257,"min":2257,"max":2257,"p95":2257}
 {"type":"fail","from":"2026-06-28T14:13:14.904Z","to":"2026-06-28T14:13:14.904Z","count":1,"url":"https://api.modelverse.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-06-28T14:43:14.599Z","to":"2026-06-28T23:40:25.689Z","count":19,"url":"https://api.modelverse.cn/v1/models","avg":2246,"min":862,"max":4631,"p95":4631}
+{"type":"fail","from":"2026-06-29T00:10:59.124Z","to":"2026-06-29T00:10:59.124Z","count":1,"url":"https://api.modelverse.cn/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-06-29T00:41:31.114Z","to":"2026-06-29T12:44:34.284Z","count":4,"url":"https://api.modelverse.cn/v1/models","avg":3106,"min":2140,"max":4857,"p95":4857}

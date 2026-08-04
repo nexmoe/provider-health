@@ -183,3 +183,9 @@
 {"type":"ok","from":"2026-06-28T05:30:05.500Z","to":"2026-06-28T15:30:04.772Z","count":23,"url":"https://aiapi.space/api/status","avg":3418,"min":2391,"max":4654,"p95":4294}
 {"type":"ok","from":"2026-06-28T16:00:18.968Z","to":"2026-06-28T16:00:18.968Z","count":1,"url":"https://aiapi.space/status","avg":1701,"min":1701,"max":1701,"p95":1701}
 {"type":"ok","from":"2026-06-28T16:30:05.559Z","to":"2026-06-28T23:30:05.089Z","count":15,"url":"https://aiapi.space/api/status","avg":2795,"min":2266,"max":3765,"p95":3765}
+{"type":"fail","from":"2026-06-29T00:00:22.034Z","to":"2026-06-29T00:00:22.034Z","count":1,"url":"https://aiapi.space/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-29T00:30:04.839Z","to":"2026-06-29T00:30:04.839Z","count":1,"url":"https://aiapi.space/api/status","avg":2882,"min":2882,"max":2882,"p95":2882}
+{"type":"ok","from":"2026-06-29T01:00:11.551Z","to":"2026-06-29T01:00:11.551Z","count":1,"url":"https://aiapi.space/v1/models","avg":4487,"min":4487,"max":4487,"p95":4487}
+{"type":"ok","from":"2026-06-29T01:10:48.760Z","to":"2026-06-29T12:23:20.560Z","count":450,"url":"https://aiapi.space/api/status","avg":2118,"min":749,"max":4922,"p95":3569}
+{"type":"ok","from":"2026-06-29T12:28:17.320Z","to":"2026-06-29T12:28:17.320Z","count":1,"url":"https://aiapi.space/v1/models","avg":2277,"min":2277,"max":2277,"p95":2277}
+{"type":"ok","from":"2026-06-29T12:29:49.164Z","to":"2026-06-29T23:54:54.198Z","count":368,"url":"https://aiapi.space/api/status","avg":1812,"min":6,"max":4677,"p95":3207}

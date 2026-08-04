@@ -48,3 +48,12 @@
 {"type":"ok","from":"2026-06-28T19:31:35.434Z","to":"2026-06-28T20:31:34.796Z","count":3,"url":"https://api.suchuang.vip/pricing","avg":1475,"min":942,"max":1857,"p95":1857}
 {"type":"ok","from":"2026-06-28T21:01:57.555Z","to":"2026-06-28T21:01:57.555Z","count":1,"url":"https://api.suchuang.vip/status","avg":2150,"min":2150,"max":2150,"p95":2150}
 {"type":"ok","from":"2026-06-28T21:31:40.962Z","to":"2026-06-28T23:31:35.237Z","count":5,"url":"https://api.suchuang.vip/pricing","avg":772,"min":264,"max":2465,"p95":2465}
+{"type":"ok","from":"2026-06-29T00:01:43.891Z","to":"2026-06-29T07:51:17.412Z","count":66,"url":"https://api.suchuang.vip/pricing","avg":528,"min":58,"max":1366,"p95":895}
+{"type":"fail","from":"2026-06-29T10:45:25.843Z","to":"2026-06-29T11:12:33.456Z","count":7,"url":"https://api.suchuang.vip/pricing","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-29T11:14:21.113Z","to":"2026-06-29T11:16:09.373Z","count":2,"url":"https://api.suchuang.vip/pricing","avg":1346,"min":565,"max":2127,"p95":2127}
+{"type":"ok","from":"2026-06-29T11:23:11.089Z","to":"2026-06-29T11:23:11.089Z","count":1,"url":"https://api.suchuang.vip/health","avg":1225,"min":1225,"max":1225,"p95":1225}
+{"type":"ok","from":"2026-06-29T11:25:01.929Z","to":"2026-06-29T11:25:01.929Z","count":1,"url":"https://api.suchuang.vip/pricing","avg":4201,"min":4201,"max":4201,"p95":4201}
+{"type":"ok","from":"2026-06-29T11:28:46.829Z","to":"2026-06-29T11:28:46.829Z","count":1,"url":"https://api.suchuang.vip/status","avg":2404,"min":2404,"max":2404,"p95":2404}
+{"type":"ok","from":"2026-06-29T12:03:39.279Z","to":"2026-06-29T16:34:23.437Z","count":30,"url":"https://api.suchuang.vip/pricing","avg":1077,"min":46,"max":4268,"p95":3583}
+{"type":"fail","from":"2026-06-29T16:36:37.615Z","to":"2026-06-29T16:36:37.615Z","count":1,"url":"https://api.suchuang.vip/pricing","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-06-29T16:40:24.258Z","to":"2026-06-29T23:56:26.268Z","count":106,"url":"https://api.suchuang.vip/pricing","avg":744,"min":148,"max":1358,"p95":1124}

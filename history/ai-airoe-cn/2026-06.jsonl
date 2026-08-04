@@ -540,3 +540,6 @@
 {"type":"ok","from":"2026-06-27T04:15:58.168Z","to":"2026-06-27T06:06:25.259Z","count":5,"url":"https://ai.airoe.cn/v1/models","avg":2952,"min":2019,"max":4453,"p95":4453}
 {"type":"ok","from":"2026-06-27T06:36:22.241Z","to":"2026-06-27T06:36:22.241Z","count":1,"url":"https://ai.airoe.cn/health","avg":2971,"min":2971,"max":2971,"p95":2971}
 {"type":"ok","from":"2026-06-28T05:35:27.790Z","to":"2026-06-28T23:35:10.607Z","count":39,"url":"https://ai.airoe.cn/v1/models","avg":511,"min":11,"max":2771,"p95":2201}
+{"type":"ok","from":"2026-06-29T00:05:22.654Z","to":"2026-06-29T03:50:30.891Z","count":4,"url":"https://ai.airoe.cn/v1/models","avg":1048,"min":18,"max":2058,"p95":2058}
+{"type":"fail","from":"2026-06-29T06:07:39.511Z","to":"2026-06-29T06:07:39.511Z","count":1,"url":"https://ai.airoe.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-29T06:29:30.108Z","to":"2026-06-29T21:48:25.213Z","count":8,"url":"https://ai.airoe.cn/v1/models","avg":973,"min":24,"max":2330,"p95":2330}

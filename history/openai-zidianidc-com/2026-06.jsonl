@@ -596,3 +596,6 @@
 {"type":"ok","from":"2026-06-28T14:45:15.890Z","to":"2026-06-28T18:42:29.813Z","count":9,"url":"https://openai.zidianidc.com/v1/models","avg":3280,"min":777,"max":4972,"p95":4972}
 {"type":"ok","from":"2026-06-28T19:12:27.910Z","to":"2026-06-28T19:12:27.910Z","count":1,"url":"https://openai.zidianidc.com/health","avg":1759,"min":1759,"max":1759,"p95":1759}
 {"type":"ok","from":"2026-06-28T19:42:24.208Z","to":"2026-06-28T23:42:16.420Z","count":9,"url":"https://openai.zidianidc.com/v1/models","avg":2195,"min":1165,"max":3507,"p95":3507}
+{"type":"ok","from":"2026-06-29T00:12:42.408Z","to":"2026-06-29T00:43:14.859Z","count":2,"url":"https://openai.zidianidc.com/v1/models","avg":4647,"min":4369,"max":4925,"p95":4925}
+{"type":"ok","from":"2026-06-29T06:16:22.776Z","to":"2026-06-29T06:39:44.657Z","count":2,"url":"https://openai.zidianidc.com/health","avg":1547,"min":1132,"max":1961,"p95":1961}
+{"type":"fail","from":"2026-06-29T12:46:52.345Z","to":"2026-06-29T12:46:52.345Z","count":1,"url":"https://openai.zidianidc.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

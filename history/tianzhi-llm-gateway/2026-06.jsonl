@@ -474,3 +474,7 @@
 {"type":"ok","from":"2026-06-28T07:41:52.233Z","to":"2026-06-28T11:13:12.232Z","count":9,"url":"https://gpt.cosmoplat.com/v1/models","avg":2555,"min":907,"max":3951,"p95":3951}
 {"type":"fail","from":"2026-06-28T11:41:01.636Z","to":"2026-06-28T11:41:01.636Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-06-28T12:11:24.784Z","to":"2026-06-28T23:39:15.001Z","count":24,"url":"https://gpt.cosmoplat.com/v1/models","avg":2417,"min":801,"max":4218,"p95":3755}
+{"type":"fail","from":"2026-06-29T00:09:51.400Z","to":"2026-06-29T00:09:51.400Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-29T00:40:29.549Z","to":"2026-06-29T00:40:29.549Z","count":1,"url":"https://gpt.cosmoplat.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-06-29T06:13:13.915Z","to":"2026-06-29T06:36:32.785Z","count":2,"url":"https://gpt.cosmoplat.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-06-29T12:43:17.627Z","to":"2026-06-29T12:43:17.627Z","count":1,"url":"https://gpt.cosmoplat.com/v1/models","avg":3384,"min":3384,"max":3384,"p95":3384}
