@@ -34,3 +34,5 @@
 {"type":"ok","from":"2026-06-27T00:14:36.064Z","to":"2026-06-27T06:46:15.341Z","count":15,"url":"https://openai.xuya.dev/api/status","avg":1373,"min":1064,"max":2067,"p95":2067}
 {"type":"ok","from":"2026-06-28T05:45:31.147Z","to":"2026-06-28T23:42:54.111Z","count":37,"url":"https://openai.xuya.dev/api/status","avg":1723,"min":1021,"max":2638,"p95":2472}
 {"type":"ok","from":"2026-06-29T00:13:17.607Z","to":"2026-06-29T12:47:14.090Z","count":5,"url":"https://openai.xuya.dev/api/status","avg":1406,"min":1306,"max":1580,"p95":1580}
+{"type":"fail","from":"2026-06-30T00:33:10.270Z","to":"2026-06-30T00:33:10.270Z","count":1,"url":"https://openai.xuya.dev/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-06-30T00:53:21.379Z","to":"2026-06-30T18:36:05.418Z","count":3,"url":"https://openai.xuya.dev/api/status","status":null,"error":"fetch failed","avg_latency":null}
