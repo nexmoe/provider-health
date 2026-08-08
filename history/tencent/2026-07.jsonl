@@ -2,3 +2,6 @@
 {"type":"ok","from":"2026-07-02T00:00:02.382Z","to":"2026-07-02T03:00:02.431Z","count":4,"url":"https://api.lkeap.cloud.tencent.com/api/status","avg":225,"min":85,"max":381,"p95":381}
 {"type":"ok","from":"2026-07-02T04:00:09.014Z","to":"2026-07-02T04:00:09.014Z","count":1,"url":"https://api.lkeap.cloud.tencent.com/v1/models","avg":1798,"min":1798,"max":1798,"p95":1798}
 {"type":"ok","from":"2026-07-02T05:00:02.085Z","to":"2026-07-02T23:00:02.137Z","count":20,"url":"https://api.lkeap.cloud.tencent.com/api/status","avg":134,"min":63,"max":365,"p95":365}
+{"type":"ok","from":"2026-07-03T00:00:02.084Z","to":"2026-07-03T10:00:04.212Z","count":18,"url":"https://api.lkeap.cloud.tencent.com/api/status","avg":521,"min":52,"max":2788,"p95":2788}
+{"type":"fail","from":"2026-07-03T10:16:44.156Z","to":"2026-07-03T10:20:27.406Z","count":2,"url":"https://api.lkeap.cloud.tencent.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-03T11:00:02.853Z","to":"2026-07-03T23:00:02.590Z","count":26,"url":"https://api.lkeap.cloud.tencent.com/api/status","avg":507,"min":52,"max":1636,"p95":995}

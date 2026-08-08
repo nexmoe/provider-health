@@ -4,3 +4,6 @@
 {"type":"fail","from":"2026-07-01T05:36:52.325Z","to":"2026-07-01T05:36:52.325Z","count":1,"url":"https://dashscope.aliyuncs.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-07-01T05:37:55.958Z","to":"2026-07-01T23:00:10.271Z","count":51,"url":"https://coding.dashscope.aliyuncs.com/v1/models","avg":2618,"min":1974,"max":4646,"p95":4110}
 {"type":"ok","from":"2026-07-02T00:00:12.172Z","to":"2026-07-02T23:00:10.036Z","count":25,"url":"https://coding.dashscope.aliyuncs.com/v1/models","avg":2512,"min":1979,"max":4149,"p95":4071}
+{"type":"ok","from":"2026-07-03T00:00:10.172Z","to":"2026-07-03T10:00:06.883Z","count":18,"url":"https://coding.dashscope.aliyuncs.com/v1/models","avg":1645,"min":672,"max":3935,"p95":3935}
+{"type":"fail","from":"2026-07-03T10:17:00.861Z","to":"2026-07-03T10:21:15.918Z","count":2,"url":"https://dashscope.aliyuncs.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-03T11:00:06.535Z","to":"2026-07-03T23:00:10.560Z","count":26,"url":"https://coding.dashscope.aliyuncs.com/v1/models","avg":1470,"min":655,"max":2962,"p95":2345}

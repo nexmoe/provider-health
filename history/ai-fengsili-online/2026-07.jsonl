@@ -30,3 +30,15 @@
 {"type":"fail","from":"2026-07-02T20:14:29.307Z","to":"2026-07-02T21:14:17.499Z","count":2,"url":"https://ai.fengsili.online/v1/models","status":521,"error":"HTTP 521","avg_latency":null}
 {"type":"fail","from":"2026-07-02T22:14:09.986Z","to":"2026-07-02T22:14:09.986Z","count":1,"url":"https://ai.fengsili.online/api/status","status":521,"error":"HTTP 521","avg_latency":null}
 {"type":"fail","from":"2026-07-02T23:14:50.188Z","to":"2026-07-02T23:14:50.188Z","count":1,"url":"https://ai.fengsili.online/health","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-07-03T00:14:59.989Z","to":"2026-07-03T02:15:25.185Z","count":3,"url":"https://ai.fengsili.online/health","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-07-03T03:15:26.085Z","to":"2026-07-03T03:15:26.085Z","count":1,"url":"https://ai.fengsili.online/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-07-03T04:14:25.162Z","to":"2026-07-03T04:14:25.162Z","count":1,"url":"https://ai.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-03T05:11:42.389Z","to":"2026-07-03T05:11:42.389Z","count":1,"url":"https://ai.fengsili.online/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-07-03T05:16:05.202Z","to":"2026-07-03T05:16:05.202Z","count":1,"url":"https://ai.fengsili.online/v1/models","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-07-03T06:11:46.288Z","to":"2026-07-03T06:11:46.288Z","count":1,"url":"https://ai.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-03T06:16:05.182Z","to":"2026-07-03T06:16:05.182Z","count":1,"url":"https://ai.fengsili.online/v1/models","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-07-03T07:12:08.026Z","to":"2026-07-03T14:12:36.585Z","count":14,"url":"https://ai.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-03T14:16:40.707Z","to":"2026-07-03T14:16:40.707Z","count":1,"url":"https://ai.fengsili.online/health","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-07-03T15:12:25.798Z","to":"2026-07-03T16:16:26.664Z","count":4,"url":"https://ai.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-03T17:12:12.692Z","to":"2026-07-03T17:12:12.692Z","count":1,"url":"https://ai.fengsili.online/status","status":521,"error":"HTTP 521","avg_latency":null}
+{"type":"fail","from":"2026-07-03T17:15:55.579Z","to":"2026-07-03T23:14:49.469Z","count":13,"url":"https://ai.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

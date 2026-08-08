@@ -1,6 +1,8 @@
-{"url":"https://api.aigpt4.top/api/status"}
-{"type":"fail","from":"2026-07-01T00:22:27.545Z","to":"2026-07-01T03:04:48.745Z","count":80,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"fail","from":"2026-07-01T03:06:06.192Z","to":"2026-07-01T03:07:38.016Z","count":2,"status":521,"error":"HTTP 521","avg_latency":null}
-{"type":"fail","from":"2026-07-01T03:09:43.185Z","to":"2026-07-01T06:30:30.962Z","count":46,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-07-01T07:00:56.826Z","to":"2026-07-01T23:01:04.395Z","count":17,"avg":2051,"min":1477,"max":3950,"p95":3950}
-{"type":"ok","from":"2026-07-02T00:01:05.722Z","to":"2026-07-02T23:01:04.133Z","count":25,"avg":2093,"min":1541,"max":3344,"p95":2600}
+{"type":"fail","from":"2026-07-01T00:22:27.545Z","to":"2026-07-01T03:04:48.745Z","count":80,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://api.aigpt4.top/api/status"}
+{"type":"fail","from":"2026-07-01T03:06:06.192Z","to":"2026-07-01T03:07:38.016Z","count":2,"status":521,"error":"HTTP 521","avg_latency":null,"url":"https://api.aigpt4.top/api/status"}
+{"type":"fail","from":"2026-07-01T03:09:43.185Z","to":"2026-07-01T06:30:30.962Z","count":46,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://api.aigpt4.top/api/status"}
+{"type":"ok","from":"2026-07-01T07:00:56.826Z","to":"2026-07-01T23:01:04.395Z","count":17,"avg":2051,"min":1477,"max":3950,"p95":3950,"url":"https://api.aigpt4.top/api/status"}
+{"type":"ok","from":"2026-07-02T00:01:05.722Z","to":"2026-07-02T23:01:04.133Z","count":25,"avg":2093,"min":1541,"max":3344,"p95":2600,"url":"https://api.aigpt4.top/api/status"}
+{"type":"ok","from":"2026-07-03T00:01:05.425Z","to":"2026-07-03T04:01:07.392Z","count":5,"url":"https://api.aigpt4.top/api/status","avg":2512,"min":1884,"max":3059,"p95":3059}
+{"type":"ok","from":"2026-07-03T04:01:37.024Z","to":"2026-07-03T04:01:37.024Z","count":1,"url":"https://api.aigpt4.top/health","avg":613,"min":613,"max":613,"p95":613}
+{"type":"ok","from":"2026-07-03T04:03:54.553Z","to":"2026-07-03T23:01:04.642Z","count":38,"url":"https://api.aigpt4.top/api/status","avg":1763,"min":1005,"max":2651,"p95":2516}

@@ -1,3 +1,14 @@
-{"url":"http://ai.qyes.top/api/status"}
-{"type":"ok","from":"2026-07-01T06:46:30.351Z","to":"2026-07-01T23:15:51.973Z","count":18,"avg":1401,"min":987,"max":3180,"p95":3180}
-{"type":"ok","from":"2026-07-02T00:16:15.936Z","to":"2026-07-02T23:15:50.523Z","count":23,"avg":1297,"min":999,"max":2212,"p95":1411}
+{"type":"ok","from":"2026-07-01T06:46:30.351Z","to":"2026-07-01T23:15:51.973Z","count":18,"avg":1401,"min":987,"max":3180,"p95":3180,"url":"http://ai.qyes.top/api/status"}
+{"type":"ok","from":"2026-07-02T00:16:15.936Z","to":"2026-07-02T23:15:50.523Z","count":23,"avg":1297,"min":999,"max":2212,"p95":1411,"url":"http://ai.qyes.top/api/status"}
+{"type":"ok","from":"2026-07-03T00:15:57.734Z","to":"2026-07-03T05:17:03.996Z","count":7,"url":"http://ai.qyes.top/api/status","avg":1172,"min":804,"max":1590,"p95":1590}
+{"type":"ok","from":"2026-07-03T06:13:08.586Z","to":"2026-07-03T06:13:08.586Z","count":1,"url":"http://ai.qyes.top/status","avg":2107,"min":2107,"max":2107,"p95":2107}
+{"type":"fail","from":"2026-07-03T06:17:29.597Z","to":"2026-07-03T13:17:47.641Z","count":14,"url":"http://ai.qyes.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-03T14:13:40.212Z","to":"2026-07-03T14:17:46.345Z","count":2,"url":"http://ai.qyes.top/api/status","avg":3065,"min":2332,"max":3798,"p95":3798}
+{"type":"fail","from":"2026-07-03T15:13:45.359Z","to":"2026-07-03T15:13:45.359Z","count":1,"url":"http://ai.qyes.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-03T15:18:21.797Z","to":"2026-07-03T15:18:21.797Z","count":1,"url":"http://ai.qyes.top/v1/models","avg":3064,"min":3064,"max":3064,"p95":3064}
+{"type":"ok","from":"2026-07-03T16:13:56.557Z","to":"2026-07-03T16:13:56.557Z","count":1,"url":"http://ai.qyes.top/status","avg":3768,"min":3768,"max":3768,"p95":3768}
+{"type":"ok","from":"2026-07-03T16:17:39.574Z","to":"2026-07-03T16:17:39.574Z","count":1,"url":"http://ai2.qyes.top/health","avg":4843,"min":4843,"max":4843,"p95":4843}
+{"type":"ok","from":"2026-07-03T17:13:13.927Z","to":"2026-07-03T17:13:13.927Z","count":1,"url":"http://ai.qyes.top/api/status","avg":2824,"min":2824,"max":2824,"p95":2824}
+{"type":"fail","from":"2026-07-03T17:17:16.228Z","to":"2026-07-03T18:16:53.966Z","count":3,"url":"http://ai.qyes.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-03T19:13:18.205Z","to":"2026-07-03T19:13:18.205Z","count":1,"url":"http://ai2.qyes.top/health","avg":1382,"min":1382,"max":1382,"p95":1382}
+{"type":"fail","from":"2026-07-03T19:16:07.820Z","to":"2026-07-03T23:16:07.561Z","count":9,"url":"http://ai.qyes.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
