@@ -1,4 +1,7 @@
-{"url":"https://180txt.cn/api/status"}
-{"type":"ok","from":"2026-07-01T06:51:00.366Z","to":"2026-07-01T23:20:08.086Z","count":18,"avg":816,"min":387,"max":1210,"p95":1210}
-{"type":"ok","from":"2026-07-02T00:20:23.940Z","to":"2026-07-02T23:19:59.105Z","count":23,"avg":904,"min":476,"max":1247,"p95":1130}
-{"type":"ok","from":"2026-07-03T00:19:59.753Z","to":"2026-07-03T23:20:08.948Z","count":42,"avg":702,"min":342,"max":1384,"p95":1155}
+{"type":"ok","from":"2026-07-01T06:51:00.366Z","to":"2026-07-01T23:20:08.086Z","count":18,"avg":816,"min":387,"max":1210,"p95":1210,"url":"https://180txt.cn/api/status"}
+{"type":"ok","from":"2026-07-02T00:20:23.940Z","to":"2026-07-02T23:19:59.105Z","count":23,"avg":904,"min":476,"max":1247,"p95":1130,"url":"https://180txt.cn/api/status"}
+{"type":"ok","from":"2026-07-03T00:19:59.753Z","to":"2026-07-03T23:20:08.948Z","count":42,"avg":702,"min":342,"max":1384,"p95":1155,"url":"https://180txt.cn/api/status"}
+{"type":"ok","from":"2026-07-04T00:16:44.343Z","to":"2026-07-04T07:22:44.040Z","count":15,"url":"https://180txt.cn/api/status","avg":896,"min":348,"max":1785,"p95":1785}
+{"type":"ok","from":"2026-07-04T08:17:06.655Z","to":"2026-07-04T08:17:06.655Z","count":1,"url":"https://180txt.cn/health","avg":85,"min":85,"max":85,"p95":85}
+{"type":"fail","from":"2026-07-04T08:23:17.757Z","to":"2026-07-04T08:23:17.757Z","count":1,"url":"https://180txt.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-04T09:17:14.426Z","to":"2026-07-04T23:19:53.718Z","count":30,"url":"https://180txt.cn/api/status","avg":585,"min":308,"max":1274,"p95":1021}

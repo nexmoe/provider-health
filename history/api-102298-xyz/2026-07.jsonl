@@ -2,3 +2,6 @@
 {"type":"ok","from":"2026-07-02T00:16:36.051Z","to":"2026-07-02T23:16:10.904Z","count":23,"avg":704,"min":304,"max":1484,"p95":1042,"url":"https://api.102298.xyz/v1/models"}
 {"type":"ok","from":"2026-07-03T00:16:18.973Z","to":"2026-07-03T06:17:31.185Z","count":9,"url":"https://api.102298.xyz/v1/models","avg":698,"min":391,"max":1390,"p95":1390}
 {"type":"fail","from":"2026-07-03T07:13:49.160Z","to":"2026-07-03T23:16:27.861Z","count":33,"url":"https://api.102298.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-04T00:13:43.681Z","to":"2026-07-04T15:14:04.390Z","count":31,"url":"https://api.102298.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-04T15:17:53.962Z","to":"2026-07-04T15:17:53.962Z","count":1,"url":"https://api.102298.xyz/health","avg":348,"min":348,"max":348,"p95":348}
+{"type":"fail","from":"2026-07-04T16:13:50.925Z","to":"2026-07-04T23:16:34.650Z","count":16,"url":"https://api.102298.xyz/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}

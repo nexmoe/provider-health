@@ -1,4 +1,6 @@
-{"url":"https://api.minimaxi.com/v1/models"}
-{"type":"ok","from":"2026-07-01T00:32:36.827Z","to":"2026-07-01T23:12:10.965Z","count":19,"avg":586,"min":287,"max":1008,"p95":1008}
-{"type":"ok","from":"2026-07-02T00:12:49.545Z","to":"2026-07-02T23:12:22.101Z","count":23,"avg":495,"min":285,"max":1081,"p95":833}
-{"type":"ok","from":"2026-07-03T00:12:32.372Z","to":"2026-07-03T23:12:21.873Z","count":42,"avg":668,"min":289,"max":1455,"p95":897}
+{"type":"ok","from":"2026-07-01T00:32:36.827Z","to":"2026-07-01T23:12:10.965Z","count":19,"avg":586,"min":287,"max":1008,"p95":1008,"url":"https://api.minimaxi.com/v1/models"}
+{"type":"ok","from":"2026-07-02T00:12:49.545Z","to":"2026-07-02T23:12:22.101Z","count":23,"avg":495,"min":285,"max":1081,"p95":833,"url":"https://api.minimaxi.com/v1/models"}
+{"type":"ok","from":"2026-07-03T00:12:32.372Z","to":"2026-07-03T23:12:21.873Z","count":42,"avg":668,"min":289,"max":1455,"p95":897,"url":"https://api.minimaxi.com/v1/models"}
+{"type":"ok","from":"2026-07-04T00:09:40.009Z","to":"2026-07-04T07:14:37.231Z","count":16,"url":"https://api.minimaxi.com/v1/models","avg":654,"min":300,"max":893,"p95":893}
+{"type":"fail","from":"2026-07-04T08:09:46.121Z","to":"2026-07-04T08:09:46.121Z","count":1,"url":"https://api.minimaxi.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T08:14:00.708Z","to":"2026-07-04T23:11:49.827Z","count":31,"url":"https://api.minimaxi.com/v1/models","avg":634,"min":290,"max":961,"p95":904}

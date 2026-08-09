@@ -1,4 +1,5 @@
-{"url":"https://api.anannas.ai/v1/models"}
-{"type":"ok","from":"2026-07-01T00:26:12.900Z","to":"2026-07-01T23:05:01.406Z","count":20,"avg":754,"min":258,"max":1744,"p95":1744}
-{"type":"ok","from":"2026-07-02T00:05:17.264Z","to":"2026-07-02T23:04:52.659Z","count":23,"avg":783,"min":279,"max":2123,"p95":1445}
-{"type":"ok","from":"2026-07-03T00:05:26.235Z","to":"2026-07-03T23:04:54.782Z","count":42,"avg":800,"min":258,"max":2060,"p95":1248}
+{"type":"ok","from":"2026-07-01T00:26:12.900Z","to":"2026-07-01T23:05:01.406Z","count":20,"avg":754,"min":258,"max":1744,"p95":1744,"url":"https://api.anannas.ai/v1/models"}
+{"type":"ok","from":"2026-07-02T00:05:17.264Z","to":"2026-07-02T23:04:52.659Z","count":23,"avg":783,"min":279,"max":2123,"p95":1445,"url":"https://api.anannas.ai/v1/models"}
+{"type":"ok","from":"2026-07-03T00:05:26.235Z","to":"2026-07-03T23:04:54.782Z","count":42,"avg":800,"min":258,"max":2060,"p95":1248,"url":"https://api.anannas.ai/v1/models"}
+{"type":"ok","from":"2026-07-04T00:04:35.963Z","to":"2026-07-04T18:04:58.650Z","count":38,"url":"https://api.anannas.ai/v1/models","avg":736,"min":249,"max":1188,"p95":1106}
+{"type":"fail","from":"2026-07-04T19:04:36.743Z","to":"2026-07-04T23:04:56.565Z","count":10,"url":"https://api.anannas.ai/api/status","status":526,"error":"HTTP 526","avg_latency":null}

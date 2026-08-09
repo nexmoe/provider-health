@@ -29,3 +29,22 @@
 {"type":"fail","from":"2026-07-03T22:05:07.127Z","to":"2026-07-03T22:05:07.127Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
 {"type":"ok","from":"2026-07-03T22:05:23.682Z","to":"2026-07-03T23:04:54.931Z","count":2,"url":"https://llmapi.paratera.com/v1/models","avg":684,"min":563,"max":804,"p95":804}
 {"type":"fail","from":"2026-07-03T23:05:25.577Z","to":"2026-07-03T23:05:25.577Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"fail","from":"2026-07-04T00:05:04.749Z","to":"2026-07-04T00:05:04.749Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T00:05:22.332Z","to":"2026-07-04T02:04:57.723Z","count":4,"url":"https://llmapi.paratera.com/v1/models","avg":558,"min":524,"max":588,"p95":588}
+{"type":"fail","from":"2026-07-04T02:05:34.358Z","to":"2026-07-04T02:05:34.358Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-04T03:04:56.258Z","to":"2026-07-04T03:04:56.258Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":1655,"min":1655,"max":1655,"p95":1655}
+{"type":"fail","from":"2026-07-04T03:21:30.650Z","to":"2026-07-04T04:05:32.404Z","count":3,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T05:05:13.730Z","to":"2026-07-04T05:05:13.730Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":1863,"min":1863,"max":1863,"p95":1863}
+{"type":"fail","from":"2026-07-04T05:05:53.891Z","to":"2026-07-04T05:05:53.891Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T06:04:57.045Z","to":"2026-07-04T09:04:58.687Z","count":7,"url":"https://llmapi.paratera.com/v1/models","avg":1521,"min":545,"max":3795,"p95":3795}
+{"type":"fail","from":"2026-07-04T09:05:29.047Z","to":"2026-07-04T10:05:11.183Z","count":2,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T10:05:31.244Z","to":"2026-07-04T12:05:20.891Z","count":5,"url":"https://llmapi.paratera.com/v1/models","avg":984,"min":686,"max":1196,"p95":1196}
+{"type":"fail","from":"2026-07-04T13:05:07.900Z","to":"2026-07-04T13:05:07.900Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T13:05:25.837Z","to":"2026-07-04T18:05:19.121Z","count":11,"url":"https://llmapi.paratera.com/v1/models","avg":1323,"min":538,"max":4044,"p95":4044}
+{"type":"fail","from":"2026-07-04T19:05:01.746Z","to":"2026-07-04T19:05:01.746Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T19:05:15.418Z","to":"2026-07-04T19:05:15.418Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":553,"min":553,"max":553,"p95":553}
+{"type":"fail","from":"2026-07-04T20:05:07.205Z","to":"2026-07-04T20:05:07.205Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-04T20:05:22.902Z","to":"2026-07-04T22:05:24.842Z","count":4,"url":"https://llmapi.paratera.com/v1/models","avg":1212,"min":563,"max":3111,"p95":3111}
+{"type":"fail","from":"2026-07-04T22:05:26.908Z","to":"2026-07-04T22:05:26.908Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T23:05:18.870Z","to":"2026-07-04T23:05:18.870Z","count":1,"url":"https://llmapi.paratera.com/v1/models","avg":553,"min":553,"max":553,"p95":553}
+{"type":"fail","from":"2026-07-04T23:05:20.252Z","to":"2026-07-04T23:05:20.252Z","count":1,"url":"https://llmapi.paratera.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}

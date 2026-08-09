@@ -1,6 +1,8 @@
-{"url":"https://rinkoai.com/api/status"}
-{"type":"ok","from":"2026-07-01T00:24:24.458Z","to":"2026-07-01T19:03:17.349Z","count":20,"avg":717,"min":451,"max":1122,"p95":1122}
-{"type":"fail","from":"2026-07-01T20:03:56.977Z","to":"2026-07-01T20:03:56.977Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-07-01T21:03:17.235Z","to":"2026-07-01T23:03:17.695Z","count":3,"avg":519,"min":487,"max":573,"p95":573}
-{"type":"ok","from":"2026-07-02T00:03:20.565Z","to":"2026-07-02T23:03:18.028Z","count":23,"avg":682,"min":466,"max":1094,"p95":953}
-{"type":"ok","from":"2026-07-03T00:03:20.009Z","to":"2026-07-03T23:03:19.100Z","count":42,"avg":824,"min":486,"max":1384,"p95":1129}
+{"type":"ok","from":"2026-07-01T00:24:24.458Z","to":"2026-07-01T19:03:17.349Z","count":20,"avg":717,"min":451,"max":1122,"p95":1122,"url":"https://rinkoai.com/api/status"}
+{"type":"fail","from":"2026-07-01T20:03:56.977Z","to":"2026-07-01T20:03:56.977Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://rinkoai.com/api/status"}
+{"type":"ok","from":"2026-07-01T21:03:17.235Z","to":"2026-07-01T23:03:17.695Z","count":3,"avg":519,"min":487,"max":573,"p95":573,"url":"https://rinkoai.com/api/status"}
+{"type":"ok","from":"2026-07-02T00:03:20.565Z","to":"2026-07-02T23:03:18.028Z","count":23,"avg":682,"min":466,"max":1094,"p95":953,"url":"https://rinkoai.com/api/status"}
+{"type":"ok","from":"2026-07-03T00:03:20.009Z","to":"2026-07-03T23:03:19.100Z","count":42,"avg":824,"min":486,"max":1384,"p95":1129,"url":"https://rinkoai.com/api/status"}
+{"type":"ok","from":"2026-07-04T00:03:12.945Z","to":"2026-07-04T12:03:16.328Z","count":25,"url":"https://rinkoai.com/api/status","avg":1149,"min":482,"max":3958,"p95":3854}
+{"type":"ok","from":"2026-07-04T12:03:29.119Z","to":"2026-07-04T12:03:29.119Z","count":1,"url":"https://rinkoai.com/v1/models","avg":2454,"min":2454,"max":2454,"p95":2454}
+{"type":"ok","from":"2026-07-04T13:03:13.160Z","to":"2026-07-04T23:03:18.007Z","count":22,"url":"https://rinkoai.com/api/status","avg":821,"min":448,"max":1495,"p95":1063}

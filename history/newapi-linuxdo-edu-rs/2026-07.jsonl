@@ -1,4 +1,8 @@
-{"url":"https://muyuan.do/api/status"}
-{"type":"ok","from":"2026-07-01T06:49:18.957Z","to":"2026-07-01T23:18:29.294Z","count":18,"avg":1877,"min":1196,"max":2843,"p95":2843}
-{"type":"ok","from":"2026-07-02T00:18:53.080Z","to":"2026-07-02T23:18:45.419Z","count":23,"avg":1906,"min":1499,"max":3768,"p95":2577}
-{"type":"ok","from":"2026-07-03T00:18:53.920Z","to":"2026-07-03T23:18:44.674Z","count":42,"avg":1737,"min":1073,"max":3269,"p95":2620}
+{"type":"ok","from":"2026-07-01T06:49:18.957Z","to":"2026-07-01T23:18:29.294Z","count":18,"avg":1877,"min":1196,"max":2843,"p95":2843,"url":"https://muyuan.do/api/status"}
+{"type":"ok","from":"2026-07-02T00:18:53.080Z","to":"2026-07-02T23:18:45.419Z","count":23,"avg":1906,"min":1499,"max":3768,"p95":2577,"url":"https://muyuan.do/api/status"}
+{"type":"ok","from":"2026-07-03T00:18:53.920Z","to":"2026-07-03T23:18:44.674Z","count":42,"avg":1737,"min":1073,"max":3269,"p95":2620,"url":"https://muyuan.do/api/status"}
+{"type":"ok","from":"2026-07-04T00:15:52.483Z","to":"2026-07-04T11:15:59.528Z","count":22,"url":"https://muyuan.do/api/status","avg":1658,"min":1138,"max":3076,"p95":2895}
+{"type":"fail","from":"2026-07-04T11:19:52.757Z","to":"2026-07-04T11:19:52.757Z","count":1,"url":"https://newapi.linuxdo.edu.rs/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-04T12:15:54.582Z","to":"2026-07-04T12:20:25.923Z","count":2,"url":"https://muyuan.do/api/status","avg":1496,"min":1367,"max":1624,"p95":1624}
+{"type":"fail","from":"2026-07-04T13:16:22.953Z","to":"2026-07-04T13:16:22.953Z","count":1,"url":"https://newapi.linuxdo.edu.rs/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-04T13:20:20.642Z","to":"2026-07-04T23:18:50.130Z","count":21,"url":"https://muyuan.do/api/status","avg":1648,"min":1092,"max":2463,"p95":2245}

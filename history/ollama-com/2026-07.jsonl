@@ -1,4 +1,6 @@
-{"url":"https://ollama.com/v1/models"}
-{"type":"ok","from":"2026-07-01T06:44:30.247Z","to":"2026-07-01T23:13:50.727Z","count":18,"avg":1812,"min":712,"max":2662,"p95":2662}
-{"type":"ok","from":"2026-07-02T00:14:13.743Z","to":"2026-07-02T23:13:53.561Z","count":23,"avg":1844,"min":718,"max":4715,"p95":3804}
-{"type":"ok","from":"2026-07-03T00:14:04.574Z","to":"2026-07-03T23:13:51.313Z","count":42,"avg":1778,"min":1057,"max":3660,"p95":3006}
+{"type":"ok","from":"2026-07-01T06:44:30.247Z","to":"2026-07-01T23:13:50.727Z","count":18,"avg":1812,"min":712,"max":2662,"p95":2662,"url":"https://ollama.com/v1/models"}
+{"type":"ok","from":"2026-07-02T00:14:13.743Z","to":"2026-07-02T23:13:53.561Z","count":23,"avg":1844,"min":718,"max":4715,"p95":3804,"url":"https://ollama.com/v1/models"}
+{"type":"ok","from":"2026-07-03T00:14:04.574Z","to":"2026-07-03T23:13:51.313Z","count":42,"avg":1778,"min":1057,"max":3660,"p95":3006,"url":"https://ollama.com/v1/models"}
+{"type":"ok","from":"2026-07-04T00:11:15.791Z","to":"2026-07-04T13:11:20.169Z","count":27,"url":"https://ollama.com/v1/models","avg":1583,"min":652,"max":3590,"p95":2121}
+{"type":"fail","from":"2026-07-04T13:15:28.095Z","to":"2026-07-04T13:15:28.095Z","count":1,"url":"https://ollama.com/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-04T14:11:42.091Z","to":"2026-07-04T23:14:01.634Z","count":20,"url":"https://ollama.com/v1/models","avg":1528,"min":1058,"max":2302,"p95":2302}
