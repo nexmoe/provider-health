@@ -45,3 +45,5 @@
 {"type":"fail","from":"2026-07-04T00:12:14.416Z","to":"2026-07-04T02:16:24.128Z","count":6,"url":"https://ai.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"fail","from":"2026-07-04T03:12:20.548Z","to":"2026-07-04T03:12:20.548Z","count":1,"url":"https://ai.fengsili.online/health","status":521,"error":"HTTP 521","avg_latency":null}
 {"type":"fail","from":"2026-07-04T03:28:43.153Z","to":"2026-07-04T23:15:00.066Z","count":41,"url":"https://ai.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-05T00:13:15.938Z","to":"2026-07-05T13:16:03.553Z","count":28,"url":"https://ai.fengsili.online/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-05T14:12:16.618Z","to":"2026-07-05T23:13:50.537Z","count":20,"url":"https://ai.fengsili.online/v1/models","avg":1396,"min":580,"max":2831,"p95":2831}

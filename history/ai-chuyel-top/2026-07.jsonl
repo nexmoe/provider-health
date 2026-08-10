@@ -1,7 +1,18 @@
-{"url":"https://ai.chuyel.top/api/status"}
-{"type":"ok","from":"2026-07-01T06:47:33.387Z","to":"2026-07-01T23:16:53.901Z","count":18,"avg":800,"min":266,"max":1638,"p95":1638}
-{"type":"ok","from":"2026-07-02T00:17:18.315Z","to":"2026-07-02T06:18:53.978Z","count":7,"avg":799,"min":400,"max":1146,"p95":1146}
-{"type":"fail","from":"2026-07-02T07:19:39.215Z","to":"2026-07-02T07:19:39.215Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-07-02T08:18:40.250Z","to":"2026-07-02T23:16:53.861Z","count":15,"avg":926,"min":262,"max":2309,"p95":2309}
-{"type":"ok","from":"2026-07-03T00:17:00.060Z","to":"2026-07-03T23:16:52.252Z","count":42,"avg":750,"min":247,"max":2504,"p95":1179}
-{"type":"ok","from":"2026-07-04T00:14:06.030Z","to":"2026-07-04T23:16:58.703Z","count":48,"avg":833,"min":282,"max":1911,"p95":1440}
+{"type":"ok","from":"2026-07-01T06:47:33.387Z","to":"2026-07-01T23:16:53.901Z","count":18,"avg":800,"min":266,"max":1638,"p95":1638,"url":"https://ai.chuyel.top/api/status"}
+{"type":"ok","from":"2026-07-02T00:17:18.315Z","to":"2026-07-02T06:18:53.978Z","count":7,"avg":799,"min":400,"max":1146,"p95":1146,"url":"https://ai.chuyel.top/api/status"}
+{"type":"fail","from":"2026-07-02T07:19:39.215Z","to":"2026-07-02T07:19:39.215Z","count":1,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://ai.chuyel.top/api/status"}
+{"type":"ok","from":"2026-07-02T08:18:40.250Z","to":"2026-07-02T23:16:53.861Z","count":15,"avg":926,"min":262,"max":2309,"p95":2309,"url":"https://ai.chuyel.top/api/status"}
+{"type":"ok","from":"2026-07-03T00:17:00.060Z","to":"2026-07-03T23:16:52.252Z","count":42,"avg":750,"min":247,"max":2504,"p95":1179,"url":"https://ai.chuyel.top/api/status"}
+{"type":"ok","from":"2026-07-04T00:14:06.030Z","to":"2026-07-04T23:16:58.703Z","count":48,"avg":833,"min":282,"max":1911,"p95":1440,"url":"https://ai.chuyel.top/api/status"}
+{"type":"ok","from":"2026-07-05T00:15:07.365Z","to":"2026-07-05T00:15:07.365Z","count":1,"url":"https://ai.chuyel.top/api/status","avg":384,"min":384,"max":384,"p95":384}
+{"type":"fail","from":"2026-07-05T00:19:11.991Z","to":"2026-07-05T00:19:11.991Z","count":1,"url":"https://ai.chuyel.top/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-07-05T01:15:25.680Z","to":"2026-07-05T07:19:09.298Z","count":14,"url":"https://ai.chuyel.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-05T08:15:00.808Z","to":"2026-07-05T08:15:00.808Z","count":1,"url":"https://ai.chuyel.top/status","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-07-05T08:18:45.290Z","to":"2026-07-05T08:18:45.290Z","count":1,"url":"https://ai.chuyel.top/api/status","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-07-05T09:14:58.604Z","to":"2026-07-05T09:14:58.604Z","count":1,"url":"https://ai.chuyel.top/v1/models","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-07-05T09:19:34.643Z","to":"2026-07-05T11:14:23.988Z","count":4,"url":"https://ai.chuyel.top/api/status","status":525,"error":"HTTP 525","avg_latency":null}
+{"type":"fail","from":"2026-07-05T11:19:41.534Z","to":"2026-07-05T12:14:41.772Z","count":2,"url":"https://ai.chuyel.top/api/status","status":502,"error":"HTTP 502","avg_latency":null}
+{"type":"fail","from":"2026-07-05T12:19:28.097Z","to":"2026-07-05T12:19:28.097Z","count":1,"url":"https://ai.chuyel.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-05T13:14:19.136Z","to":"2026-07-05T14:18:57.857Z","count":4,"url":"https://ai.chuyel.top/api/status","avg":1055,"min":700,"max":1211,"p95":1211}
+{"type":"fail","from":"2026-07-05T15:15:58.158Z","to":"2026-07-05T16:19:24.473Z","count":4,"url":"https://ai.chuyel.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-05T17:14:19.618Z","to":"2026-07-05T23:16:11.920Z","count":14,"url":"https://ai.chuyel.top/api/status","avg":803,"min":402,"max":1437,"p95":1437}

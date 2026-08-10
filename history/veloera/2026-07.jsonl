@@ -46,3 +46,14 @@
 {"type":"ok","from":"2026-07-04T13:04:18.433Z","to":"2026-07-04T13:04:18.433Z","count":1,"url":"https://api.voct.dev/health","avg":1132,"min":1132,"max":1132,"p95":1132}
 {"type":"ok","from":"2026-07-04T14:03:59.087Z","to":"2026-07-04T14:03:59.087Z","count":1,"url":"https://api.voct.dev/api/status","avg":306,"min":306,"max":306,"p95":306}
 {"type":"fail","from":"2026-07-04T14:04:32.195Z","to":"2026-07-04T23:04:12.383Z","count":19,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-07-05T00:04:11.477Z","to":"2026-07-05T05:04:22.277Z","count":11,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-05T05:04:40.866Z","to":"2026-07-05T05:04:40.866Z","count":1,"url":"https://api.voct.dev/v1/models","avg":1336,"min":1336,"max":1336,"p95":1336}
+{"type":"ok","from":"2026-07-05T06:04:05.472Z","to":"2026-07-05T06:04:05.472Z","count":1,"url":"https://api.voct.dev/health","avg":164,"min":164,"max":164,"p95":164}
+{"type":"ok","from":"2026-07-05T06:04:26.445Z","to":"2026-07-05T06:04:26.445Z","count":1,"url":"https://api.voct.dev/status","avg":1992,"min":1992,"max":1992,"p95":1992}
+{"type":"fail","from":"2026-07-05T07:04:10.335Z","to":"2026-07-05T07:04:10.335Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-05T07:04:17.512Z","to":"2026-07-05T07:04:17.512Z","count":1,"url":"https://api.voct.dev/v1/models","avg":2224,"min":2224,"max":2224,"p95":2224}
+{"type":"fail","from":"2026-07-05T08:04:06.719Z","to":"2026-07-05T08:04:29.939Z","count":2,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-05T09:04:02.069Z","to":"2026-07-05T09:04:02.069Z","count":1,"url":"https://api.voct.dev/v1/models","avg":165,"min":165,"max":165,"p95":165}
+{"type":"fail","from":"2026-07-05T09:04:37.968Z","to":"2026-07-05T11:04:05.045Z","count":4,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-05T11:04:32.075Z","to":"2026-07-05T11:04:32.075Z","count":1,"url":"https://api.voct.dev/health","avg":804,"min":804,"max":804,"p95":804}
+{"type":"fail","from":"2026-07-05T12:04:04.010Z","to":"2026-07-05T23:04:11.981Z","count":24,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}

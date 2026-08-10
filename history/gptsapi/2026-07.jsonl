@@ -1,5 +1,7 @@
-{"url":"https://api.gptsapi.net/v1/models"}
-{"type":"ok","from":"2026-07-01T00:22:54.631Z","to":"2026-07-01T23:01:48.108Z","count":87,"avg":1160,"min":396,"max":2712,"p95":2057}
-{"type":"ok","from":"2026-07-02T00:01:49.874Z","to":"2026-07-02T23:01:48.503Z","count":24,"avg":985,"min":487,"max":1668,"p95":1584}
-{"type":"ok","from":"2026-07-03T00:01:51.264Z","to":"2026-07-03T23:01:49.502Z","count":42,"avg":1148,"min":547,"max":2885,"p95":1685}
-{"type":"ok","from":"2026-07-04T00:01:47.714Z","to":"2026-07-04T23:01:49.572Z","count":48,"avg":1124,"min":539,"max":2079,"p95":1936}
+{"type":"ok","from":"2026-07-01T00:22:54.631Z","to":"2026-07-01T23:01:48.108Z","count":87,"avg":1160,"min":396,"max":2712,"p95":2057,"url":"https://api.gptsapi.net/v1/models"}
+{"type":"ok","from":"2026-07-02T00:01:49.874Z","to":"2026-07-02T23:01:48.503Z","count":24,"avg":985,"min":487,"max":1668,"p95":1584,"url":"https://api.gptsapi.net/v1/models"}
+{"type":"ok","from":"2026-07-03T00:01:51.264Z","to":"2026-07-03T23:01:49.502Z","count":42,"avg":1148,"min":547,"max":2885,"p95":1685,"url":"https://api.gptsapi.net/v1/models"}
+{"type":"ok","from":"2026-07-04T00:01:47.714Z","to":"2026-07-04T23:01:49.572Z","count":48,"avg":1124,"min":539,"max":2079,"p95":1936,"url":"https://api.gptsapi.net/v1/models"}
+{"type":"ok","from":"2026-07-05T00:01:46.655Z","to":"2026-07-05T14:01:48.602Z","count":29,"url":"https://api.gptsapi.net/v1/models","avg":1085,"min":459,"max":1909,"p95":1522}
+{"type":"fail","from":"2026-07-05T14:01:53.189Z","to":"2026-07-05T14:01:53.189Z","count":1,"url":"https://api.gptsapi.net/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-05T15:01:47.214Z","to":"2026-07-05T23:01:48.875Z","count":18,"url":"https://api.gptsapi.net/v1/models","avg":1103,"min":791,"max":1921,"p95":1921}

@@ -1,7 +1,9 @@
-{"url":"https://windhub.cc/api/status"}
-{"type":"ok","from":"2026-07-01T06:48:53.627Z","to":"2026-07-01T23:18:05.325Z","count":18,"avg":1460,"min":853,"max":2614,"p95":2614}
-{"type":"ok","from":"2026-07-02T00:18:28.528Z","to":"2026-07-02T23:18:02.598Z","count":23,"avg":1424,"min":756,"max":4556,"p95":2690}
-{"type":"ok","from":"2026-07-03T00:18:11.732Z","to":"2026-07-03T06:14:55.618Z","count":8,"avg":1314,"min":640,"max":2210,"p95":2210}
-{"type":"fail","from":"2026-07-03T06:19:26.595Z","to":"2026-07-03T06:19:26.595Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null}
-{"type":"ok","from":"2026-07-03T07:15:21.473Z","to":"2026-07-03T23:18:00.983Z","count":33,"avg":908,"min":371,"max":1869,"p95":1650}
-{"type":"ok","from":"2026-07-04T00:15:10.460Z","to":"2026-07-04T23:18:07.288Z","count":48,"avg":875,"min":420,"max":1830,"p95":1678}
+{"type":"ok","from":"2026-07-01T06:48:53.627Z","to":"2026-07-01T23:18:05.325Z","count":18,"avg":1460,"min":853,"max":2614,"p95":2614,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-07-02T00:18:28.528Z","to":"2026-07-02T23:18:02.598Z","count":23,"avg":1424,"min":756,"max":4556,"p95":2690,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-07-03T00:18:11.732Z","to":"2026-07-03T06:14:55.618Z","count":8,"avg":1314,"min":640,"max":2210,"p95":2210,"url":"https://windhub.cc/api/status"}
+{"type":"fail","from":"2026-07-03T06:19:26.595Z","to":"2026-07-03T06:19:26.595Z","count":1,"status":502,"error":"HTTP 502","avg_latency":null,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-07-03T07:15:21.473Z","to":"2026-07-03T23:18:00.983Z","count":33,"avg":908,"min":371,"max":1869,"p95":1650,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-07-04T00:15:10.460Z","to":"2026-07-04T23:18:07.288Z","count":48,"avg":875,"min":420,"max":1830,"p95":1678,"url":"https://windhub.cc/api/status"}
+{"type":"ok","from":"2026-07-05T00:16:13.339Z","to":"2026-07-05T07:19:37.813Z","count":16,"url":"https://windhub.cc/api/status","avg":840,"min":416,"max":1907,"p95":1907}
+{"type":"ok","from":"2026-07-05T08:15:32.064Z","to":"2026-07-05T08:15:32.064Z","count":1,"url":"https://windhub.cc/v1/models","avg":788,"min":788,"max":788,"p95":788}
+{"type":"ok","from":"2026-07-05T08:19:11.937Z","to":"2026-07-05T23:17:19.186Z","count":31,"url":"https://windhub.cc/api/status","avg":921,"min":435,"max":2116,"p95":1957}
