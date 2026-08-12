@@ -26,3 +26,10 @@
 {"type":"ok","from":"2026-07-06T10:16:21.018Z","to":"2026-07-06T14:23:06.699Z","count":10,"url":"https://muyuan.do/api/status","avg":1579,"min":1247,"max":2320,"p95":2320}
 {"type":"ok","from":"2026-07-06T15:16:17.238Z","to":"2026-07-06T15:16:17.238Z","count":1,"url":"https://muyuan.do/v1/models","avg":194,"min":194,"max":194,"p95":194}
 {"type":"ok","from":"2026-07-06T15:21:54.580Z","to":"2026-07-06T23:18:44.817Z","count":17,"url":"https://muyuan.do/api/status","avg":1759,"min":1318,"max":2457,"p95":2457}
+{"type":"ok","from":"2026-07-07T00:16:08.858Z","to":"2026-07-07T01:19:09.497Z","count":4,"url":"https://muyuan.do/api/status","avg":1683,"min":1294,"max":2304,"p95":2304}
+{"type":"ok","from":"2026-07-07T02:16:05.323Z","to":"2026-07-07T02:16:05.323Z","count":1,"url":"https://muyuan.do/health","avg":169,"min":169,"max":169,"p95":169}
+{"type":"fail","from":"2026-07-07T02:20:26.134Z","to":"2026-07-07T02:20:26.134Z","count":1,"url":"https://muyuan.do/api/status","status":503,"error":"HTTP 503","avg_latency":null}
+{"type":"ok","from":"2026-07-07T03:16:22.610Z","to":"2026-07-07T03:19:48.051Z","count":2,"url":"https://muyuan.do/v1/models","avg":503,"min":472,"max":533,"p95":533}
+{"type":"ok","from":"2026-07-07T04:16:13.053Z","to":"2026-07-07T04:16:13.053Z","count":1,"url":"https://muyuan.do/api/status","avg":1335,"min":1335,"max":1335,"p95":1335}
+{"type":"fail","from":"2026-07-07T04:20:47.000Z","to":"2026-07-07T04:20:47.000Z","count":1,"url":"https://muyuan.do/api/status","status":404,"error":"HTTP 404","avg_latency":null}
+{"type":"ok","from":"2026-07-07T05:16:40.254Z","to":"2026-07-07T23:16:04.605Z","count":19,"url":"https://muyuan.do/api/status","avg":1463,"min":1115,"max":2312,"p95":2312}

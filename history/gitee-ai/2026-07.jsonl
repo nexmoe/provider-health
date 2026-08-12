@@ -143,3 +143,12 @@
 {"type":"ok","from":"2026-07-06T20:04:35.591Z","to":"2026-07-06T21:04:35.214Z","count":3,"url":"https://ai.gitee.com/api/status","avg":2012,"min":1378,"max":3251,"p95":3251}
 {"type":"ok","from":"2026-07-06T21:05:00.424Z","to":"2026-07-06T21:05:00.424Z","count":1,"url":"https://ai.gitee.com/v1/models","avg":2107,"min":2107,"max":2107,"p95":2107}
 {"type":"ok","from":"2026-07-06T22:04:33.107Z","to":"2026-07-06T23:04:48.500Z","count":4,"url":"https://ai.gitee.com/api/status","avg":2995,"min":1525,"max":4531,"p95":4531}
+{"type":"ok","from":"2026-07-07T00:04:35.831Z","to":"2026-07-07T00:04:35.831Z","count":1,"url":"https://ai.gitee.com/api/status","avg":1583,"min":1583,"max":1583,"p95":1583}
+{"type":"fail","from":"2026-07-07T00:05:16.521Z","to":"2026-07-07T00:05:16.521Z","count":1,"url":"https://ai.gitee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-07T01:04:35.424Z","to":"2026-07-07T01:04:35.424Z","count":1,"url":"https://ai.gitee.com/api/status","avg":1560,"min":1560,"max":1560,"p95":1560}
+{"type":"fail","from":"2026-07-07T01:05:24.017Z","to":"2026-07-07T01:05:24.017Z","count":1,"url":"https://ai.gitee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-07T02:04:34.528Z","to":"2026-07-07T02:04:34.528Z","count":1,"url":"https://ai.gitee.com/api/status","avg":1611,"min":1611,"max":1611,"p95":1611}
+{"type":"ok","from":"2026-07-07T02:05:20.776Z","to":"2026-07-07T02:05:20.776Z","count":1,"url":"https://ai.gitee.com/v1/models","avg":2415,"min":2415,"max":2415,"p95":2415}
+{"type":"ok","from":"2026-07-07T03:04:34.576Z","to":"2026-07-07T04:04:36.438Z","count":3,"url":"https://ai.gitee.com/api/status","avg":2376,"min":1557,"max":3637,"p95":3637}
+{"type":"fail","from":"2026-07-07T04:05:13.785Z","to":"2026-07-07T04:05:13.785Z","count":1,"url":"https://ai.gitee.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-07T05:04:53.816Z","to":"2026-07-07T23:04:34.475Z","count":19,"url":"https://ai.gitee.com/api/status","avg":2469,"min":1508,"max":3722,"p95":3722}

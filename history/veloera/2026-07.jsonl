@@ -78,3 +78,22 @@
 {"type":"ok","from":"2026-07-06T21:04:17.085Z","to":"2026-07-06T21:04:17.085Z","count":1,"url":"https://api.voct.dev/status","avg":537,"min":537,"max":537,"p95":537}
 {"type":"ok","from":"2026-07-06T22:03:57.847Z","to":"2026-07-06T22:03:57.847Z","count":1,"url":"https://api.voct.dev/v1/models","avg":374,"min":374,"max":374,"p95":374}
 {"type":"fail","from":"2026-07-06T22:04:27.779Z","to":"2026-07-06T23:04:14.075Z","count":3,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-07T00:04:02.074Z","to":"2026-07-07T00:04:02.074Z","count":1,"url":"https://api.voct.dev/api/status","avg":420,"min":420,"max":420,"p95":420}
+{"type":"fail","from":"2026-07-07T00:04:19.830Z","to":"2026-07-07T01:04:11.804Z","count":2,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-07T01:04:20.919Z","to":"2026-07-07T01:04:20.919Z","count":1,"url":"https://api.voct.dev/v1/models","avg":576,"min":576,"max":576,"p95":576}
+{"type":"ok","from":"2026-07-07T02:04:08.667Z","to":"2026-07-07T02:04:08.667Z","count":1,"url":"https://api.voct.dev/status","avg":638,"min":638,"max":638,"p95":638}
+{"type":"fail","from":"2026-07-07T02:04:19.716Z","to":"2026-07-07T02:04:19.716Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-07T03:04:04.087Z","to":"2026-07-07T03:04:04.087Z","count":1,"url":"https://api.voct.dev/health","avg":1194,"min":1194,"max":1194,"p95":1194}
+{"type":"ok","from":"2026-07-07T03:04:15.921Z","to":"2026-07-07T03:04:15.921Z","count":1,"url":"https://api.voct.dev/api/status","avg":3844,"min":3844,"max":3844,"p95":3844}
+{"type":"fail","from":"2026-07-07T04:04:08.527Z","to":"2026-07-07T04:04:08.527Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"fail","from":"2026-07-07T04:04:34.079Z","to":"2026-07-07T04:04:34.079Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-07T05:04:13.807Z","to":"2026-07-07T06:04:00.893Z","count":2,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-07T07:04:06.206Z","to":"2026-07-07T07:04:06.206Z","count":1,"url":"https://api.voct.dev/api/status","avg":604,"min":604,"max":604,"p95":604}
+{"type":"fail","from":"2026-07-07T08:04:05.012Z","to":"2026-07-07T08:04:05.012Z","count":1,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-07T09:04:00.585Z","to":"2026-07-07T09:04:00.585Z","count":1,"url":"https://api.voct.dev/v1/models","avg":155,"min":155,"max":155,"p95":155}
+{"type":"fail","from":"2026-07-07T10:03:59.790Z","to":"2026-07-07T11:04:06.308Z","count":2,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}
+{"type":"ok","from":"2026-07-07T12:03:57.880Z","to":"2026-07-07T12:03:57.880Z","count":1,"url":"https://api.voct.dev/api/status","avg":348,"min":348,"max":348,"p95":348}
+{"type":"ok","from":"2026-07-07T13:04:03.202Z","to":"2026-07-07T13:04:03.202Z","count":1,"url":"https://api.voct.dev/v1/models","avg":159,"min":159,"max":159,"p95":159}
+{"type":"ok","from":"2026-07-07T14:04:04.163Z","to":"2026-07-07T14:04:04.163Z","count":1,"url":"https://api.voct.dev/health","avg":216,"min":216,"max":216,"p95":216}
+{"type":"ok","from":"2026-07-07T15:04:02.464Z","to":"2026-07-07T16:04:04.791Z","count":2,"url":"https://api.voct.dev/status","avg":1324,"min":166,"max":2481,"p95":2481}
+{"type":"fail","from":"2026-07-07T17:03:57.892Z","to":"2026-07-07T23:04:01.051Z","count":7,"url":"https://veloera.yixya.top/api/status","status":null,"error":"fetch failed","avg_latency":null}

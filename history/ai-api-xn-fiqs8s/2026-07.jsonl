@@ -1,9 +1,11 @@
-{"url":"https://ai.api.xn--fiqs8s/api/status"}
-{"type":"ok","from":"2026-07-01T00:00:39.586Z","to":"2026-07-01T23:00:02.628Z","count":258,"avg":786,"min":26,"max":3176,"p95":1738}
-{"type":"ok","from":"2026-07-02T00:00:03.827Z","to":"2026-07-02T23:00:03.519Z","count":25,"avg":688,"min":191,"max":1129,"p95":1050}
-{"type":"ok","from":"2026-07-03T00:00:02.993Z","to":"2026-07-03T10:00:04.032Z","count":18,"avg":1181,"min":197,"max":2535,"p95":2535}
-{"type":"fail","from":"2026-07-03T10:17:03.673Z","to":"2026-07-03T10:21:15.919Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":null}
-{"type":"ok","from":"2026-07-03T11:00:03.605Z","to":"2026-07-03T23:00:03.732Z","count":26,"avg":1138,"min":298,"max":2262,"p95":1904}
-{"type":"ok","from":"2026-07-04T00:00:03.372Z","to":"2026-07-04T23:00:03.765Z","count":48,"avg":1298,"min":205,"max":2661,"p95":2530}
-{"type":"ok","from":"2026-07-05T00:00:02.805Z","to":"2026-07-05T23:00:03.333Z","count":48,"avg":1364,"min":443,"max":3827,"p95":2460}
-{"type":"ok","from":"2026-07-06T00:00:02.985Z","to":"2026-07-06T23:00:03.084Z","count":48,"avg":1212,"min":169,"max":3179,"p95":2458}
+{"type":"ok","from":"2026-07-01T00:00:39.586Z","to":"2026-07-01T23:00:02.628Z","count":258,"avg":786,"min":26,"max":3176,"p95":1738,"url":"https://ai.api.xn--fiqs8s/api/status"}
+{"type":"ok","from":"2026-07-02T00:00:03.827Z","to":"2026-07-02T23:00:03.519Z","count":25,"avg":688,"min":191,"max":1129,"p95":1050,"url":"https://ai.api.xn--fiqs8s/api/status"}
+{"type":"ok","from":"2026-07-03T00:00:02.993Z","to":"2026-07-03T10:00:04.032Z","count":18,"avg":1181,"min":197,"max":2535,"p95":2535,"url":"https://ai.api.xn--fiqs8s/api/status"}
+{"type":"fail","from":"2026-07-03T10:17:03.673Z","to":"2026-07-03T10:21:15.919Z","count":2,"status":null,"error":"Healthcheck timeout","avg_latency":null,"url":"https://ai.api.xn--fiqs8s/api/status"}
+{"type":"ok","from":"2026-07-03T11:00:03.605Z","to":"2026-07-03T23:00:03.732Z","count":26,"avg":1138,"min":298,"max":2262,"p95":1904,"url":"https://ai.api.xn--fiqs8s/api/status"}
+{"type":"ok","from":"2026-07-04T00:00:03.372Z","to":"2026-07-04T23:00:03.765Z","count":48,"avg":1298,"min":205,"max":2661,"p95":2530,"url":"https://ai.api.xn--fiqs8s/api/status"}
+{"type":"ok","from":"2026-07-05T00:00:02.805Z","to":"2026-07-05T23:00:03.333Z","count":48,"avg":1364,"min":443,"max":3827,"p95":2460,"url":"https://ai.api.xn--fiqs8s/api/status"}
+{"type":"ok","from":"2026-07-06T00:00:02.985Z","to":"2026-07-06T23:00:03.084Z","count":48,"avg":1212,"min":169,"max":3179,"p95":2458,"url":"https://ai.api.xn--fiqs8s/api/status"}
+{"type":"ok","from":"2026-07-07T00:00:03.107Z","to":"2026-07-07T02:00:04.162Z","count":5,"url":"https://ai.api.xn--fiqs8s/api/status","avg":1680,"min":918,"max":2641,"p95":2641}
+{"type":"ok","from":"2026-07-07T02:00:15.482Z","to":"2026-07-07T02:00:15.482Z","count":1,"url":"https://ai.api.xn--fiqs8s/health","avg":3345,"min":3345,"max":3345,"p95":3345}
+{"type":"ok","from":"2026-07-07T03:00:02.667Z","to":"2026-07-07T23:00:03.129Z","count":24,"url":"https://ai.api.xn--fiqs8s/api/status","avg":1549,"min":289,"max":3158,"p95":2512}

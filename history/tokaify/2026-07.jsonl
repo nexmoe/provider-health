@@ -1,7 +1,9 @@
-{"url":"https://api.tokaify.com/v1/models"}
-{"type":"ok","from":"2026-07-01T06:51:44.724Z","to":"2026-07-01T23:20:50.437Z","count":18,"avg":492,"min":112,"max":834,"p95":834}
-{"type":"ok","from":"2026-07-02T00:21:06.827Z","to":"2026-07-02T23:20:42.353Z","count":23,"avg":511,"min":118,"max":1191,"p95":808}
-{"type":"ok","from":"2026-07-03T00:20:43.664Z","to":"2026-07-03T23:20:52.445Z","count":42,"avg":638,"min":117,"max":1232,"p95":876}
-{"type":"ok","from":"2026-07-04T00:17:26.529Z","to":"2026-07-04T23:20:37.444Z","count":47,"avg":653,"min":162,"max":2058,"p95":862}
-{"type":"ok","from":"2026-07-05T00:18:38.230Z","to":"2026-07-05T23:19:56.755Z","count":48,"avg":581,"min":122,"max":841,"p95":817}
-{"type":"ok","from":"2026-07-06T00:17:26.846Z","to":"2026-07-06T23:20:06.464Z","count":48,"avg":594,"min":125,"max":845,"p95":794}
+{"type":"ok","from":"2026-07-01T06:51:44.724Z","to":"2026-07-01T23:20:50.437Z","count":18,"avg":492,"min":112,"max":834,"p95":834,"url":"https://api.tokaify.com/v1/models"}
+{"type":"ok","from":"2026-07-02T00:21:06.827Z","to":"2026-07-02T23:20:42.353Z","count":23,"avg":511,"min":118,"max":1191,"p95":808,"url":"https://api.tokaify.com/v1/models"}
+{"type":"ok","from":"2026-07-03T00:20:43.664Z","to":"2026-07-03T23:20:52.445Z","count":42,"avg":638,"min":117,"max":1232,"p95":876,"url":"https://api.tokaify.com/v1/models"}
+{"type":"ok","from":"2026-07-04T00:17:26.529Z","to":"2026-07-04T23:20:37.444Z","count":47,"avg":653,"min":162,"max":2058,"p95":862,"url":"https://api.tokaify.com/v1/models"}
+{"type":"ok","from":"2026-07-05T00:18:38.230Z","to":"2026-07-05T23:19:56.755Z","count":48,"avg":581,"min":122,"max":841,"p95":817,"url":"https://api.tokaify.com/v1/models"}
+{"type":"ok","from":"2026-07-06T00:17:26.846Z","to":"2026-07-06T23:20:06.464Z","count":48,"avg":594,"min":125,"max":845,"p95":794,"url":"https://api.tokaify.com/v1/models"}
+{"type":"ok","from":"2026-07-07T00:17:33.206Z","to":"2026-07-07T06:18:33.313Z","count":12,"url":"https://api.tokaify.com/v1/models","avg":816,"min":226,"max":2667,"p95":2667}
+{"type":"fail","from":"2026-07-07T07:18:09.352Z","to":"2026-07-07T07:18:09.352Z","count":1,"url":"https://api.tokaify.com/api/status","status":403,"error":"HTTP 403","avg_latency":null}
+{"type":"ok","from":"2026-07-07T08:17:38.853Z","to":"2026-07-07T23:17:21.648Z","count":16,"url":"https://api.tokaify.com/v1/models","avg":690,"min":529,"max":844,"p95":844}

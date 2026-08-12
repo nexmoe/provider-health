@@ -66,3 +66,6 @@
 {"type":"ok","from":"2026-07-06T18:03:51.235Z","to":"2026-07-06T19:03:50.994Z","count":3,"url":"https://www.dmxapi.cn/api/status","avg":1702,"min":454,"max":4142,"p95":4142}
 {"type":"ok","from":"2026-07-06T19:04:04.827Z","to":"2026-07-06T19:04:04.827Z","count":1,"url":"https://www.dmxapi.cn/v1/models","avg":1539,"min":1539,"max":1539,"p95":1539}
 {"type":"ok","from":"2026-07-06T20:03:51.613Z","to":"2026-07-06T23:03:58.338Z","count":8,"url":"https://www.dmxapi.cn/api/status","avg":847,"min":491,"max":1666,"p95":1666}
+{"type":"ok","from":"2026-07-07T00:03:51.705Z","to":"2026-07-07T05:04:08.270Z","count":11,"url":"https://www.dmxapi.cn/api/status","avg":1477,"min":513,"max":3733,"p95":3733}
+{"type":"fail","from":"2026-07-07T05:04:32.312Z","to":"2026-07-07T05:04:32.312Z","count":1,"url":"https://www.dmxapi.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-07T06:03:53.629Z","to":"2026-07-07T23:03:51.236Z","count":18,"url":"https://www.dmxapi.cn/api/status","avg":960,"min":462,"max":3162,"p95":3162}
