@@ -1,8 +1,11 @@
-{"url":"https://api.etc.moe/status/"}
-{"type":"ok","from":"2026-07-01T06:49:21.243Z","to":"2026-07-01T23:18:32.318Z","count":18,"avg":470,"min":430,"max":787,"p95":787}
-{"type":"ok","from":"2026-07-02T00:18:56.052Z","to":"2026-07-02T23:18:48.494Z","count":23,"avg":446,"min":427,"max":496,"p95":471}
-{"type":"ok","from":"2026-07-03T00:18:57.277Z","to":"2026-07-03T23:18:47.586Z","count":42,"avg":448,"min":359,"max":821,"p95":702}
-{"type":"ok","from":"2026-07-04T00:15:55.162Z","to":"2026-07-04T23:18:52.748Z","count":47,"avg":442,"min":378,"max":850,"p95":691}
-{"type":"ok","from":"2026-07-05T00:16:56.472Z","to":"2026-07-05T23:18:04.039Z","count":48,"avg":451,"min":362,"max":818,"p95":808}
-{"type":"ok","from":"2026-07-06T00:15:50.437Z","to":"2026-07-06T23:18:47.113Z","count":48,"avg":428,"min":374,"max":721,"p95":465}
-{"type":"ok","from":"2026-07-07T00:16:10.500Z","to":"2026-07-07T23:16:06.415Z","count":29,"avg":459,"min":376,"max":884,"p95":786}
+{"type":"ok","from":"2026-07-01T06:49:21.243Z","to":"2026-07-01T23:18:32.318Z","count":18,"avg":470,"min":430,"max":787,"p95":787,"url":"https://api.etc.moe/status/"}
+{"type":"ok","from":"2026-07-02T00:18:56.052Z","to":"2026-07-02T23:18:48.494Z","count":23,"avg":446,"min":427,"max":496,"p95":471,"url":"https://api.etc.moe/status/"}
+{"type":"ok","from":"2026-07-03T00:18:57.277Z","to":"2026-07-03T23:18:47.586Z","count":42,"avg":448,"min":359,"max":821,"p95":702,"url":"https://api.etc.moe/status/"}
+{"type":"ok","from":"2026-07-04T00:15:55.162Z","to":"2026-07-04T23:18:52.748Z","count":47,"avg":442,"min":378,"max":850,"p95":691,"url":"https://api.etc.moe/status/"}
+{"type":"ok","from":"2026-07-05T00:16:56.472Z","to":"2026-07-05T23:18:04.039Z","count":48,"avg":451,"min":362,"max":818,"p95":808,"url":"https://api.etc.moe/status/"}
+{"type":"ok","from":"2026-07-06T00:15:50.437Z","to":"2026-07-06T23:18:47.113Z","count":48,"avg":428,"min":374,"max":721,"p95":465,"url":"https://api.etc.moe/status/"}
+{"type":"ok","from":"2026-07-07T00:16:10.500Z","to":"2026-07-07T23:16:06.415Z","count":29,"avg":459,"min":376,"max":884,"p95":786,"url":"https://api.etc.moe/status/"}
+{"type":"ok","from":"2026-07-08T00:16:04.765Z","to":"2026-07-08T03:15:43.795Z","count":4,"url":"https://api.etc.moe/status/","avg":404,"min":386,"max":417,"p95":417}
+{"type":"fail","from":"2026-07-08T04:16:18.052Z","to":"2026-07-08T05:29:25.370Z","count":2,"url":"https://api.etc.moe/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-08T06:16:20.665Z","to":"2026-07-08T07:16:07.770Z","count":2,"url":"https://api.etc.moe/api/status","status":523,"error":"HTTP 523","avg_latency":null}
+{"type":"ok","from":"2026-07-08T08:16:25.090Z","to":"2026-07-08T23:16:01.742Z","count":16,"url":"https://api.etc.moe/status/","avg":789,"min":371,"max":4475,"p95":4475}

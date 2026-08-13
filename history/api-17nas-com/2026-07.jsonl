@@ -9,3 +9,6 @@
 {"type":"ok","from":"2026-07-06T12:24:12.149Z","to":"2026-07-06T12:24:12.149Z","count":1,"url":"https://api-pic.17nas.com/health","avg":4725,"min":4725,"max":4725,"p95":4725}
 {"type":"ok","from":"2026-07-06T13:17:36.627Z","to":"2026-07-06T23:20:06.433Z","count":22,"url":"https://api.17nas.com/api/status","avg":973,"min":793,"max":1267,"p95":1161}
 {"type":"ok","from":"2026-07-07T00:17:32.543Z","to":"2026-07-07T23:17:21.073Z","count":29,"url":"https://api.17nas.com/api/status","avg":1086,"min":808,"max":3698,"p95":1533}
+{"type":"ok","from":"2026-07-08T00:17:27.632Z","to":"2026-07-08T15:17:59.346Z","count":16,"url":"https://api.17nas.com/api/status","avg":873,"min":705,"max":1155,"p95":1155}
+{"type":"fail","from":"2026-07-08T16:20:11.531Z","to":"2026-07-08T16:20:11.531Z","count":1,"url":"https://api.17nas.com/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-08T17:18:50.233Z","to":"2026-07-08T23:17:20.188Z","count":7,"url":"https://api.17nas.com/api/status","avg":857,"min":768,"max":971,"p95":971}

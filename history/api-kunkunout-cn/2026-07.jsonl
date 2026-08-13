@@ -149,3 +149,8 @@
 {"type":"ok","from":"2026-07-07T08:15:20.531Z","to":"2026-07-07T08:15:20.531Z","count":1,"url":"https://api.kunkunout.qzz.io/api/status","avg":2735,"min":2735,"max":2735,"p95":2735}
 {"type":"fail","from":"2026-07-07T09:15:31.306Z","to":"2026-07-07T09:15:31.306Z","count":1,"url":"https://api.kunkunout.cn/api/status","status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"ok","from":"2026-07-07T10:16:04.909Z","to":"2026-07-07T23:15:21.322Z","count":14,"url":"https://api.kunkunout.qzz.io/api/status","avg":3706,"min":2504,"max":4779,"p95":4779}
+{"type":"ok","from":"2026-07-08T00:15:20.374Z","to":"2026-07-08T11:15:49.334Z","count":12,"url":"https://api.kunkunout.qzz.io/api/status","avg":3857,"min":3031,"max":4295,"p95":4295}
+{"type":"ok","from":"2026-07-08T12:21:47.868Z","to":"2026-07-08T14:22:56.664Z","count":3,"url":"https://api.kunkunout.qzz.io/v1/models","avg":758,"min":604,"max":1030,"p95":1030}
+{"type":"ok","from":"2026-07-08T15:15:39.182Z","to":"2026-07-08T16:16:10.123Z","count":2,"url":"https://api.kunkunout.qzz.io/api/status","avg":4334,"min":4320,"max":4348,"p95":4348}
+{"type":"fail","from":"2026-07-08T17:16:14.820Z","to":"2026-07-08T21:15:40.272Z","count":5,"url":"https://api.kunkunout.qzz.io/api/status","status":530,"error":"HTTP 530","avg_latency":null}
+{"type":"ok","from":"2026-07-08T22:15:07.362Z","to":"2026-07-08T23:15:16.631Z","count":2,"url":"https://api.kunkunout.qzz.io/api/status","avg":3051,"min":2810,"max":3292,"p95":3292}

@@ -7,3 +7,6 @@
 {"type":"fail","from":"2026-07-06T00:09:05.016Z","to":"2026-07-06T05:12:51.093Z","count":12,"status":502,"error":"HTTP 502","avg_latency":null}
 {"type":"fail","from":"2026-07-06T06:09:28.494Z","to":"2026-07-06T23:11:51.318Z","count":36,"status":null,"error":"Healthcheck timeout","avg_latency":null}
 {"type":"fail","from":"2026-07-07T00:09:25.584Z","to":"2026-07-07T23:09:26.348Z","count":29,"status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"fail","from":"2026-07-08T00:09:27.423Z","to":"2026-07-08T02:09:27.126Z","count":3,"status":null,"error":"Healthcheck timeout","avg_latency":null}
+{"type":"ok","from":"2026-07-08T03:08:46.388Z","to":"2026-07-08T03:08:46.388Z","count":1,"avg":74,"min":74,"max":74,"p95":74}
+{"type":"fail","from":"2026-07-08T04:09:25.543Z","to":"2026-07-08T23:09:25.644Z","count":21,"status":null,"error":"Healthcheck timeout","avg_latency":null}
